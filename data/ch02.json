@@ -1,0 +1,1627 @@
+{
+ "chapter": 2,
+ "title": "CVS - History & Symptomatology",
+ "pageRange": "16-30",
+ "questions": [
+  {
+   "id": "MED-C2-01",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "recall",
+   "q": "The book lists five cardinal symptoms in cardiovascular history — breathlessness, chest pain, palpitations, syncope and pedal oedema — and adds which specific modification by Dr. Hamide?",
+   "opts": [
+    "Replace syncope with haemoptysis as the fifth cardinal symptom",
+    "Replace pedal oedema with cough as the fifth cardinal symptom",
+    "Replace palpitations with easy fatigability as the fifth cardinal symptom",
+    "Add right hypochondrial pain as a sixth cardinal symptom"
+   ],
+   "ans": 1,
+   "exp": "The five cardinal symptoms are breathlessness, chest pain, palpitations, syncope and pedal oedema; Dr. Hamide's teaching replaces pedal oedema with cough in that cardinal five. (Book p16)"
+  },
+  {
+   "id": "MED-C2-02",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "fillup",
+   "q": "Dr. Hamide defines dyspnoea as an abnormal awareness of one's own ____.",
+   "opts": [
+    "Respiration",
+    "Heartbeat",
+    "Effort tolerance",
+    "Inspiratory reserve"
+   ],
+   "ans": 0,
+   "exp": "Dr. Hamide uses parallel bedside definitions: dyspnoea is abnormal awareness of one's own respiration (p16), whereas palpitations are abnormal awareness of one's own heartbeat (p23). (Book p16)"
+  },
+  {
+   "id": "MED-C2-03",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "scenario",
+   "q": "When taking the history of progression of dyspnoea, how does the book specifically advise you to quantify the patient's functional decline, and what associated respiratory symptoms are listed at the end of the dyspnoea checklist?",
+   "opts": [
+    "Ask the exact number of pillows added per month; associated with epistaxis and stridor",
+    "Ask how many minutes it takes for dyspnoea to settle upright; associated with hiccups and dysphonia",
+    "Ask how many kilometres the patient could walk until fatigue initially versus now; associated with cough and wheeze with expectoration",
+    "Ask the patient to grade breathlessness on a 1-to-10 scale; associated with pleuritic rub and hiccups"
+   ],
+   "ans": 2,
+   "exp": "Under progression of dyspnoea, the parenthetical instruction is to ask how many kilometres the patient walked until fatigue initially versus now; at the end of the dyspnoea checklist, the associated symptoms are cough and wheeze with expectoration. (Book p16)"
+  },
+  {
+   "id": "MED-C2-04",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the eight headings under 'Dyspnoea — What to ask' on Book p16?",
+   "opts": [
+    "Onset, progression and duration",
+    "Orthopnoea and paroxysmal nocturnal dyspnoea (PND)",
+    "NYHA grading, aggravating/relieving factors, and associated cough/wheeze with expectoration",
+    "Post-dyspnoea polyuria and relationship to meal timing"
+   ],
+   "ans": 3,
+   "exp": "The eight headings under Dyspnoea -> What to ask are: (a) onset, (b) progression, (c) duration, (d) orthopnoea, (e) PND, (f) NYHA, (g) aggravating and relieving factors, and (h) associated cough, wheeze with expectoration. Post-episode diuresis belongs to palpitations (p23), and meal timing belongs to chest pain (p20). (Book p16)"
+  },
+  {
+   "id": "MED-C2-05",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "recall",
+   "q": "According to the Harrison explanation quoted on Book p16, orthopnoea results from:",
+   "opts": [
+    "Depression of the medullary respiratory centre during REM sleep with a sudden adrenergic surge",
+    "Redistribution of fluid from the splanchnic circulation and lower extremities into the central circulation during recumbency, raising pulmonary capillary pressure",
+    "Bronchospasm triggered by vagal tone when the patient assumes the supine posture",
+    "Gravity-dependent collapse of the basal alveoli with right-to-left intrapulmonary shunting"
+   ],
+   "ans": 1,
+   "exp": "During recumbency, fluid shifts from the splanchnic bed and lower extremities into the central circulation, increasing pulmonary capillary pressure and producing orthopnoea. (Book p16)"
+  },
+  {
+   "id": "MED-C2-06",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "oddoneout",
+   "q": "Besides left heart failure, Harrison's notes that orthopnoea can also be seen in all of the following EXCEPT:",
+   "opts": [
+    "Abdominal obesity",
+    "Ascites",
+    "Pulmonary disease in which lung mechanics favour an upright posture",
+    "Uncomplicated hepatopulmonary syndrome"
+   ],
+   "ans": 3,
+   "exp": "Book p16 cites Harrison's three additional causes of orthopnoea: abdominal obesity, ascites, and pulmonary disease whose lung mechanics favour an upright posture. Hepatopulmonary syndrome causes platypnoea (dyspnoea upright, relieved supine), the exact opposite postural pattern. (Book p16)"
+  },
+  {
+   "id": "MED-C2-07",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the book's comparison between orthopnoea and PND on p16?",
+   "opts": [
+    "True: Orthopnoea represents a more severe stage than PND, and PND takes time after sleep because it is due to reabsorption of interstitial fluid",
+    "True: PND represents a more severe stage than orthopnoea because it occurs immediately upon lying flat",
+    "False: Orthopnoea is more severe than PND",
+    "False: Interstitial fluid reabsorption explains why PND occurs after a delay during sleep"
+   ],
+   "ans": 0,
+   "exp": "The notes explicitly state two rules on p16: orthopnoea is more severe than PND, and PND takes time after sleep because it is driven by interstitial fluid reabsorption. (Book p16)"
+  },
+  {
+   "id": "MED-C2-08",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "fillup",
+   "q": "According to Dr. Hamide's note on Book p16, in addition to dyspnoea, NYHA grading can also be used for ____ and ____.",
+   "opts": [
+    "Syncope and pedal oedema",
+    "Chest pain and palpitations",
+    "Cough and haemoptysis",
+    "Fatigue and orthopnoea"
+   ],
+   "ans": 1,
+   "exp": "Heading 2.f.i states: 'NYHA Grading (Dr. Hamide) — Can also be used for chest pain, palpitations'. (Book p16)"
+  },
+  {
+   "id": "MED-C2-09",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "match",
+   "q": "Match each NYHA class in Dr. Hamide's simplified scheme (used for dyspnoea, chest pain and palpitations) to its trigger — 1) Class I 2) Class II 3) Class III 4) Class IV … A) Day-to-day activities B) Unaccustomed exercise C) At rest D) Accustomed exercise",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "In Dr. Hamide's NYHA grading: Class I is symptoms with unaccustomed exercise, Class II with accustomed exercise, Class III with day-to-day activities, and Class IV at rest. (Book p16)"
+  },
+  {
+   "id": "MED-C2-10",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "match",
+   "q": "Match each NYHA class in Dr. Vivekanandan's formal definition to its clinical description — 1) Class I 2) Class II 3) Class III 4) Class IV … A) Less than ordinary physical activity produces dyspnoea (marked limitation; asymptomatic at rest) B) Ordinary physical activity does not produce dyspnoea (no symptoms, no limitation) C) Inability to carry out any physical activity without discomfort; symptoms at rest (severe limitation) D) Ordinary physical activity produces dyspnoea (mild symptoms, slight limitation)",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Dr. Vivekanandan's NYHA definitions: Class I = ordinary physical activity does not produce dyspnoea; Class II = ordinary activity produces dyspnoea (slight limitation); Class III = less than ordinary activity produces dyspnoea (marked limitation, comfortable at rest); Class IV = symptoms at rest / inability to carry out any physical activity without discomfort. (Book p16)"
+  },
+  {
+   "id": "MED-C2-11",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "page": 16,
+   "fmt": "scenario",
+   "q": "A patient has no breathlessness at rest, but ordinary level walking produces dyspnoea. According to Dr. Vivek's bedside rule on p16, how should this patient be classified, and what limitation of the NYHA system is noted right below it?",
+   "opts": [
+    "Classify as NYHA Class II; the limitation of NYHA is that it cannot be applied to patients with chest pain",
+    "Classify as NYHA Class IV; the limitation of NYHA is that it ignores orthopnoea and PND",
+    "Classify as NYHA Class I; the limitation of NYHA is that it requires treadmill MET testing",
+    "Classify as NYHA Class III; the limitation of NYHA is that there is no universal definition of 'ordinary physical activity'"
+   ],
+   "ans": 3,
+   "exp": "Dr. Vivek's rule states: if walking produces symptoms, consider it NYHA Class III. Immediately below, the book notes the core problem with the NYHA scale: there is no definition of 'ordinary physical activity'. (Book p16)"
+  },
+  {
+   "id": "MED-C2-12",
+   "sec": "Trepopnea, Platypnea & Orthodeoxia",
+   "page": 17,
+   "fmt": "numeric",
+   "q": "To overcome the ambiguity of 'ordinary physical activity', the book advises asking everything the patient does daily and gives what benchmark as normal physical activity?",
+   "opts": [
+    "Climbing 1–2 flights of stairs",
+    "Climbing 4–5 flights of stairs without stopping",
+    "Walking 5 kilometres briskly on level ground",
+    "Running 400 metres in under 3 minutes"
+   ],
+   "ans": 0,
+   "exp": "Normally, climbing 1–2 flights of stairs is considered normal physical activity when benchmarking a patient's daily activity. (Book p17)"
+  },
+  {
+   "id": "MED-C2-13",
+   "sec": "Trepopnea, Platypnea & Orthodeoxia",
+   "page": 17,
+   "fmt": "fillup",
+   "q": "____ is dyspnoea occurring in the right or left lateral decubitus position and is classically seen in dilated cardiomyopathy.",
+   "opts": [
+    "Platypnea",
+    "Trepopnea",
+    "Orthodeoxia",
+    "Bendopnea"
+   ],
+   "ans": 1,
+   "exp": "Trepopnea is dyspnoea in the right or left decubitus position and is listed as being seen in dilated cardiomyopathy. (Book p17)"
+  },
+  {
+   "id": "MED-C2-14",
+   "sec": "Trepopnea, Platypnea & Orthodeoxia",
+   "page": 17,
+   "fmt": "numeric",
+   "q": "Platypnea is breathlessness in the upright posture; the accompanying orthodeoxia is defined in the book as a drop in arterial oxygen saturation of at least ____ on assuming the upright position.",
+   "opts": [
+    "2%",
+    "5%",
+    "10%",
+    "15%"
+   ],
+   "ans": 1,
+   "exp": "Platypnea is breathlessness in the upright posture and orthodeoxia is defined parenthetically as at least a 5% drop in oxygen saturation upright. (Book p17)"
+  },
+  {
+   "id": "MED-C2-15",
+   "sec": "Trepopnea, Platypnea & Orthodeoxia",
+   "page": 17,
+   "fmt": "match",
+   "q": "Match each cause of platypnea/orthodeoxia on Book p17 to its stated mechanism — 1) Left atrial thrombus 2) Left atrial myxoma 3) Hepatopulmonary syndrome 4) Atrial septal defect … A) Gravity-driven prolapse of an intracardiac tumour across the mitral orifice B) Ball-valve obstruction of the mitral orifice due to gravity C) Increased right-to-left shunting while standing up (alongside pulmonary diseases with V/Q mismatch as the fifth cause) D) Reduced hepatic metabolism of nitric oxide (NO) in cirrhosis opens basal AV shunts on sitting; supine diaphragm elevation compresses the lung and reduces shunting",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "The five listed causes of platypnea/orthodeoxia on p17 are: (i) LA thrombus (ball-valve due to gravity), (ii) LA myxoma (gravity), (iii) hepatopulmonary syndrome (reduced NO metabolism in cirrhotic liver -> AV shunts open on sitting; supine diaphragm pushes lung up -> reduced shunting), (iv) ASD (increased R-to-L shunting while standing up), and (v) pulmonary diseases with V/Q mismatch. (Book p17)"
+  },
+  {
+   "id": "MED-C2-16",
+   "sec": "Trepopnea, Platypnea & Orthodeoxia",
+   "page": 17,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT among the five causes of platypnea/orthodeoxia listed on Book p17?",
+   "opts": [
+    "Left atrial thrombus or left atrial myxoma acting via gravity",
+    "Hepatopulmonary syndrome with nitric-oxide-mediated AV shunting",
+    "Atrial septal defect with increased right-to-left shunting on standing",
+    "Dilated cardiomyopathy with lateral decubitus airway compression"
+   ],
+   "ans": 3,
+   "exp": "Dilated cardiomyopathy causes trepopnea (dyspnoea in right or left decubitus position), not platypnea/orthodeoxia. (Book p17)"
+  },
+  {
+   "id": "MED-C2-17",
+   "sec": "Chest Pain: Semiological Analysis",
+   "page": 17,
+   "fmt": "match",
+   "q": "Match each chest pain site or onset pattern on Book p17 to its clinical correlate — 1) Central chest pain building over minutes with activity 2) Retrosternal pain 3) Peak intensity reached immediately at onset 4) Onset in the morning … A) Acid reflux or myocardial infarction B) Angina / myocardial ischaemia C) Acute aortic dissection, pulmonary embolism or spontaneous pneumothorax D) Oesophageal pain",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-C, 2-D, 3-B, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Central pain that builds over minutes with activity and eases with rest points to angina/MI; retrosternal pain points to oesophageal pain; pain reaching peak intensity immediately points to aortic dissection, PE or spontaneous pneumothorax; morning onset is noted for acid reflux and MI. (Book p17)"
+  },
+  {
+   "id": "MED-C2-18",
+   "sec": "Chest Pain: Semiological Analysis",
+   "page": 17,
+   "fmt": "scenario",
+   "q": "A patient complains of epigastric pain radiating to the chest. According to the 'site' and 'nature' sub-bullets on Book p17, which two aetiologies must be considered for epigastric pain radiating to the chest, and how does the note pair 'stabbing pain' versus 'steady heavy pressure'?",
+   "opts": [
+    "GI aetiology or angina for epigastric pain radiating to the chest; stabbing pain is paired with angina while steady heavy pressure is paired with MI",
+    "Pericarditis or pleuritis for epigastric pain radiating to the chest; stabbing pain is paired with aortic dissection while steady heavy pressure is paired with GERD",
+    "Costochondritis or pneumothorax for epigastric pain radiating to the chest; both stabbing pain and steady heavy pressure exclude ischaemia",
+    "Cholecystitis alone for epigastric pain radiating to the chest; stabbing pain is paired with oesophageal spasm"
+   ],
+   "ans": 0,
+   "exp": "Under 1.a.iii on Book p17, abdominal/epigastric pain with radiation to the chest is paired with 'GI / angina'; under 1.c.i and 1.c.ii, stabbing pain is listed with angina and steady heavy pressure with MI. (Book p17)"
+  },
+  {
+   "id": "MED-C2-19",
+   "sec": "Chest Pain: Semiological Analysis",
+   "page": 17,
+   "fmt": "match",
+   "q": "Match each quality of chest pain to the condition the book pairs it with — 1) Steady heavy pressure 2) Pleuritic pain 3) Tearing or ripping pain 4) Spasmodic or squeezing pain … A) Pericarditis, pulmonary embolism or pulmonary parenchymal processes B) Oesophageal pain C) Myocardial infarction D) Acute aortic dissection",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Steady heavy pressure = MI; pleuritic pain = pericarditis, PE, pulmonary parenchymal processes; tearing/ripping pain = acute aortic dissection; spasmodic/squeezing = oesophageal pain. (Book p17)"
+  },
+  {
+   "id": "MED-C2-20",
+   "sec": "Chest Pain: Semiological Analysis",
+   "page": 17,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the 'nature' of chest pain bullets on Book p17?",
+   "opts": [
+    "True: Burning chest pain excludes myocardial infarction and is diagnostic of peptic ulcer disease alone",
+    "True: Burning pain is typical of acid reflux or peptic ulcer disease, however it can be seen even in myocardial infarction",
+    "False: Tearing or ripping chest pain is characteristic of acute aortic dissection",
+    "False: Pleuritic pain is seen in pericarditis, pulmonary embolism and pulmonary parenchymal processes"
+   ],
+   "ans": 1,
+   "exp": "Book p17 explicitly warns under 1c.v: 'Burning pain — Acid reflux/Peptic ulcer disease however seen even in MI'. (Book p17)"
+  },
+  {
+   "id": "MED-C2-21",
+   "sec": "Chest Pain: Semiological Analysis",
+   "page": 17,
+   "fmt": "match",
+   "q": "Match each radiation pattern of chest pain to its classical cause — 1) Substernal radiating to neck, jaw, shoulder and arms 2) Severe pain radiating to the back between the shoulder blades 3) Radiation to the trapezius ridge … A) Pericardial pain B) Myocardial infarction C) Acute aortic dissection",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Radiation to neck, jaw, shoulder and arms is classic for MI; radiation to the interscapular back is acute aortic dissection; radiation to the trapezius ridge (via the phrenic nerve) is classic for pericardial pain. (Book p17)"
+  },
+  {
+   "id": "MED-C2-22",
+   "sec": "Chest Pain: Semiological Analysis",
+   "page": 17,
+   "fmt": "match",
+   "q": "Match each aggravating or relieving pattern on Book p17 to the condition it identifies — 1) Present at rest (vs lost at rest) 2) Alteration on change in position or movement 3) Worse supine, relieved by sitting upright and leaning forward 4) Exacerbated by alcohol, food or reclined position … A) Musculoskeletal chest pain B) Myocardial infarction (present at rest) vs angina (lost at rest) C) Gastro-oesophageal reflux disease (GERD) D) Pericarditis",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "On Book p17: present at rest = MI (lost at rest = angina); alteration on change in position/movement = musculoskeletal; worse supine and relieved by sitting upright and leaning forward = pericarditis; exacerbated by alcohol, food or reclined position = GERD. (Book p17)"
+  },
+  {
+   "id": "MED-C2-23",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "page": 18,
+   "fmt": "match",
+   "q": "Match each feature from Boloor Table 3C.7 on Book p18 to the correct symptom column — 1) Sudden-onset dyspnoea 2–2.5 hours after sleep during REM sleep 2) Dyspnoea in recumbent posture occurring soon after lying down 3) Sits up with legs hanging down, stands up, air hunger, self-ventilates for comfort 4) Gets up, uses more pillows, sleeps in erect posture … A) PND — definition and timing B) Orthopnoea — definition and timing C) PND — method of relief D) Orthopnoea — method of relief",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 1,
+   "exp": "In Boloor Table 3C.7 (p18), PND wakes the patient 2–2.5 hours after falling asleep during REM sleep and is relieved by sitting with legs dangling, standing and getting fresh air; orthopnoea occurs soon after lying down and is relieved by using extra pillows and sleeping erect. (Book p18)"
+  },
+  {
+   "id": "MED-C2-24",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "page": 18,
+   "fmt": "scenario",
+   "q": "According to Boloor Table 3C.7 on Book p18, what sequence of events during rapid eye movement (REM) sleep precipitates an episode of paroxysmal nocturnal dyspnoea?",
+   "opts": [
+    "Shifting of >400 mL of venous blood from the lower limbs -> V/Q mismatch -> diaphragm compression -> postural diastolic dysfunction -> slow sustained rise in PCWP",
+    "Nocturnal vagal surge -> bradycardia and coronary vasoconstriction -> acute mitral regurgitation -> alveolar flooding",
+    "Depressed respiratory centre + sympathetic overactivity during REM -> catecholamine surge and tachycardia -> interstitial pulmonary congestion -> respiratory centre lags behind -> sudden transient rise in PCWP",
+    "Upper airway collapse during REM sleep -> negative intrathoracic pressure swings -> right ventricular dilation without change in PCWP"
+   ],
+   "ans": 2,
+   "exp": "Boloor Table 3C.7 contrasts the two mechanisms: PND is driven by a depressed respiratory centre plus REM-sleep sympathetic overactivity (catecholamine surge -> tachycardia -> interstitial pulmonary congestion -> sudden transient PCWP rise), whereas orthopnoea involves >400 mL venous shift, V/Q mismatch, diaphragm compression, postural diastolic dysfunction and a slow sustained rise in PCWP. (Book p18)"
+  },
+  {
+   "id": "MED-C2-25",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "page": 18,
+   "fmt": "numeric",
+   "q": "In Boloor Table 3C.7 on Book p18, orthopnoea is produced by the shifting of more than ____ of venous blood into the pulmonary circulation, producing a ____ rise in pulmonary capillary wedge pressure (PCWP).",
+   "opts": [
+    "400 mL; slow sustained",
+    "150 mL; sudden transient",
+    "400 mL; sudden transient",
+    "1000 mL; slow sustained"
+   ],
+   "ans": 0,
+   "exp": "Orthopnoea involves shifting of >400 mL of venous blood into the pulmonary circulation with a slow sustained rise in PCWP, whereas PND produces a sudden transient increase in PCWP. (Book p18)"
+  },
+  {
+   "id": "MED-C2-26",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "page": 18,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements matches the 'Associated symptoms' and 'Oxygen saturation' rows of Boloor Table 3C.7 on Book p18?",
+   "opts": [
+    "True: Orthopnoea causes severe transient hypoxia while PND maintains normal oxygen saturation throughout the attack",
+    "True: PND is associated with angina, perspiration, palpitations, rarely haemoptysis and transient hypoxia, whereas orthopnoea has all symptoms of CCF with normal oxygen saturation",
+    "False: PND is associated with transient hypoxia",
+    "False: Orthopnoea has normal oxygen saturation in Boloor Table 3C.7"
+   ],
+   "ans": 1,
+   "exp": "In Boloor Table 3C.7, PND features angina, perspiration, palpitation, rarely haemoptysis, and transient hypoxia; orthopnoea features all the symptoms of CCF and normal oxygen saturation. (Book p18)"
+  },
+  {
+   "id": "MED-C2-27",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "page": 19,
+   "fmt": "match",
+   "q": "Match each differential diagnosis from the continuation of Boloor Table 3C.7 on Book p19 to the symptom it mimics — 1) Nightmares and panic attacks 2) Nocturnal hypoglycaemia and obstructive sleep apnoea 3) COPD and acute asthma 4) Gross obesity and gross ascites … A) PND — emotional and parasomnia mimics B) PND — metabolic and sleep-breathing mimics C) Orthopnoea — airway mimics D) Orthopnoea — mechanical and diaphragmatic mimics",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Book p19 lists the differential diagnosis row of Boloor Table 3C.7: PND is mimicked by nightmares, panic attacks, nocturnal hypoglycaemia and obstructive sleep apnoea (OSA); orthopnoea is mimicked by COPD, gross obesity, acute asthma and gross ascites. (Book p19)"
+  },
+  {
+   "id": "MED-C2-28",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "page": 19,
+   "fmt": "oddoneout",
+   "q": "Which of the following is listed under the differential diagnosis of orthopnoea rather than paroxysmal nocturnal dyspnoea on Book p19?",
+   "opts": [
+    "Nightmares",
+    "Nocturnal hypoglycaemia",
+    "Obstructive sleep apnoea (OSA)",
+    "Gross ascites"
+   ],
+   "ans": 3,
+   "exp": "Nightmares, panic attacks, nocturnal hypoglycaemia and OSA are the four differentials of PND; COPD, gross obesity, acute asthma and gross ascites are the four differentials of orthopnoea. (Book p19)"
+  },
+  {
+   "id": "MED-C2-29",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "page": 19,
+   "fmt": "scenario",
+   "q": "An insulin-treated patient wakes up suddenly 2 hours into sleep drenched in sweat and feeling acutely breathless, with a normal echocardiogram. Using the differential diagnosis row of Boloor Table 3C.7 on Book p19, which PND mimic must be excluded alongside panic attacks, nightmares and OSA?",
+   "opts": [
+    "Nocturnal hypoglycaemia",
+    "Gross ascites",
+    "Gross obesity",
+    "Chronic obstructive pulmonary disease"
+   ],
+   "ans": 0,
+   "exp": "Boloor Table 3C.7 (2 of 2) on Book p19 lists nocturnal hypoglycaemia alongside nightmares, panic attacks and obstructive sleep apnoea (OSA) as the four differential diagnoses of PND. (Book p19)"
+  },
+  {
+   "id": "MED-C2-30",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "numeric",
+   "q": "On Book p20, chest/epigastric pain exacerbated after a meal in peptic ulcer disease, pancreatitis or cholecystitis typically becomes symptomatic ____ after eating (alongside postprandial angina), and sublingual nitroglycerin (NTG) relieves both angina/MI and ____.",
+   "opts": [
+    "5–10 minutes; costochondritis",
+    "60–90 minutes; oesophageal spasm",
+    "60–90 minutes; acute pericarditis",
+    "3–4 hours; gastro-oesophageal reflux"
+   ],
+   "ans": 1,
+   "exp": "Postprandial GI pain (pancreatitis, cholecystitis, peptic ulcer disease) becomes symptomatic 60–90 minutes after eating (alongside postprandial angina), and NTG relieves both angina/MI and oesophageal spasm. (Book p20)"
+  },
+  {
+   "id": "MED-C2-31",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "recall",
+   "q": "After aggravating and relieving factors, the chest pain history checklist on Book p20 concludes with duration, number of episodes, and association with which two specific items?",
+   "opts": [
+    "Sweating/palpitations and food intake",
+    "Haemoptysis and pedal oedema",
+    "Nocturia and visual blurring",
+    "Hoarseness and oliguria"
+   ],
+   "ans": 0,
+   "exp": "Items 1.f, 1.g and 1.h on Book p20 are duration, number of episodes, and associated with (i) sweating, palpitations and (ii) food intake. (Book p20)"
+  },
+  {
+   "id": "MED-C2-32",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "match",
+   "q": "Match each valvular or myocardial lesion in the Book p20 chest-pain table to the exact mechanism of chest pain stated — 1) Aortic stenosis 2) Aortic regurgitation 3) HOCM 4) Non-valvular non-ischaemic CVS causes … A) Coronary arteries receive their blood supply in diastole, which is when regurgitation occurs B) LV hypertrophy raises myocardial oxygen demand beyond what can be met C) Same LV hypertrophy demand-supply mechanism as aortic stenosis D) Pericarditis, aortic dissection, pulmonary embolism and pulmonary hypertension",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 2,
+   "exp": "The p20 table explains why non-CAD cardiac lesions cause angina: in AS (and HOCM), LV hypertrophy raises oxygen demand beyond supply; in AR, the coronaries fill during diastole, which is precisely when aortic regurgitation steals perfusion pressure. (Book p20)"
+  },
+  {
+   "id": "MED-C2-33",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "oddoneout",
+   "q": "In the multi-system chest pain table on Book p20, which of the following is grouped under musculoskeletal causes?",
+   "opts": [
+    "Oesophageal spasm",
+    "Pleuritis",
+    "Pulmonary hypertension",
+    "Cervical disk disease"
+   ],
+   "ans": 3,
+   "exp": "The musculoskeletal column lists costochondritis, trauma and cervical disk disease; oesophageal spasm (with GERD and peptic ulcer) is under GIT, pleuritis (with pneumonia and pneumothorax) under RS, and pulmonary hypertension under non-ischaemic CVS. (Book p20)"
+  },
+  {
+   "id": "MED-C2-34",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "numeric",
+   "q": "Classical anginal chest pain is described on Book p20 as a diffuse central anterior chest ache or dull discomfort that is unaffected by inspiration, relieved by rest and GTN, and lasts:",
+   "opts": [
+    "Less than 10 minutes",
+    "Between 20 and 30 minutes",
+    "Less than 60 seconds",
+    "More than 30 minutes unless GTN is given"
+   ],
+   "ans": 0,
+   "exp": "Typical anginal chest pain lasts <10 minutes, is felt diffusely in the centre of the anterior chest wall, is not affected by inspiration, and is relieved by rest and GTN. (Book p20)"
+  },
+  {
+   "id": "MED-C2-35",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "match",
+   "q": "Match each angina variant on Book p20 to its defining clinical pattern — 1) Unstable angina 2) Crescendo angina 3) Walk-through (warm-up) angina 4) Second-wind angina … A) Increasing frequency at lower workloads, but NOT at rest B) Peripheral vasodilation during continued exercise decreases myocardial workload and relieves pain C) Abrupt onset or increasing severity, duration or frequency; may occur with minimal exertion or at rest D) Occurs on initial exertion, subsides, and then recurs on subsequent exertion",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 1,
+   "exp": "Unstable angina may occur at rest or minimal exertion; crescendo angina increases in frequency at lower workloads but NOT at rest; walk-through/warm-up angina improves during continued exercise via peripheral vasodilation reducing workload; second-wind angina subsides after initial exertion only to recur on subsequent exertion. (Book p20)"
+  },
+  {
+   "id": "MED-C2-36",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the distinction between crescendo angina and unstable angina on Book p20?",
+   "opts": [
+    "True: Crescendo angina is defined by increasing frequency of angina at progressively lower workloads, but NOT at rest",
+    "True: Crescendo angina requires chest pain at rest lasting more than 20 minutes",
+    "False: Walk-through (warm-up) angina is relieved during exercise because peripheral vasodilation decreases myocardial workload",
+    "False: Second-wind angina occurs on initial exertion, subsides, and recurs on subsequent exertion"
+   ],
+   "ans": 0,
+   "exp": "Book p20 defines crescendo angina specifically as 'Increasing frequency at lower workloads, but not at rest', whereas unstable angina may occur with minimal exertion or at rest. (Book p20)"
+  },
+  {
+   "id": "MED-C2-37",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "scenario",
+   "q": "A patient experiences angina while lying flat at night (nocturnal/decubitus angina), and another presents with prolonged anginal pain accompanied by profuse sweating, nausea and bradycardia. According to Book p20, what do these two features respectively signify?",
+   "opts": [
+    "Nocturnal/decubitus angina indicates benign coronary vasospasm; autonomic symptoms are specific to anterior wall MI",
+    "Nocturnal/decubitus angina indicates costochondritis; autonomic symptoms indicate walk-through angina",
+    "Nocturnal/decubitus angina indicates severe coronary artery disease; prominent autonomic symptoms with prolonged pain are especially associated with inferior wall MI",
+    "Both features indicate early Grade 1 stable angina with intact coronary reserve"
+   ],
+   "ans": 2,
+   "exp": "Nocturnal/decubitus angina indicates severe coronary artery disease, and prolonged anginal pain (MI) is especially associated with autonomic symptoms in inferior wall MI. (Book p20)"
+  },
+  {
+   "id": "MED-C2-38",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "page": 20,
+   "fmt": "numeric",
+   "q": "According to Book p20, chest pain is absent in ____ of patients with myocardial infarction (silent MI) — especially in the elderly and diabetics — while dyspnoea, fatigue or syncope relieved by NTG are termed ____.",
+   "opts": [
+    "10%; crescendo angina",
+    "50%; walk-through angina",
+    "30%; second-wind angina",
+    "30%; angina equivalents"
+   ],
+   "ans": 3,
+   "exp": "Silent MI accounts for 30% of MIs (especially in the elderly and patients with DM), and non-pain symptoms of myocardial ischaemia such as dyspnoea, fatigue and syncope relieved by NTG are called angina equivalents. (Book p20)"
+  },
+  {
+   "id": "MED-C2-39",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "page": 21,
+   "fmt": "match",
+   "q": "Match each Canadian Cardiovascular Society (CCS) grade of stable angina on Book p21 to its exact definition — 1) Grade 1 2) Grade 2 3) Grade 3 4) Grade 4 … A) Marked limitation of ordinary activity: walking 1–2 blocks on the level or climbing <1 flight of stairs B) Angina with strenuous exercise only C) Inability to carry out any physical activity without discomfort; may be present at rest D) Slight limitation of ordinary activity",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "CCS grading of stable angina: Grade 1 = strenuous exercise only; Grade 2 = slight limitation of ordinary activity; Grade 3 = marked limitation (walking 1–2 blocks on the level or climbing <1 flight of stairs); Grade 4 = inability to carry out any physical activity without discomfort, may be present at rest. (Book p21)"
+  },
+  {
+   "id": "MED-C2-40",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "page": 21,
+   "fmt": "numeric",
+   "q": "In the Canadian Cardiovascular Society (CCS) grading of stable angina on Book p21, Grade 3 (marked limitation of ordinary activity) is defined by angina when walking ____ on the level or climbing ____.",
+   "opts": [
+    "1–2 blocks; <1 flight of stairs",
+    "3–4 blocks; 1–2 flights of stairs",
+    "50 metres; >2 flights of stairs",
+    "<1 block; any single step at rest"
+   ],
+   "ans": 0,
+   "exp": "CCS Grade 3 is explicitly defined on Book p21 as marked limitation of ordinary activity: walking 1–2 blocks on the level or climbing <1 flight of stairs. (Book p21)"
+  },
+  {
+   "id": "MED-C2-41",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "page": 21,
+   "fmt": "scenario",
+   "q": "While taking a history of syncope (Book p21), you ask about onset, duration, total vs partial loss of consciousness, recovery time, orientation before and after the episode, associated fits or bowel/bladder symptoms, and whether the episode is exertional. Exertional syncope points specifically toward:",
+   "opts": [
+    "Regurgitant volume-overload lesions such as chronic mitral regurgitation and tricuspid regurgitation",
+    "Fixed cardiac output lesions such as aortic stenosis (AS) and hypertrophic obstructive cardiomyopathy (HOCM)",
+    "Vasovagal neurocardiogenic syncope triggered by peripheral venodilation",
+    "Left-to-right intracardiac shunts such as uncomplicated ostium secundum ASD"
+   ],
+   "ans": 1,
+   "exp": "Under Syncope -> What to ask, 'Exertional?' is specifically annotated with fixed-output lesions like AS and HOCM. (Book p21)"
+  },
+  {
+   "id": "MED-C2-42",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "page": 21,
+   "fmt": "match",
+   "q": "Match each row from the 'Seizure vs syncope' table on Book p21 to the correct pairing — 1) Trigger 2) Prodrome 3) Duration of unconsciousness 4) Convulsion … A) <60 seconds in vasovagal syncope vs 1–2 minutes in seizure B) Illness, pain or emotion in vasovagal syncope vs often none (or sleep deprivation, alcohol, drugs) in seizure C) Brief myoclonic jerks in vasovagal syncope vs usually 1–2 minutes tonic-clonic in seizure D) Feeling faint, tinnitus, nausea, dimming of vision in vasovagal syncope vs not always present in seizure",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 2,
+   "exp": "The p21 comparison table contrasts vasovagal syncope with seizure across trigger (illness/pain/emotion vs often none or sleep deprivation/alcohol/drugs), prodrome (faintness/tinnitus/nausea/dimming of vision vs not always present), duration of unconsciousness (<60 s vs 1–2 min) and convulsion (brief myoclonic jerks vs 1–2 min tonic-clonic). (Book p21)"
+  },
+  {
+   "id": "MED-C2-43",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "page": 21,
+   "fmt": "scenario",
+   "q": "A patient collapses briefly after venepuncture, looks pale/grey, bites the tip (not the lateral border) of the tongue, and recovers rapidly without post-event confusion. How does the Book p21 table contrast these three signs with a true seizure?",
+   "opts": [
+    "In seizure the colour is red/blue (may be pale), lateral tongue biting is common, and recovery is gradual over 30 minutes with confusion and amnesia",
+    "In seizure the colour is always cherry-red, tongue biting is absent, and recovery occurs within 60 seconds without amnesia",
+    "In seizure lateral tongue biting is very rare while tip biting is pathognomonic, and recovery takes <5 minutes",
+    "In seizure pallor is obligatory, myoclonic jerks last <10 seconds, and orientation returns immediately"
+   ],
+   "ans": 0,
+   "exp": "In vasovagal syncope: colour is pale/grey, lateral tongue biting is very rare (may bite tip), and recovery is rapid with no confusion. In seizure: colour is red/blue (may be pale), lateral tongue biting is common, and recovery is gradual over 30 minutes with confusion and amnesia. (Book p21)"
+  },
+  {
+   "id": "MED-C2-44",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "page": 21,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately states the tongue-biting rule in the Book p21 'Seizure vs syncope' table?",
+   "opts": [
+    "True: Lateral tongue biting is common in vasovagal syncope and very rare in seizure",
+    "True: Lateral tongue biting is very rare in vasovagal syncope (where the patient may bite the tip) and common in seizure",
+    "False: Lateral tongue biting is common in seizure",
+    "False: In vasovagal syncope the patient may bite the tip of the tongue"
+   ],
+   "ans": 1,
+   "exp": "The 'Lateral tongue biting' row on Book p21 reads: Vasovagal Syncope = 'Very rare (may bite tip)'; Seizure = 'Common'. (Book p21)"
+  },
+  {
+   "id": "MED-C2-45",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "page": 21,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed under the differential diagnosis (Ddx) of syncope at the bottom of Book p21?",
+   "opts": [
+    "Seizure and TIA",
+    "Hypoglycaemia",
+    "Cataplexy? and postconcussive syndrome?",
+    "Narcoleptic sleep paralysis"
+   ],
+   "ans": 3,
+   "exp": "The five items listed under 3. Ddx on Book p21 are seizure, TIA, hypoglycaemia, cataplexy? and postconcussive syndrome?. (Book p21)"
+  },
+  {
+   "id": "MED-C2-46",
+   "sec": "Syncope Classification: Pathophysiology & Causes",
+   "page": 22,
+   "fmt": "numeric",
+   "q": "In the syncope classification table on Book p22, orthostatic syncope is defined by a decrease in systolic BP by more than ____ or diastolic BP by more than ____ within ____ of standing from the sitting position.",
+   "opts": [
+    "10 mmHg; 5 mmHg; 1 minute",
+    "20 mmHg; 10 mmHg; 3 minutes",
+    "30 mmHg; 15 mmHg; 5 minutes",
+    "20 mmHg; 20 mmHg; 10 minutes"
+   ],
+   "ans": 1,
+   "exp": "The Orthostatic column of the p22 table specifies: decrease in SBP by >20 mmHg or DBP by >10 mmHg within 3 minutes of standing from the sitting position. (Book p22)"
+  },
+  {
+   "id": "MED-C2-47",
+   "sec": "Syncope Classification: Pathophysiology & Causes",
+   "page": 22,
+   "fmt": "match",
+   "q": "Match each type of syncope in the Book p22 table to its listed pathophysiology or causes — 1) Vasovagal syncope 2) Orthostatic syncope 3) Post-tussive syncope 4) Hypovolaemic syncope … A) Violent coughing raises intrathoracic pressure and decreases venous return (caused by lung disease) B) Always preceded by warning symptoms (nausea, weakness, blurred vision, headache); triggered by fear, emotional stress, anxiety or anaemia C) Haemorrhage and fluid loss D) Antihypertensive drugs, diabetic autonomic neuropathy and anaemia",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The p22 table maps each column: Vasovagal (warning nausea/weakness/blurred vision/headache; fear, emotional stress, anxiety, anaemia), Orthostatic (antihypertensives, diabetic autonomic neuropathy, anaemia), Post-tussive (violent coughing -> raised intrathoracic pressure -> decreased venous return in lung disease), Hypovolaemic (haemorrhage, fluid loss), plus Micturition syncope as the sixth column. (Book p22)"
+  },
+  {
+   "id": "MED-C2-48",
+   "sec": "Syncope Classification: Pathophysiology & Causes",
+   "page": 22,
+   "fmt": "match",
+   "q": "Match each cardiovascular syncope subgroup in the Book p22 table to its listed causes — 1) Electrical anomalies 2) Left-sided outflow mechanical causes 3) Right-sided / pulmonary mechanical causes 4) Intracardiac mass mechanical cause … A) Left atrial myxoma (postural syncope) B) Bradycardia, heart block, ventricular or supraventricular tachycardias C) Aortic stenosis and HOCM D) Pulmonary stenosis, Tetralogy of Fallot (TOF) and pulmonary embolism",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Under CVS causes of syncope on p22: Electrical anomalies = bradycardia, heart block, VT or SVT; Mechanical causes = AS, HOCM, pulmonary stenosis, TOF, pulmonary embolism, and LA myxoma (specifically annotated as postural syncope). (Book p22)"
+  },
+  {
+   "id": "MED-C2-49",
+   "sec": "Syncope Classification: Pathophysiology & Causes",
+   "page": 22,
+   "fmt": "scenario",
+   "q": "A patient with chronic lung disease loses consciousness after a paroxysm of violent coughing, while another patient experiences syncope triggered specifically by changes in posture due to an intracardiac mass. According to the Book p22 table:",
+   "opts": [
+    "Violent coughing raises intrathoracic pressure and decreases venous return (post-tussive syncope); left atrial myxoma causes postural mechanical syncope",
+    "Violent coughing causes cerebral vasoconstriction via hypocapnia; right ventricular myxoma is the only listed mechanical cause of syncope",
+    "Violent coughing triggers complete heart block; aortic stenosis causes syncope only on recumbency",
+    "Both episodes represent orthostatic syncope from diabetic autonomic neuropathy"
+   ],
+   "ans": 0,
+   "exp": "In the p22 table, Post-tussive syncope (caused by lung disease) has the pathophysiology 'Violent coughing -> decreased venous return due to raised intrathoracic pressure', and under CVS mechanical causes, LA myxoma is specifically annotated '(postural syncope)'. (Book p22)"
+  },
+  {
+   "id": "MED-C2-50",
+   "sec": "Syncope Classification: Pathophysiology & Causes",
+   "page": 22,
+   "fmt": "recall",
+   "q": "In the six-column syncope table on Book p22, which non-cardiac condition is explicitly listed as a cause under BOTH Vasovagal and Orthostatic syncope, and what is the sixth syncope column header after Post-Tussive?",
+   "opts": [
+    "Hypoglycaemia; Carotid sinus syncope",
+    "Anaemia; Micturition",
+    "Dehydration; Defaecation",
+    "Thyrotoxicosis; Deglutition"
+   ],
+   "ans": 1,
+   "exp": "Anaemia appears under the 'Cause' row of both Vasovagal syncope (fear, sudden emotional stress, anxiety, anaemia) and Orthostatic syncope (antihypertensive drugs, diabetic autonomic neuropathy, anaemia), and the sixth column header of the table is Micturition. (Book p22)"
+  },
+  {
+   "id": "MED-C2-51",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "page": 23,
+   "fmt": "fillup",
+   "q": "Dr. Hamide defines palpitations as an abnormal awareness of one's own ____, and the history checklist specifically asks about post-palpitation ____.",
+   "opts": [
+    "Heartbeat; diuresis",
+    "Pulse pressure; syncope",
+    "Heartbeat; orthopnoea",
+    "Cardiac output; diaphoresis"
+   ],
+   "ans": 0,
+   "exp": "Palpitations are defined as abnormal awareness of one's own heartbeat (Dr. Hamide), and item 2g in the checklist asks about post-palpitation diuresis (alongside regular/irregular, duration, paroxysmal or not, and NYHA class). (Book p23)"
+  },
+  {
+   "id": "MED-C2-52",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "page": 23,
+   "fmt": "match",
+   "q": "Match each palpitation characteristic on Book p23 to the underlying cardiac mechanism — 1) Exertional palpitations 2) Palpitations at rest 3) Fast palpitations 4) Slow or forceful palpitations … A) Arrhythmia (mainly atrial fibrillation) B) Regurgitant valvular lesion C) Slow = volume overload; increased force = ventricular hypertrophy D) Arrhythmia",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 1,
+   "exp": "Book p23 correlates palpitation features with mechanism: exertional = regurgitant lesion; at rest = arrhythmia; fast = arrhythmia (mainly AF); slow = volume overload; increased force = hypertrophy. (Book p23)"
+  },
+  {
+   "id": "MED-C2-53",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "page": 23,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately states the note on Book p23 comparing aortic regurgitation (AR) and mitral regurgitation (MR)?",
+   "opts": [
+    "True: Both AR and MR present with palpitations, but in AR dyspnoea occurs much later than palpitations, whereas in MR they can occur at almost the same time",
+    "True: In AR dyspnoea precedes palpitations by several years, whereas in MR palpitations occur decades before dyspnoea",
+    "False: In AR, dyspnoea occurs much later than palpitations",
+    "False: Both AR and MR have palpitations as a presenting complaint"
+   ],
+   "ans": 0,
+   "exp": "In AR, dyspnoea occurs much later than the palpitations, whereas in MR, dyspnoea and palpitations can occur at almost the same time. (Book p23)"
+  },
+  {
+   "id": "MED-C2-54",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "page": 23,
+   "fmt": "recall",
+   "q": "Under 'Pedal oedema — What to ask' on Book p23, which three points are listed?",
+   "opts": [
+    "Onset and progression from which location to which; Unilateral vs Bilateral; Relieving factors",
+    "Pitting time in seconds; Response to spironolactone; Abdominal girth measurement",
+    "Presence of varicose veins; Calf tenderness; Skin hyperpigmentation",
+    "Morning facial puffiness; Frothy urine; Salt intake in grams per day"
+   ],
+   "ans": 0,
+   "exp": "Under Pedal oedema -> 1. What to ask on Book p23, the three bullets are: (a) Onset, progression from which location to which, (b) Unilateral vs Bilateral, and (c) Relieving factors. (Book p23)"
+  },
+  {
+   "id": "MED-C2-55",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "page": 23,
+   "fmt": "match",
+   "q": "Match each category from Box 6.8 ('Causes of unilateral and bilateral leg oedema') embedded on Book p23 to its exact examples — 1) Unilateral leg oedema 2) Bilateral: drugs 3) Bilateral: nutritional and congenital/pubertal 4) Bilateral: venous, lymphatic and systemic … A) NSAIDs, nifedipine, amlodipine and fludrocortisone B) DVT, soft-tissue infection, trauma, immobility (e.g. hemiplegia) and lymphoedema C) Thiamine (vitamin B1) deficiency (wet beriberi), kwashiorkor and Milroy's disease (pubertal, females > males) D) Heart failure, chronic venous insufficiency, nephrotic syndrome, cirrhosis, pelvic tumour/filariasis and IVC obstruction",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Box 6.8 on Book p23 supplies the full drug list (NSAIDs, nifedipine, amlodipine, fludrocortisone) and adds IVC obstruction, wet beriberi (thiamine/vitamin B1 deficiency), kwashiorkor and pelvic tumour to the bilateral oedema causes alongside unilateral DVT, infection, trauma, immobility and lymphoedema. (Book p23)"
+  },
+  {
+   "id": "MED-C2-56",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "page": 23,
+   "fmt": "oddoneout",
+   "q": "Which of the following drugs is NOT among the four drug examples of bilateral leg oedema listed in Box 6.8 on Book p23?",
+   "opts": [
+    "NSAIDs",
+    "Nifedipine and amlodipine",
+    "Fludrocortisone",
+    "Spironolactone"
+   ],
+   "ans": 3,
+   "exp": "Box 6.8 lists 'Drugs, e.g. NSAIDs, nifedipine, amlodipine, fludrocortisone' under bilateral leg oedema (resolving the p14 stub on drugs causing oedema). Spironolactone is an aldosterone antagonist diuretic used to treat oedema, not a cause. (Book p23)"
+  },
+  {
+   "id": "MED-C2-57",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "page": 23,
+   "fmt": "scenario",
+   "q": "When a cardiac patient reports blood on coughing, which two specific questions does Book p23 instruct you to ask under 'Blood on coughing'?",
+   "opts": [
+    "Whether there is any melena and whether the bleeding is associated with food",
+    "Whether the blood is mixed with frothy pink sputum and whether it occurs only in winter",
+    "Whether the patient takes warfarin at 4 pm and whether epistaxis preceded the cough",
+    "Whether the cough is relieved by leaning forward and whether the sputum has a foul odour"
+   ],
+   "ans": 0,
+   "exp": "Under Cough -> 1e. Blood on coughing, the sub-bullet specifically asks: 'Any melena? Associated w food?' — alongside duration, mode of onset, quantity, colour/odour, and postural/relieving factors. (Book p23)"
+  },
+  {
+   "id": "MED-C2-58",
+   "sec": "Negative, Past, Personal & Drug History",
+   "page": 24,
+   "fmt": "match",
+   "q": "Match each negative-history heading on Book p24 to the symptoms you must ask for — 1) Symptoms of right heart failure (RHF) 2) Symptoms of rheumatic fever (RF) 3) Symptoms of left-sided disease 4) Symptoms of congenital heart disease … A) Voice change, dysphagia and oliguria B) Pedal oedema, abdominal distension, dyspepsia, right hypochondrial pain and facial puffiness C) Cyanotic episodes and squatting D) Fever with joint pain, sore throat, involuntary movements and skin rash/nodules",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 1,
+   "exp": "Book p24 groups negative history into RHF (pedal oedema, abdominal distension, dyspepsia, RHC pain, facial puffiness), RF (fever with joint pain, sore throat, involuntary movements, skin rash/nodules), Left-sided disease (voice change, dysphagia, oliguria), and Congenital disease (cyanotic episodes, squatting). (Book p24)"
+  },
+  {
+   "id": "MED-C2-59",
+   "sec": "Negative, Past, Personal & Drug History",
+   "page": 24,
+   "fmt": "oddoneout",
+   "q": "On Book p24, which of the following is listed under 'Symptoms of Left sided disease' rather than 'Symptoms of RHF'?",
+   "opts": [
+    "Pedal oedema and abdominal distension",
+    "Dyspepsia and right hypochondrial pain",
+    "Puffiness of face",
+    "Voice change, dysphagia and oliguria"
+   ],
+   "ans": 3,
+   "exp": "Under Negative History on Book p24: RHF symptoms are pedal oedema, abdominal distension, dyspepsia, right hypochondrial pain and puffiness of face; Left-sided disease symptoms are voice change (LA compression of recurrent laryngeal nerve), dysphagia (LA compression of oesophagus) and oliguria (low forward renal perfusion). (Book p24)"
+  },
+  {
+   "id": "MED-C2-60",
+   "sec": "Negative, Past, Personal & Drug History",
+   "page": 24,
+   "fmt": "scenario",
+   "q": "A patient with known rheumatic valvular disease develops fever and worsening breathlessness. According to Book p24, which three causes of fever must be considered, and what term is given to haemoptysis in pulmonary hypertension?",
+   "opts": [
+    "Drug fever from digoxin, pulmonary embolism, and Dressler's syndrome; haemoptysis in PHT is termed winter bronchitis",
+    "Viral myocarditis, thyroid storm, and left atrial myxoma; haemoptysis in PHT is termed Ortner's syndrome",
+    "Reactivation of RHD, intercurrent infection (pneumonia, UTI altering haemodynamics), and chronic SABE; haemoptysis in PHT is termed pulmonary apoplexy",
+    "Tuberculosis, malaria, and SLE flare; haemoptysis in PHT is termed Eisenmenger haemorrhage"
+   ],
+   "ans": 2,
+   "exp": "Book p24 lists PHT symptoms (recurrent respiratory infection, syncope, haemoptysis [pulmonary apoplexy], chest pain), IE symptoms/complications (fever, stroke/TIA, haematuria), and the three causes of fever in a cardiac patient: reactivation of RHD, pneumonia/UTI (which alter haemodynamics and worsen breathlessness), and chronic SABE. (Book p24)"
+  },
+  {
+   "id": "MED-C2-61",
+   "sec": "Negative, Past, Personal & Drug History",
+   "page": 24,
+   "fmt": "recall",
+   "q": "In the past, personal and family history section on Book p24, balloon mitral valvotomy (BMV) for mitral stenosis is specifically noted as a cause of ____, suspected infective endocarditis requires asking about ____, and family history specifically queries comorbidities and ____.",
+   "opts": [
+    "Aortic regurgitation (AR); raw milk consumption; cardiomyopathies",
+    "Tricuspid stenosis (TS); high-altitude travel; channelopathies",
+    "Constrictive pericarditis; silica exposure; dyslipidaemia",
+    "Mitral regurgitation (MR); intravenous drug abuse; connective tissue disorder (CTD)"
+   ],
+   "ans": 3,
+   "exp": "Under Past history, heart surgeries are checked both as a risk for IE and because BMV in MS can lead to MR; under Personal history, IV drug abuse is specifically asked when suspecting IE; under Family history, the notes query 'Comorbidities, CTD?'. (Book p24)"
+  },
+  {
+   "id": "MED-C2-62",
+   "sec": "Negative, Past, Personal & Drug History",
+   "page": 24,
+   "fmt": "management",
+   "q": "Why does the treatment history section on Book p24 specify giving diuretics and nitroglycerin tablets at 8 am and 4 pm rather than at night, and what is the weekly schedule for digoxin?",
+   "opts": [
+    "Diuretics cause nocturia and nitroglycerin causes nocturnal hypotension if given at night; digoxin is taken 5 days a week with 2 days off",
+    "Both drugs lose bioavailability in the supine posture; digoxin is taken every alternate day (3 days a week)",
+    "Diuretics cause nocturnal hypokalaemia and nitroglycerin causes morning headache; digoxin is taken 6 days a week with 1 day off",
+    "Night dosing of diuretics precipitates PND and nitroglycerin causes reflex bradycardia; digoxin is taken daily without interruption"
+   ],
+   "ans": 0,
+   "exp": "Digoxin is given as 5 days of intake with 2 days off; diuretics and nitroglycerin are given at 8 am and 4 pm and avoided at night because they cause nocturia and nocturnal hypotension respectively. (Book p24)"
+  },
+  {
+   "id": "MED-C2-63",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 25,
+   "fmt": "numeric",
+   "q": "At the top of Book p25, warfarin is scheduled at ____ daily, and prophylactic penicillin injection is given once every ____.",
+   "opts": [
+    "8 am; 28 days",
+    "4 pm; 21 days",
+    "9 pm; 14 days",
+    "4 pm; 30 days"
+   ],
+   "ans": 1,
+   "exp": "Book p25 completes the drug schedule list: warfarin at 4 pm daily, and benzathine penicillin injection once every 21 days. (Book p25)"
+  },
+  {
+   "id": "MED-C2-64",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 25,
+   "fmt": "fillup",
+   "q": "In the history summary template on Book p25: 'The disease is probably ____ (cong/acq). Probably a ____ (recurrent) heart disease involving the ____ (lt/rt/both) side(s), the probable valve(s) involved are ____. The patient shows the signs/symptoms of ____ (LVF/RVF/CCF).'",
+   "opts": [
+    "Ischaemic or non-ischaemic; acute; systolic or diastolic; coronary artery; NYHA Class I to IV",
+    "Infective or autoimmune; chronic; endocardial or pericardial; chamber(s); pulmonary oedema",
+    "Congenital or acquired; rheumatic/recurrent; left, right or both; specific valve(s); LVF, RVF or CCF",
+    "Valvular or myocardial; progressive; arterial or venous; semilunar valve(s); shock"
+   ],
+   "ans": 2,
+   "exp": "The five blanks in the history summary sentence on Book p25 are: congenital/acquired, recurrent (rheumatic) heart disease, left/right/both sides, probable valve(s) involved, and signs/symptoms of LVF/RVF/CCF. (Book p25)"
+  },
+  {
+   "id": "MED-C2-65",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 25,
+   "fmt": "recall",
+   "q": "How does Book p25 define the arterial pulse, and what term does it use when a high temperature fails to produce the expected tachycardia?",
+   "opts": [
+    "Waveform felt by the finger produced by cardiac systole that traverses the arterial tree in a peripheral direction; inappropriate bradycardia",
+    "Column of blood ejected per stroke from the left ventricle into the radial artery; pulsus parvus",
+    "Difference between systolic and diastolic lateral pressure in a peripheral artery; apex-pulse deficit",
+    "Oscillation of the arterial wall during diastolic recoil after aortic valve closure; dicrotic bradycardia"
+   ],
+   "ans": 0,
+   "exp": "With a high temperature one expects tachycardia — if absent, p25 calls it inappropriate bradycardia. The pulse is defined as the waveform felt by the finger that is produced by cardiac systole which traverses the arterial tree in a peripheral direction. (Book p25)"
+  },
+  {
+   "id": "MED-C2-66",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 25,
+   "fmt": "numeric",
+   "q": "Under 'Pulse — What to check' on Book p25, the normal pulse rate is ____, pulse volume is assessed clinically at the ____ artery, and the normal pulse pressure used alongside it is ____.",
+   "opts": [
+    "50–90/min; radial; 20–40 mmHg",
+    "60–100/min; carotid; 30–60 mmHg",
+    "60–100/min; brachial; 40–80 mmHg",
+    "70–110/min; femoral; 30–50 mmHg"
+   ],
+   "ans": 1,
+   "exp": "Book p25 specifies: Rate = 60–100; Volume is checked at the carotid artery and also using pulse pressure (normal 30–60 mmHg). (Book p25)"
+  },
+  {
+   "id": "MED-C2-67",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 25,
+   "fmt": "match",
+   "q": "Match each pulse rhythm or volume category on Book p25 to its listed causes — 1) Regularly regular tachycardia 2) Regularly irregular rhythm 3) High-volume pulse 4) Low-volume pulse … A) Bigeminy or trigeminy (while atrial fibrillation is irregularly irregular) B) Sinus tachycardia, ventricular tachycardia, atrial flutter and paroxysmal atrial tachycardia C) Heart failure, shock, mitral stenosis and aortic stenosis D) Fever, anaemia, thyrotoxicosis, mitral regurgitation and VSD",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Book p25 classifies rhythm into regularly regular tachycardia (sinus tachycardia, VT, atrial flutter, PAT), regularly irregular (bigeminy, trigeminy) and irregularly irregular (AF); volume is high in fever, anaemia, thyrotoxicosis, MR and VSD, and low in heart failure, shock, MS and AS. (Book p25)"
+  },
+  {
+   "id": "MED-C2-68",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 25,
+   "fmt": "oddoneout",
+   "q": "Which of the following conditions is listed on Book p25 as a cause of a HIGH-volume pulse rather than a low-volume pulse?",
+   "opts": [
+    "Heart failure",
+    "Shock",
+    "Mitral stenosis and aortic stenosis",
+    "Mitral regurgitation and VSD"
+   ],
+   "ans": 3,
+   "exp": "High-volume pulse causes on Book p25 are fever, anaemia, thyrotoxicosis, MR and VSD; low-volume pulse causes are heart failure, shock, MS and AS. (Book p25)"
+  },
+  {
+   "id": "MED-C2-69",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 25,
+   "fmt": "scenario",
+   "q": "In a patient with atrial fibrillation, the apical heart rate exceeds the radial pulse rate, while in a patient with coarctation, the radial pulse precedes the femoral pulse. Which statement accurately states the physiological timing and mechanism on Book p25?",
+   "opts": [
+    "Normally the radial and femoral pulses arrive at the exact same millisecond; apex-pulse deficit is caused by retrograde blood flow into the left atrium during systole",
+    "Normally the radial pulse precedes the femoral pulse by 50 ms; apex-pulse deficit is caused by intermittent AV nodal block",
+    "Normally the femoral pulse precedes the radial pulse by a few milliseconds (reversal is radiofemoral delay); apex-pulse deficit occurs because variable diastolic durations in AF produce weak ventricular contractions that fail to generate a peripheral pulse",
+    "Normally the femoral pulse lags behind the radial pulse; apex-pulse deficit occurs only in ventricular bigeminy"
+   ],
+   "ans": 2,
+   "exp": "Normally the femoral pulse precedes the radial pulse by a few milliseconds; if the radial precedes the femoral it is called radiofemoral delay. In AF, variable durations of diastole produce some strong and some weak ventricular contractions — weak contractions cause a cardiac contraction at the apex but are not strong enough to produce a peripheral pulse (apex-pulse deficit). (Book p25)"
+  },
+  {
+   "id": "MED-C2-70",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "page": 26,
+   "fmt": "scenario",
+   "q": "Two patients present with a regularly regular tachycardia. Patient 1 is unchanged by vagal manoeuvres and has cannon A waves with variable S1 intensity; Patient 2 terminates abruptly after carotid sinus massage and reports a pounding sensation in the neck. According to Book p26:",
+   "opts": [
+    "Patient 1 has paroxysmal atrial tachycardia; Patient 2 has ventricular tachycardia with retrograde 1:1 conduction",
+    "Patient 1 has ventricular tachycardia (AV dissociation produces cannon A waves and variable S1); Patient 2 has paroxysmal atrial tachycardia (simultaneous carotid pulsations and cannon A waves cause neck pounding)",
+    "Patient 1 has atrial flutter with fixed 2:1 block; Patient 2 has sinus tachycardia",
+    "Both patients have ventricular tachycardia, since cannon A waves never occur in supraventricular arrhythmias"
+   ],
+   "ans": 1,
+   "exp": "Book p26 distinguishes VT from PAT: VT is usually unchanged by vagal manoeuvres and shows signs of AV dissociation (cannon A waves and variable intensity of S1), whereas PAT resolves abruptly after Valsalva or carotid artery massage and is typically associated with a pounding feeling in the neck due to simultaneous carotid pulsations and cannon A waves (followed by checking vessel wall thickening). (Book p26)"
+  },
+  {
+   "id": "MED-C2-71",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 26,
+   "fmt": "recall",
+   "q": "In the text and accompanying arterial pulse diagram on Book p26, the normal pulse consists of which components?",
+   "opts": [
+    "An upstroke (anacrotic limb) in systole and a downstroke (dicrotic limb) separated by a dicrotic notch that corresponds to S2 (closure of the semilunar valves)",
+    "A dicrotic upstroke in systole and an anacrotic downstroke in diastole separated by a notch corresponding to S1",
+    "Two equal systolic peaks separated by a mid-systolic Bernoulli dip before S2",
+    "A systolic wave and a diastolic wave separated by an opening snap of the atrioventricular valves"
+   ],
+   "ans": 0,
+   "exp": "The normal pulse has a systolic wave (ascending anacrotic limb) and diastolic wave (descending dicrotic limb) separated by a dicrotic notch corresponding to S2 (closure of the semilunar valves). (Book p26)"
+  },
+  {
+   "id": "MED-C2-72",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 26,
+   "fmt": "scenario",
+   "q": "A patient has two palpable systolic peaks of equal strength in the carotid pulse (pulsus bisferiens). How does Book p26 explain the mid-systolic dip between the two peaks via the Bernoulli effect?",
+   "opts": [
+    "Premature closure of the aortic valve in mid-systole halts forward flow until a second atrial contraction reopens the valve",
+    "Reflected pressure waves from the femoral bifurcation arrive in early diastole after semilunar valve closure",
+    "Ejection of a rapid jet of blood through the aortic valve creates high flow velocity, and since lateral pressure is inversely proportional to flow velocity through a tube, there is a sudden decrease in lateral pressure on the inner wall of the ascending aorta",
+    "High peripheral vascular resistance coupled with low cardiac output accentuates the diastolic recoil wave"
+   ],
+   "ans": 2,
+   "exp": "Pulsus bisferiens has two palpable systolic peaks of equal strength. When a rapid jet of blood is ejected through the aortic valve, the Bernoulli effect (lateral pressure is inversely proportional to velocity of flow through a tube) acts on the walls of the ascending aorta, producing a sudden decrease in lateral pressure on the inner aspect of the wall. (Book p26)"
+  },
+  {
+   "id": "MED-C2-73",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 26,
+   "fmt": "match",
+   "q": "Match each aspect of pulsus bisferiens on Book p26 to its specific detail — 1) Moderate AS with severe AR 2) HOCM 3) Third listed cause of pulsus bisferiens 4) Auscultatory equivalents of pulsus bisferiens … A) Obstruction occurs later in systole as the mitral valve approximates the hypertrophied septum, causing a sharp pressure drop followed by a secondary rise B) Moderate AS causes a jet with extra velocity to be shot out C) Double Korotkoff sounds and Traube's femoral sounds D) Isolated severe aortic regurgitation",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Book p26 lists three causes of pulsus bisferiens — (i) moderate AS with severe AR (moderate AS shoots out a jet with extra velocity), (ii) HOCM (late-systolic obstruction as the mitral valve approximates the hypertrophied septum -> sharp drop then secondary rise), and (iii) severe AR — and notes that it can also be detected as double Korotkoff sounds and Traube's femoral sounds. (Book p26)"
+  },
+  {
+   "id": "MED-C2-74",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 26,
+   "fmt": "fillup",
+   "q": "On Book p26, pulsus bisferiens can also be detected on auscultation as double Korotkoff sounds and ____ femoral sounds.",
+   "opts": [
+    "Traube's",
+    "Duroziez's",
+    "Korotkoff Phase 4",
+    "Carvallo's"
+   ],
+   "ans": 0,
+   "exp": "Item 2.c on Book p26 states: 'Can also be detected as double Korotkoff sounds and Traube's femoral sounds.' (Book p26)"
+  },
+  {
+   "id": "MED-C2-75",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 27,
+   "fmt": "match",
+   "q": "Match each arterial pulse waveform on Book p27 to its timing, haemodynamic setting and classic cause — 1) Bifid ('spike and dome') pulse 2) Dicrotic pulse 3) Anacrotic pulse 4) Bounding pulse … A) Second peak arises in diastole (after S2); low cardiac output + high PVR; caused by LV failure B) Classic pulse of HOCM: early systolic emptying -> obstruction -> late systolic emptying (both peaks before S2) C) Rapid rise + high-volume pulse (with Corrigan/Waterhammer pulse as its exaggerated form) D) Notch palpable on the upstroke; severe aortic stenosis",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Book p27 text and waveform diagrams contrast: Bifid ('spike and dome') pulse in HOCM (both peaks in systole before S2); Dicrotic pulse in LV failure with low CO + high PVR (second peak in diastole after S2); Anacrotic pulse in severe AS (palpable notch on the upstroke); and Bounding pulse (rapid rise + high volume), whose exaggerated form is the Corrigan/Waterhammer pulse. (Book p27)"
+  },
+  {
+   "id": "MED-C2-76",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 27,
+   "fmt": "scenario",
+   "q": "On the three-panel arterial waveform comparison on Book p27 ('Pulsus Bisferiens', 'Spike and Dome pulse', 'Dicrotic pulse') timed against S1 and S2, what distinguishes the dicrotic pulse from the other two?",
+   "opts": [
+    "In the dicrotic pulse both peaks precede S1, whereas in pulsus bisferiens the second peak follows S2",
+    "In the dicrotic pulse the notch is on the ascending anacrotic limb before the systolic peak",
+    "In the dicrotic pulse the peripheral vascular resistance is low and cardiac output is high",
+    "In the dicrotic pulse the second peak occurs after S2 in diastole, whereas in both pulsus bisferiens and the spike-and-dome pulse both peaks occur between S1 and S2 in systole"
+   ],
+   "ans": 3,
+   "exp": "As shown in the p27 timing strip against S1 and S2, pulsus bisferiens and the HOCM spike-and-dome pulse are both double-peaked in systole (between S1 and S2), whereas the dicrotic pulse has its second peak after S2 in diastole (low CO + high PVR in LV failure). (Book p27)"
+  },
+  {
+   "id": "MED-C2-77",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 27,
+   "fmt": "fillup",
+   "q": "An ____ pulse has a notch palpable on its upstroke and is seen in severe aortic stenosis, whereas the Corrigan (Waterhammer) pulse is an exaggerated bounding pulse whose sudden, forceful, jerky rise is due to rapid filling of the ____ artery.",
+   "opts": [
+    "Anacrotic; radial",
+    "Dicrotic; carotid",
+    "Bisferiens; brachial",
+    "Alternans; femoral"
+   ],
+   "ans": 0,
+   "exp": "On Book p27, an anacrotic pulse is defined by a notch palpable on the upstroke (seen in severe AS), and the Corrigan/Waterhammer pulse is an exaggerated form of bounding pulse whose sudden, forceful, jerky rise is due to rapid filling of the radial artery. (Book p27)"
+  },
+  {
+   "id": "MED-C2-78",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 28,
+   "fmt": "scenario",
+   "q": "When demonstrating a Corrigan (Waterhammer) pulse, you raise the patient's hand above the head. According to Book p28, which two mechanisms explain why raising the hand accentuates the sign, and what causes the sudden collapsing downstroke?",
+   "opts": [
+    "Raising the arm compresses the subclavian artery at the thoracic outlet and induces reflex brachial vasodilation; the downstroke is caused by premature closure of the aortic valve",
+    "Gravity empties the radial artery (further raising pulse pressure) and brings the radial artery in line with the aorta (making it sensitive to aortic pressure changes); the collapsing downstroke is due to diastolic regurgitation into the LV plus rapid peripheral runoff from increased blood-stream velocity",
+    "Venous pooling in the forearm increases local capillary hydrostatic pressure; the downstroke is caused by a Bernoulli drop during mid-systole",
+    "Raising the arm slows heart rate via the baroreceptor reflex; the downstroke is caused by right ventricular interdependence"
+   ],
+   "ans": 1,
+   "exp": "Book p28 gives both reasons for raising the arm (gravity empties the radial artery, raising pulse pressure; radial artery comes into line with the aorta, making it sensitive to aortic pressure changes), explains the jerky upstroke (extra-large stroke volume ejected by a distended LV into a relatively empty vessel) and the collapsing downstroke (sudden fall of aortic BP during diastolic regurgitation + rapid emptying of the arterial system from increased blood velocity). (Book p28)"
+  },
+  {
+   "id": "MED-C2-79",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "page": 28,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as a cause of a Corrigan (Waterhammer) pulse on Book p28?",
+   "opts": [
+    "Aortic regurgitation (AR)",
+    "Patent ductus arteriosus (PDA)",
+    "Other hyperdynamic circulatory states",
+    "Severe calcific aortic stenosis"
+   ],
+   "ans": 3,
+   "exp": "Book p28 lists the causes of Corrigan/Waterhammer pulse under 6.f as AR, PDA and other hyperdynamic circulatory states. Severe aortic stenosis causes the opposite pattern: pulsus parvus et tardus (item 8 on the same page). (Book p28)"
+  },
+  {
+   "id": "MED-C2-80",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 28,
+   "fmt": "fillup",
+   "q": "In the waveform diagram on Book p28, characteristic of aortic stenosis, 'Parvus' means ____ (low peak) and 'Tardus' means ____ (wide).",
+   "opts": [
+    "Slow; weak",
+    "Narrow; bounding",
+    "Weak; slow",
+    "Delayed; collapsing"
+   ],
+   "ans": 2,
+   "exp": "Pulsus parvus is a low-amplitude pulse seen in low cardiac output states; in pulsus parvus et tardus (characteristic of AS), the p28 diagram labels 'Parvus = weak (low peak)' and 'Tardus = slow (wide)'. (Book p28)"
+  },
+  {
+   "id": "MED-C2-81",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 28,
+   "fmt": "match",
+   "q": "Match each pulse/rhythm pattern on Book p28 to its definition and mechanism — 1) Pulsus bigeminy 2) Why bigeminy perpetuates itself 3) Pulsus trigeminy 4) Regular rhythm with alternating strong and weak beats … A) Two sinus beats followed by a PVC, so every third beat is a PVC B) Two beats felt with a pause and an irregular rhythm, where a PVC follows every sinus beat C) The long cycle length (compensatory pause) after the prior PVC tends to precipitate the next PVC after a sinus beat D) Pulsus alternans (not bigeminy, because the rhythm is regular)",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Book p28 contrasts bigeminy (two beats felt with a pause + irregular rhythm when a PVC follows every sinus beat; if regular rhythm, it is called pulsus alternans), the rule of bigeminy (the long cycle length after the prior PVC precipitates the next PVC), and trigeminy (two sinus beats followed by a PVC, so every third beat is a PVC). (Book p28)"
+  },
+  {
+   "id": "MED-C2-82",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 28,
+   "fmt": "numeric",
+   "q": "In normal individuals, the maximum drop in systolic BP with deep inspiration is ____ (above which it is an exaggerated pulsus paradoxus), driven by which two normal inspiratory mechanisms on Book p28?",
+   "opts": [
+    "<20 mmHg; (1) inspiratory vagal withdrawal causes tachycardia, and (2) compression of the thoracic aorta by the inflated lungs",
+    "<10 mmHg; (1) negative intrathoracic pressure increases venous return and RV filling, pushing the interventricular septum toward the LV, and (2) increased venous pooling in the lungs reduces LA filling",
+    "<5 mmHg; (1) decreased right atrial filling during inspiration, and (2) opening of intrapulmonary arteriovenous shunts",
+    "<15 mmHg; (1) shift of blood from the pulmonary veins into the splanchnic bed, and (2) reflex systemic vasodilation"
+   ],
+   "ans": 1,
+   "exp": "Normally the maximum inspiratory drop in SBP is <10 mmHg (>10 mmHg is exaggerated pulsus paradoxus). The two normal mechanisms are: (1) inspiration -> negative intrathoracic pressure -> increased venous return -> increased RV filling -> pushes IV septum toward LV -> decreases LV volume; and (2) increased venous pooling in the lungs reducing LA filling. (Book p28)"
+  },
+  {
+   "id": "MED-C2-83",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 29,
+   "fmt": "management",
+   "q": "When measuring pulsus paradoxus with a sphygmomanometer as described on Book p29, you inflate the cuff above systolic pressure and deflate slowly. Which two pressure readings define the upper and lower limits whose difference equals pulsus paradoxus?",
+   "opts": [
+    "Upper limit = pressure at which Korotkoff sounds are heard only in expiration; Lower limit = pressure at which Korotkoff sounds are heard in both inspiration and expiration",
+    "Upper limit = pressure at which Korotkoff sounds are heard only in inspiration; Lower limit = pressure at which Korotkoff sounds disappear completely in expiration",
+    "Upper limit = pressure at which Phase 1 tapping appears; Lower limit = pressure at which Phase 4 muffling appears",
+    "Upper limit = systolic pressure in the supine posture; Lower limit = systolic pressure after 3 minutes of standing"
+   ],
+   "ans": 0,
+   "exp": "To measure pulsus paradoxus: inflate the BP cuff above systolic pressure; the pressure at which Korotkoff sounds are heard only in expiration is the upper limit, and the pressure at which Korotkoff sounds are heard in both inspiration and expiration is the lower limit. Their difference is pulsus paradoxus. (Book p29)"
+  },
+  {
+   "id": "MED-C2-84",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 29,
+   "fmt": "match",
+   "q": "Match each condition on Book p29 to its mechanism of pulsus paradoxus (or reversed pulsus paradoxus) — 1) Cardiac tamponade 2) Constrictive pericarditis 3) Asthma, COPD, OSA and obesity 4) Reversed pulsus paradoxus in HOCM … A) Thickened pericardium blocks transmission of inspiratory pleural pressure fall to cardiac chambers, while intrapleural extrapericardial pulmonary veins drop in pressure, diminishing the LA filling gradient B) Expiration markedly raises intrathoracic pressure to overcome airway obstruction, so inspiration lowers systolic pressure excessively C) Pericardial fluid equalises RV and LV diastolic pressures; inspiratory right-heart filling is accommodated only by bowing of the IV septum toward the LV D) Inspiratory rise in arterial systolic and diastolic pressure because of decreased LV volume on expiration",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Book p29 details all four mechanisms: tamponade (equal RV/LV diastolic pressures -> septal bowing into LV on inspiration), constrictive pericarditis (dissociation between intrathoracic/pulmonary venous pressure fall and insulated intracardiac chambers -> reduced LA filling gradient), asthma/COPD/OSA/obesity (wide intrathoracic pressure swings from expiratory obstruction), and reversed pulsus paradoxus in HOCM (inspiratory rise in SBP/DBP due to decreased LV volume on expiration). (Book p29)"
+  },
+  {
+   "id": "MED-C2-85",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 29,
+   "fmt": "scenario",
+   "q": "In the mechanism of pulsus paradoxus in constrictive pericarditis on Book p29, why does the normal pressure gradient for left atrial filling fall during inspiration?",
+   "opts": [
+    "Because the pulmonary veins are intrapleural but extrapericardial (so their pressure falls with inspiration), whereas the thickened pericardium prevents the inspiratory fall in pleural pressure from being transmitted to the cardiac chambers",
+    "Because the pulmonary veins are intrapericardial and extrapleural, so inspiration compresses them directly",
+    "Because the left atrium herniates through the pericardial defect during inspiration",
+    "Because tricuspid regurgitation reverses pulmonary venous flow during inspiration"
+   ],
+   "ans": 0,
+   "exp": "Book p29 explains this anatomical dissociation clearly: normally pericardial and pleural pressures fall by the same amount during inspiration, but in constrictive pericarditis the thickened pericardium blocks transmission to the cardiac chambers, whereas the pulmonary veins are intrapleural but extrapericardial — so pulmonary venous pressure falls while LA pressure does not, diminishing the gradient for LA filling. (Book p29)"
+  },
+  {
+   "id": "MED-C2-86",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 29,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately describes reversed pulsus paradoxus on Book p29?",
+   "opts": [
+    "True: Reversed pulsus paradoxus is an expiratory rise in arterial pressure seen in cardiac tamponade",
+    "True: Reversed pulsus paradoxus is an inspiratory rise in arterial systolic and diastolic pressure seen in HOCM because of decreased LV volume on expiration",
+    "False: Reversed pulsus paradoxus is seen in HOCM",
+    "False: In reversed pulsus paradoxus, arterial systolic and diastolic pressures rise during inspiration"
+   ],
+   "ans": 1,
+   "exp": "Reversed pulsus paradoxus is defined on Book p29 as an inspiratory rise in arterial systolic and diastolic pressure, seen in HOCM because of a decrease in LV volume on expiration. (Book p29)"
+  },
+  {
+   "id": "MED-C2-87",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "page": 29,
+   "fmt": "scenario",
+   "q": "A patient in sinus rhythm with a normal heart rate has alternating strong and weak radial pulses and alternating loud and soft Korotkoff sounds when the cuff is lowered just below peak systolic pressure. According to Book p29, what does this sign indicate, what is its most accepted cellular mechanism, and what pressure difference can be detected?",
+   "opts": [
+    "Sign of right ventricular infarction; caused by alternating AV nodal conduction through dual pathways; pulsus alternans of >25 mmHg is required for detection",
+    "Sign of cardiac tamponade; caused by swinging of the heart within a large pericardial effusion; pulsus alternans of >5 mmHg is diagnostic",
+    "Sign of severe aortic regurgitation; caused by Bernoulli suction in the ascending aorta; pulsus alternans is detected only in diastole",
+    "Sign of LV dysfunction; caused by intermittent release of Ca2+ ions from the myocardial sarcoplasmic reticulum; pulsus alternans of >10 mmHg can be detected"
+   ],
+   "ans": 3,
+   "exp": "Pulsus alternans is alternating strong and weak pulses despite normal rate and rhythm, a sign of LV dysfunction. Its most accepted theory is intermittent release of Ca2+ ions from the myocardial sarcoplasmic reticulum, and a difference of >10 mmHg can be detected with a BP cuff (followed at the bottom of p29 by the Harrison's 21e Ch 239 cross-reference for volume, contour, timing, radio-femoral delay, Allen's test, parvus et tardus, bisferiens, alternans and paradoxus). (Book p29)"
+  },
+  {
+   "id": "MED-C2-88",
+   "sec": "CVS General Examination: PICCLE, Slow vs Fast Oedema, RF, IE & AR Signs",
+   "page": 30,
+   "fmt": "scenario",
+   "q": "During the general examination of a patient with suspected congenital cyanotic heart disease (Book p30), why must you look for a ruddy/suffused conjunctiva alongside pallor, and how does the book instruct you to examine the tongue for cyanosis?",
+   "opts": [
+    "A ruddy/suffused conjunctiva indicates polycythaemia pointing to congenital cyanotic heart disease (while coexisting anaemia can act as a confounding factor); ask the patient to stick out their tongue and leave it out for some time",
+    "A ruddy conjunctiva indicates subconjunctival haemorrhage from infective endocarditis; ask the patient to curl the tongue upward to inspect only the frenulum",
+    "A ruddy conjunctiva indicates hypercapnic vasodilation; ask the patient to swallow repeatedly while inspecting the soft palate",
+    "A ruddy conjunctiva rules out congenital heart disease; cyanosis of the tongue is checked only under fluorescent light"
+   ],
+   "ans": 0,
+   "exp": "On Book p30: check BP in UL and LL plus pulse pressure, RR, and under PICCLE: (1) Pallor — check for ruddy/suffused conjunctiva indicating polycythaemia of congenital cyanotic heart disease (noting anaemia itself can act as a confounding factor); (2) Icterus — 'better to avoid'; (3) Cyanosis — ask the patient to stick out their tongue and leave it out for some time, and also check lips, nail bed, ear lobe, tip of nose, inner surface of lips and palate. (Book p30)"
+  },
+  {
+   "id": "MED-C2-89",
+   "sec": "CVS General Examination: PICCLE, Slow vs Fast Oedema, RF, IE & AR Signs",
+   "page": 30,
+   "fmt": "match",
+   "q": "Match each column from Book p30 to its exact entries — 1) Central cyanosis causes: cardiac, vascular and haemoglobin 2) Central cyanosis cause: V/Q mismatch 3) Peripheral cyanosis causes 4) CVS causes of clubbing … A) Shock/CHF, cold exposure and peripheral vascular disease B) Cyanotic heart disease, pulmonary AV fistulas and Hb anomalies [met-, sulf-, CO-Hb] C) Congenital cyanotic heart disease, infective endocarditis and left atrial myxoma D) Pulmonary oedema, COPD and extensive pneumonia",
+   "opts": [
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 1,
+   "exp": "Book p30 tabulates Central cyanosis (1. Cyanotic HD, 2. Pulmonary AV fistulas, 3. Hb anomalies [met, sulf, CO], 4. V/Q mismatch [pulmonary oedema, COPD, extensive pneumonia]) vs Peripheral cyanosis (1. Shock/CHF, 2. Cold exposure, 3. PVD), and lists the three CVS causes of clubbing: congenital cyanotic heart disease, infective endocarditis and left atrial myxoma. (Book p30)"
+  },
+  {
+   "id": "MED-C2-90",
+   "sec": "CVS General Examination: PICCLE, Slow vs Fast Oedema, RF, IE & AR Signs",
+   "page": 30,
+   "fmt": "fillup",
+   "q": "On Book p30, pitting oedema is checked on a bony prominence such as the shin of the tibia or just above the ____, and in a bedridden cardiac patient dependent oedema is seen in the ____ region.",
+   "opts": [
+    "Medial malleolus; presacral",
+    "Lateral malleolus; periorbital",
+    "Tibial tuberosity; submental",
+    "Calcaneal tendon; infraclavicular"
+   ],
+   "ans": 0,
+   "exp": "Under 5. Oedema on Book p30: check for pitting on a bony prominence like the shin of the tibia or just above the medial malleolus, and oedema in a cardiac patient is seen in the presacral region (the dependent part). (Book p30)"
+  },
+  {
+   "id": "MED-C2-91",
+   "sec": "CVS General Examination: PICCLE, Slow vs Fast Oedema, RF, IE & AR Signs",
+   "page": 30,
+   "fmt": "numeric",
+   "q": "When testing for pitting oedema on Book p30, what time cutoff separates slow oedema from fast oedema, what does each signify, and what is the treatment of slow oedema?",
+   "opts": [
+    "Slow oedema: pitting lasts >2 minutes (indicates lymphatic obstruction); Fast oedema: pitting lasts <10 seconds (indicates right heart failure); treated with albumin infusion",
+    "Slow oedema: pitting lasts >60 seconds (indicates hypoproteinaemia); Fast oedema: pitting lasts <60 seconds (indicates sodium retention); treated with fluid restriction",
+    "Slow oedema: pitting lasts >40 seconds (indicates 4 kg sodium and water retention in the extravascular compartment; treatment is salt restriction); Fast oedema: pitting lasts <40 seconds (due to hypoproteinaemia)",
+    "Slow oedema: pitting lasts >40 seconds (due to hypoalbuminaemia); Fast oedema: pitting lasts <40 seconds (due to 4 kg salt retention); treated with compression stockings"
+   ],
+   "ans": 2,
+   "exp": "Book p30 defines Slow oedema as pitting lasting >40 seconds (indicating sodium and water — 4 kg — retention in the extravascular compartment; treatment is salt restriction) and Fast oedema as pitting lasting <40 seconds (due to hypoproteinaemia), followed by Ht, wt and BMI. (Book p30)"
+  },
+  {
+   "id": "MED-C2-92",
+   "sec": "CVS General Examination: PICCLE, Slow vs Fast Oedema, RF, IE & AR Signs",
+   "page": 30,
+   "fmt": "match",
+   "q": "Match each peripheral sign on Book p30 to its description — 1) Subcutaneous nodules of rheumatic activity 2) Janeway lesions vs Osler nodes in IE 3) Roth spots and splinter haemorrhages in IE 4) Lighthouse sign of AR … A) Alternate flushing and blanching of the forehead B) Painless, pea-sized nodules over bony prominences / extensor aspects of long bones (alongside joint swelling) C) Janeway = non-tender erythematous macules on palms/soles; Osler = tender subcutaneous violaceous nodules on pads of fingers/toes D) Roth = exudative oedematous haemorrhagic retinal lesions with pale centres; Splinter = non-blanching reddish-brown lesions under the nail bed",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Book p30 details: Signs of rheumatic activity (painless pea-sized SC nodules over bony prominences/extensor aspects of long bones + joint swelling); Signs of IE (Janeway lesions, Osler nodes, Roth spots, splinter haemorrhages); and Signs of AR #1: Lighthouse sign = alternate flushing and blanching of the forehead. (Book p30)"
+  },
+  {
+   "id": "MED-C2-93",
+   "sec": "CVS General Examination: PICCLE, Slow vs Fast Oedema, RF, IE & AR Signs",
+   "page": 30,
+   "fmt": "oddoneout",
+   "q": "Under 'Signs of IE' on Book p30, item 5 explicitly groups three features as 'Immunologic phenomena in IE'. Which of the following is NOT one of those three?",
+   "opts": [
+    "Osler nodes",
+    "Roth spots",
+    "Microscopic haematuria",
+    "Janeway lesions"
+   ],
+   "ans": 3,
+   "exp": "Item 5 under Signs of IE on Book p30 states: 'Immunologic phenomena in IE — Osler nodes, Roth spots and microscopic haematuria'. Non-tender Janeway lesions on the palms and soles are microembolic/vascular phenomena, not immunologic. (Book p30)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U2-1",
+   "ch": 2,
+   "n": 1,
+   "title": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "sec": "Cardinal Symptoms, Dyspnoea & NYHA Grading",
+   "guide": "Five cardinal CVS symptoms: breathlessness, chest pain, palpitations, syncope and pedal oedema (Dr. Hamide replaces pedal oedema with cough).\nDyspnoea is abnormal awareness of one's own respiration; orthopnoea is more severe than PND and reflects recumbent fluid shift from splanchnic/lower-limb beds.\nNYHA Class I-IV is graded by both Dr. Hamide (unaccustomed, accustomed, day-to-day, rest) and Dr. Vivekanandan (if walking produces symptoms, consider Class III).",
+   "qs": [
+    "MED-C2-01",
+    "MED-C2-02",
+    "MED-C2-03",
+    "MED-C2-04",
+    "MED-C2-05",
+    "MED-C2-06",
+    "MED-C2-07",
+    "MED-C2-08",
+    "MED-C2-09",
+    "MED-C2-10",
+    "MED-C2-11"
+   ]
+  },
+  {
+   "id": "MED-U2-2",
+   "ch": 2,
+   "n": 2,
+   "title": "Trepopnea, Platypnea & Orthodeoxia",
+   "sec": "Trepopnea, Platypnea & Orthodeoxia",
+   "guide": "Normal daily physical activity benchmark is 1-2 flights of stairs.\nTrepopnea (dyspnoea in right or left decubitus) is seen in dilated cardiomyopathy.\nPlatypnea (upright dyspnoea) and orthodeoxia (>=5% SpO2 drop upright) occur in LA thrombus, LA myxoma, hepatopulmonary syndrome (NO-mediated basal AV shunts), ASD and V/Q mismatch.",
+   "qs": [
+    "MED-C2-12",
+    "MED-C2-13",
+    "MED-C2-14",
+    "MED-C2-15",
+    "MED-C2-16"
+   ]
+  },
+  {
+   "id": "MED-U2-3",
+   "ch": 2,
+   "n": 3,
+   "title": "Chest Pain: Site, Onset, Nature, Radiation & Posture",
+   "sec": "Chest Pain: Semiological Analysis",
+   "guide": "Site: central = angina/ischaemia; retrosternal = oesophageal; epigastric radiating to chest = GI or angina.\nOnset & nature: builds over minutes = MI/angina; immediate peak = aortic dissection, PE, spontaneous pneumothorax; burning pain can still be MI.\nRadiation & posture: neck/jaw/arms = MI; interscapular back = dissection; trapezius ridge and relief on sitting upright leaning forward = pericarditis.",
+   "qs": [
+    "MED-C2-17",
+    "MED-C2-18",
+    "MED-C2-19",
+    "MED-C2-20",
+    "MED-C2-21",
+    "MED-C2-22"
+   ]
+  },
+  {
+   "id": "MED-U2-4",
+   "ch": 2,
+   "n": 4,
+   "title": "Orthopnoea vs PND (Boloor Insert Table)",
+   "sec": "Orthopnoea vs PND (Boloor Table 3C.7)",
+   "guide": "Boloor Table 3C.7 (p18-19) contrasts PND (sudden dyspnoea 2-2.5 h into sleep during REM from sympathetic surge and transient PCWP spike, with transient hypoxia) and orthopnoea (>400 mL recumbent venous shift with slow sustained PCWP rise and normal SpO2).\nPND differentials: nightmares, panic attacks, nocturnal hypoglycaemia, OSA.\nOrthopnoea differentials: COPD, gross obesity, acute asthma, gross ascites.",
+   "qs": [
+    "MED-C2-23",
+    "MED-C2-24",
+    "MED-C2-25",
+    "MED-C2-26",
+    "MED-C2-27",
+    "MED-C2-28",
+    "MED-C2-29"
+   ]
+  },
+  {
+   "id": "MED-U2-5",
+   "ch": 2,
+   "n": 5,
+   "title": "Chest Pain Causes & Angina Variants",
+   "sec": "Chest Pain: Meals, Causes Table & Angina Variants",
+   "guide": "Post-meal pain (60-90 min) occurs in pancreatitis, cholecystitis, peptic ulcer and postprandial angina; NTG relieves both angina/MI and oesophageal spasm.\nNon-ischaemic CVS chest pain includes AS/HOCM (LVH oxygen demand) and AR (diastolic coronary filling lost to regurgitation).\nVariants: unstable, crescendo (never at rest), nocturnal/decubitus (severe CAD), walk-through (exercise vasodilation), silent MI (30%, elderly/DM), angina equivalents and second-wind angina.",
+   "qs": [
+    "MED-C2-30",
+    "MED-C2-31",
+    "MED-C2-32",
+    "MED-C2-33",
+    "MED-C2-34",
+    "MED-C2-35",
+    "MED-C2-36",
+    "MED-C2-37",
+    "MED-C2-38"
+   ]
+  },
+  {
+   "id": "MED-U2-6",
+   "ch": 2,
+   "n": 6,
+   "title": "CCS Angina Grading & Syncope vs Seizure",
+   "sec": "CCS Angina Grading & Syncope vs Seizure",
+   "guide": "CCS stable angina: Grade 1 strenuous exercise only; Grade 2 slight limitation; Grade 3 walking 1-2 blocks or <1 flight of stairs; Grade 4 discomfort with any activity or at rest.\nExertional syncope points to fixed-output lesions (AS, HOCM).\nVasovagal syncope (<60 s, pale/grey, rare lateral tongue bite, rapid recovery) is separated from seizure (1-2 min tonic-clonic, red/blue, lateral tongue bite, >30 min post-ictal confusion).",
+   "qs": [
+    "MED-C2-39",
+    "MED-C2-40",
+    "MED-C2-41",
+    "MED-C2-42",
+    "MED-C2-43",
+    "MED-C2-44",
+    "MED-C2-45"
+   ]
+  },
+  {
+   "id": "MED-U2-7",
+   "ch": 2,
+   "n": 7,
+   "title": "Syncope: Pathophysiology & Aetiologies",
+   "sec": "Syncope Classification: Pathophysiology & Causes",
+   "guide": "Orthostatic syncope = fall in SBP >20 mmHg or DBP >10 mmHg within 3 min of standing (antihypertensives, diabetic autonomic neuropathy, anaemia).\nPost-tussive syncope = violent coughing in lung disease raising intrathoracic pressure and reducing venous return.\nCVS syncope splits into electrical (bradycardia, heart block, VT, SVT) and mechanical (AS, HOCM, PS, TOF, PE, and postural syncope in LA myxoma).",
+   "qs": [
+    "MED-C2-46",
+    "MED-C2-47",
+    "MED-C2-48",
+    "MED-C2-49",
+    "MED-C2-50"
+   ]
+  },
+  {
+   "id": "MED-U2-8",
+   "ch": 2,
+   "n": 8,
+   "title": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "sec": "Palpitations, Pedal Oedema (Box 6.8) & Cough",
+   "guide": "Palpitations (abnormal awareness of one's own heartbeat): exertional in regurgitant lesions, at rest in arrhythmia, followed by post-palpitation diuresis; in AR dyspnoea occurs much later than palpitations, whereas in MR they appear together.\nBox 6.8 lists unilateral (DVT, infection, trauma, hemiplegia, lymphoedema) and bilateral leg oedema causes including drugs (NSAIDs, nifedipine, amlodipine, fludrocortisone), IVC obstruction, wet beriberi and Milroy's disease.\nIn cough with blood, always ask about melena and association with food.",
+   "qs": [
+    "MED-C2-51",
+    "MED-C2-52",
+    "MED-C2-53",
+    "MED-C2-54",
+    "MED-C2-55",
+    "MED-C2-56",
+    "MED-C2-57"
+   ]
+  },
+  {
+   "id": "MED-U2-9",
+   "ch": 2,
+   "n": 9,
+   "title": "Negative, Past, Personal & Drug History",
+   "sec": "Negative, Past, Personal & Drug History",
+   "guide": "Negative history screens RHF, RF, left-sided disease (voice change, dysphagia, oliguria), congenital spells/squatting, PHT (pulmonary apoplexy) and IE (stroke/TIA, haematuria).\nPast history notes BMV in MS can cause MR; personal history checks IV drug abuse in suspected IE.\nDrug schedule: digoxin 5 days on / 2 days off; diuretics and nitroglycerin at 8 am and 4 pm (avoiding nocturia and nocturnal hypotension).",
+   "qs": [
+    "MED-C2-58",
+    "MED-C2-59",
+    "MED-C2-60",
+    "MED-C2-61",
+    "MED-C2-62"
+   ]
+  },
+  {
+   "id": "MED-U2-10",
+   "ch": 2,
+   "n": 10,
+   "title": "History Summary & Pulse Rate, Rhythm, Volume & Delay",
+   "sec": "History Summary & Arterial Pulse: Rate, Rhythm, Volume & Delay",
+   "guide": "Warfarin is taken at 4 pm daily and benzathine penicillin every 21 days.\nNormally femoral precedes radial pulse by a few ms (reversal = radiofemoral delay); in AF, variable diastolic filling causes weak contractions and an apex-pulse deficit.\nVT (unchanged by vagal manoeuvres, cannon A waves and variable S1 from AV dissociation) is separated from PAT (abrupt termination with Valsalva/carotid massage, neck pounding).",
+   "qs": [
+    "MED-C2-63",
+    "MED-C2-64",
+    "MED-C2-65",
+    "MED-C2-66",
+    "MED-C2-67",
+    "MED-C2-68",
+    "MED-C2-69",
+    "MED-C2-70"
+   ]
+  },
+  {
+   "id": "MED-U2-11",
+   "ch": 2,
+   "n": 11,
+   "title": "Pulse Waveforms: Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "sec": "Types of Pulse: Normal, Bisferiens, Bifid, Dicrotic, Anacrotic & Corrigan",
+   "guide": "Normal pulse has an anacrotic upstroke and dicrotic downstroke separated by the dicrotic notch at S2.\nPulsus bisferiens (two equal systolic peaks via Bernoulli effect) occurs in moderate AS + severe AR, HOCM and severe AR; bifid ('spike and dome') is classic for HOCM; dicrotic has its second peak in diastole (LV failure with low CO + high PVR); anacrotic has an upstroke notch (severe AS).\nCorrigan/Waterhammer pulse is accentuated by raising the arm (gravity empties the radial artery and aligns it with the aorta).",
+   "qs": [
+    "MED-C2-71",
+    "MED-C2-72",
+    "MED-C2-73",
+    "MED-C2-74",
+    "MED-C2-75",
+    "MED-C2-76",
+    "MED-C2-77",
+    "MED-C2-78",
+    "MED-C2-79"
+   ]
+  },
+  {
+   "id": "MED-U2-12",
+   "ch": 2,
+   "n": 12,
+   "title": "Parvus et Tardus, Bigeminy, Paradoxus & Alternans",
+   "sec": "Parvus et Tardus, Bigeminy, Pulsus Paradoxus & Pulsus Alternans",
+   "guide": "Pulsus parvus et tardus (weak low peak + slow wide upstroke) characterises AS; bigeminy pairs every sinus beat with a PVC (irregular rhythm), whereas regular alternating beats are pulsus alternans.\nPulsus paradoxus (>10 mmHg inspiratory SBP drop, measured from expiration-only to inspiration+expiration Korotkoff sounds) occurs in tamponade, constrictive pericarditis, asthma/COPD and OSA/obesity; reversed pulsus paradoxus occurs in HOCM.\nPulsus alternans (LV dysfunction, sarcoplasmic reticulum Ca2+ alternation) is detected by cuff when >10 mmHg.",
+   "qs": [
+    "MED-C2-80",
+    "MED-C2-81",
+    "MED-C2-82",
+    "MED-C2-83",
+    "MED-C2-84",
+    "MED-C2-85",
+    "MED-C2-86",
+    "MED-C2-87"
+   ]
+  },
+  {
+   "id": "MED-U2-13",
+   "ch": 2,
+   "n": 13,
+   "title": "CVS General Survey: PICCLE, Oedema Kinetics & Peripheral Signs",
+   "sec": "CVS General Examination: PICCLE, Slow vs Fast Oedema, RF, IE & AR Signs",
+   "guide": "Check ruddy/suffused conjunctiva for polycythaemia of cyanotic heart disease, tongue/mucosa for central vs peripheral cyanosis, and clubbing (cyanotic HD, IE, LA myxoma).\nSlow oedema pits >40 s (4 kg Na/water retention; treat with salt restriction); fast oedema pits <40 s (hypoproteinaemia); cardiac dependent oedema is presacral.\nCheck rheumatic nodules/joint swelling, IE stigmata (immunologic = Osler nodes, Roth spots, microscopic haematuria; vascular = Janeway lesions, splinter haemorrhages), and the Lighthouse sign of AR.",
+   "qs": [
+    "MED-C2-88",
+    "MED-C2-89",
+    "MED-C2-90",
+    "MED-C2-91",
+    "MED-C2-92",
+    "MED-C2-93"
+   ]
+  }
+ ]
+}

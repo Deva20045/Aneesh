@@ -892,5 +892,1355 @@
   "page": 14,
   "point": "Adjuncts queried in narrow pulse pressure",
   "question": "MED-C1-149"
+ },
+ {
+  "chapter": 1,
+  "page": 15,
+  "point": "Five AHA/ASA blood pressure categories and their systolic/diastolic cutoffs on Book p15",
+  "question": "MED-C1-150"
+ },
+ {
+  "chapter": 1,
+  "page": 15,
+  "point": "Classifying Elevated BP vs Stage 1 Hypertension using the AND vs OR connectors on Book p15",
+  "question": "MED-C1-151"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Five cardinal symptoms of CVS history and Dr. Hamide's substitution",
+  "question": "MED-C2-01"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Definition of dyspnoea (Dr. Hamide)",
+  "question": "MED-C2-02"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Quantifying progression of dyspnoea and associated symptoms",
+  "question": "MED-C2-03"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Dyspnoea history checklist (What to ask)",
+  "question": "MED-C2-04"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Harrison's mechanism of orthopnoea",
+  "question": "MED-C2-05"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Non-cardiac settings of orthopnoea (Harrison)",
+  "question": "MED-C2-06"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Severity of orthopnoea vs PND and why PND is delayed",
+  "question": "MED-C2-07"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Other symptoms graded by NYHA (Dr. Hamide)",
+  "question": "MED-C2-08"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "NYHA functional classification (Dr. Hamide)",
+  "question": "MED-C2-09"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "NYHA functional classification (Dr. Vivekanandan)",
+  "question": "MED-C2-10"
+ },
+ {
+  "chapter": 2,
+  "page": 16,
+  "point": "Dr. Vivek's walking rule for NYHA Class III and the limitation of NYHA",
+  "question": "MED-C2-11"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Normal benchmark for daily physical activity",
+  "question": "MED-C2-12"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Trepopnea definition and disease association",
+  "question": "MED-C2-13"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Definitions of platypnea and orthodeoxia",
+  "question": "MED-C2-14"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Five causes of platypnea/orthodeoxia and their mechanisms",
+  "question": "MED-C2-15"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Five causes of platypnea/orthodeoxia",
+  "question": "MED-C2-16"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Site and onset of chest pain",
+  "question": "MED-C2-17"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Abdominal/epigastric pain radiating to the chest and stabbing vs heavy-pressure pain",
+  "question": "MED-C2-18"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Nature/quality of chest pain",
+  "question": "MED-C2-19"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Burning chest pain caveat on Book p17",
+  "question": "MED-C2-20"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Radiation of chest pain",
+  "question": "MED-C2-21"
+ },
+ {
+  "chapter": 2,
+  "page": 17,
+  "point": "Aggravating and relieving factors of chest pain on Book p17",
+  "question": "MED-C2-22"
+ },
+ {
+  "chapter": 2,
+  "page": 18,
+  "point": "Boloor Table 3C.7: Definition, timing and relief of PND vs Orthopnoea",
+  "question": "MED-C2-23"
+ },
+ {
+  "chapter": 2,
+  "page": 18,
+  "point": "Boloor Table 3C.7: Mechanism of PND during REM sleep",
+  "question": "MED-C2-24"
+ },
+ {
+  "chapter": 2,
+  "page": 18,
+  "point": "Volume of venous blood shifted in orthopnoea and PCWP profile",
+  "question": "MED-C2-25"
+ },
+ {
+  "chapter": 2,
+  "page": 18,
+  "point": "Associated symptoms and oxygen saturation in PND vs Orthopnoea",
+  "question": "MED-C2-26"
+ },
+ {
+  "chapter": 2,
+  "page": 19,
+  "point": "Boloor Table 3C.7 (2 of 2): Differential diagnosis of PND vs Orthopnoea",
+  "question": "MED-C2-27"
+ },
+ {
+  "chapter": 2,
+  "page": 19,
+  "point": "PND differential diagnosis list on Book p19",
+  "question": "MED-C2-28"
+ },
+ {
+  "chapter": 2,
+  "page": 19,
+  "point": "Clinical application of Boloor Table 3C.7 differential diagnosis",
+  "question": "MED-C2-29"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Timing of post-meal GI pain, dual relief with NTG, and associated features of chest pain",
+  "question": "MED-C2-30"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Remaining items in the chest pain history checklist (f, g, h)",
+  "question": "MED-C2-31"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Mechanisms of non-ischaemic CVS chest pain in AS, AR and HOCM",
+  "question": "MED-C2-32"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Systemic classification of chest pain causes (p20 table)",
+  "question": "MED-C2-33"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Features and duration of classical anginal chest pain",
+  "question": "MED-C2-34"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Angina variants: unstable, crescendo, nocturnal/decubitus, walk-through, second-wind",
+  "question": "MED-C2-35"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Crescendo angina vs unstable angina rest pain distinction",
+  "question": "MED-C2-36"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Nocturnal/decubitus angina and inferior wall MI autonomic features",
+  "question": "MED-C2-37"
+ },
+ {
+  "chapter": 2,
+  "page": 20,
+  "point": "Silent MI percentage and risk groups; angina equivalents",
+  "question": "MED-C2-38"
+ },
+ {
+  "chapter": 2,
+  "page": 21,
+  "point": "Canadian Cardiovascular Society (CCS) grading of stable angina",
+  "question": "MED-C2-39"
+ },
+ {
+  "chapter": 2,
+  "page": 21,
+  "point": "Exact walking and stair thresholds for CCS Grade 3 stable angina",
+  "question": "MED-C2-40"
+ },
+ {
+  "chapter": 2,
+  "page": 21,
+  "point": "Exertional syncope, fixed cardiac output lesions and syncope history checklist",
+  "question": "MED-C2-41"
+ },
+ {
+  "chapter": 2,
+  "page": 21,
+  "point": "Vasovagal syncope vs seizure table (Part 1: trigger, prodrome, duration, convulsion)",
+  "question": "MED-C2-42"
+ },
+ {
+  "chapter": 2,
+  "page": 21,
+  "point": "Vasovagal syncope vs seizure table (Part 2: colour, lateral tongue biting, recovery)",
+  "question": "MED-C2-43"
+ },
+ {
+  "chapter": 2,
+  "page": 21,
+  "point": "Lateral vs tip tongue biting in vasovagal syncope vs seizure",
+  "question": "MED-C2-44"
+ },
+ {
+  "chapter": 2,
+  "page": 21,
+  "point": "Differential diagnosis list for syncope on Book p21",
+  "question": "MED-C2-45"
+ },
+ {
+  "chapter": 2,
+  "page": 22,
+  "point": "Definition of orthostatic syncope in the p22 table",
+  "question": "MED-C2-46"
+ },
+ {
+  "chapter": 2,
+  "page": 22,
+  "point": "Pathophysiology and causes across the syncope table on Book p22",
+  "question": "MED-C2-47"
+ },
+ {
+  "chapter": 2,
+  "page": 22,
+  "point": "CVS electrical vs mechanical causes of syncope",
+  "question": "MED-C2-48"
+ },
+ {
+  "chapter": 2,
+  "page": 22,
+  "point": "Post-tussive syncope mechanism and LA myxoma postural syncope",
+  "question": "MED-C2-49"
+ },
+ {
+  "chapter": 2,
+  "page": 22,
+  "point": "Shared systemic cause across Vasovagal and Orthostatic syncope columns and the 6th column on p22",
+  "question": "MED-C2-50"
+ },
+ {
+  "chapter": 2,
+  "page": 23,
+  "point": "Definition of palpitations (Dr. Hamide) and post-palpitation symptom",
+  "question": "MED-C2-51"
+ },
+ {
+  "chapter": 2,
+  "page": 23,
+  "point": "Semiology of palpitations: exertional vs rest, fast vs slow vs forceful",
+  "question": "MED-C2-52"
+ },
+ {
+  "chapter": 2,
+  "page": 23,
+  "point": "Timing of dyspnoea vs palpitations in AR and MR",
+  "question": "MED-C2-53"
+ },
+ {
+  "chapter": 2,
+  "page": 23,
+  "point": "Pedal oedema and cough history checklists on Book p23",
+  "question": "MED-C2-54"
+ },
+ {
+  "chapter": 2,
+  "page": 23,
+  "point": "Box 6.8 on Book p23: Causes of unilateral and bilateral leg oedema",
+  "question": "MED-C2-55"
+ },
+ {
+  "chapter": 2,
+  "page": 23,
+  "point": "Drugs causing bilateral leg oedema in Box 6.8 on Book p23",
+  "question": "MED-C2-56"
+ },
+ {
+  "chapter": 2,
+  "page": 23,
+  "point": "Cough history and distinguishing haemoptysis from haematemesis",
+  "question": "MED-C2-57"
+ },
+ {
+  "chapter": 2,
+  "page": 24,
+  "point": "Negative history: symptoms of RHF, RF, left-sided disease and congenital heart disease",
+  "question": "MED-C2-58"
+ },
+ {
+  "chapter": 2,
+  "page": 24,
+  "point": "Symptoms of left-sided vs right-sided disease in negative history",
+  "question": "MED-C2-59"
+ },
+ {
+  "chapter": 2,
+  "page": 24,
+  "point": "Negative history: PHT symptoms, IE complications and causes of fever in RHD",
+  "question": "MED-C2-60"
+ },
+ {
+  "chapter": 2,
+  "page": 24,
+  "point": "Past history of cardiac intervention: complication of BMV in MS and personal/family history",
+  "question": "MED-C2-61"
+ },
+ {
+  "chapter": 2,
+  "page": 24,
+  "point": "Dosing schedules and timing rationale for digoxin, diuretics and nitroglycerin",
+  "question": "MED-C2-62"
+ },
+ {
+  "chapter": 2,
+  "page": 25,
+  "point": "Timing of warfarin and benzathine penicillin prophylaxis",
+  "question": "MED-C2-63"
+ },
+ {
+  "chapter": 2,
+  "page": 25,
+  "point": "Summary and interpretation template at the end of CVS history",
+  "question": "MED-C2-64"
+ },
+ {
+  "chapter": 2,
+  "page": 25,
+  "point": "Definition of the arterial pulse and inappropriate bradycardia",
+  "question": "MED-C2-65"
+ },
+ {
+  "chapter": 2,
+  "page": 25,
+  "point": "Normal pulse rate, artery used to assess pulse volume, and normal pulse pressure",
+  "question": "MED-C2-66"
+ },
+ {
+  "chapter": 2,
+  "page": 25,
+  "point": "Classification of pulse rhythm and pulse volume causes",
+  "question": "MED-C2-67"
+ },
+ {
+  "chapter": 2,
+  "page": 25,
+  "point": "High-volume vs low-volume pulse causes on Book p25",
+  "question": "MED-C2-68"
+ },
+ {
+  "chapter": 2,
+  "page": 25,
+  "point": "Normal femoral-radial timing, radiofemoral delay, and mechanism of apex-pulse deficit",
+  "question": "MED-C2-69"
+ },
+ {
+  "chapter": 2,
+  "page": 26,
+  "point": "Differentiating ventricular tachycardia (VT) from paroxysmal atrial tachycardia (PAT)",
+  "question": "MED-C2-70"
+ },
+ {
+  "chapter": 2,
+  "page": 26,
+  "point": "Normal arterial pulse waveform and limbs (p26 text and diagram)",
+  "question": "MED-C2-71"
+ },
+ {
+  "chapter": 2,
+  "page": 26,
+  "point": "Pulsus bisferiens: definition and Bernoulli mechanism",
+  "question": "MED-C2-72"
+ },
+ {
+  "chapter": 2,
+  "page": 26,
+  "point": "Causes and auscultatory equivalents of pulsus bisferiens",
+  "question": "MED-C2-73"
+ },
+ {
+  "chapter": 2,
+  "page": 26,
+  "point": "Auscultatory detection of pulsus bisferiens",
+  "question": "MED-C2-74"
+ },
+ {
+  "chapter": 2,
+  "page": 27,
+  "point": "Bifid pulse, dicrotic pulse, anacrotic pulse and bounding pulse (text & waveform diagrams on p27)",
+  "question": "MED-C2-75"
+ },
+ {
+  "chapter": 2,
+  "page": 27,
+  "point": "Distinguishing dicrotic pulse from pulsus bisferiens and spike-and-dome on the p27 waveform strip",
+  "question": "MED-C2-76"
+ },
+ {
+  "chapter": 2,
+  "page": 27,
+  "point": "Anacrotic pulse definition and Corrigan/Waterhammer upstroke",
+  "question": "MED-C2-77"
+ },
+ {
+  "chapter": 2,
+  "page": 28,
+  "point": "Corrigan/Waterhammer pulse: why raising the patient's arm accentuates it and mechanisms of upstroke/downstroke",
+  "question": "MED-C2-78"
+ },
+ {
+  "chapter": 2,
+  "page": 28,
+  "point": "Causes of Corrigan/Waterhammer pulse on Book p28",
+  "question": "MED-C2-79"
+ },
+ {
+  "chapter": 2,
+  "page": 28,
+  "point": "Pulsus parvus and pulsus parvus et tardus (text and diagram on p28)",
+  "question": "MED-C2-80"
+ },
+ {
+  "chapter": 2,
+  "page": 28,
+  "point": "Bigeminy vs Trigeminy vs Pulsus alternans (p28 text and ECG strips)",
+  "question": "MED-C2-81"
+ },
+ {
+  "chapter": 2,
+  "page": 28,
+  "point": "Pulsus paradoxus: normal inspiratory SBP drop, threshold and two physiological mechanisms",
+  "question": "MED-C2-82"
+ },
+ {
+  "chapter": 2,
+  "page": 29,
+  "point": "Bedside sphygmomanometric measurement of pulsus paradoxus",
+  "question": "MED-C2-83"
+ },
+ {
+  "chapter": 2,
+  "page": 29,
+  "point": "Causes and mechanisms of pulsus paradoxus and reversed pulsus paradoxus",
+  "question": "MED-C2-84"
+ },
+ {
+  "chapter": 2,
+  "page": 29,
+  "point": "Why pulmonary venous pressure falls while intracardiac pressure does not in constrictive pericarditis",
+  "question": "MED-C2-85"
+ },
+ {
+  "chapter": 2,
+  "page": 29,
+  "point": "Reversed pulsus paradoxus in HOCM",
+  "question": "MED-C2-86"
+ },
+ {
+  "chapter": 2,
+  "page": 29,
+  "point": "Pulsus alternans: definition, cellular mechanism, cuff detection threshold and Harrison Ch 239 pointer",
+  "question": "MED-C2-87"
+ },
+ {
+  "chapter": 2,
+  "page": 30,
+  "point": "Pallor vs ruddy/suffused conjunctiva in congenital cyanotic heart disease and tongue technique for cyanosis",
+  "question": "MED-C2-88"
+ },
+ {
+  "chapter": 2,
+  "page": 30,
+  "point": "Central vs peripheral cyanosis table and CVS causes of clubbing on Book p30",
+  "question": "MED-C2-89"
+ },
+ {
+  "chapter": 2,
+  "page": 30,
+  "point": "Bony landmarks for pitting oedema and dependent site in a cardiac patient",
+  "question": "MED-C2-90"
+ },
+ {
+  "chapter": 2,
+  "page": 30,
+  "point": "Slow oedema vs fast oedema (>40 sec vs <40 sec) and treatment",
+  "question": "MED-C2-91"
+ },
+ {
+  "chapter": 2,
+  "page": 30,
+  "point": "Signs of rheumatic activity, signs of infective endocarditis, and the Lighthouse sign of AR",
+  "question": "MED-C2-92"
+ },
+ {
+  "chapter": 2,
+  "page": 30,
+  "point": "Immunologic phenomena in infective endocarditis on Book p30",
+  "question": "MED-C2-93"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Head and neck peripheral signs of aortic regurgitation (signs 2–7 on p31)",
+  "question": "MED-C3-01"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Ocular, oral and cervical signs of AR on Book p31",
+  "question": "MED-C3-02"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Locomotor brachii and cuff/artery landmarks for lower-limb BP in Hill's sign",
+  "question": "MED-C3-03"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Grading the severity of aortic regurgitation by Hill's sign",
+  "question": "MED-C3-04"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Physical mechanism of Hill's sign (Jules Constant) and causes of a falsely low Hill's sign",
+  "question": "MED-C3-05"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Dependence of Hill's sign on myocardial contraction",
+  "question": "MED-C3-06"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Visceral and femoral peripheral signs of AR (signs 9–16 on p31)",
+  "question": "MED-C3-07"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Distinguishing Rosenbach's sign from Gerhardt's sign in severe AR",
+  "question": "MED-C3-08"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Distal vs proximal compression of the femoral artery in AR (Duroziez's sign)",
+  "question": "MED-C3-09"
+ },
+ {
+  "chapter": 3,
+  "page": 31,
+  "point": "Opening sequence of cardiac inspection: JVP, trachea, thyroid",
+  "question": "MED-C3-10"
+ },
+ {
+  "chapter": 3,
+  "page": 32,
+  "point": "Precordial bulge detection, four cause groups and backward bulge on Book p32",
+  "question": "MED-C3-11"
+ },
+ {
+  "chapter": 3,
+  "page": 32,
+  "point": "Causes of precordial bulge vs backward bulge on Book p32",
+  "question": "MED-C3-12"
+ },
+ {
+  "chapter": 3,
+  "page": 32,
+  "point": "Tangential inspection of apex, visible parasternal heave and see-saw precordial movement",
+  "question": "MED-C3-13"
+ },
+ {
+  "chapter": 3,
+  "page": 32,
+  "point": "Regional thoracic and back pulsations on inspection (Book p32)",
+  "question": "MED-C3-14"
+ },
+ {
+  "chapter": 3,
+  "page": 32,
+  "point": "Suzman's sign of coarctation of the aorta",
+  "question": "MED-C3-15"
+ },
+ {
+  "chapter": 3,
+  "page": 32,
+  "point": "Differentiating right ventricular vs abdominal aortic epigastric pulsations on inspection",
+  "question": "MED-C3-16"
+ },
+ {
+  "chapter": 3,
+  "page": 33,
+  "point": "Definition of JVP, normal RAP (Macleod) and sternal angle offset",
+  "question": "MED-C3-17"
+ },
+ {
+  "chapter": 3,
+  "page": 33,
+  "point": "Converting JVP height in cm of water to right atrial pressure in mmHg",
+  "question": "MED-C3-18"
+ },
+ {
+  "chapter": 3,
+  "page": 33,
+  "point": "POLICE mnemonic for differentiating JVP from the carotid pulse",
+  "question": "MED-C3-19"
+ },
+ {
+  "chapter": 3,
+  "page": 33,
+  "point": "Why the internal jugular vein is preferred over the external jugular vein (and the severe TR exception)",
+  "question": "MED-C3-20"
+ },
+ {
+  "chapter": 3,
+  "page": 33,
+  "point": "Why the right IJV is preferred over the left IJV (innominate vein compression)",
+  "question": "MED-C3-21"
+ },
+ {
+  "chapter": 3,
+  "page": 33,
+  "point": "Harrison's 21e Chapter 239 JVP threshold at 30 degrees (bottom reference box on p33)",
+  "question": "MED-C3-22"
+ },
+ {
+  "chapter": 3,
+  "page": 34,
+  "point": "JVP positioning sequence and why inspiratory pulsations become more prominent while mean height falls",
+  "question": "MED-C3-23"
+ },
+ {
+  "chapter": 3,
+  "page": 34,
+  "point": "Reduced JVP, bilateral vs unilateral non-pulsatile elevated JVP, and respiratory variation (items 8–11)",
+  "question": "MED-C3-24"
+ },
+ {
+  "chapter": 3,
+  "page": 34,
+  "point": "JVP figure on Book p34: arithmetic example and timing against Phonocardiogram and EKG",
+  "question": "MED-C3-25"
+ },
+ {
+  "chapter": 3,
+  "page": 34,
+  "point": "Physiological origin of the ACXVY waves and descents on Book p34",
+  "question": "MED-C3-26"
+ },
+ {
+  "chapter": 3,
+  "page": 34,
+  "point": "Dual mechanism of the x' and x descents on Book p34",
+  "question": "MED-C3-27"
+ },
+ {
+  "chapter": 3,
+  "page": 35,
+  "point": "Prominent A waves, giant A waves, and the Bernheim effect on Book p35",
+  "question": "MED-C3-28"
+ },
+ {
+  "chapter": 3,
+  "page": 35,
+  "point": "Bernheim effect in marked left ventricular hypertrophy",
+  "question": "MED-C3-29"
+ },
+ {
+  "chapter": 3,
+  "page": 35,
+  "point": "Intermittent vs regular cannon A waves on Book p35",
+  "question": "MED-C3-30"
+ },
+ {
+  "chapter": 3,
+  "page": 35,
+  "point": "VT vs SVT with aberrancy and timing of cannon A wave vs giant A wave relative to S1",
+  "question": "MED-C3-31"
+ },
+ {
+  "chapter": 3,
+  "page": 35,
+  "point": "Equally prominent A and V waves and 'left atrialization' of the JVP in ASD",
+  "question": "MED-C3-32"
+ },
+ {
+  "chapter": 3,
+  "page": 35,
+  "point": "Abnormalities of the x and y descents, TS vs TR, and the PAY TAX mnemonic on Book p35",
+  "question": "MED-C3-33"
+ },
+ {
+  "chapter": 3,
+  "page": 35,
+  "point": "PAY TAX mnemonic for constrictive pericarditis vs cardiac tamponade",
+  "question": "MED-C3-34"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Mechanism of rapid y descent and dip-and-square-root sign in constrictive pericarditis",
+  "question": "MED-C3-35"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Comparison table on Book p36: Tamponade vs Constrictive Pericarditis vs Restrictive Cardiomyopathy",
+  "question": "MED-C3-36"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Restrictive cardiomyopathy vs constrictive pericarditis in the Book p36 comparison table",
+  "question": "MED-C3-37"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Abdominojugular reflux: normal vs RV failure response, clinical purpose, technique and positive cutoff",
+  "question": "MED-C3-38"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Abdominojugular reflux compression duration and sustained JVP rise threshold",
+  "question": "MED-C3-39"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Kussmaul's sign: definition, normal inspiratory JVP fall in mmHg, and the cause to state first",
+  "question": "MED-C3-40"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Six causes of Kussmaul's sign vs cardiac tamponade on Book p36",
+  "question": "MED-C3-41"
+ },
+ {
+  "chapter": 3,
+  "page": 36,
+  "point": "Why Kussmaul's sign is absent in cardiac tamponade while pulsus paradoxus is present",
+  "question": "MED-C3-42"
+ },
+ {
+  "chapter": 4,
+  "page": 37,
+  "point": "Definition of apex beat, reporting template and patient position for commenting on character",
+  "question": "MED-C4-01"
+ },
+ {
+  "chapter": 4,
+  "page": 37,
+  "point": "Mechanism of the apex beat and palpatory see-saw test for LV vs RV apex",
+  "question": "MED-C4-02"
+ },
+ {
+  "chapter": 4,
+  "page": 37,
+  "point": "DR POPE mnemonic for a non-locatable apex beat and the viva rule on dextrocardia",
+  "question": "MED-C4-03"
+ },
+ {
+  "chapter": 4,
+  "page": 37,
+  "point": "Four characteristics of a normal apical impulse on Book p37",
+  "question": "MED-C4-04"
+ },
+ {
+  "chapter": 4,
+  "page": 37,
+  "point": "Hyperdynamic vs Heaving LV apical impulse table and RV vs Tapping apex (Dr. Hamide, p37)",
+  "question": "MED-C4-05"
+ },
+ {
+  "chapter": 4,
+  "page": 37,
+  "point": "Volume overload vs pressure overload examples and tapping apex classification on Book p37",
+  "question": "MED-C4-06"
+ },
+ {
+  "chapter": 4,
+  "page": 38,
+  "point": "Direction of apical shift and retracting, hypokinetic and double apical impulses on Book p38",
+  "question": "MED-C4-07"
+ },
+ {
+  "chapter": 4,
+  "page": 38,
+  "point": "Mechanism of the double apical impulse in HOCM vs retracting apical impulse on Book p38",
+  "question": "MED-C4-08"
+ },
+ {
+  "chapter": 4,
+  "page": 38,
+  "point": "Precordial thrills table and carotid shudder on Book p38",
+  "question": "MED-C4-09"
+ },
+ {
+  "chapter": 4,
+  "page": 38,
+  "point": "Parasternal area boundaries, AIIMS grading of parasternal heave and causes on Book p38",
+  "question": "MED-C4-10"
+ },
+ {
+  "chapter": 4,
+  "page": 38,
+  "point": "Upper vs lower parasternal intercostal spaces and AIIMS heave grades on Book p38",
+  "question": "MED-C4-11"
+ },
+ {
+  "chapter": 4,
+  "page": 39,
+  "point": "Epigastric thumb palpation for RVH vs aortic aneurysm",
+  "question": "MED-C4-12"
+ },
+ {
+  "chapter": 4,
+  "page": 39,
+  "point": "Examination of a pulsatile liver: bimanual technique, JVP timing, inspiratory breath-hold, expansile vs transmitted and presystolic vs systolic",
+  "question": "MED-C4-13"
+ },
+ {
+  "chapter": 4,
+  "page": 39,
+  "point": "Two clinical uses of percussion in cardiac examination on Book p39",
+  "question": "MED-C4-14"
+ },
+ {
+  "chapter": 4,
+  "page": 40,
+  "point": "Dr. Hamide's auscultatory sequence (M -> T -> P -> A) and findings at each area on Book p40",
+  "question": "MED-C4-15"
+ },
+ {
+  "chapter": 4,
+  "page": 40,
+  "point": "Gallavardin's phenomenon at AA1 vs apex and Erb's point (AA2)",
+  "question": "MED-C4-16"
+ },
+ {
+  "chapter": 4,
+  "page": 40,
+  "point": "Levine and Freeman's six-grade classification of murmurs on Book p40",
+  "question": "MED-C4-17"
+ },
+ {
+  "chapter": 4,
+  "page": 40,
+  "point": "Thrill threshold in Levine and Freeman grading on Book p40",
+  "question": "MED-C4-18"
+ },
+ {
+  "chapter": 4,
+  "page": 41,
+  "point": "Classical bedside description of the mitral stenosis murmur (**** on Book p41)",
+  "question": "MED-C4-19"
+ },
+ {
+  "chapter": 4,
+  "page": 41,
+  "point": "Other causes of a mid-diastolic murmur (MDM) at the apex vs at the tricuspid area on Book p41",
+  "question": "MED-C4-20"
+ },
+ {
+  "chapter": 4,
+  "page": 41,
+  "point": "Classical descriptions of AS, MR and AR murmurs and the S1/A2/P2 intensity table on Book p41",
+  "question": "MED-C4-21"
+ },
+ {
+  "chapter": 4,
+  "page": 42,
+  "point": "Two theories for a loud S1 in mitral stenosis and the LA-LV pressure crossover slope diagram (A vs B) on Book p42",
+  "question": "MED-C4-22"
+ },
+ {
+  "chapter": 4,
+  "page": 42,
+  "point": "Other causes of a loud S1 (hyperdynamic states, holosystolic MVP, LA myxoma, short PR, Ebstein's sail sound) vs soft S1 on Book p42",
+  "question": "MED-C4-23"
+ },
+ {
+  "chapter": 4,
+  "page": 42,
+  "point": "Ebstein's anomaly 'sail sound' and short PR interval mechanism on Book p42",
+  "question": "MED-C4-24"
+ },
+ {
+  "chapter": 4,
+  "page": 43,
+  "point": "Split S1 interval (M1-T1) vs normal inspiratory S2 split duration on Book p43",
+  "question": "MED-C4-25"
+ },
+ {
+  "chapter": 4,
+  "page": 43,
+  "point": "S2 split anomalies (text and diagram on Book p43): wide variable, wide fixed and paradoxical splitting",
+  "question": "MED-C4-26"
+ },
+ {
+  "chapter": 4,
+  "page": 43,
+  "point": "Perloff's two-part explanation for why S2 is both WIDELY split and FIXED in ASD (Book p43)",
+  "question": "MED-C4-27"
+ },
+ {
+  "chapter": 4,
+  "page": 44,
+  "point": "TAPVC and massive PE in S2 splitting, S3 physiological vs pathological causes, and S4 causes on Book p44",
+  "question": "MED-C4-28"
+ },
+ {
+  "chapter": 4,
+  "page": 44,
+  "point": "Ventricular compliance in systolic heart failure (S3) vs stiff ventricle (S4) on Book p44",
+  "question": "MED-C4-29"
+ },
+ {
+  "chapter": 4,
+  "page": 45,
+  "point": "Added sounds phonocardiogram diagram (A–E) on Book p45",
+  "question": "MED-C4-30"
+ },
+ {
+  "chapter": 4,
+  "page": 45,
+  "point": "Protodiastolic gallop (S1-S2-S3) and differentiating an Opening Snap from a split S2 on standing (Book p45)",
+  "question": "MED-C4-31"
+ },
+ {
+  "chapter": 4,
+  "page": 45,
+  "point": "Three bedside differential diagnoses of an Opening Snap (OS) on Book p45",
+  "question": "MED-C4-32"
+ },
+ {
+  "chapter": 4,
+  "page": 46,
+  "point": "Opening Snap (OS) vs S3 comparison table on Book p46",
+  "question": "MED-C4-33"
+ },
+ {
+  "chapter": 4,
+  "page": 46,
+  "point": "Auscultatory technique and effect of treating heart failure on Opening Snap vs S3 on Book p46",
+  "question": "MED-C4-34"
+ },
+ {
+  "chapter": 4,
+  "page": 46,
+  "point": "Ejection clicks (pulmonary vs aortic), pericardial knock, triphasic pericardial rub and tumour plop on Book p46",
+  "question": "MED-C4-35"
+ },
+ {
+  "chapter": 4,
+  "page": 46,
+  "point": "Innocent / functional murmurs vs pathological murmurs on Book p46",
+  "question": "MED-C4-36"
+ },
+ {
+  "chapter": 4,
+  "page": 47,
+  "point": "MVP leaflet orientation (/\\ at low volume vs __ __ at high volume) and dynamic manoeuvres on Book p47",
+  "question": "MED-C4-37"
+ },
+ {
+  "chapter": 4,
+  "page": 47,
+  "point": "Carvallo's sign and exception on Book p47, plus sustained handgrip effect on AS vs MR/AR/VSD",
+  "question": "MED-C4-38"
+ },
+ {
+  "chapter": 4,
+  "page": 47,
+  "point": "Classification of systolic murmurs by timing (pansystolic, early, mid, late) on Book p47",
+  "question": "MED-C4-39"
+ },
+ {
+  "chapter": 4,
+  "page": 47,
+  "point": "Early systolic (acute MR, muscular VSD, acute TR) vs pansystolic and late systolic murmurs on Book p47",
+  "question": "MED-C4-40"
+ },
+ {
+  "chapter": 4,
+  "page": 47,
+  "point": "Named murmurs 1–5 on Book p47: Austin Flint, Carey-Coombs, Cole-Cecil, Cruveilhier-Baumgarten and Gibson",
+  "question": "MED-C4-41"
+ },
+ {
+  "chapter": 4,
+  "page": 47,
+  "point": "Named murmurs 6–10 on Book p47: Graham Steell, Means-Lerman scratch, Roger's, Seagull and Still's",
+  "question": "MED-C4-42"
+ },
+ {
+  "chapter": 5,
+  "page": 48,
+  "point": "Ordered 7-point template for a complete cardiovascular diagnosis on Book p48",
+  "question": "MED-C5-01"
+ },
+ {
+  "chapter": 5,
+  "page": 48,
+  "point": "Mapping parts A–D of the worked clinical example on Book p48 to headings 1–4",
+  "question": "MED-C5-02"
+ },
+ {
+  "chapter": 5,
+  "page": 48,
+  "point": "Mapping parts D–G of the worked clinical example on Book p48 to headings 4–7",
+  "question": "MED-C5-03"
+ },
+ {
+  "chapter": 5,
+  "page": 48,
+  "point": "Structural lesion (B) and precipitating factor (G) in the Book p48 model diagnosis",
+  "question": "MED-C5-04"
+ },
+ {
+  "chapter": 5,
+  "page": 48,
+  "point": "Distinguishing Complications (3) from Precipitating Factor (7) and Functional status (5) when presenting a CVS case",
+  "question": "MED-C5-05"
+ },
+ {
+  "chapter": 5,
+  "page": 48,
+  "point": "Identifying the seven required headings of the Book p48 diagnosis format",
+  "question": "MED-C5-06"
+ },
+ {
+  "chapter": 5,
+  "page": 73,
+  "point": "Total cardiac cycle duration (0.8 s) and atrial vs ventricular systole/diastole durations on Book p73",
+  "question": "MED-C5-07"
+ },
+ {
+  "chapter": 5,
+  "page": 73,
+  "point": "Ordered phases of Ventricular Systole (0.3 s) and Ventricular Diastole (0.5 s) in the circular diagram on Book p73",
+  "question": "MED-C5-08"
+ },
+ {
+  "chapter": 5,
+  "page": 73,
+  "point": "Overlap between Atrial Diastole (0.7 s) and Ventricular Systole/Diastole on Book p73",
+  "question": "MED-C5-09"
+ },
+ {
+  "chapter": 5,
+  "page": 74,
+  "point": "Seven labelled phases (a to g) of the Wiggers diagram on Book p74",
+  "question": "MED-C5-10"
+ },
+ {
+  "chapter": 5,
+  "page": 74,
+  "point": "Four valve opening/closing crossover points on the Wiggers pressure curves (Book p74)",
+  "question": "MED-C5-11"
+ },
+ {
+  "chapter": 5,
+  "page": 74,
+  "point": "Pressure and ventricular volume values plotted on the Wiggers diagram on Book p74",
+  "question": "MED-C5-12"
+ },
+ {
+  "chapter": 5,
+  "page": 74,
+  "point": "Aligning the Left Atrial a, c, v waves, ECG (P, QRS, T) and Phonocardiogram (1st, 2nd, 3rd, 4th heart sounds) on Book p74",
+  "question": "MED-C5-13"
+ },
+ {
+  "chapter": 5,
+  "page": 74,
+  "point": "Using the Wiggers diagram (Book p74) to time bedside auscultatory events and constant-volume phases",
+  "question": "MED-C5-14"
+ },
+ {
+  "chapter": 6,
+  "page": 49,
+  "point": "Harrison's Table 263-1 on Book p49: Major causes of Mitral Stenosis and conditions simulating MS",
+  "question": "MED-C6-01"
+ },
+ {
+  "chapter": 6,
+  "page": 49,
+  "point": "Rheumatic 'fish-mouth' pathology, secondary flow trauma, and sites of thrombus formation on Book p49",
+  "question": "MED-C6-02"
+ },
+ {
+  "chapter": 6,
+  "page": 50,
+  "point": "Mitral valve anatomical components in the Book p50 diagram",
+  "question": "MED-C6-03"
+ },
+ {
+  "chapter": 6,
+  "page": 50,
+  "point": "Causes of MS (1.a–d) and classification of Congenital MS (2.a–c: Supravalvular, Valvular, Subvalvular) on Book p50",
+  "question": "MED-C6-04"
+ },
+ {
+  "chapter": 6,
+  "page": 50,
+  "point": "Three variants of MS (Lutembacher, Damped/Silent MS for Dr. Hamide, and Juvenile MS) on Book p50",
+  "question": "MED-C6-05"
+ },
+ {
+  "chapter": 6,
+  "page": 50,
+  "point": "Parachute vs Hammock subvalvular congenital MS and Damped MS mechanism on Book p50",
+  "question": "MED-C6-06"
+ },
+ {
+  "chapter": 6,
+  "page": 50,
+  "point": "Juvenile MS characteristics on Book p50",
+  "question": "MED-C6-07"
+ },
+ {
+  "chapter": 6,
+  "page": 50,
+  "point": "Gradual vs sudden rise in LA pressure in MS etiopathogenesis (Item 4.a–b on Book p50)",
+  "question": "MED-C6-08"
+ },
+ {
+  "chapter": 6,
+  "page": 51,
+  "point": "Cardiac output and EF in MS, loss of atrial kick with tachycardia, and 7 precipitants of acute dyspnoea/cough (Item 4.c–d, Book p51)",
+  "question": "MED-C6-09"
+ },
+ {
+  "chapter": 6,
+  "page": 51,
+  "point": "Two mechanisms of PAH ('second stenosis') and mechanism of presystolic accentuation (Item 4.e–f, Book p51)",
+  "question": "MED-C6-10"
+ },
+ {
+  "chapter": 6,
+  "page": 51,
+  "point": "Clinical features of MS: latent period, J-receptor dyspnoea, pulmonary-vein stretch AF, and signs including mitral facies (Item 5, Book p51)",
+  "question": "MED-C6-11"
+ },
+ {
+  "chapter": 6,
+  "page": 51,
+  "point": "Five causes of haemoptysis in MS on Book p51 (pulmonary apoplexy, winter bronchitis, acute pulmonary oedema, pulmonary infarction, warfarin overdose)",
+  "question": "MED-C6-12"
+ },
+ {
+  "chapter": 6,
+  "page": 51,
+  "point": "Mitral facies description and mechanism of palpitations/AF and winter infections on Book p51",
+  "question": "MED-C6-13"
+ },
+ {
+  "chapter": 6,
+  "page": 52,
+  "point": "Clinical assessment of severity of MS: S2–OS gap, MDM duration and PAH features (Item 6, Book p52)",
+  "question": "MED-C6-14"
+ },
+ {
+  "chapter": 6,
+  "page": 52,
+  "point": "Complications of MS, most common thrombus site in AF, Ortner's syndrome and the IE viva warning (Item 7, Book p52)",
+  "question": "MED-C6-15"
+ },
+ {
+  "chapter": 6,
+  "page": 52,
+  "point": "Normal pulmonary arterial pressure and resting vs post-exercise mean PAP cutoffs for Pulmonary Hypertension (Item 8.a–b, Book p52)",
+  "question": "MED-C6-16"
+ },
+ {
+  "chapter": 6,
+  "page": 52,
+  "point": "Symptoms and Signs*** of Pulmonary Hypertension including the 6-part classical auscultatory sequence (Item 8.c–d, Book p52)",
+  "question": "MED-C6-17"
+ },
+ {
+  "chapter": 6,
+  "page": 52,
+  "point": "Classical 6-event auscultatory sequence of Pulmonary Hypertension (Item 8.d.vi, Book p52)",
+  "question": "MED-C6-18"
+ },
+ {
+  "chapter": 6,
+  "page": 53,
+  "point": "Significance of an Opening Snap (9.a), Absent Presystolic Accentuation (9.b) and Soft S1 in MS (9.c) on Book p53",
+  "question": "MED-C6-19"
+ },
+ {
+  "chapter": 6,
+  "page": 53,
+  "point": "Four Differential Diagnoses of MS (10.a–d: ASD, LA Myxoma, Significant MR, Severe AR / Austin Flint) on Book p53",
+  "question": "MED-C6-20"
+ },
+ {
+  "chapter": 6,
+  "page": 53,
+  "point": "Distinguishing Left Atrial Myxoma and Austin Flint murmur from true MS on Book p53",
+  "question": "MED-C6-21"
+ },
+ {
+  "chapter": 6,
+  "page": 53,
+  "point": "ECG findings in MS including the P mitrale tracing (Item 11.a, Book p53)",
+  "question": "MED-C6-22"
+ },
+ {
+  "chapter": 6,
+  "page": 54,
+  "point": "Chest X-ray findings in MS including pressure thresholds for Kerley B vs Kerley A lines (Item 11.b, Book p54)",
+  "question": "MED-C6-23"
+ },
+ {
+  "chapter": 6,
+  "page": 54,
+  "point": "Pulmonary venous pressure thresholds for Kerley B lines vs Kerley A lines on Book p54",
+  "question": "MED-C6-24"
+ },
+ {
+  "chapter": 6,
+  "page": 54,
+  "point": "Doppler Echo MVA severity classification and enlarged LA cutoff on Book p54",
+  "question": "MED-C6-25"
+ },
+ {
+  "chapter": 6,
+  "page": 54,
+  "point": "Abascal or Wilkins Echocardiography Score: 4 components, point value, and BMV cutoff (<8/16) on Book p54",
+  "question": "MED-C6-26"
+ },
+ {
+  "chapter": 6,
+  "page": 54,
+  "point": "Medical management of MS: Penicillin V dosing, Digoxin 5-days-a-week regimen, Diltiazem/Atenolol, and Warfarin INR target on Book p54",
+  "question": "MED-C6-27"
+ },
+ {
+  "chapter": 6,
+  "page": 55,
+  "point": "Emergency AF rapid digitalisation protocol and Closed Mitral Valvotomy (TUBBS dilator) on Book p55",
+  "question": "MED-C6-28"
+ },
+ {
+  "chapter": 6,
+  "page": 55,
+  "point": "Balloon Mitral Valvotomy (BMV): 5 selection criteria, 4 complications, and 2 criteria for success on Book p55",
+  "question": "MED-C6-29"
+ },
+ {
+  "chapter": 6,
+  "page": 55,
+  "point": "Mechanical vs Bioprosthetic valves and the MECHANICAL VALVES figure on Book p55",
+  "question": "MED-C6-30"
+ },
+ {
+  "chapter": 6,
+  "page": 55,
+  "point": "Target INR in MS with AF (2–3) vs Mechanical Valve (2.5–3.5) and Bioprosthesis <65 years cutoff on Book p55",
+  "question": "MED-C6-31"
+ },
+ {
+  "chapter": 6,
+  "page": 55,
+  "point": "Reasons tilting-disc valves are preferred over caged-ball valves and BMV success criteria on Book p55",
+  "question": "MED-C6-32"
  }
 ]

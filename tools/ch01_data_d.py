@@ -301,4 +301,22 @@ D = [
  ["Mitral stenosis and dextro-stenosis of the pulmonary artery?", "Mitral regurgitation and aortic regurgitation", "PDA and VSD", "Hypertrophic cardiomyopathy and coarctation"],
  0,
  "The book writes '? MS, ? DSS' - mitral stenosis and DSS are queried rather than asserted, and that query mark is part of the answer: they are possibilities, not established causes. (Book p14)"),
+
+# ---------------------------------------------------------------- Book p15: AHA/ASA Blood Pressure Categories table
+(15, "match", "AHA/ASA Blood Pressure Categories (Insert Table)",
+ "Five AHA/ASA blood pressure categories and their systolic/diastolic cutoffs on Book p15",
+ "Match each Blood Pressure Category in the AHA/ASA table on Book p15 to its exact systolic and diastolic mmHg definition and Boolean connector — 1) Normal vs Elevated 2) High Blood Pressure [Hypertension] Stage 1 3) High Blood Pressure [Hypertension] Stage 2 4) Hypertensive Crisis [consult your doctor immediately] … A) Systolic 130–139 OR Diastolic 80–89 mmHg B) Systolic >=140 OR Diastolic >=90 mmHg C) Systolic >180 and/or Diastolic >120 mmHg D) Normal = <120 AND <80 mmHg; Elevated = 120–129 AND <80 mmHg",
+ ["1-D, 2-A, 3-B, 4-C", "1-A, 2-D, 3-B, 4-C", "1-D, 2-B, 3-A, 4-C", "1-D, 2-A, 3-C, 4-B"],
+ 0,
+ "The AHA/ASA Blood Pressure Categories table on Book p15 defines: Normal (<120 AND <80 mmHg); Elevated (120–129 AND <80 mmHg); Hypertension Stage 1 (130–139 OR 80–89 mmHg); Hypertension Stage 2 (>=140 OR >=90 mmHg); and Hypertensive Crisis (>180 and/or >120 mmHg). (Book p15)"),
+
+(15, "scenario", "AHA/ASA Blood Pressure Categories (Insert Table)",
+ "Classifying Elevated BP vs Stage 1 Hypertension using the AND vs OR connectors on Book p15",
+ "A patient's blood pressure is 126/84 mmHg on repeated clinic measurements. Using the AHA/ASA Blood Pressure Categories table on Book p15, which category applies and why?",
+ ["High Blood Pressure (Hypertension) Stage 1, because Elevated BP requires BOTH systolic 120–129 AND diastolic <80 mmHg, whereas Stage 1 Hypertension requires systolic 130–139 OR diastolic 80–89 mmHg",
+  "Elevated Blood Pressure, because the systolic reading lies between 120 and 129 mmHg regardless of the diastolic value",
+  "High Blood Pressure (Hypertension) Stage 2, because any diastolic reading above 80 mmHg is classified as Stage 2",
+  "Normal Blood Pressure, because both values are below 140/90 mmHg"],
+ 0,
+ "In the AHA/ASA table on Book p15, Elevated BP uses 'and' (120–129 AND <80 mmHg), whereas Stage 1 Hypertension uses 'or' (130–139 OR 80–89 mmHg); a diastolic reading of 84 mmHg therefore places the patient in Stage 1 Hypertension. (Book p15)"),
 ]

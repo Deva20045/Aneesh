@@ -1,0 +1,761 @@
+{
+ "chapter": 4,
+ "title": "CVS - Cardiac Examination: Palpation & Auscultation",
+ "pageRange": "37-47",
+ "questions": [
+  {
+   "id": "MED-C4-01",
+   "sec": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving Impulse",
+   "page": 37,
+   "fmt": "recall",
+   "q": "How does Book p37 define the apex beat (marked with ***), how is its location reported, and in which position must its character be commented on?",
+   "opts": [
+    "Lowermost, outermost definite palpable cardiac impulse; reported as '__ ICS, __ cm medial/lateral to the midclavicular line'; character must be commented on in the left lateral position",
+    "Strongest systolic impulse felt anywhere over the precordium; reported relative to the anterior axillary line; character must be commented on in the sitting leaning-forward position",
+    "Point of maximal auscultatory intensity of S1; reported relative to the sternal border; character must be commented on in the supine position at end-inspiration",
+    "Midpoint of cardiac dullness on percussion; reported in fingerbreadths from the xiphisternum; character must be commented on while standing"
+   ],
+   "ans": 0,
+   "exp": "On Book p37, the apex beat is defined (***) as the lowermost, outermost definite palpable cardiac impulse, reported as 'In the ____ ICS, ___ cm medial/lateral to the midclavicular line', and its character must be commented on in the left lateral position. (Book p37)"
+  },
+  {
+   "id": "MED-C4-02",
+   "sec": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving Impulse",
+   "page": 37,
+   "fmt": "scenario",
+   "q": "During ventricular systole, what causes the outward palpable apex beat and its subsequent regression in amplitude, and what happens when you place one finger on the apex and one finger on the left parasternal area (Book p37)?",
+   "opts": [
+    "Isovolumetric contraction causes counterclockwise rotation of the heart (due to the spiral orientation of cardiac muscle fibres) making the apex palpable, and LV ejection causes regression in amplitude; if the LV forms the apex, the apex finger goes up while the parasternal finger goes down like a see-saw, whereas if the RV forms the apex, both fingers move together",
+    "Diastolic ventricular filling pushes the apex outward and atrial contraction causes regression; if the LV forms the apex, both fingers move upward simultaneously",
+    "Clockwise rotation during rapid ejection lifts the apex and isovolumetric relaxation causes regression; if the RV forms the apex, the two fingers move in opposite directions",
+    "Closure of the semilunar valves produces the outward apical thrust; palpatory see-saw movement occurs only in cardiac tamponade"
+   ],
+   "ans": 0,
+   "exp": "Item 3 on Book p37 explains: isovolumetric contraction causes counterclockwise rotation of the heart due to the spiral orientation of cardiac muscle fibres (making the apex palpable), and regression in amplitude is due to LV ejection. With one finger on the apex and one on the left parasternal area, an LV apex makes the apex finger rise while the parasternal finger goes down like a see-saw; an RV apex makes both move together. (Book p37)"
+  },
+  {
+   "id": "MED-C4-03",
+   "sec": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving Impulse",
+   "page": 37,
+   "fmt": "oddoneout",
+   "q": "The mnemonic 'DR POPE' on Book p37 lists six causes of a non-locatable apex beat — Dextrocardia, behind the Rib, Pleural effusion, Obesity, Pericardial effusion and Emphysema. Which viva instruction does the book attach to this list?",
+   "opts": [
+    "Always name dextrocardia first because it is the most specific congenital anomaly",
+    "Never say dextrocardia first — and if the apex is non-locatable on the left, check the right side",
+    "Never check the right side of the chest unless situs inversus is confirmed on chest X-ray",
+    "Always percuss Traube's space before palpating the right hemithorax"
+   ],
+   "ans": 1,
+   "exp": "Item 4 on Book p37 gives DR POPE (Dextrocardia, behind the Rib, Pleural effusion, Obesity, Pericardial effusion, Emphysema) and explicitly warns: '(But never say dextrocardia first). If non locatable, check the Rt side.' (Book p37)"
+  },
+  {
+   "id": "MED-C4-04",
+   "sec": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving Impulse",
+   "page": 37,
+   "fmt": "numeric",
+   "q": "According to Book p37, a normal apical impulse is located in the ____, confined to ____, has an area of around ____, and lasts for ____ of systole.",
+   "opts": [
+    "Left 5th ICS, 1/2 inch medial to the midclavicular line; one ICS; 2.5 cm² (1.5 finger breadths); <1/3 of systole",
+    "Left 4th ICS, at the midclavicular line; two intercostal spaces; 4.5 cm² (3 finger breadths); >2/3 of systole",
+    "Left 5th ICS, 1 inch lateral to the midclavicular line; one ICS; 1.0 cm² (0.5 finger breadth); 1/2 of systole",
+    "Left 6th ICS, 1/2 inch medial to the anterior axillary line; one ICS; 2.5 cm²; throughout systole"
+   ],
+   "ans": 0,
+   "exp": "Item 5 on Book p37 lists the four characteristics of a normal apical impulse: (a) left 5th ICS, 1/2 inch medial to the midclavicular line, (b) confined to one ICS, (c) area around 2.5 cm² (1.5 finger breadths), and (d) lasts for <1/3 of systole. (Book p37)"
+  },
+  {
+   "id": "MED-C4-05",
+   "sec": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving Impulse",
+   "page": 37,
+   "fmt": "match",
+   "q": "Match each apical impulse character on Book p37 to its features in Dr. Hamide's classification — 1) Hyperdynamic LV apex 2) Heaving LV apex 3) RV apex 4) Tapping apical impulse … A) High amplitude, confined to ONE ICS in normal location, lasts >2/3 of systole, sustainable; caused by pressure overload [AS, systemic HTN, coarctation of aorta] B) High amplitude, felt in >1 ICS and shifted downwards and outwards, lasts 1/3–2/3 of systole, non-sustainable; caused by volume overload [MR, AR, high output states, VSD, PDA] C) Palpable first heart sound [S1] — neither an RV nor an LV type D) Diffuse, not easily localisable, no special character",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Item 6 on Book p37 contrasts RV apex (diffuse, not easily localisable, no special character), Hyperdynamic LV apex (high amplitude, >1 ICS, shifted downwards/outwards, 1/3–2/3 systole, non-sustainable, volume overload: MR, AR, high-output states, VSD, PDA), Heaving LV apex (high amplitude, one ICS, normal location, >2/3 systole, sustainable, pressure overload: AS, systemic HTN, coarctation), and Tapping apex (palpable S1; not an RV or LV type). (Book p37)"
+  },
+  {
+   "id": "MED-C4-06",
+   "sec": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving Impulse",
+   "page": 37,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects Dr. Hamide's apical impulse classification on Book p37?",
+   "opts": [
+    "True: A hyperdynamic LV apex is caused by volume overload (MR, AR, high-output states, VSD, PDA) and is felt in >1 ICS, whereas a tapping apical impulse represents a palpable S1 and is neither an RV nor an LV type",
+    "True: A heaving LV apex is shifted downwards and outwards across >1 ICS and lasts <1/3 of systole",
+    "False: A heaving LV apex is caused by pressure overload such as aortic stenosis, systemic hypertension, and coarctation of the aorta",
+    "False: An RV apex is diffuse, not easily localisable, and has no special character"
+   ],
+   "ans": 0,
+   "exp": "Item 6 on Book p37 specifies that a hyperdynamic LV apex (>1 ICS, shifted downwards and outwards, 1/3–2/3 systole, non-sustainable) is caused by volume overload (MR, AR, high-output states, VSD, PDA); a heaving LV apex (1 ICS, normal location, >2/3 systole, sustainable) is caused by pressure overload (AS, systemic HTN, coarctation); and a tapping apex is a palpable S1 (not an RV or LV type). (Book p37)"
+  },
+  {
+   "id": "MED-C4-07",
+   "sec": "Apex Shift, Abnormal Impulses, Thrills & Parasternal Heave",
+   "page": 38,
+   "fmt": "match",
+   "q": "Match each apical impulse abnormality on Book p38 to its cause or mechanism — 1) Shifted downwards and laterally vs shifted only laterally 2) Retracting apical impulse [inward in systole, outward in diastole] 3) Hypokinetic apical impulse 4) Double apical impulse … A) Myocardial infarction B) Constrictive pericarditis and tricuspid regurgitation (TR) C) Downwards and laterally = LV enlargement [volume overload]; Only laterally = RV enlargement D) HOCM ['second LV contraction' as MV and hypertrophied septum approximate], severe AS with AR, and LBBB",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Items 7 and 8 on Book p38 cover: (7) LV enlargement shifts the apex downwards and laterally, whereas RV enlargement shifts it only laterally; (8a) retracting apex (inward in systole, outward in diastole) = constrictive pericarditis and TR; (8b) hypokinetic apex = MI; (8c) double apex = HOCM, severe AS with AR, and LBBB. (Book p38)"
+  },
+  {
+   "id": "MED-C4-08",
+   "sec": "Apex Shift, Abnormal Impulses, Thrills & Parasternal Heave",
+   "page": 38,
+   "fmt": "scenario",
+   "q": "In a patient with hypertrophic obstructive cardiomyopathy (HOCM), palpation of the apex reveals a double apical impulse, whereas a patient with constrictive pericarditis has a retracting apical impulse. How does Book p38 explain the mechanism of each?",
+   "opts": [
+    "In HOCM, as the LV ejects blood, the mitral valve and hypertrophied interventricular septum nearly approximate, producing a sort of 'second LV contraction' to overcome the obstruction; in a retracting apex (constrictive pericarditis, TR), the impulse moves inwards in systole and outwards in diastole",
+    "In HOCM, the right and left ventricles contract asynchronously due to complete AV block; in a retracting apex, the impulse moves outwards in systole and inwards in diastole",
+    "In HOCM, the second impulse occurs in late diastole from giant 'a' waves; a retracting apex occurs only in acute myocardial infarction",
+    "In HOCM, aortic regurgitation refills the LV in mid-systole; a retracting apex is unique to ostium secundum ASD"
+   ],
+   "ans": 0,
+   "exp": "Item 8 on Book p38 explains that a retracting apical impulse moves inwards in systole and outwards in diastole (constrictive pericarditis, TR), whereas in HOCM when the LV is ejecting blood the mitral valve and hypertrophied IV septum nearly approximate, producing a sort of second LV contraction to overcome the obstruction (other causes of double apical impulse: severe AS with AR, and LBBB). (Book p38)"
+  },
+  {
+   "id": "MED-C4-09",
+   "sec": "Apex Shift, Abnormal Impulses, Thrills & Parasternal Heave",
+   "page": 38,
+   "fmt": "match",
+   "q": "Match each auscultatory/palpatory area in the 'Thrills' table on Book p38 (where a thrill is defined as a palpable murmur and carotid thrill is an AS shudder) to its systolic and diastolic thrills — 1) Aortic area [A] 2) Pulmonary area [P] 3) Tricuspid area [T] 4) Mitral area [M] … A) Systolic = PS, ASD; Diastolic/Continuous = PDA B) Systolic = AS; Diastolic = AR C) VSD D) Systolic = MR; Diastolic = MS",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 2,
+   "exp": "The Thrills table on Book p38 maps: Carotid = AS shudder; A = AS (systolic), AR (diastolic); P = PS, ASD (systolic), PDA (continuous); T = VSD; M = MR (systolic), MS (diastolic). (Book p38)"
+  },
+  {
+   "id": "MED-C4-10",
+   "sec": "Apex Shift, Abnormal Impulses, Thrills & Parasternal Heave",
+   "page": 38,
+   "fmt": "match",
+   "q": "Match each aspect of parasternal heave on Book p38 to its exact specification — 1) Anatomical boundaries of the parasternal area 2) AIIMS Grade I heave 3) AIIMS Grade II heave 4) AIIMS Grade III heave and causes of heave … A) Visible, palpable and obliterable on compression B) 2nd to 5th ICS from midline to the midpoint between midline and midclavicular line [upper = 2nd–3rd ICS; lower = 4th–5th ICS] C) Visible, palpable and non-obliterable; caused by RVH and LA enlargement D) Visible but not palpable",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Under Heave on Book p38: (1) Parasternal area is 2nd–5th ICS from midline to midpoint between midline and MCL (upper = 2nd–3rd ICS, lower = 4th–5th ICS); (2–3) AIIMS grading: Grade I = visible but not palpable, Grade II = visible, palpable, obliterable, Grade III = visible, palpable, non-obliterative; (4) Causes = RVH and LA enlargement. (Book p38)"
+  },
+  {
+   "id": "MED-C4-11",
+   "sec": "Apex Shift, Abnormal Impulses, Thrills & Parasternal Heave",
+   "page": 38,
+   "fmt": "numeric",
+   "q": "On Book p38, the parasternal area extends from the ____ ICS (with the upper parasternal area defined as the ____ ICS and the lower parasternal area as the ____ ICS), and an AIIMS Grade II parasternal heave is defined as ____.",
+   "opts": [
+    "2nd to 5th; 2nd and 3rd; 4th and 5th; visible, palpable and obliterable",
+    "1st to 4th; 1st and 2nd; 3rd and 4th; visible but not palpable",
+    "2nd to 6th; 2nd to 4th; 5th and 6th; visible, palpable and non-obliterable",
+    "3rd to 6th; 3rd and 4th; 5th and 6th; palpable only in the left lateral decubitus posture"
+   ],
+   "ans": 0,
+   "exp": "Item 1–3 under Heave on Book p38 specifies: parasternal area = 2nd to 5th ICS (upper = 2nd and 3rd ICS; lower = 4th and 5th ICS); AIIMS Grade I = visible but not palpable, Grade II = visible, palpable, obliterable, Grade III = visible, palpable, non-obliterable. (Book p38)"
+  },
+  {
+   "id": "MED-C4-12",
+   "sec": "Pulsatile Liver, Epigastric Thumb Sign & Percussion",
+   "page": 39,
+   "fmt": "fillup",
+   "q": "When palpating epigastric pulsations with the thumb placed in the epigastric region pointing towards the shoulder (Book p39), a pulsation felt at the ____ of the thumb indicates right ventricular hypertrophy (RVH), whereas a pulsation felt at the ____ of the thumb indicates an aortic aneurysm.",
+   "opts": [
+    "Tip; pulp",
+    "Pulp; tip",
+    "Base; nail bed",
+    "Ulnar border; radial border"
+   ],
+   "ans": 0,
+   "exp": "Item 1 on Book p39 states: 'With thumb in epigastric region towards shoulder: a. At tip: RVH; At pulp: Aneurysm.' (Book p39)"
+  },
+  {
+   "id": "MED-C4-13",
+   "sec": "Pulsatile Liver, Epigastric Thumb Sign & Percussion",
+   "page": 39,
+   "fmt": "scenario",
+   "q": "While examining for a pulsatile liver (Book p39), you place your right hand on the lower border of the liver and your left hand made into a fist on the right lower intercostal space, asking the patient to hold their breath in deep inspiration. How do you time the pulsation, and how do you distinguish tricuspid regurgitation (TR), tricuspid stenosis (TS) and transmitted pulsations?",
+   "opts": [
+    "Use the JVP to time systole and diastole (since both hands are on the abdomen); pulsations pushing both hands outwards are expansile (e.g. TR) whereas those felt only by the abdominal hand are transmitted (aortic or RV cause); pulsations coinciding with the JVP 'a' wave are presystolic (e.g. TS) whereas those after the 'a' wave are systolic (e.g. TR)",
+    "Use the radial pulse with a third assistant to time systole; pulsations felt only on the posterior fist are expansile (TS) whereas those pushing both hands are transmitted (TR)",
+    "Ask the patient to hold breath in full expiration so the diaphragm rises; pulsations coinciding with the 'a' wave indicate TR whereas those after the 'a' wave indicate TS",
+    "Use carotid auscultation to time systole; expansile pulsations indicate abdominal aortic aneurysm whereas transmitted pulsations indicate constrictive pericarditis"
+   ],
+   "ans": 0,
+   "exp": "Item 2 on Book p39 details the bimanual liver pulsation test: JVP times the cardiac cycle because both hands are occupied; deep inspiratory breath-hold prevents respiratory interference and lowers the liver; expansile (both hands pushed outwards) = TR vs transmitted (only abdominal hand) = aortic/RV; coinciding with JVP 'a' wave = presystolic (TS) vs after 'a' wave = systolic (TR). (Book p39)"
+  },
+  {
+   "id": "MED-C4-14",
+   "sec": "Pulsatile Liver, Epigastric Thumb Sign & Percussion",
+   "page": 39,
+   "fmt": "recall",
+   "q": "Under 'Percussion' at the bottom of Book p39, which two findings are specifically listed?",
+   "opts": [
+    "Liver span in suspected hepatomegaly, and increased cardiac dullness in pericardial effusion",
+    "Dullness in the left 2nd ICS in pulmonary artery dilation, and Traube's space obliteration in splenomegaly",
+    "Right-sided cardiac dullness in dextrocardia, and shifting dullness in congestive ascites",
+    "Sternal percussion for right ventricular enlargement, and Kronig's isthmus percussion"
+   ],
+   "ans": 0,
+   "exp": "Under Percussion on Book p39, the two listed items are: (1) Liver span in suspected hepatomegaly, and (2) Pericardial effusion: increased cardiac dullness. (Book p39)"
+  },
+  {
+   "id": "MED-C4-15",
+   "sec": "Auscultation: Sequence, Areas, Gallavardin's Phenomenon & Murmur Grading",
+   "page": 40,
+   "fmt": "match",
+   "q": "Match each auscultatory area in Dr. Hamide's M -> T -> P -> A sequence on Book p40 to its anatomical landmark and characteristic findings — 1) M: Apex 2) T: Left 5th ICS parasternally 3) P: Left 2nd ICS parasternally 4) AA1 [Right 2nd ICS] and AA2 [Erb's point, Left 3rd ICS] … A) P2 loud/normal/soft, S1 +/-, Murmurs: ESM > EDM B) S1, S2, S3, Opening snap, Murmurs: MDM + PSA and PSM C) AA1: A2, EDM and ESM [radiating to carotids as shudder, or to apex confused with MR = Gallavardin's phenomenon]; AA2 [Erb's point]: EDM of AR heard better D) S1, S2, MDM and PSM [increasing on inspiration = Carvallo's sign]",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Item 1 on Book p40 sets out Dr. Hamide's M -> T -> P -> A sequence, distinguishing AA1 (right 2nd ICS parasternally, where the ESM of AS radiates to the carotids as a shudder or to the apex where it is confused with MR — Gallavardin's phenomenon) and AA2 (Erb's point, left 3rd ICS parasternally, where the EDM of AR is heard better). (Book p40)"
+  },
+  {
+   "id": "MED-C4-16",
+   "sec": "Auscultation: Sequence, Areas, Gallavardin's Phenomenon & Murmur Grading",
+   "page": 40,
+   "fmt": "scenario",
+   "q": "In an elderly patient with calcific aortic stenosis, a harsh ejection systolic murmur at the right 2nd ICS (AA1) radiates to the carotids as a shudder, while a high-frequency musical systolic component is heard at the cardiac apex and mistaken for mitral regurgitation. On Book p40 this apical radiation is called:",
+   "opts": [
+    "Carvallo's sign",
+    "Gallavardin's phenomenon",
+    "Cole-Cecil murmur",
+    "Austin Flint phenomenon"
+   ],
+   "ans": 1,
+   "exp": "Under 1.e (AA1: Rt 2nd ICS parasternally) on Book p40, the ESM of AS is noted as 'radiating to carotids as shudder, to apex often confused with MR: Gallavardin's phenomenon', while AA2 (Erb's point, Lt 3rd ICS parasternally) is where the EDM of AR is heard better. (Book p40)"
+  },
+  {
+   "id": "MED-C4-17",
+   "sec": "Auscultation: Sequence, Areas, Gallavardin's Phenomenon & Murmur Grading",
+   "page": 40,
+   "fmt": "match",
+   "q": "Match each Levine and Freeman murmur grade on Book p40 to its definition — 1) Grade I/VI and Grade II/VI 2) Grade III/VI 3) Grade IV/VI 4) Grade V/VI and Grade VI/VI … A) Loud murmur WITH a palpable thrill B) Grade I = very soft, heard in optimal conditions; Grade II = faint murmur but clearly audible C) Grade V = louder with thrill, heard away from the affected site; Grade VI = loud with thrill, heard even with the stethoscope lifted from the chest D) Moderately loud murmur with NO thrill",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 1,
+   "exp": "Item 2 on Book p40 lists Levine and Freeman's grading: Grade I/VI = very soft (optimal conditions); Grade II/VI = faint but clearly audible; Grade III/VI = moderately loud, no thrill; Grade IV/VI = loud with thrill; Grade V/VI = louder with thrill, heard away from the affected site; Grade VI/VI = loud with thrill, heard even with the stethoscope lifted from the chest. (Book p40)"
+  },
+  {
+   "id": "MED-C4-18",
+   "sec": "Auscultation: Sequence, Areas, Gallavardin's Phenomenon & Murmur Grading",
+   "page": 40,
+   "fmt": "numeric",
+   "q": "In Levine and Freeman's murmur grading on Book p40, the highest grade WITHOUT a palpable thrill is ____, the lowest grade WITH a palpable thrill is ____, and a murmur audible even with the stethoscope lifted from the chest is ____.",
+   "opts": [
+    "Grade III/VI; Grade IV/VI; Grade VI/VI",
+    "Grade II/VI; Grade III/VI; Grade V/VI",
+    "Grade I/VI; Grade II/VI; Grade IV/VI",
+    "Grade IV/VI; Grade V/VI; Grade VI/VI"
+   ],
+   "ans": 0,
+   "exp": "Item 2 on Book p40 defines Grade III/VI as a moderately loud murmur with no thrill, Grade IV/VI as a loud murmur with a thrill, and Grade VI/VI as loud with a thrill and heard even with the stethoscope lifted from the chest. (Book p40)"
+  },
+  {
+   "id": "MED-C4-19",
+   "sec": "Classical Murmur Descriptions & Heart Sound Intensity Table",
+   "page": 41,
+   "fmt": "scenario",
+   "q": "When asked for the classical description of the mitral stenosis murmur (marked **** on Book p41), which combination of stethoscope piece, patient posture, and respiratory phase is specified for the opening snap versus the mid-diastolic murmur?",
+   "opts": [
+    "S1 is loud, S2 is normal; a high-pitched opening snap is heard after S2 with the DIAPHRAGM, followed by a low-pitched, rough, rumbling MDM (with or without presystolic accentuation) best heard with the BELL with the patient in the LEFT LATERAL position with breath held in MID-EXPIRATION",
+    "S1 is soft, S2 is absent; a low-pitched opening snap is heard with the bell, followed by a high-pitched blowing MDM best heard with the diaphragm in the sitting leaning-forward posture at end-inspiration",
+    "S1 and S2 are normal; both the opening snap and the rough rumbling MDM are best heard with the diaphragm in the supine posture during deep inspiration",
+    "S1 is loud, S2 is wide fixed split; the MDM is best heard with the bell at Erb's point while the patient performs a Valsalva manoeuvre"
+   ],
+   "ans": 0,
+   "exp": "Item 4.a on Book p41 gives the verbatim classical description of MS: loud S1, normal S2, high-pitched opening snap after S2 heard with the diaphragm, followed by a low-pitched, rough, rumbling MDM with/without presystolic accentuation best heard with the bell in the left lateral position with breath held in mid-expiration. (Book p41)"
+  },
+  {
+   "id": "MED-C4-20",
+   "sec": "Classical Murmur Descriptions & Heart Sound Intensity Table",
+   "page": 41,
+   "fmt": "match",
+   "q": "Match each category of non-MS mid-diastolic murmur on Book p41 to its listed causes — 1) Intracardiac masses causing apical MDM 2) Regurgitant / valvulitic eponymous apical MDMs 3) Increased flow across a non-stenotic mitral valve 4) Causes of MDM at other areas [tricuspid area] … A) Austin Flint murmur [MDM in AR] and Carey-Coombs murmur [MDM in acute rheumatic fever] B) Left atrial myxoma and ball-valve thrombus in the left atrium C) Tricuspid stenosis, increased flow across a non-stenotic tricuspid valve [ASD, TR, TAPVR], and right atrial myxoma D) MR, VSD, PDA, high-output states and complete heart block",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Book p41 lists five other causes of MDM at the apex (LA myxoma, Austin Flint murmur in AR, Carey-Coombs murmur in ARF, ball-valve LA thrombus, and increased flow across a non-stenotic MV in MR, VSD, PDA, high-output states, complete heart block) and three causes of MDM at other areas (tricuspid stenosis, increased flow across a non-stenotic TV in ASD/TR/TAPVR, and right atrial myxoma). (Book p41)"
+  },
+  {
+   "id": "MED-C4-21",
+   "sec": "Classical Murmur Descriptions & Heart Sound Intensity Table",
+   "page": 41,
+   "fmt": "match",
+   "q": "Match each murmur or heart-sound row on Book p41 to its classical description — 1) Aortic stenosis vs Aortic regurgitation classical descriptions 2) Mitral regurgitation classical description 3) Loud vs Soft S1 in the p41 table 4) Loud vs Soft A2 and P2 in the p41 table … A) S1 and S2 not audible; high-pitched loud pansystolic murmur of soft blowing quality best heard with the diaphragm, radiating to the axilla B) Loud S1 = MS, hyperdynamic circulations; Soft S1 = MR, calcific MS, TR, acute AR C) AS = S1 and S2 heard, harsh crescendo-decrescendo ESM in aortic area; AR = S1 heard, S2 soft, soft high-pitched blowing decrescendo EDM; both best heard sitting leaning forward in expiration D) Loud A2 = systemic HTN, aortic aneurysm [Soft A2 = AS]; Loud P2 = pulmonary HTN, pulmonary artery dilatation [Soft P2 = PS]",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 1,
+   "exp": "Items 4.b–d and the bottom table on Book p41 summarise the classical descriptions of AS, MR and AR along with the Loud/Soft causes for S1, A2 and P2. (Book p41)"
+  },
+  {
+   "id": "MED-C4-22",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 42,
+   "fmt": "scenario",
+   "q": "On Book p42, why is S1 loud in mitral stenosis (MS), and what do curves A ('Steep slope at crossover point') and B ('Shallow slope at crossover point') in the LA-LV pressure crossover diagram illustrate?",
+   "opts": [
+    "(i) dP/dt theory: elevated LA pressure forces the LV to reach a higher pressure to shut the mitral valve, so crossover occurs on a steeper part of the LV dP/dt curve (Curve A vs normal Curve B); and (ii) Wide closing excursion: the high AV pressure gradient at the onset of systole keeps the leaflets maximally separated so they close through a wider excursion",
+    "(i) Bernheim theory: the hypertrophied septum strikes the anterior mitral leaflet; and (ii) Curve A represents low LA pressure with a shallow crossover slope",
+    "(i) Early diastolic recoil of the aortic root; and (ii) Curve B represents tight mitral stenosis with a steep crossover slope",
+    "(i) Premature closure of the mitral valve before the QRS complex; and (ii) Curves A and B compare inspiration and expiration"
+   ],
+   "ans": 0,
+   "exp": "Item 2.a on Book p42 (with the accompanying LV/LA pressure crossover diagram) explains the two theories for a loud S1 in MS: (i) dP/dt theory — elevated LA pressure shifts the LV-LA pressure crossover to a steeper part of the LV pressure curve (Curve A: steep slope at crossover point, vs Curve B: shallow slope); and (ii) wide closing excursion — the high atrioventricular gradient at the onset of systole keeps the leaflets maximally separated. (Book p42)"
+  },
+  {
+   "id": "MED-C4-23",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 42,
+   "fmt": "match",
+   "q": "Match each cause of altered S1 intensity on Book p42 to its exact mechanism — 1) Holosystolic MVP with MR and LA myxoma 2) Short PR interval 3) Ebstein's anomaly ['sail sound'] 4) Causes of a Soft S1 … A) Calcific MS, MR, long PR interval, TR and acute AR B) Atrialization of the RV causes the malformed tricuspid valve to close late at a higher RV pressure [producing a loud S1 / 'sail sound'] C) Ventricle contracts before the LA has time to relax -> short x descent -> high LA pressure -> LV crosses LA pressure on a steeper slope of the dP/dt curve D) In holosystolic MVP, prolapse delays leaflet tension until peak ventricular contraction; in LA myxoma, the tumour delays valve closure",
+   "opts": [
+    "1-D, 2-C, 3-B, 4-A",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Items 2.b–f and 3.a–e on Book p42 detail all causes of a loud S1 (MS, hyperdynamic states, holosystolic MVP with MR, LA myxoma, short PR interval, and Ebstein's anomaly 'sail sound') and a soft S1 (calcific MS, MR, long PR interval, TR, and acute AR). (Book p42)"
+  },
+  {
+   "id": "MED-C4-24",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 42,
+   "fmt": "fillup",
+   "q": "In Ebstein's anomaly (Book p42), ____ of the right ventricle causes the malformed tricuspid valve to close late at a higher RV pressure, producing a loud S1 called the '____'; in a short PR interval, the ventricle contracts before the LA has time to relax, producing a short ____ descent and high LA pressure at crossover.",
+   "opts": [
+    "Atrialization; sail sound; x",
+    "Ventricularization; pericardial knock; y",
+    "Calcification; tumour plop; c",
+    "Hypertrophy; seagull sound; v"
+   ],
+   "ans": 0,
+   "exp": "Items 2.e and 2.f on Book p42 state: in a short PR interval, the ventricle contracts before the LA has had time to relax -> short x descent -> high LA pressure -> LV crosses LA pressure on a steeper slope of the dP/dt curve; in Ebstein's anomaly, atrialization of the RV causes the malformed tricuspid valve to close late at a higher RV pressure -> loud S1 ('sail sound'). (Book p42)"
+  },
+  {
+   "id": "MED-C4-25",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 43,
+   "fmt": "numeric",
+   "q": "According to Book p43, normally M1 precedes T1 by just ____ (widening in RBBB, including the RBBB associated with Ebstein's anomaly), whereas a normal inspiratory S2 split has a duration of ____.",
+   "opts": [
+    "20–30 msec; <0.03 seconds",
+    "80–100 msec; >0.10 seconds",
+    "5–10 msec; 0.08–0.12 seconds",
+    "50–60 msec; <0.12 seconds"
+   ],
+   "ans": 0,
+   "exp": "Book p43 states: under Split S1, normally M1 is just 20–30 msec before T1 (and in RBBB — which is also associated with Ebstein's anomaly — T1 is heard much after M1); under Second Heart Sound (S2), normal split is seen in inspiration and normal duration is <0.03 seconds. (Book p43)"
+  },
+  {
+   "id": "MED-C4-26",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 43,
+   "fmt": "match",
+   "q": "Match each S2 splitting abnormality on Book p43 (text and 'S2 split and its anomalies' diagram) to its causes and mechanism — 1) Wide variable split due to early A2 2) Wide variable split due to delayed P2 3) Wide fixed split 4) Paradoxical [reversed] split [P2 precedes A2 in expiration and narrows in inspiration] … A) Pulmonary stenosis (PS) B) Conditions that delay LV emptying: aortic stenosis (AS) and left bundle branch block (LBBB) C) VSD and mitral regurgitation (MR) D) ASD, TAPVC and RBBB",
+   "opts": [
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 1,
+   "exp": "Item 1.c–f and the accompanying diagram on Book p43 classify S2 splitting into: wide variable split from early A2 (VSD, MR) or delayed P2 (PS); wide fixed split (ASD, TAPVC, RBBB); and paradoxical split from delayed LV emptying (AS, LBBB, where P2 occurs before A2 in expiration and merges on inspiration). (Book p43)"
+  },
+  {
+   "id": "MED-C4-27",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 43,
+   "fmt": "scenario",
+   "q": "Citing Perloff's Physical Examination of the Heart and Circulation, Book p43 separately explains (i) why S2 is WIDELY split in ASD and (ii) why the split is FIXED across respiration. Which statement captures both mechanisms?",
+   "opts": [
+    "(i) Wide split: increased pulmonary 'hangout interval' (interval between RV-PA pressure crossover and pulmonary valve closure) due to low pulmonary vascular resistance prolonging RV ejection (unlike the high-resistance systemic circuit where the aortic valve has almost no hangout interval); (ii) Fixed split: the inspiratory increase in systemic venous return to the RA is matched by a reciprocal decrease in the left-to-right shunt across the ASD, minimising respiratory variation in RV filling",
+    "(i) Wide split: left bundle branch block delays A2 behind P2; (ii) Fixed split: pulmonary hypertension fuses the right and left ventricular ejection times",
+    "(i) Wide split: premature closure of the aortic valve into the left atrium; (ii) Fixed split: complete absence of the interatrial septum prevents any pressure gradient in systole",
+    "(i) Wide split: tricuspid regurgitation shortens RV systole; (ii) Fixed split: the Valsalva effect of normal inspiration closes the foramen ovale"
+   ],
+   "ans": 0,
+   "exp": "Item 1.g on Book p43 details both parts: (i) Why widely split — increased pulmonary hangout interval (interval between RV-PA pressure crossover and pulmonary valve closure) in the low-resistance pulmonary bed prolongs RV ejection; (ii) Why fixed — inspiratory increase in systemic venous return to the RA is matched by a reciprocal decrease in the left-to-right transatrial shunt, keeping RV filling constant across respiration. (Book p43)"
+  },
+  {
+   "id": "MED-C4-28",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 44,
+   "fmt": "match",
+   "q": "Match each heart sound concept on Book p44 to its listed mechanism and causes — 1) Other causes of wide/fixed S2 split on p44 2) Physiological S3 [initial passive filling of ventricles in diastole] 3) Pathological S3 4) Fourth heart sound (S4) … A) Emptying of atria into a stiff ventricle: systemic HTN, CAD, severe AS, HOCM and restrictive cardiomyopathy (RCM) B) Children, athletes and pregnancy C) TAPVC [one or more pulmonary veins connect to RA, producing an effect similar to ASD] and massive acute pulmonary embolism D) MR/TR [increased atrial volume filling ventricles], high-output states, CHD [ASD, VSD, PDA], HOCM, systolic HF [overly compliant myocardium -> dilated LV], and systemic/pulmonary HTN",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Book p44 covers: other causes of wide/fixed S2 split (TAPVC, massive acute PE), A2/P2 intensity, S3 (initial passive ventricular filling in diastole: physiological in children, athletes, pregnancy; pathological in MR/TR, high-output states, CHD [ASD, VSD, PDA], HOCM, systolic HF with overly compliant myocardium and dilated LV, systemic/pulmonary HTN), and S4 (atrial emptying into a stiff ventricle: systemic HTN, CAD, severe AS, HOCM, RCM). (Book p44)"
+  },
+  {
+   "id": "MED-C4-29",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "page": 44,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the pathophysiology of S3 and S4 on Book p44?",
+   "opts": [
+    "True: In systolic heart failure producing an S3, the myocardium is overly compliant resulting in a dilated LV during initial passive diastolic filling, whereas an S4 is caused by atrial emptying into a stiff ventricle (systemic HTN, CAD, severe AS, HOCM, RCM)",
+    "True: An S4 is physiological in children, athletes and pregnancy, whereas an S3 occurs only in restrictive cardiomyopathy",
+    "False: HOCM can be associated with both a pathological S3 and an S4 on Book p44",
+    "False: Soft A2 is seen in AS and soft P2 is seen in PS"
+   ],
+   "ans": 0,
+   "exp": "Book p44 explicitly states that in systolic heart failure causing a pathological S3, 'the myocardium is overly compliant, resulting in a dilated LV', whereas S4 is caused by 'emptying of atria into a stiff ventricle' (systemic HTN, CAD, severe AS, HOCM, RCM). Note that HOCM appears in both lists on p44. (Book p44)"
+  },
+  {
+   "id": "MED-C4-30",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "page": 45,
+   "fmt": "match",
+   "q": "Match each trace (A–E) in the 'Added sounds' diagram on Book p45 to the heart sound or prosthetic valve event it depicts — 1) Trace A and Trace B 2) Trace C 3) Trace D [Prosthetic mitral valve] 4) Trace E [Prosthetic aortic valve] … A) Closing click coincides with S1; opening click occurs in early diastole after S2 [at the timing of an opening snap] B) Opening click occurs in early systole after S1 [at the timing of an ejection click]; closing click coincides with S2 C) Trace A = Opening snap in early diastole after S2; Trace B = Ejection click in early systole just after S1 D) Midsystolic click between S1 and S2",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 1,
+   "exp": "The 'Added sounds' diagram on Book p45 shows: (A) Opening snap after S2; (B) Ejection click shortly after S1; (C) Midsystolic click in mid-systole; (D) Prosthetic mitral valve closing at S1 and opening after S2; and (E) Prosthetic aortic valve opening after S1 and closing at S2. (Book p45)"
+  },
+  {
+   "id": "MED-C4-31",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "page": 45,
+   "fmt": "scenario",
+   "q": "Both S3 and S4 are heard with the bell of the stethoscope, and S1-S2-S3 is called a gallop rhythm ('canter of a galloping horse' / 'protodiastolic gallop'). At the bedside, how does asking the patient to STAND differentiate an opening snap (OS) of mitral stenosis from a split S2 (Book p45)?",
+   "opts": [
+    "On standing, the S2–OS gap INCREASES, whereas the A2–P2 gap of a split S2 REDUCES because venous return decreases",
+    "On standing, the S2–OS gap NARROWS and disappears, whereas the A2–P2 gap WIDENS due to increased systemic vascular resistance",
+    "On standing, both the S2–OS gap and the A2–P2 gap remain completely unchanged",
+    "On standing, an opening snap transforms into a presystolic murmur whereas a split S2 becomes paradoxical"
+   ],
+   "ans": 0,
+   "exp": "Item 3.c on Book p45 states the bedside rule: 'OS vs S2: S2-OS gap increases on standing; A2-P2 gap reduces on standing because venous return decreases.' Its differential diagnosis (3.d) includes split S2, S3 and pericardial knock. (Book p45)"
+  },
+  {
+   "id": "MED-C4-32",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "page": 45,
+   "fmt": "recall",
+   "q": "Which triad of heart sounds is listed under 'Ddx of OS' (Item 3.d) at the bottom of Book p45?",
+   "opts": [
+    "Split S2, S3, and Pericardial knock",
+    "S4, Aortic ejection click, and Midsystolic click",
+    "Split S1, Mammary souffle, and Venous hum",
+    "Austin Flint murmur, Carey-Coombs murmur, and Graham Steell's murmur"
+   ],
+   "ans": 0,
+   "exp": "Item 3.d on Book p45 lists the three differential diagnoses of an opening snap: (i) Split S2, (ii) S3, and (iii) Pericardial knock. (Book p45)"
+  },
+  {
+   "id": "MED-C4-33",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "page": 46,
+   "fmt": "match",
+   "q": "Match each feature in the 'OS vs S3' comparison table on Book p46 — 1) Cause and character 2) Best heard with and radiation 3) Timing and effect of standing 4) Effect of treating heart failure … A) OS: early part of diastole, S2–OS gap widens on standing; S3: mid-diastole, unchanged on standing B) OS: becomes LOUDER after treating HF; S3: is LOST after treating HF C) OS: bellowing down of closed MV cusp at onset of ventricular diastole [MS], sharp, high-pitched, LOUD; S3: passive ventricular filling [HF/chronic MI], low-pitched D) OS: diaphragm, loudest at left parasternal border especially on standing, radiates [++]; S3: bell, best heard at apex in left lateral position, no radiation [-]",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The OS vs S3 table on Book p46 contrasts every row: Cause (bellowing down of closed MV cusp in MS vs passive ventricular filling in HF/chronic MI), Character (sharp, high-pitched, loud vs low-pitched), Best heard with (diaphragm at LPSB especially on standing vs bell at apex in LLP), Radiation (++ vs -), Timing (early diastole vs mid-diastole), Standing (S2-OS widens vs unchanged), and After treating HF (OS becomes louder vs S3 is lost). (Book p46)"
+  },
+  {
+   "id": "MED-C4-34",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "page": 46,
+   "fmt": "management",
+   "q": "In a patient with decompensated heart failure and an extra diastolic sound, how should you position the patient and apply the stethoscope to distinguish an Opening Snap (OS) from an S3 gallop, and how does medical treatment of heart failure alter each sound (Book p46)?",
+   "opts": [
+    "Listen for OS with the diaphragm at the left parasternal border (especially on standing, where S2–OS widens) and for S3 with the bell at the apex in the left lateral position; after treating heart failure, the OS becomes LOUDER whereas the S3 is LOST",
+    "Listen for OS with the bell at the apex in the left lateral position and for S3 with the diaphragm at the right 2nd ICS; after treating heart failure, the OS disappears whereas the S3 becomes louder",
+    "Listen for both sounds with the diaphragm at Erb's point while squatting; treating heart failure abolishes both OS and S3 equally",
+    "Listen for OS at the carotid artery and S3 over the xiphisternum; treating heart failure narrows the S2–OS interval to zero"
+   ],
+   "ans": 0,
+   "exp": "The OS vs S3 table on Book p46 specifies: OS is best heard with the diaphragm, loudest at the left parasternal border especially on standing (where S2–OS widens) and becomes louder after treating HF; S3 is best heard with the bell at the apex in the left lateral position (unchanged on standing) and is lost after treating HF. (Book p46)"
+  },
+  {
+   "id": "MED-C4-35",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "page": 46,
+   "fmt": "match",
+   "q": "Match each added sound on Book p46 (items 4–8) to its description — 1) Ejection click [semilunar valve opening] 2) Pericardial knock 3) Pericardial rub 4) Tumour plop and prosthetic sound … A) Friction between the two pericardial layers; classically triphasic — presystolic, mid-systolic and mid-diastolic B) Loud high-frequency diastolic sound due to an abrupt halt to early diastolic filling in constrictive pericarditis C) Pulmonary ejection click varies with respiration [noted on p46 as increasing with inspiration; see also p47 Carvallo exception]; aortic ejection click does NOT change with respiration and is heard all over the precordium D) Mobile left atrial myxoma [tumour plop] and mechanical valve clicks [prosthetic sound]",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Items 4–8 on Book p46 describe: (4) Ejection click from opening of semilunar valves (pulmonary vs aortic, which does not change with respiration and is heard all over the precordium); (5) Pericardial knock in constrictive pericarditis; (6) Triphasic pericardial rub (presystolic, mid-systolic, mid-diastolic); (7) Tumour plop; and (8) Prosthetic sound. (Book p46)"
+  },
+  {
+   "id": "MED-C4-36",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "page": 46,
+   "fmt": "oddoneout",
+   "q": "All of the following statements about innocent (functional) murmurs on Book p46 are true EXCEPT:",
+   "opts": [
+    "They are soft (<3/6 intensity), often position-dependent, and occur in asymptomatic patients with no palpable thrill",
+    "They occur only in systole or continuously — any pure diastolic murmur is always pathological",
+    "Examples include Still's murmur (musical quality at the inferior aspect of the lower left sternal border), infraclavicular venous hum (continuous, heard with the bell), and mammary souffle",
+    "They are typically Grade IV/VI or louder pure mid-diastolic murmurs accompanied by a palpable parasternal thrill"
+   ],
+   "ans": 3,
+   "exp": "Under 'Innocent / functional murmurs' on Book p46, innocent murmurs are soft (<3/6), position-dependent, asymptomatic, systolic or continuous ('Any pure diastolic murmur is pathological'), have no palpable thrill, and include Still's murmur, infraclavicular venous hum (continuous, with bell), and mammary souffle. (Book p46)"
+  },
+  {
+   "id": "MED-C4-37",
+   "sec": "Dynamic Auscultation, Systolic Murmur Timing & 10 Named Murmurs",
+   "page": 47,
+   "fmt": "scenario",
+   "q": "Book p47 illustrates the mitral valve in `/\\` orientation at low ventricular volume (conducive to early prolapse) versus `__ __` at higher ventricular volume (taking longer to prolapse). How do (1) Valsalva/standing and (2) sustained handgrip or rapid squatting affect the HOCM murmur and the MVP click/murmur?",
+   "opts": [
+    "Valsalva and standing (decreased preload/LV volume) INCREASE the intensity of the HOCM murmur and cause an EARLIER onset of the MVP click/murmur; sustained handgrip and rapid squatting DECREASE the intensity of the HOCM murmur and cause a LATER onset of the MVP click/murmur",
+    "Valsalva and standing DECREASE the HOCM murmur and delay the MVP click; sustained handgrip and rapid squatting INCREASE the HOCM murmur and advance the MVP click",
+    "Sustained handgrip increases both the AS and HOCM murmurs while abolishing MR, AR and VSD murmurs",
+    "Rapid squatting decreases MS, AR and VSD murmurs while increasing the HOCM murmur"
+   ],
+   "ans": 0,
+   "exp": "Items 1–4 on Book p47 explain: (1) Inspiration increases all right-sided murmurs except pulmonic ejection (Carvallo's sign); (2) Sustained handgrip (increases afterload) increases MR, AR, VSD, decreases HOCM and AS (due to increased LV volume), and causes later onset of click/murmur in MVP; (3) Valsalva and standing (decreased preload) decrease most murmurs including AS, increase HOCM, and cause earlier onset of click/murmur in MVP; (4) Rapid squatting (increased venous return, preload, afterload) decreases HOCM, increases MS, AR, VSD, and causes later onset of click/murmur in MVP. (Book p47)"
+  },
+  {
+   "id": "MED-C4-38",
+   "sec": "Dynamic Auscultation, Systolic Murmur Timing & 10 Named Murmurs",
+   "page": 47,
+   "fmt": "fillup",
+   "q": "According to Book p47, inspiration increases all right-sided murmurs EXCEPT ____ (Carvallo's sign), whereas sustained handgrip (which increases afterload) increases the intensity of ____ murmurs and decreases the intensity of ____ murmurs.",
+   "opts": [
+    "Pulmonic ejection; MR, AR and VSD; HOCM and AS",
+    "Tricuspid regurgitation; HOCM and AS; MR, AR and VSD",
+    "Tricuspid stenosis; ASD and PS; MS and VSD",
+    "Pulmonic regurgitation; MVP and HOCM; AR and MR"
+   ],
+   "ans": 0,
+   "exp": "Items 1 and 2 on Book p47 state: (1) Inspiration increases all right-sided murmurs except pulmonic ejection — Carvallo's sign; (2) Sustained handgrip (increases afterload) increases intensity of MR, AR, VSD murmurs and decreases HOCM and AS murmurs (because of increased LV volume). (Book p47)"
+  },
+  {
+   "id": "MED-C4-39",
+   "sec": "Dynamic Auscultation, Systolic Murmur Timing & 10 Named Murmurs",
+   "page": 47,
+   "fmt": "match",
+   "q": "Match each timing class of systolic murmur on Book p47 to its listed causes — 1) Pansystolic 2) Early systolic 3) Mid-systolic 4) Late systolic … A) MVP, acute MI and tricuspid valve prolapse (TVP) B) Acute MR, muscular VSD and acute TR C) MR, TR and VSD D) Supravalvular AS, coarctation of aorta, AS, aortic sclerosis, HOCM, increased flow, PS, supravalvular PS and ASD [flow murmur]",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Under 'Systolic murmurs' on Book p47: (1) Pansystolic = MR, TR, VSD; (2) Early systolic = acute MR, muscular VSD, acute TR; (3) Mid-systolic = supravalvular AS, coarctation of aorta, AS, aortic sclerosis, HOCM, increased flow, PS, supravalvular PS, ASD (flow murmur); (4) Late systolic = MVP, acute MI, TVP. (Book p47)"
+  },
+  {
+   "id": "MED-C4-40",
+   "sec": "Dynamic Auscultation, Systolic Murmur Timing & 10 Named Murmurs",
+   "page": 47,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the systolic murmur classification on Book p47?",
+   "opts": [
+    "True: Acute MR, muscular VSD and acute TR produce early systolic murmurs (unlike chronic MR, TR and VSD, which are pansystolic), whereas MVP, acute MI and TVP produce late systolic murmurs",
+    "True: ASD produces a pansystolic murmur across the interatrial defect, whereas muscular VSD produces a late systolic murmur",
+    "False: Rapid squatting increases the intensity of MS, AR and VSD murmurs while decreasing the HOCM murmur",
+    "False: In MVP, the mitral valve is in the `/\\` orientation at low ventricular volume, which is conducive to early prolapse"
+   ],
+   "ans": 0,
+   "exp": "Book p47 classifies chronic MR, TR and VSD as pansystolic, acute MR, muscular VSD and acute TR as early systolic, ASD flow murmur as mid-systolic, and MVP, acute MI and TVP as late systolic. (Book p47)"
+  },
+  {
+   "id": "MED-C4-41",
+   "sec": "Dynamic Auscultation, Systolic Murmur Timing & 10 Named Murmurs",
+   "page": 47,
+   "fmt": "match",
+   "q": "Match each named murmur (items 1–5 under 'Named murmurs****' on Book p47) to its classic definition — 1) Austin Flint murmur 2) Carey-Coombs murmur 3) Cole-Cecil murmur 4) Cruveilhier-Baumgarten murmur and Gibson murmur … A) Early diastolic murmur (EDM) of aortic regurgitation heard at the apex or axilla B) Mid-diastolic murmur (MDM) at the apex due to mitral valvulitis in acute rheumatic fever C) Mid-diastolic murmur (MDM) at the apex in severe AR due to vibration of the anterior mitral leaflet caused by the regurgitant jet D) Cruveilhier-Baumgarten = epigastric venous hum from collaterals between the portal system and remnant of the umbilical vein in portal hypertension; Gibson = machinery murmur of PDA",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 1,
+   "exp": "Items 1–5 under 'Named murmurs****' on Book p47 define: (1) Austin Flint = MDM at apex in severe AR (vibration of AML from regurgitant jet); (2) Carey-Coombs = MDM at apex due to mitral valvulitis in ARF; (3) Cole-Cecil = EDM of AR heard at apex or axilla; (4) Cruveilhier-Baumgarten = epigastric venous hum in portal hypertension (collaterals between portal system and remnant of umbilical vein); (5) Gibson = machinery murmur of PDA. (Book p47)"
+  },
+  {
+   "id": "MED-C4-42",
+   "sec": "Dynamic Auscultation, Systolic Murmur Timing & 10 Named Murmurs",
+   "page": 47,
+   "fmt": "match",
+   "q": "Match each named murmur (items 6–10 under 'Named murmurs****' on Book p47) to its classic definition — 1) Graham Steell's murmur 2) Means-Lerman scratch 3) Roger's murmur 4) Seagull murmur and Still's murmur … A) Ejection systolic murmur (ESM) due to increased flow across the pulmonary valve in thyrotoxicosis B) Pansystolic murmur (PSM) of VSD best heard at the left sternal border C) Early diastolic murmur (EDM) of pulmonary regurgitation D) Seagull = musical murmur occasionally heard in AR or a sign of tight calcific AS in the Gallavardin phenomenon; Still's = innocent/benign/physiological murmur resembling the noise of a twanging string in young children that disappears later",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Items 6–10 under 'Named murmurs****' on Book p47 define: (6) Graham Steell's = EDM of PR; (7) Means-Lerman scratch = ESM from increased flow across the pulmonary valve in thyrotoxicosis; (8) Roger's = PSM of VSD at the left sternal border; (9) Seagull = musical murmur in AR or sign of tight calcific AS in Gallavardin phenomenon; (10) Still's = innocent/benign/physiological murmur resembling a twanging string in young children. (Book p47)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U4-1",
+   "ch": 4,
+   "n": 1,
+   "title": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving",
+   "sec": "Palpation: Apex Beat, DR POPE & Hyperdynamic vs Heaving Impulse",
+   "guide": "Apex beat = lowermost, outermost definite palpable cardiac impulse; report as '__ ICS, __ cm medial/lateral to MCL' and comment on character in the left lateral position.\nIsovolumetric contraction rotates the heart counterclockwise (spiral muscle fibres) and LV ejection causes regression; LV vs RV apex gives a palpatory see-saw.\nDR POPE = Dextrocardia (never say first; check right side if non-locatable), Rib, Pleural effusion, Obesity, Pericardial effusion, Emphysema; normal apex is L 5th ICS, 1/2 in medial to MCL, 1 ICS, ~2.5 cm2, <1/3 systole; contrast Hyperdynamic (volume overload) vs Heaving (pressure overload) vs Tapping (palpable S1).",
+   "qs": [
+    "MED-C4-01",
+    "MED-C4-02",
+    "MED-C4-03",
+    "MED-C4-04",
+    "MED-C4-05",
+    "MED-C4-06"
+   ]
+  },
+  {
+   "id": "MED-U4-2",
+   "ch": 4,
+   "n": 2,
+   "title": "Apex Shift, Abnormal Impulses, Thrills & Heave",
+   "sec": "Apex Shift, Abnormal Impulses, Thrills & Parasternal Heave",
+   "guide": "LV enlargement shifts the apex downwards and laterally; RV enlargement shifts it only laterally.\nRetracting apex (inward in systole, outward in diastole) = constrictive pericarditis and TR; hypokinetic = MI; double apex = HOCM ('second LV contraction'), severe AS with AR, and LBBB.\nThrill = palpable murmur (carotid AS shudder; A: AS/AR; P: PS, ASD/PDA; T: VSD; M: MR/MS); parasternal heave (2nd-5th ICS, midline to mid-MCL) is graded I-III (AIIMS) and caused by RVH or LA enlargement.",
+   "qs": [
+    "MED-C4-07",
+    "MED-C4-08",
+    "MED-C4-09",
+    "MED-C4-10",
+    "MED-C4-11"
+   ]
+  },
+  {
+   "id": "MED-U4-3",
+   "ch": 4,
+   "n": 3,
+   "title": "Pulsatile Liver, Epigastric Thumb Sign & Percussion",
+   "sec": "Pulsatile Liver, Epigastric Thumb Sign & Percussion",
+   "guide": "Thumb in epigastrium towards the shoulder: pulsation at the tip = RVH; pulsation at the pulp = aortic aneurysm.\nPulsatile liver: right hand on lower border, left fist on right lower ICS, breath held in deep inspiration; use JVP to time systole/diastole — expansile (TR) vs transmitted (aortic/RV), presystolic ('a' wave, TS) vs systolic (TR).\nCardiac percussion assesses liver span in suspected hepatomegaly and increased cardiac dullness in pericardial effusion.",
+   "qs": [
+    "MED-C4-12",
+    "MED-C4-13",
+    "MED-C4-14"
+   ]
+  },
+  {
+   "id": "MED-U4-4",
+   "ch": 4,
+   "n": 4,
+   "title": "Auscultation: Sequence, Areas, Gallavardin & Grading",
+   "sec": "Auscultation: Sequence, Areas, Gallavardin's Phenomenon & Murmur Grading",
+   "guide": "Dr. Hamide's sequence: M (Apex) -> T (L 5th ICS) -> P (L 2nd ICS) -> AA1 (R 2nd ICS) and AA2 (Erb's point, L 3rd ICS, where the EDM of AR is heard best).\nAt AA1 the ESM of AS radiates to the carotids as a shudder and to the apex where it mimics MR (Gallavardin's phenomenon).\nLevine and Freeman systolic murmur grading I/VI to VI/VI: thrill begins at Grade IV/VI; Grade VI/VI is audible with the stethoscope lifted off the chest.",
+   "qs": [
+    "MED-C4-15",
+    "MED-C4-16",
+    "MED-C4-17",
+    "MED-C4-18"
+   ]
+  },
+  {
+   "id": "MED-U4-5",
+   "ch": 4,
+   "n": 5,
+   "title": "Classical Murmurs & Heart Sound Intensity Table",
+   "sec": "Classical Murmur Descriptions & Heart Sound Intensity Table",
+   "guide": "Classical MS (****): loud S1, normal S2, high-pitched opening snap after S2 (diaphragm), followed by a low-pitched rough rumbling MDM +/- PSA (bell, left lateral position, mid-expiration).\nOther apical MDMs: LA myxoma, Austin Flint (AR), Carey-Coombs (ARF), ball-valve LA thrombus, and high-flow states (MR, VSD, PDA, high-output, CHB); tricuspid MDMs: TS, high-flow (ASD, TR, TAPVR), RA myxoma.\nAS and AR murmurs are best heard sitting leaning forward in expiration; Loud S1 (MS, hyperdynamic) vs Soft S1 (MR, calcific MS, TR, acute AR) and Loud/Soft A2 & P2.",
+   "qs": [
+    "MED-C4-19",
+    "MED-C4-20",
+    "MED-C4-21"
+   ]
+  },
+  {
+   "id": "MED-U4-6",
+   "ch": 4,
+   "n": 6,
+   "title": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "sec": "Heart Sounds S1, S2, Split S2 in ASD, S3 & S4",
+   "guide": "Loud S1 in MS results from the dP/dt steep crossover slope (Curve A vs B) and wide leaflet closing excursion; other loud S1 causes include holosystolic MVP, LA myxoma, short PR interval and Ebstein's anomaly ('sail sound').\nSplit S1 (M1 20-30 ms before T1) widens in RBBB/Ebstein's; normal inspiratory S2 split is <0.03 s; ASD causes a wide fixed S2 split (increased low-resistance pulmonary hangout interval + reciprocal decrease in L-to-R shunt on inspiration, Perloff).\nS3 reflects passive diastolic filling (physiological in children/athletes/pregnancy; pathological in MR/TR, high-output, CHD, HOCM, systolic HF with overly compliant dilated LV, HTN); S4 reflects atrial emptying into a stiff ventricle (HTN, CAD, severe AS, HOCM, RCM).",
+   "qs": [
+    "MED-C4-22",
+    "MED-C4-23",
+    "MED-C4-24",
+    "MED-C4-25",
+    "MED-C4-26",
+    "MED-C4-27",
+    "MED-C4-28",
+    "MED-C4-29"
+   ]
+  },
+  {
+   "id": "MED-U4-7",
+   "ch": 4,
+   "n": 7,
+   "title": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "sec": "Added Sounds, OS vs S3 Table & Innocent Murmurs",
+   "guide": "Added sounds: opening snap (early diastole), ejection click (post-S1), midsystolic click, prosthetic mitral (closes at S1, opens at OS timing) and prosthetic aortic (opens at EC timing, closes at S2).\nStanding widens the S2-OS gap in MS but narrows the A2-P2 gap; in the OS vs S3 table, treating HF makes OS louder whereas S3 is lost.\nPericardial knock = abrupt halt to early diastolic filling in constriction; pericardial rub is triphasic; innocent murmurs are <3/6, systolic/continuous (never pure diastolic), without thrill (Still's, venous hum, mammary souffle).",
+   "qs": [
+    "MED-C4-30",
+    "MED-C4-31",
+    "MED-C4-32",
+    "MED-C4-33",
+    "MED-C4-34",
+    "MED-C4-35",
+    "MED-C4-36"
+   ]
+  },
+  {
+   "id": "MED-U4-8",
+   "ch": 4,
+   "n": 8,
+   "title": "Dynamic Manoeuvres, Systolic Timing & 10 Named Murmurs",
+   "sec": "Dynamic Auscultation, Systolic Murmur Timing & 10 Named Murmurs",
+   "guide": "Carvallo's sign: inspiration increases all right-sided murmurs except pulmonic ejection; Valsalva/standing (low preload) increases HOCM and advances MVP click/murmur, whereas handgrip and rapid squatting decrease HOCM and delay MVP click/murmur.\nSystolic murmurs by timing: Pansystolic (MR, TR, VSD), Early (acute MR, muscular VSD, acute TR), Mid (supravalvular AS, coarctation, AS, sclerosis, HOCM, flow, PS, ASD), Late (MVP, acute MI, TVP).\n10 Named murmurs (****): Austin Flint, Carey-Coombs, Cole-Cecil, Cruveilhier-Baumgarten, Gibson, Graham Steell, Means-Lerman scratch, Roger's, Seagull and Still's.",
+   "qs": [
+    "MED-C4-37",
+    "MED-C4-38",
+    "MED-C4-39",
+    "MED-C4-40",
+    "MED-C4-41",
+    "MED-C4-42"
+   ]
+  }
+ ]
+}

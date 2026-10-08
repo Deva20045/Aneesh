@@ -1,0 +1,581 @@
+{
+ "chapter": 6,
+ "title": "Mitral Stenosis",
+ "pageRange": "49-55",
+ "questions": [
+  {
+   "id": "MED-C6-01",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 49,
+   "fmt": "match",
+   "q": "Match each category in Harrison's Table 263-1 [Major Causes of Mitral Valve Disease, Book p49] to the listed causes of Mitral Stenosis — 1) Leading global cause and congenital/shunt combination 2) Metabolic causes in Table 263-1 3) Autoimmune / drug / endocrine-tumour causes 4) Conditions that simulate MS by obstructing left atrial outflow … A) Hurler-Scheie syndrome, Fabry's disease and Whipple's disease B) Cor triatriatum, left atrial myxoma and pulmonary vein obstruction C) Systemic lupus erythematosus [SLE], rheumatoid arthritis [RA], methysergide therapy and carcinoid D) Rheumatic fever [~40% of RHD patients have pure or predominant MS], congenital MS, severe annular calcification and Lutembacher's syndrome",
+   "opts": [
+    "1-D, 2-A, 3-C, 4-B",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Harrison's Table 263-1 on Book p49 lists the causes of Mitral Stenosis: Congenital, Rheumatic fever (~40% of RHD patients have pure/predominant MS), Metabolic (Hurler-Scheie syndrome, Fabry's disease, Whipple's disease), SLE, RA, Methysergide therapy, Carcinoid, Lutembacher's syndrome, Severe annular calcification, and conditions simulating MS (cor triatriatum, LA myxoma, pulmonary vein obstruction). (Book p49)"
+  },
+  {
+   "id": "MED-C6-02",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 49,
+   "fmt": "scenario",
+   "q": "According to the Harrison's Pathology text on Book p49, how does the 'fish-mouth' mitral valve develop, what drives the later progression of leaflet thickening after the initial rheumatic insult, and where do thrombi most frequently arise in patients with atrial fibrillation?",
+   "opts": [
+    "Fibrous tissue and/or calcific deposits thicken the leaflets, mitral commissures fuse, and chordae tendineae fuse and shorten into a rigid funnel-shaped ('fish-mouth') orifice; later changes result from a nonspecific process due to trauma from altered flow patterns; thrombi may arise on the calcific valve itself, but in AF they arise more frequently in the dilated LA, particularly within the LA appendage",
+    "Bacterial vegetations perforate the anterior leaflet body while sparing the commissures and chordae; thrombi in AF arise exclusively on the right ventricular moderator band",
+    "Myxomatous degeneration elongates and ruptures the chordae tendineae, creating a flail posterior leaflet; calcific deposits prevent any thrombus formation in the LA appendage",
+    "Subvalvular muscular hypertrophy obliterates the LV outflow tract while the mitral commissures remain mobile; thrombi arise only in the pulmonary veins"
+   ],
+   "ans": 0,
+   "exp": "The Harrison excerpt on Book p49 explains that fibrous/calcific thickening, commissural fusion, and chordal fusion/shortening create a rigid funnel-shaped ('fish-mouth') valve; while the initial insult is rheumatic, later changes are a nonspecific process from trauma caused by altered flow patterns; and in AF, thrombi arise most frequently from the dilated LA, particularly within the LA appendage. (Book p49)"
+  },
+  {
+   "id": "MED-C6-03",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 50,
+   "fmt": "recall",
+   "q": "In the anatomical diagram of the mitral valve at the top of Book p50, how is the posterior leaflet structured compared with the anterior leaflet, and what are the two commissures and two papillary muscles?",
+   "opts": [
+    "The posterior leaflet has 3 lobes (scallops) whereas the anterior leaflet is a single curtain; they meet at the anteromedial and posterolateral commissures within the anterior and posterior annulus and attach via chordae tendineae to the lateral and medial papillary muscles",
+    "The anterior leaflet has 3 lobes whereas the posterior leaflet is a single cusp; they attach directly to the interventricular septum without papillary muscles",
+    "Both leaflets are tri-lobed semilunar cusps anchored by a single posterior commissure and an infundibular muscle",
+    "The mitral apparatus consists of septal, anterior, and posterior leaflets attached to three papillary muscles"
+   ],
+   "ans": 0,
+   "exp": "The diagram on Book p50 labels: Anterior annulus, Posterior annulus, Anterior leaflet, Posterior leaflet (3 lobes), Anteromedial commissure, Posterolateral commissure, Chordae tendineae, Lateral papillary muscle, and Medial papillary muscle. (Book p50)"
+  },
+  {
+   "id": "MED-C6-04",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 50,
+   "fmt": "match",
+   "q": "Match each congenital or acquired category of Mitral Stenosis on Book p50 to its specific lesions — 1) Storage and connective-tissue causes listed under 1.c–d 2) Supravalvular and Valvular congenital MS [2.a–b] 3) Parachute mitral valve [2.c.i] 4) Hammock valve [2.c.ii] and 2.c.iii … A) Subvalvular MS with a single papillary muscle B) Subvalvular MS with abnormally large or numerous papillary muscles [Hammock valve], or absent papillary muscle C) SLE, Rheumatoid Arthritis, Hunter's syndrome and Hurler's syndrome [plus RHD, congenital MS, severe MAC] D) Supravalvular = fibrous ring; Valvular = fusion of commissure and papillary muscle, excessive valvular tissue, annular hypoplasia",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Items 1 and 2 on Book p50 classify MS causes (RHD, congenital MS, severe MAC, SLE/RA, Hunter's/Hurler's syndromes) and Congenital MS into Supravalvular (fibrous ring), Valvular (fusion of commissure and papillary muscle, excessive valvular tissue, annular hypoplasia), and Subvalvular (single papillary muscle = parachute valve; abnormally large or numerous papillary muscles = hammock valve; absent papillary muscle). (Book p50)"
+  },
+  {
+   "id": "MED-C6-05",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 50,
+   "fmt": "match",
+   "q": "Match each variant of Mitral Stenosis on Book p50 [Item 3] to its defining characteristics — 1) Lutembacher syndrome 2) Damped MS [= Silent MS, for Dr. Hamide] 3) Juvenile MS — age, etiology and haemodynamics 4) Juvenile MS — rhythm and management … A) Less prone to atrial fibrillation; immediate surgery should be done in symptomatic cases B) Rheumatic in aetiology, age of onset <20 years, severe MS is common and highly prone to develop pulmonary hypertension C) In severe pulmonary hypertension, the right ventricle forms the apex, so the mid-diastolic murmur [MDM] is no longer heard over the apex D) Mitral stenosis plus atrial septal defect [ASD]",
+   "opts": [
+    "1-D, 2-C, 3-B, 4-A",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Item 3 on Book p50 defines the three variants: (a) Lutembacher syndrome = MS + ASD; (b) Damped MS = Silent MS (for Dr. Hamide): in severe PAH, the RV forms the apex so the MDM is no longer heard over the apex; (c) Juvenile MS: rheumatic in aetiology, onset <20 years, severe MS common and highly prone to pulmonary HTN, less prone to AF, and immediate surgery should be done in symptomatic cases. (Book p50)"
+  },
+  {
+   "id": "MED-C6-06",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 50,
+   "fmt": "fillup",
+   "q": "In subvalvular congenital MS on Book p50, a single papillary muscle is called a ____ valve whereas abnormally large or numerous papillary muscles form a ____ valve; in Damped (Silent) MS (for Dr. Hamide), severe pulmonary hypertension causes the ____ to form the apex so the MDM is no longer heard over the apex.",
+   "opts": [
+    "Parachute; Hammock; right ventricle",
+    "Hammock; Parachute; left atrium",
+    "Sail; Ebstein; left ventricle",
+    "Funnel; Fish-mouth; infundibulum"
+   ],
+   "ans": 0,
+   "exp": "Items 2.c and 3.b on Book p50 state: single papillary muscle = parachute valve; abnormally large or numerous papillary muscles = hammock valve; and in Damped MS (Silent MS, for Dr. Hamide), in severe pulmonary hypertension the right ventricle forms the apex, so the MDM is no longer heard over the apex. (Book p50)"
+  },
+  {
+   "id": "MED-C6-07",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 50,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately describes Juvenile Mitral Stenosis on Book p50 (Item 3.c)?",
+   "opts": [
+    "True: Juvenile MS is rheumatic in aetiology with onset <20 years, is highly prone to severe MS and pulmonary hypertension, is LESS prone to atrial fibrillation, and requires immediate surgery in symptomatic cases",
+    "True: Juvenile MS is congenital in aetiology with onset >40 years and almost universally presents with chronic atrial fibrillation",
+    "False: In Juvenile MS, severe MS and pulmonary hypertension are common",
+    "False: Immediate surgery should be performed in symptomatic cases of Juvenile MS"
+   ],
+   "ans": 0,
+   "exp": "Item 3.c on Book p50 lists the five hallmarks of Juvenile MS: (i) rheumatic in aetiology, (ii) age of onset <20 years, (iii) severe MS is common and highly prone to pulmonary HTN, (iv) less prone to AF, and (v) immediate surgery should be done in symptomatic cases. (Book p50)"
+  },
+  {
+   "id": "MED-C6-08",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "page": 50,
+   "fmt": "scenario",
+   "q": "Why does a patient with chronic progressive MS and a gradual rise in LA pressure avoid acute pulmonary oedema, whereas a patient with MS who develops sudden-onset atrial fibrillation rapidly develops frank pulmonary oedema (Book p50)?",
+   "opts": [
+    "A gradual rise in LA pressure causes an increase in pulmonary vascular resistance leading to pulmonary hypertension that protects against pulmonary oedema; a sudden rise in LA pressure (as in AF due to loss of atrial contraction) causes pulmonary oedema",
+    "A gradual rise in LA pressure dilates the aortic root and decompresses the lungs; a sudden rise in LA pressure closes the foramen ovale",
+    "A gradual rise in LA pressure abolishes right ventricular output completely; AF protects against pulmonary oedema by slowing the ventricular rate",
+    "Both gradual and sudden rises in LA pressure decrease pulmonary vascular resistance equally"
+   ],
+   "ans": 0,
+   "exp": "Items 4.a and 4.b on Book p50 contrast: (a) a gradual rise in LA pressure tends to cause an increase in pulmonary vascular resistance which leads to pulmonary hypertension that protects against pulmonary oedema; (b) a sudden rise in LA pressure, like in AF (due to decreased atrial contraction), causes pulmonary oedema. (Book p50)"
+  },
+  {
+   "id": "MED-C6-09",
+   "sec": "Etiopathogenesis, Clinical Features & Haemoptysis in MS",
+   "page": 51,
+   "fmt": "scenario",
+   "q": "Up to severe MS, cardiac output (CO) and ejection fraction (EF) remain normal at rest because the elevated LA pressure maintains flow across the valve. What happens when conditions increase the heart rate, and what seven precipitants can trigger marked LA pressure elevation, dyspnoea and cough in mild-to-moderate MS (Book p51)?",
+   "opts": [
+    "With tachycardia, the atrial kick is not possible (and diastole shortens) so CO decreases; marked LA pressure elevation with dyspnoea and cough is precipitated by fever, excitement, severe exertion, severe anaemia, paroxysmal AF, pregnancy, and thyrotoxicosis",
+    "With tachycardia, EF rises to >85% and LA pressure falls to zero; dyspnoea is precipitated only by hypothyroidism and hypothermia",
+    "Even in mild MS, resting EF is <25% due to primary LV myocardial necrosis; beta-blockade precipitates pulmonary oedema by prolonging diastole",
+    "Tachycardia opens the mitral commissures wider, increasing CO; only bacterial endocarditis precipitates dyspnoea"
+   ],
+   "ans": 0,
+   "exp": "Items 4.c and 4.d on Book p51 explain: up to severe MS, elevated LA pressure maintains normal CO and EF, but when HR increases the atrial kick is lost so CO falls; sudden changes in HR, volume status or CO — fever, excitement, severe exertion, severe anaemia, paroxysmal AF, pregnancy, thyrotoxicosis — precipitate marked LA pressure rise, dyspnoea and cough. (Book p51)"
+  },
+  {
+   "id": "MED-C6-10",
+   "sec": "Etiopathogenesis, Clinical Features & Haemoptysis in MS",
+   "page": 51,
+   "fmt": "fillup",
+   "q": "On Book p51, pulmonary arterial hypertension (PAH) in MS is caused by (i) passive backward transmission of elevated LA pressure and (ii) pulmonary arteriolar constriction — called '____' (reactive pulmonary hypertension); presystolic accentuation occurs because ____ occurs before ventricular systole (S1), increasing force and turbulence through the stenotic valve.",
+   "opts": [
+    "Second stenosis; atrial systole",
+    "Bernheim constriction; rapid passive filling",
+    "Eisenmenger reaction; isovolumetric relaxation",
+    "Post-capillary shunt; papillary muscle contraction"
+   ],
+   "ans": 0,
+   "exp": "Items 4.e and 4.f on Book p51 state: PAH is caused by (i) passive backward transmission of elevated LA pressure and (ii) pulmonary arteriolar constriction ('second stenosis') due to LA and pulmonary venous hypertension (reactive PAH); presystolic accentuation occurs because atrial systole precedes ventricular systole (S1), increasing force and turbulence through the stenotic valve. (Book p51)"
+  },
+  {
+   "id": "MED-C6-11",
+   "sec": "Etiopathogenesis, Clinical Features & Haemoptysis in MS",
+   "page": 51,
+   "fmt": "match",
+   "q": "Match each clinical feature or sign of Mitral Stenosis on Book p51 to its stated mechanism — 1) Latent period between rheumatic carditis and MS symptoms 2) Dyspnoea in MS 3) Palpitations [atrial fibrillation] in MS 4) Mitral facies and other clinical signs [5.l] … A) Pulmonary congestion stimulates interstitial J receptors; initial exertional dyspnoea is due to elevated pulmonary vascular pressures decreasing pulmonary compliance B) About two decades [~20 years] C) Stretching of the pulmonary veins triggers atrial fibrillation; fatigue is from decreased CO, chest pain from PAH, and oedema/ascites from RHF D) Malar flush with pinched and blue facies; AF gives absent 'a' wave and variable S1, whereas PAH gives prominent JVP 'a' waves, parasternal heave and loud P2",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Item 5 on Book p51 covers: (a) latent period ~2 decades; (b) dyspnoea via interstitial J-receptor stimulation and decreased pulmonary compliance; (c–e, g–k) fatigue (low CO), oedema/ascites (RHF), palpitations/AF (stretching of pulmonary veins), cough, chest pain (PAH), emboli (stroke, limb ischaemia, recurrent PE), winter pulmonary infections; and (l) signs including mitral facies (malar flush with pinched and blue facies). (Book p51)"
+  },
+  {
+   "id": "MED-C6-12",
+   "sec": "Etiopathogenesis, Clinical Features & Haemoptysis in MS",
+   "page": 51,
+   "fmt": "oddoneout",
+   "q": "Item 5.f on Book p51 lists five causes of haemoptysis in Mitral Stenosis (with #1 highlighted in bold as the most classic). Which of the following is NOT one of the five causes of haemoptysis in MS on Book p51, or misstates #1?",
+   "opts": [
+    "1. Rupture of pulmonary-bronchial venous connections (pulmonary apoplexy) due to a sudden rise in LA pressure",
+    "2. Winter bronchitis or chronic bronchitis, and 3. Acute pulmonary oedema",
+    "4. Pulmonary infarction, and 5. Warfarin overdose (rare)",
+    "Rupture of a congenital bronchial artery Rasmussen aneurysm secondary to cavitating left ventricular tuberculosis"
+   ],
+   "ans": 3,
+   "exp": "Item 5.f on Book p51 lists the five causes of haemoptysis in MS: (i) Rupture of pulmonary-bronchial venous connections (pulmonary apoplexy) due to sudden rise in LA pressure [bolded], (ii) Winter bronchitis or chronic bronchitis, (iii) Acute pulmonary oedema, (iv) Pulmonary infarction, and (v) Warfarin overdose (rare). (Book p51)"
+  },
+  {
+   "id": "MED-C6-13",
+   "sec": "Etiopathogenesis, Clinical Features & Haemoptysis in MS",
+   "page": 51,
+   "fmt": "recall",
+   "q": "How does Book p51 (Item 5.e, k, l.ii) describe 'Mitral facies', why do palpitations/atrial fibrillation develop in MS, and which infections complicate untreated MS especially in winter months?",
+   "opts": [
+    "Mitral facies = malar flush with pinched and blue facies; palpitations/AF occur because of stretching of the pulmonary veins; bronchitis, bronchopneumonia, and lobar pneumonia complicate untreated MS especially in winter months",
+    "Mitral facies = periorbital xanthelasma with leonine forehead; palpitations occur from sinoatrial nodal ischaemia; fungal aspergillomas complicate MS in summer months",
+    "Mitral facies = heliotrope rash with malar sparing; palpitations occur from accessory Kent bundles; viral myocarditis complicates MS",
+    "Mitral facies = plethora with moon facies; palpitations occur from carotid body denervation; miliary tuberculosis complicates MS"
+   ],
+   "ans": 0,
+   "exp": "Item 5 on Book p51 notes: (e) palpitations — AF because of stretching of pulmonary veins; (k) pulmonary infections — bronchitis, bronchopneumonia, lobar pneumonia complicate untreated MS, especially in winter months; and (l.ii) Mitral facies — malar flush with pinched and blue facies. (Book p51)"
+  },
+  {
+   "id": "MED-C6-14",
+   "sec": "Clinical Severity, Complications & Pulmonary Hypertension Signs",
+   "page": 52,
+   "fmt": "scenario",
+   "q": "How does Book p52 assess the clinical severity of Mitral Stenosis at the bedside using the S2–OS interval, the mid-diastolic murmur (MDM), and right-sided findings?",
+   "opts": [
+    "In severe MS, very high LA pressure forces the mitral valve open early after S2, making the S2–OS gap shorter ('less'); because OS occurs early, the duration of the MDM is longer ('more'); and features of pulmonary hypertension are present",
+    "In severe MS, the S2–OS gap becomes wider (>0.16 sec) and the duration of the MDM becomes shorter while its intensity always increases to Grade VI/VI",
+    "The loudness of S1 and the amplitude of the tapping apex beat are the two most reliable quantitative correlates of MS severity",
+    "Severe MS is characterised by a wide fixed split S2 and an early systolic click at the apex"
+   ],
+   "ans": 0,
+   "exp": "Item 6 on Book p52 lists the three clinical markers of MS severity: (a) S2–OS gap is less (high LA pressure forces the MV open early after S2); (b) duration of MDM is more (because OS occurs early, MDM lasts longer); and (c) features of pulmonary hypertension. (Book p52)"
+  },
+  {
+   "id": "MED-C6-15",
+   "sec": "Clinical Severity, Complications & Pulmonary Hypertension Signs",
+   "page": 52,
+   "fmt": "match",
+   "q": "Match each complication entry under Item 7 ['Complications of MS'] on Book p52 to its exact note — 1) Atrial fibrillation and thrombus location [7.a] 2) Systemic embolic complications [7.c–e] 3) Ortner's syndrome and esophageal compression [7.g.i] 4) Infective endocarditis [7.g.ii] … A) Embolic stroke, acute limb ischaemia and mesenteric ischaemia B) Most common location of the thrombus is in the left atrial appendage [left auricle] C) Very, very rare — 'don't say it' [also noted as rare in ASD] D) Very rare complication: LA enlargement causing left recurrent laryngeal nerve [RLN] compression leading to hoarseness, and dysphagia due to oesophageal compression",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Item 7 on Book p52 lists: (a) AF (most common location of thrombus is in the left atrial appendage / left auricle), (b) pulmonary HTN, RV failure, cor pulmonale, (c) embolic stroke, (d) acute limb ischaemia, (e) mesenteric ischaemia, (f) haemoptysis, and (g) very rare complications: (i) Ortner's syndrome (LA enlargement -> RLN compression -> hoarseness; esophageal compression -> dysphagia) and (ii) IE — 'very very rare (don't say it). Also rare in ASD'. (Book p52)"
+  },
+  {
+   "id": "MED-C6-16",
+   "sec": "Clinical Severity, Complications & Pulmonary Hypertension Signs",
+   "page": 52,
+   "fmt": "numeric",
+   "q": "On Book p52, normal pulmonary arterial pressure is ____, pulmonary hypertension is defined as a mean pulmonary artery pressure of ____ at rest or ____ after exercise, and severe pulmonary hypertension is ____ after exercise.",
+   "opts": [
+    "15–25/10 mmHg; >25 mmHg; >30 mmHg; >60 mmHg",
+    "120/80 mmHg; >40 mmHg; >50 mmHg; >80 mmHg",
+    "8–12/4 mmHg; >15 mmHg; >20 mmHg; >35 mmHg",
+    "30–40/20 mmHg; >35 mmHg; >45 mmHg; >100 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Items 8.a and 8.b on Book p52 state: normal pulmonary arterial pressure is 15–25/10 mmHg; pulmonary hypertension is defined as mean pulmonary pressure >25 mmHg at rest or >30 mmHg after exercise, and severe >60 mmHg (after exercise). (Book p52)"
+  },
+  {
+   "id": "MED-C6-17",
+   "sec": "Clinical Severity, Complications & Pulmonary Hypertension Signs",
+   "page": 52,
+   "fmt": "match",
+   "q": "Match each component of the clinical examination in Pulmonary Hypertension ['Signs***', Item 8.d on Book p52] to its findings — 1) Symptoms [8.c], Pulse and JVP [8.d.i–ii] 2) Inspection and Percussion [8.d.iii, v] 3) Palpation [8.d.iv] 4) Auscultation — classical sequence of 6 events [8.d.vi] … A) Apex goes outwards, palpable P2 [diastolic shock], left parasternal heave, palpable P2 B) 1. Audible S1 -> 2. Pulmonary ejection click -> 3. Pulmonary ESM due to relative PS -> 4. Loud P2 with narrow S2 split -> 5. Graham Steell murmur -> 6. Right-sided S3 C) Symptoms: exertional breathlessness, easy fatigability, dizziness, syncope; Pulse: low volume due to decreased CO; JVP: prominent 'a' wave D) Inspection: visible pulmonary arterial pulsation in 2nd ICS and epigastric pulsation; Percussion: left 2nd ICS is dull",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Item 8.c–d on Book p52 details the symptoms and Signs*** of pulmonary hypertension, culminating in the classical 6-event auscultatory sequence: (1) Audible S1, (2) Pulmonary ejection click, (3) Pulmonary ESM due to relative PS, (4) Loud P2 with narrow S2 split, (5) Graham Steell murmur, and (6) Right-sided S3. (Book p52)"
+  },
+  {
+   "id": "MED-C6-18",
+   "sec": "Clinical Severity, Complications & Pulmonary Hypertension Signs",
+   "page": 52,
+   "fmt": "recall",
+   "q": "What is the exact 6-step 'classical sequence of events' on auscultation of Pulmonary Hypertension listed under Signs*** (Item 8.d.vi) at the bottom of Book p52?",
+   "opts": [
+    "1. Audible S1 -> 2. Pulmonary ejection click -> 3. Pulmonary ESM due to relative PS -> 4. Loud P2 with narrow S2 split -> 5. Graham Steell murmur -> 6. Right-sided S3",
+    "1. Soft S1 -> 2. Aortic ejection click -> 3. Harsh carotid ESM -> 4. Soft P2 with wide fixed split -> 5. Austin Flint murmur -> 6. Left-sided S4",
+    "1. Split S1 -> 2. Midsystolic click -> 3. Late systolic murmur -> 4. Paradoxical S2 split -> 5. Carey-Coombs murmur -> 6. Pericardial knock",
+    "1. Loud S1 -> 2. Opening snap -> 3. Rough rumbling MDM -> 4. Presystolic accentuation -> 5. Roger's murmur -> 6. Tumour plop"
+   ],
+   "ans": 0,
+   "exp": "Item 8.d.vi on Book p52 enumerates the 6 auscultatory events in order: (1) Audible S1, (2) Pulmonary ejection click, (3) Pulmonary ESM due to relative PS, (4) Loud P2 with narrow S2 split, (5) Graham Steell murmur, and (6) Right-sided S3. (Book p52)"
+  },
+  {
+   "id": "MED-C6-19",
+   "sec": "Opening Snap, Absent PSA, Soft S1 & Differential Diagnoses of MS",
+   "page": 53,
+   "fmt": "match",
+   "q": "Match each auscultatory finding in Mitral Stenosis on Book p53 [Item 9] to its clinical significance or causes — 1) Six clinical meanings of an audible Opening Snap [9.a.i–vi] 2) Three causes of absent presystolic accentuation in MS [9.b.i–iii] 3) Valvular and rhythm causes of a Soft S1 in MS [9.c.i–ii, v] 4) PR-interval and RV-apex causes of a Soft S1 in MS [9.c.iii–iv, vi] … A) Atrial fibrillation, Left heart failure, and Massive LA thrombus B) Indicates organic MS, valve is pliable with no calcification, S2–OS interval judges severity, MS is amenable to surgery, significant MS, and high LA pressure C) Digitalis overdose [prolonged PR interval], acute rheumatic carditis [prolonged PR interval], and Damped MS [PAH causing RVH so an RV apex replaces the LV apex] D) Co-existent MR, mitral valve calcification, and atrial fibrillation",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Item 9 on Book p53 lists: (a) 6 meanings of an opening snap (organic MS, pliable non-calcified valve, S2–OS judges severity, amenable to surgery, significant MS, high LA pressure); (b) 3 causes of absent presystolic accentuation (AF, left heart failure, massive LA thrombus); and (c) 6 causes of soft S1 in MS (co-existent MR, MV calcification, digitalis overdose [prolonged PR], acute rheumatic carditis [prolonged PR], AF, and damped MS from PAH/RVH/RV apex). (Book p53)"
+  },
+  {
+   "id": "MED-C6-20",
+   "sec": "Opening Snap, Absent PSA, Soft S1 & Differential Diagnoses of MS",
+   "page": 53,
+   "fmt": "match",
+   "q": "Match each condition in the Differential Diagnosis of Mitral Stenosis [Item 10 on Book p53] to the bedside clues that distinguish it from true MS — 1) Atrial Septal Defect [10.a] 2) Left Atrial Myxoma [10.b] 3) Significant Mitral Regurgitation [10.c] 4) Severe Aortic Regurgitation with Austin Flint murmur [10.d] … A) Prominent apical diastolic murmur from increased anterograde flow, but OS and loud P2 are ABSENT, S1 is soft/absent, and a loud PSM is heard B) RV enlargement and PAH occur in both, but fixed split of S2 and mid-systolic murmur at the left sternal border favour ASD [large L-to-R shunts can cause a functional TS diastolic murmur] C) Not intensified in presystole and becomes SOFTER with the administration of vasodilators D) Systemic features [weight loss, fever, anaemia, systemic emboli, elevated IgG and IL-6] and auscultatory findings that change markedly with body position",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Item 10 on Book p53 contrasts the four key differential diagnoses of MS: (a) ASD (fixed split S2, LSM mid-systolic murmur, functional TS from enhanced diastolic flow); (b) LA myxoma (weight loss, fever, anaemia, systemic emboli, elevated IgG & IL-6, positional murmur change); (c) Significant MR (anterograde flow MDM, absent OS and loud P2, soft/absent S1, loud PSM); and (d) Severe AR (Austin Flint murmur is not intensified in presystole and softens with vasodilators). (Book p53)"
+  },
+  {
+   "id": "MED-C6-21",
+   "sec": "Opening Snap, Absent PSA, Soft S1 & Differential Diagnoses of MS",
+   "page": 53,
+   "fmt": "scenario",
+   "q": "Two patients present with an apical diastolic murmur mimicking Mitral Stenosis: Patient 1 has fever, weight loss, anaemia, systemic emboli, and a murmur that changes markedly with body position; Patient 2 has severe aortic regurgitation and an apical diastolic murmur. According to Book p53 (Item 10.b & 10.d), what laboratory elevations characterise Patient 1, and how does Patient 2's murmur behave in presystole and after vasodilators?",
+   "opts": [
+    "Patient 1 (LA myxoma) has elevated IgG and IL-6; Patient 2's Austin Flint murmur is NOT intensified in presystole and becomes SOFTER with the administration of vasodilators",
+    "Patient 1 (LA myxoma) has elevated IgM and TNF-beta; Patient 2's Austin Flint murmur shows marked presystolic accentuation and becomes louder with vasodilators",
+    "Patient 1 (ASD) has low complement C3; Patient 2's murmur is accompanied by a loud opening snap and fixed split S2",
+    "Patient 1 (Damped MS) has elevated calcitonin; Patient 2's murmur is unaffected by vasodilators"
+   ],
+   "ans": 0,
+   "exp": "Items 10.b and 10.d on Book p53 state: LA myxoma presents with systemic features (weight loss, fever, anaemia, systemic emboli, elevated IgG and IL-6) and auscultatory findings that change markedly with body position; in severe AR, the Austin Flint murmur is not intensified in presystole and becomes softer with the administration of vasodilators. (Book p53)"
+  },
+  {
+   "id": "MED-C6-22",
+   "sec": "Opening Snap, Absent PSA, Soft S1 & Differential Diagnoses of MS",
+   "page": 53,
+   "fmt": "fillup",
+   "q": "Under Investigations (Item 11.a on Book p53, illustrated by the ECG tracing), the ECG in Mitral Stenosis shows atrial fibrillation or bifid P waves called ____ (associated with left atrial hypertrophy), alongside right ventricular hypertrophy manifested by ____ in leads V1–V2 and a deep S wave in ____.",
+   "opts": [
+    "P mitrale; tall R waves; V6",
+    "P pulmonale; deep Q waves; aVR",
+    "Epsilon waves; QS complexes; V1",
+    "Osborn waves; tall T waves; aVL"
+   ],
+   "ans": 0,
+   "exp": "Item 11.a on Book p53 (with the 'P mitrale' ECG strip) states: 'ECG — A fib / bifid P waves (P mitrale) associated with LA hypertrophy / RV hypertrophy — tall R waves in V1, V2 and deep S in V6.' (Book p53)"
+  },
+  {
+   "id": "MED-C6-23",
+   "sec": "Investigations (CXR, Doppler Echo, Wilkins Score) & Medical Management",
+   "page": 54,
+   "fmt": "match",
+   "q": "Match each Chest X-ray sign of Mitral Stenosis on Book p54 [Item 11.b] to its anatomical basis or pulmonary venous pressure threshold — 1) Earliest CXR sign of MS [11.b.i] 2) Double shadow / 'shadow within a shadow' [11.b.ii] 3) Kerley B lines [11.b.iii] 4) Kerley A lines [11.b.iv] … A) Dense, short, horizontal lines in the costophrenic angle [from distention of interlobular septae and lymphatics with fluid] when pulmonary venous pressure is between 20 and 30 mmHg B) Straight, dense lines running towards the hilum when pulmonary venous pressure is >30 mmHg C) Straightening of the left heart border due to a prominent pulmonary artery and left atrial appendage D) Left atrial enlargement seen behind the heart inside the right heart border",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Item 11.b on Book p54 lists: (i) Straightening of left heart border from prominent PA and LA appendage (Earliest); (ii) LA enlargement causing a double shadow behind the heart in the right heart border ('shadow within a shadow'); (iii) Kerley B lines (interlobular septae/lymphatics distended with fluid, short horizontal costophrenic lines) at pulmonary venous pressure 20–30 mmHg; and (iv) Kerley A lines (straight dense lines running towards the hilum) at pulmonary venous pressure >30 mmHg. (Book p54)"
+  },
+  {
+   "id": "MED-C6-24",
+   "sec": "Investigations (CXR, Doppler Echo, Wilkins Score) & Medical Management",
+   "page": 54,
+   "fmt": "numeric",
+   "q": "On a Chest X-ray in Mitral Stenosis (Item 11.b.iii–iv, Book p54), Kerley B lines (dense, short, horizontal lines in the costophrenic angle due to distention of interlobular septae and lymphatics with fluid) appear when pulmonary venous pressure is ____, whereas Kerley A lines (straight, dense lines running towards the hilum) appear when pulmonary venous pressure is ____.",
+   "opts": [
+    "Between 20–30 mmHg; more than 30 mmHg",
+    "Between 8–12 mmHg; between 12–18 mmHg",
+    "More than 45 mmHg; less than 15 mmHg",
+    "Between 5–10 mmHg; more than 60 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Items 11.b.iii and 11.b.iv on Book p54 specify that Kerley B lines appear when pulmonary venous pressure is between 20–30 mmHg, and Kerley A lines appear when pulmonary venous pressure is more than 30 mmHg. (Book p54)"
+  },
+  {
+   "id": "MED-C6-25",
+   "sec": "Investigations (CXR, Doppler Echo, Wilkins Score) & Medical Management",
+   "page": 54,
+   "fmt": "numeric",
+   "q": "In the Doppler Echo Severity Classification on Book p54 (Item 11.c.i), normal mitral valve area (MVA) is ____, progressive MS is ____, severe MS is ____, very severe / tight / critical MS is ____, and an enlarged left atrium is defined as a largest dimension of ____.",
+   "opts": [
+    "4–6 cm²; >1.5 cm²; 1–1.5 cm²; <1 cm²; >5.5 cm",
+    "2–3 cm²; >2.0 cm²; 1.5–2.0 cm²; <1.5 cm²; >4.0 cm",
+    "4–6 cm²; >2.5 cm²; 1.5–2.5 cm²; <0.5 cm²; >3.5 cm",
+    "6–8 cm²; >3.0 cm²; 2.0–3.0 cm²; <1.5 cm²; >7.0 cm"
+   ],
+   "ans": 0,
+   "exp": "Item 11.c.i on Book p54 specifies: Normal MVA = 4–6 cm²; <1 cm² = very severe MS / tight MS / critical MS; 1–1.5 cm² = severe MS; >1.5 cm² = progressive MS; and enlarged LA = largest dimension >5.5 cm (along with thickened immobile cusps, reduced rate of LV diastolic filling, and vegetation/thrombus). (Book p54)"
+  },
+  {
+   "id": "MED-C6-26",
+   "sec": "Investigations (CXR, Doppler Echo, Wilkins Score) & Medical Management",
+   "page": 54,
+   "fmt": "scenario",
+   "q": "Before planning a percutaneous balloon mitral valvotomy (BMV), you calculate the Abascal or Wilkins Echocardiography score (Item 11.c.ii–iii on Book p54). What are its four parameters, how many points does each carry, and what total score indicates that the valve is amenable to BMV?",
+   "opts": [
+    "1. Leaflet mobility, 2. Valve thickness, 3. Subvalvular thickening, 4. Valvular calcification — each carries 4 points (total 16); a Wilkins score of <8/16 means the valve is amenable to BMV (otherwise surgery is advised)",
+    "1. LA diameter, 2. PASP, 3. LV ejection fraction, 4. Regurgitant jet area — each carries 5 points (total 20); a score >15 indicates BMV",
+    "1. S2–OS gap, 2. MDM grade, 3. QRS axis, 4. Kerley B count — each carries 2 points (total 8); a score of 8/8 indicates BMV",
+    "1. Annular diameter, 2. Papillary muscle number, 3. Chordal length, 4. Aortic root size — each carries 3 points (total 12); a score <4/12 indicates BMV"
+   ],
+   "ans": 0,
+   "exp": "Item 11.c.ii–iii on Book p54 lists the four components of the Abascal/Wilkins score — (1) Leaflet mobility, (2) Valve thickness, (3) Subvalvular thickening, (4) Valvular calcification — each carrying 4 points (out of 16), where <8/16 indicates amenability to BMV and otherwise surgery is advised. Item 11.d notes cardiac catheterisation checks for CAD, pulmonary artery pressure, MS and MR. (Book p54)"
+  },
+  {
+   "id": "MED-C6-27",
+   "sec": "Investigations (CXR, Doppler Echo, Wilkins Score) & Medical Management",
+   "page": 54,
+   "fmt": "management",
+   "q": "Which medical management regimen for Mitral Stenosis matches Item 12.a (i–vi) on Book p54?",
+   "opts": [
+    "Penicillin V 250 mg BD (250 mg QID if acute rheumatic fever; lifelong if established heart disease); for AF, Digoxin 0.25 mg 5 days a week OD (adding oral Diltiazem or Atenolol if rate is not controlled); Warfarin targeted to INR 2–3 indefinitely in MS with AF or history of thromboembolism; plus Diuretics",
+    "Penicillin V 1000 mg TDS for 7 days only; Amiodarone monotherapy for all sinus-rhythm MS patients; Aspirin 75 mg OD instead of Warfarin in AF; and high-dose IV fluids",
+    "Oral Gentamicin 80 mg BD for 6 months; Digoxin 2 mg IV QID daily without holiday; Warfarin targeted to INR 4.5–6.0 in all mild MS patients",
+    "No antibiotic prophylaxis once MS is diagnosed; Nifedipine sublingually for rate control; and Dabigatran in all mechanical valve patients"
+   ],
+   "ans": 0,
+   "exp": "Item 12.a (i–vi) on Book p54 specifies: (i) Penicillin V 250 mg BD; (ii) if rheumatic fever, 250 mg QID; (iii) if established heart disease, lifelong; (iv) AF: Digoxin 0.25 mg 5 days a week OD (to avoid digoxin toxicity), and if rate is not controlled by digoxin, oral Diltiazem/Atenolol; (v) Warfarin targeted to INR 2–3 indefinitely for MS with AF or history of thromboembolism; (vi) Diuretics. (Book p54)"
+  },
+  {
+   "id": "MED-C6-28",
+   "sec": "Surgical & Interventional Management: Emergency AF, BMV & Prosthetic Valves",
+   "page": 55,
+   "fmt": "management",
+   "q": "According to Book p55 (Item 12.a.vii & 12.b.i), how is emergency atrial fibrillation in MS managed with rapid digitalisation, and how is closed mitral valvotomy/commissurotomy performed?",
+   "opts": [
+    "Emergency AF: Digoxin 0.25 mg IV bolus, wait 2 hours; if no improvement, repeat 0.25 mg IV until a maximum of 1 mg, and if it still does not work, give beta-blockers. Closed mitral valvotomy (preferred in pliable valves without associated MR) is done with the aid of a TUBBS transventricular dilator",
+    "Emergency AF: Digoxin 2.0 mg IM stat followed by immediate atropine. Closed mitral valvotomy is preferred in heavily calcified valves with severe MR using an Amplatzer device",
+    "Emergency AF: Adenosine 6 mg IV infusion over 24 hours. Closed mitral valvotomy is performed via the femoral vein using a Fogarty catheter",
+    "Emergency AF: Oral verapamil once weekly. Closed mitral valvotomy requires cardiopulmonary bypass and excision of both papillary muscles"
+   ],
+   "ans": 0,
+   "exp": "Book p55 (top) states: (vii) Emergency AF — rapid digitalisation 0.25 mg IV bolus, wait for 2 hours; if no improvement, 0.25 mg again until max 1 mg; if it does not work, beta-blockers. Under Sx (b.i): Closed mitral valvotomy/commissurotomy is preferred in patients with pliable valves without associated MR, done with the aid of a TUBBS transventricular dilator. (Book p55)"
+  },
+  {
+   "id": "MED-C6-29",
+   "sec": "Surgical & Interventional Management: Emergency AF, BMV & Prosthetic Valves",
+   "page": 55,
+   "fmt": "match",
+   "q": "Match each aspect of Balloon Mitral Valvotomy [BMV, Item 12.b.ii on Book p55] to its listed criteria or complications — 1) Five selection criteria for BMV [ii.1.a–e] 2) Four complications of BMV [ii.2.a–d] 3) Two haemodynamic criteria for a successful BMV [ii.3.a–b] 4) Indication for Mitral Valve Replacement instead of valvotomy [iii.1] … A) Embolic events, cardiac perforation, mitral regurgitation [MR], and iatrogenic ASD B) [a] 50% reduction in the mean mitral valve gradient, and [b] doubling of the mitral valve area C) Significant symptoms, isolated MS, no MR, mobile non-calcified valve, and no LA thrombus D) When associated MR is present or the valve is rigid and calcified",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Item 12.b.ii–iii on Book p55 lists: (1) BMV criteria = significant symptoms, isolated MS, no MR, mobile non-calcified valve, no LA thrombus; (2) BMV complications = embolic events, cardiac perforation, MR, iatrogenic ASD; (3) Criteria for successful BMV = 50% reduction in mean MV gradient and doubling of MVA; and (iii.1) Valve replacement when associated MR is present or valve is rigid and calcified. (Book p55)"
+  },
+  {
+   "id": "MED-C6-30",
+   "sec": "Surgical & Interventional Management: Emergency AF, BMV & Prosthetic Valves",
+   "page": 55,
+   "fmt": "match",
+   "q": "Match each prosthetic valve category on Book p55 [Item 12.b.iii.2–3 and the 'MECHANICAL VALVES' figure] to its examples, target INR, and advantages/limitations — 1) Caged-ball vs Tilting-disc / Bileaflet mechanical valves [text & figure] 2) Target INR for mechanical mitral prostheses and 3 reasons tilting-disc is preferred to caged-ball 3) Bioprosthetic valves — advantage and examples 4) Bioprosthetic valves — age limitation … A) Desired INR 2.5–3.5; tilting-disc is preferred to caged-ball because it [i] occupies less space, [ii] has less incidence of haemolysis, and [iii] has less incidence of strut fractures B) Caged-ball = Starr-Edwards Silastic ball valve; Tilting-disc / bileaflet = St. Jude Medical bileaflet valve, Bjork-Shiley valve, and Chitra TTK tilting disc valve [Indian] C) Not useful in patients <65 years of age due to rapid deterioration D) Lower incidence of thromboembolism; examples include Porcine, Pericardial xenograft, and Cadaveric valve",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Item 12.b.iii.2–3 and the 'MECHANICAL VALVES' figure on Book p55 cover: desired INR 2.5–3.5 for mechanical prostheses; Caged-ball = Starr-Edwards Silastic ball valve; Tilting-disc/bileaflet = St. Jude, Bjork-Shiley, and Chitra TTK tilting disc valve (Indian); 3 reasons tilting-disc is preferred over caged-ball (occupies less space, less haemolysis, less strut fractures); and Bioprosthesis (lower thromboembolism, not useful in patients <65 years due to rapid deterioration; e.g. porcine, pericardial xenograft, cadaveric valve). (Book p55)"
+  },
+  {
+   "id": "MED-C6-31",
+   "sec": "Surgical & Interventional Management: Emergency AF, BMV & Prosthetic Valves",
+   "page": 55,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately compares the prosthetic valve rules on Book p55?",
+   "opts": [
+    "True: Mechanical mitral prostheses require a desired INR of 2.5–3.5 (higher than the INR 2–3 used for native MS with AF on p54), and bioprosthetic valves are not useful in patients <65 years of age due to rapid deterioration",
+    "True: Caged-ball Starr-Edwards valves are preferred over tilting-disc valves because they occupy less space and cause less haemolysis",
+    "False: The Chitra TTK valve shown on Book p55 is an Indian tilting-disc mechanical valve",
+    "False: Successful balloon mitral valvotomy is defined by a 50% reduction in mean mitral valve gradient and doubling of the mitral valve area"
+   ],
+   "ans": 0,
+   "exp": "Book p54–55 contrasts the Warfarin target INR of 2–3 for native MS with AF/thromboembolism (p54) against the desired INR of 2.5–3.5 for mechanical prostheses (p55), notes that tilting-disc valves (St. Jude, Bjork-Shiley, Indian Chitra TTK) are preferred to caged-ball (Starr-Edwards) because they occupy less space and have less haemolysis and strut fractures, and states that bioprostheses are not useful in patients <65 years due to rapid deterioration. (Book p55)"
+  },
+  {
+   "id": "MED-C6-32",
+   "sec": "Surgical & Interventional Management: Emergency AF, BMV & Prosthetic Valves",
+   "page": 55,
+   "fmt": "oddoneout",
+   "q": "All of the following statements about surgical and interventional management of Mitral Stenosis on Book p55 are true EXCEPT:",
+   "opts": [
+    "Tilting-disc valves (e.g. St. Jude, Bjork-Shiley, Indian Chitra TTK) are preferred to caged-ball (Starr-Edwards) valves because they occupy less space, have a lower incidence of haemolysis, and have a lower incidence of strut fractures",
+    "Criteria for a successful Balloon Mitral Valvotomy (BMV) are a 50% reduction in the mean mitral valve gradient and a doubling of the mitral valve area",
+    "Complications of BMV include embolic events, cardiac perforation, mitral regurgitation, and iatrogenic atrial septal defect (ASD)",
+    "Bioprosthetic valves (porcine, pericardial xenograft, cadaveric) are the prosthesis of choice in patients <30 years of age because they never deteriorate"
+   ],
+   "ans": 3,
+   "exp": "Item 12.b.iii.3.b on Book p55 explicitly states that bioprosthetic valves (porcine, pericardial xenograft, cadaveric valve) are 'Not useful in patients <65 years of age due to rapid deterioration.' (Book p55)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U6-1",
+   "ch": 6,
+   "n": 1,
+   "title": "MS: Causes, Anatomy, Congenital Types & Variants",
+   "sec": "Mitral Stenosis: Causes, Anatomy, Congenital Types & Variants",
+   "guide": "Harrison Table 263-1: RHD (~40% pure/predominant MS, fish-mouth valve), congenital, MAC, SLE, RA, methysergide, carcinoid, Lutembacher's, Hurler-Scheie/Fabry/Whipple, and LA outflow mimics (cor triatriatum, LA myxoma, pulmonary vein obstruction).\nMitral anatomy: 1 anterior leaflet, 3-lobed posterior leaflet, anteromedial & posterolateral commissures, chordae tendineae, lateral & medial papillary muscles; Congenital MS = supravalvular (fibrous ring), valvular, subvalvular (parachute = 1 papillary muscle; hammock = large/numerous papillary muscles).\nVariants: Lutembacher (MS + ASD), Damped/Silent MS (RV forms apex in severe PAH so MDM disappears at apex), and Juvenile MS (<20 yr, rheumatic, severe MS & PAH, less AF, needs immediate surgery if symptomatic); gradual LA pressure rise -> protective PAH, sudden rise (AF) -> pulmonary oedema.",
+   "qs": [
+    "MED-C6-01",
+    "MED-C6-02",
+    "MED-C6-03",
+    "MED-C6-04",
+    "MED-C6-05",
+    "MED-C6-06",
+    "MED-C6-07",
+    "MED-C6-08"
+   ]
+  },
+  {
+   "id": "MED-U6-2",
+   "ch": 6,
+   "n": 2,
+   "title": "Etiopathogenesis, Clinical Features & Haemoptysis in MS",
+   "sec": "Etiopathogenesis, Clinical Features & Haemoptysis in MS",
+   "guide": "Up to severe MS, resting CO and EF are normal, but tachycardia abolishes the atrial kick and lowers CO (precipitants: fever, excitement, exertion, anaemia, paroxysmal AF, pregnancy, thyrotoxicosis).\nPAH arises from passive backward transmission + reactive pulmonary arteriolar constriction ('second stenosis'); presystolic accentuation reflects atrial systole before S1.\nLatent period ~2 decades; dyspnoea (J receptors, low compliance), palpitations (AF from pulmonary vein stretch), mitral facies, and 5 causes of haemoptysis: pulmonary apoplexy (bronchial vein rupture — #1), winter bronchitis, acute pulmonary oedema, pulmonary infarction, warfarin overdose.",
+   "qs": [
+    "MED-C6-09",
+    "MED-C6-10",
+    "MED-C6-11",
+    "MED-C6-12",
+    "MED-C6-13"
+   ]
+  },
+  {
+   "id": "MED-U6-3",
+   "ch": 6,
+   "n": 3,
+   "title": "Severity, Complications & Pulmonary Hypertension Signs",
+   "sec": "Clinical Severity, Complications & Pulmonary Hypertension Signs",
+   "guide": "Severity of MS: shorter S2-OS gap ('less'), longer duration of MDM ('more'), and features of pulmonary hypertension.\nComplications: AF (thrombus most commonly in LA appendage/auricle), PAH/RVF/cor pulmonale, embolic stroke/limb/mesenteric ischaemia, haemoptysis, Ortner's syndrome (RLN -> hoarseness) & dysphagia; IE is very rare ('don't say it').\nPAH (normal PAP 15-25/10 mmHg; PAH mean PAP >25 rest / >30 exercise, severe >60 exercise): low-volume pulse, prominent 'a' wave, 2nd ICS pulsation & dullness, diastolic shock (palpable P2), parasternal heave, and 6-event auscultation (S1, pulmonary EC, pulmonary ESM, loud P2 narrow split, Graham Steell, right S3).",
+   "qs": [
+    "MED-C6-14",
+    "MED-C6-15",
+    "MED-C6-16",
+    "MED-C6-17",
+    "MED-C6-18"
+   ]
+  },
+  {
+   "id": "MED-U6-4",
+   "ch": 6,
+   "n": 4,
+   "title": "OS, Absent PSA, Soft S1, DDs & ECG in MS",
+   "sec": "Opening Snap, Absent PSA, Soft S1 & Differential Diagnoses of MS",
+   "guide": "Opening snap (6 meanings): organic MS, pliable non-calcified valve, S2-OS gauges severity, amenable to surgery, significant MS, high LA pressure.\nAbsent PSA = AF, left heart failure, massive LA thrombus; Soft S1 in MS = co-existent MR, MV calcification, digitalis overdose (long PR), acute rheumatic carditis (long PR), AF, and damped MS (RV apex).\nDDs: ASD (fixed S2 split, LSM ESM, functional TS), LA myxoma (positional murmur, fever, weight loss, anaemia, emboli, high IgG & IL-6), significant MR (no OS/loud P2, soft S1, loud PSM), severe AR (Austin Flint not presystolic, softens with vasodilators); ECG shows AF, P mitrale (bifid P), and RVH (tall R in V1-V2, deep S in V6).",
+   "qs": [
+    "MED-C6-19",
+    "MED-C6-20",
+    "MED-C6-21",
+    "MED-C6-22"
+   ]
+  },
+  {
+   "id": "MED-U6-5",
+   "ch": 6,
+   "n": 5,
+   "title": "CXR, Doppler Echo, Wilkins Score & Medical Management",
+   "sec": "Investigations (CXR, Doppler Echo, Wilkins Score) & Medical Management",
+   "guide": "CXR: straightening of left heart border (earliest, PA + LA appendage), double atrial shadow ('shadow within a shadow'), Kerley B lines (PVP 20-30 mmHg, costophrenic horizontal lines), and Kerley A lines (PVP >30 mmHg, towards hilum).\nDoppler Echo: normal MVA 4-6 cm2, progressive >1.5 cm2, severe 1-1.5 cm2, very severe/tight/critical <1 cm2, enlarged LA >5.5 cm; Abascal/Wilkins score (mobility, thickness, subvalvular thickening, calcification x 4 pts = 16; <8/16 amenable to BMV).\nMedical management: Penicillin V 250 mg BD (250 mg QID in ARF; lifelong in established HD), Digoxin 0.25 mg 5 days/wk OD for AF (+ oral Diltiazem/Atenolol if needed), Warfarin INR 2-3 indefinitely (AF or thromboembolism), and diuretics.",
+   "qs": [
+    "MED-C6-23",
+    "MED-C6-24",
+    "MED-C6-25",
+    "MED-C6-26",
+    "MED-C6-27"
+   ]
+  },
+  {
+   "id": "MED-U6-6",
+   "ch": 6,
+   "n": 6,
+   "title": "Emergency AF, Valvotomy, BMV & Prosthetic Valves",
+   "sec": "Surgical & Interventional Management: Emergency AF, BMV & Prosthetic Valves",
+   "guide": "Emergency AF: rapid digitalisation 0.25 mg IV bolus, wait 2 h, repeat 0.25 mg up to max 1 mg, then beta-blockers if needed; Closed mitral valvotomy (pliable valve, no MR) uses the TUBBS transventricular dilator.\nBMV: 5 criteria (significant symptoms, isolated MS, no MR, mobile non-calcified valve, no LA thrombus), 4 complications (emboli, perforation, MR, iatrogenic ASD), and 2 success criteria (50% fall in mean MV gradient + doubling of MVA).\nValve replacement (if MR or rigid/calcified valve): Mechanical prostheses (INR 2.5-3.5; caged-ball Starr-Edwards vs preferred tilting-disc/bileaflet St. Jude, Bjork-Shiley, Indian Chitra TTK — less space, less haemolysis, less strut fracture) vs Bioprostheses (porcine/pericardial/cadaveric; less thromboembolism, not useful <65 yr due to rapid deterioration).",
+   "qs": [
+    "MED-C6-28",
+    "MED-C6-29",
+    "MED-C6-30",
+    "MED-C6-31",
+    "MED-C6-32"
+   ]
+  }
+ ]
+}

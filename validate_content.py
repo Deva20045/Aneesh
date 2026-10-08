@@ -23,13 +23,30 @@ def require(condition, message):
         raise ValueError(message)
 
 
+def parse_page_range(page_range: str) -> list[int]:
+    require(bool(re.fullmatch(r"\d+(?:-\d+)?(?:,\s*\d+(?:-\d+)?)*", page_range)), f"invalid pageRange syntax: {page_range!r}")
+    out: list[int] = []
+    for part in page_range.split(","):
+        part = part.strip()
+        if "-" in part:
+            a, b = map(int, part.split("-", 1))
+            require(b >= a, f"invalid page span {part!r} in {page_range!r}")
+            span = list(range(a, b + 1))
+        else:
+            span = [int(part)]
+        if out:
+            require(span[0] > out[-1], f"non-increasing page spans in {page_range!r}")
+        out.extend(span)
+    return out
+
+
 def validate_chapter(chapter, number, title, start_page):
     label = f"ch{number:02d}"
     require(chapter["chapter"] == number, f"{label}: chapter number")
     require(chapter["title"] == title, f"{label}: title")
-    require(re.fullmatch(r"\d+-\d+", chapter["pageRange"]), f"{label}: pageRange syntax")
-    first, last = map(int, chapter["pageRange"].split("-"))
-    require(first == start_page and last >= first, f"{label}: pageRange start/end")
+    expected_pages = parse_page_range(chapter["pageRange"])
+    expected_set = set(expected_pages)
+    require(expected_pages[0] == start_page, f"{label}: pageRange start/end")
     questions = chapter["questions"]
     require(bool(questions), f"{label}: no questions")
     ids = []
@@ -40,7 +57,7 @@ def validate_chapter(chapter, number, title, start_page):
         require(q["fmt"] in FORMATS, f"{qid}: format")
         for key in ("sec", "q", "exp"):
             require(isinstance(q[key], str) and q[key].strip(), f"{qid}: empty {key}")
-        require(type(q["page"]) is int and first <= q["page"] <= last, f"{qid}: page range")
+        require(type(q["page"]) is int and q["page"] in expected_set, f"{qid}: page range")
         require(isinstance(q["opts"], list) and len(q["opts"]) == 4, f"{qid}: exactly four options")
         require(all(isinstance(o, str) and o.strip() for o in q["opts"]), f"{qid}: empty option")
         require(len(set(q["opts"])) == 4, f"{qid}: duplicate options")
@@ -58,7 +75,7 @@ def validate_chapter(chapter, number, title, start_page):
         ids.append(qid)
         pages.append(q["page"])
     require(pages == sorted(pages), f"{label}: printed page order")
-    require(set(pages) == set(range(first, last + 1)), f"{label}: omitted page")
+    require(set(pages) == expected_set, f"{label}: omitted page")
     units = chapter["units"]
     require(bool(units), f"{label}: no units")
     sections = []

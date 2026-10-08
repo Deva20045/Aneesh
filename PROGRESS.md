@@ -1,14 +1,14 @@
 # PULSE · Aneesh Notes — Progress
 
-Updated **2026-10-08** (Chapter 1 shipped — General Examination, Book p3–14).
+Updated **2026-10-08** (Chapters 1–6 shipped — General Examination through Mitral Stenosis, Book p3–55 & p73–74).
 Standalone offline quiz built line by line from the annotated clinical notes in `uploads/`.
 
 - Repository: `Deva20045/Aneesh`
-- Session branch: `arena/8daa8376-aneesh`
+- Session branch: `arena/59b97b63-aneesh`
 - **Live link: https://deva20045.github.io/Aneesh/** (`index.html` redirects to `pulse-aneesh.html`)
 - Architecture: template of `Deva20045/Med-V2` — one standalone HTML app, `QUESTIONS`/`UNITS`/`CHAPTERS` schema, unit guides, index redirect.
 - Editable source of truth: `data/chNN.json`; generated deliverable: `pulse-aneesh.html`.
-- **Build status: 1 live chapter / 51 roadmap chapters · 149 questions · 24 units.**
+- **Build status: 6 live chapters / 51 roadmap chapters · 374 questions · 61 units.**
 - Book PDFs (now `uploads/part_1.pdf`, `uploads/part_2.pdf`) were moved out of the repository root and committed there.
 
 ## Goal
@@ -80,23 +80,25 @@ is `stem — 1) … 2) … … A) … B) …` with bijective key options.
 
 ## Chapter status
 
-**DONE (live):** Ch 1 — General Examination, Book p3–14 · 149 questions · 24 units
-(recall 42, scenario 30, match 29, oddoneout 17, numeric 16, fillup 8, truefalse 6, management 1).
+**DONE (live):**
+- **Ch 1** — General Examination, Book p3–15 · 151 questions · 25 units (recall 42, scenario 31, match 30, oddoneout 17, numeric 16, fillup 8, truefalse 6, management 1).
+- **Ch 2** — CVS - History & Symptomatology, Book p16–30 · 93 questions · 13 units (match 25, scenario 19, numeric 12, oddoneout 11, fillup 9, recall 8, truefalse 7, management 2).
+- **Ch 3** — CVS - Cardiac Examination: Inspection & JVP, Book p31–36 · 42 questions · 6 units (scenario 11, match 10, numeric 7, truefalse 4, fillup 4, oddoneout 3, recall 2, management 1).
+- **Ch 4** — CVS - Cardiac Examination: Palpation & Auscultation, Book p37–47 · 42 questions · 8 units (match 17, scenario 9, numeric 4, recall 3, truefalse 3, fillup 3, oddoneout 2, management 1).
+- **Ch 5** — CVS - Approach to Diagnosis & the Cardiac Cycle, Book p48, 73–74 · 14 questions · 3 units (match 5, scenario 2, numeric 2, recall 1, fillup 1, oddoneout 1, truefalse 1, management 1).
+- **Ch 6** — Mitral Stenosis, Book p49–55 · 32 questions · 6 units (match 11, scenario 6, recall 3, fillup 3, numeric 3, truefalse 2, oddoneout 2, management 2).
 
-**NEXT:** Ch 2 — CVS History & Symptomatology, Book p16–30 (includes the p18–19
-Boloor orthopnoea vs PND table). Then chapters in order; p14's stubs (drugs causing
-oedema, pulsus paradoxus, MAP, hypertension types) are answered from the CVS
-pulse/BP pages when those are built.
+**NEXT:** Ch 7 — Mitral Regurgitation, Book p56–57 (includes Harrison's Table 264-1 on p56).
 
 | Ch | Title | Book pages | Status |
 |---:|---|---:|---|
-| 1 | General Examination | 3–14 | **DONE — live** |
-| 2 | CVS - History & Symptomatology | 16–30 | NEXT |
-| 3 | CVS - Cardiac Examination: Inspection & JVP | 31–36 | Soon |
-| 4 | CVS - Cardiac Examination: Palpation & Auscultation | 37–47 | Soon |
-| 5 | CVS - Approach to Diagnosis & the Cardiac Cycle | 48, 73–74 | Soon |
-| 6 | Mitral Stenosis | 49–55 | Soon |
-| 7 | Mitral Regurgitation | 56–57 | Soon |
+| 1 | General Examination | 3–15 | **DONE — live** |
+| 2 | CVS - History & Symptomatology | 16–30 | **DONE — live** |
+| 3 | CVS - Cardiac Examination: Inspection & JVP | 31–36 | **DONE — live** |
+| 4 | CVS - Cardiac Examination: Palpation & Auscultation | 37–47 | **DONE — live** |
+| 5 | CVS - Approach to Diagnosis & the Cardiac Cycle | 48, 73–74 | **DONE — live** |
+| 6 | Mitral Stenosis | 49–55 | **DONE — live** |
+| 7 | Mitral Regurgitation | 56–57 | NEXT |
 | 8 | Aortic Stenosis | 58–61 | Soon |
 | 9 | Aortic Regurgitation | 62–63 | Soon |
 | 10 | Congenital Heart Disease | 64 | Soon |

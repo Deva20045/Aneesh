@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import re
 
 ROOT = Path(__file__).resolve().parent
 APP_PATH = ROOT / "pulse-aneesh.html"
@@ -105,7 +106,7 @@ def main() -> None:
             raise ValueError(f"{path.name}: chapter number does not match filename")
         if chapter["title"] != title:
             raise ValueError(f"{path.name}: expected title {title!r}, got {chapter['title']!r}")
-        first = int(chapter["pageRange"].split("-", 1)[0])
+        first = int(re.split(r"[-,]", chapter["pageRange"], maxsplit=1)[0].strip())
         if first != start_page:
             raise ValueError(f"{path.name}: pageRange starts at {first}, expected {start_page}")
         questions.extend(chapter["questions"])
@@ -120,7 +121,7 @@ def main() -> None:
     roadmap = []
     for number, title, start_page in CHAPTERS:
         if number in live:
-            first = int(live[number]["pageRange"].split("-", 1)[0])
+            first = int(re.split(r"[-,]", live[number]["pageRange"], maxsplit=1)[0].strip())
             roadmap.append({"n": number, "t": title, "p": first, "live": True})
         else:
             roadmap.append({"n": number, "t": title, "p": start_page, "live": False})

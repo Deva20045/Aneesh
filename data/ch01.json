@@ -1,7 +1,7 @@
 {
  "chapter": 1,
  "title": "General Examination",
- "pageRange": "3-14",
+ "pageRange": "3-15",
  "questions": [
   {
    "id": "MED-C1-01",
@@ -2237,6 +2237,36 @@
    ],
    "ans": 0,
    "exp": "The book writes '? MS, ? DSS' - mitral stenosis and DSS are queried rather than asserted, and that query mark is part of the answer: they are possibilities, not established causes. (Book p14)"
+  },
+  {
+   "id": "MED-C1-150",
+   "sec": "AHA/ASA Blood Pressure Categories (Insert Table)",
+   "page": 15,
+   "fmt": "match",
+   "q": "Match each Blood Pressure Category in the AHA/ASA table on Book p15 to its exact systolic and diastolic mmHg definition and Boolean connector — 1) Normal vs Elevated 2) High Blood Pressure [Hypertension] Stage 1 3) High Blood Pressure [Hypertension] Stage 2 4) Hypertensive Crisis [consult your doctor immediately] … A) Systolic 130–139 OR Diastolic 80–89 mmHg B) Systolic >=140 OR Diastolic >=90 mmHg C) Systolic >180 and/or Diastolic >120 mmHg D) Normal = <120 AND <80 mmHg; Elevated = 120–129 AND <80 mmHg",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "The AHA/ASA Blood Pressure Categories table on Book p15 defines: Normal (<120 AND <80 mmHg); Elevated (120–129 AND <80 mmHg); Hypertension Stage 1 (130–139 OR 80–89 mmHg); Hypertension Stage 2 (>=140 OR >=90 mmHg); and Hypertensive Crisis (>180 and/or >120 mmHg). (Book p15)"
+  },
+  {
+   "id": "MED-C1-151",
+   "sec": "AHA/ASA Blood Pressure Categories (Insert Table)",
+   "page": 15,
+   "fmt": "scenario",
+   "q": "A patient's blood pressure is 126/84 mmHg on repeated clinic measurements. Using the AHA/ASA Blood Pressure Categories table on Book p15, which category applies and why?",
+   "opts": [
+    "High Blood Pressure (Hypertension) Stage 1, because Elevated BP requires BOTH systolic 120–129 AND diastolic <80 mmHg, whereas Stage 1 Hypertension requires systolic 130–139 OR diastolic 80–89 mmHg",
+    "Elevated Blood Pressure, because the systolic reading lies between 120 and 129 mmHg regardless of the diastolic value",
+    "High Blood Pressure (Hypertension) Stage 2, because any diastolic reading above 80 mmHg is classified as Stage 2",
+    "Normal Blood Pressure, because both values are below 140/90 mmHg"
+   ],
+   "ans": 0,
+   "exp": "In the AHA/ASA table on Book p15, Elevated BP uses 'and' (120–129 AND <80 mmHg), whereas Stage 1 Hypertension uses 'or' (130–139 OR 80–89 mmHg); a diastolic reading of 84 mmHg therefore places the patient in Stage 1 Hypertension. (Book p15)"
   }
  ],
  "units": [
@@ -2627,6 +2657,18 @@
     "MED-C1-147",
     "MED-C1-148",
     "MED-C1-149"
+   ]
+  },
+  {
+   "id": "MED-U1-25",
+   "ch": 1,
+   "n": 25,
+   "title": "AHA/ASA Blood Pressure Categories (Insert Table)",
+   "sec": "AHA/ASA Blood Pressure Categories (Insert Table)",
+   "guide": "AHA/ASA Blood Pressure Categories on Book p15: Normal (<120 AND <80 mmHg) vs Elevated (120-129 AND <80 mmHg).\nHypertension Stage 1 = 130-139 OR 80-89 mmHg; Stage 2 = >=140 OR >=90 mmHg; Hypertensive Crisis = >180 and/or >120 mmHg.",
+   "qs": [
+    "MED-C1-150",
+    "MED-C1-151"
    ]
   }
  ]
