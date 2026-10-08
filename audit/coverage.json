@@ -1,0 +1,896 @@
+[
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Opening sequence of general examination",
+  "question": "MED-C1-01"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Temperature must always be measured with a thermometer",
+  "question": "MED-C1-02"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Steps of general examination",
+  "question": "MED-C1-03"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Reporting lymphadenopathy: site, number, consistency, tenderness, shape, matted",
+  "question": "MED-C1-04"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Harrison's/19e definition of fever",
+  "question": "MED-C1-05"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Normal body temperature range",
+  "question": "MED-C1-06"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Why temperature is higher in the evening",
+  "question": "MED-C1-07"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Alternative sites for temperature measurement",
+  "question": "MED-C1-08"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Mouth breathing lowers oral reading",
+  "question": "MED-C1-09"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Fever vs hyperthermia: the set-point distinction",
+  "question": "MED-C1-10"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Antipyretics do not reduce hyperthermia",
+  "question": "MED-C1-11"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Drugs and settings of the four hyperthermia causes",
+  "question": "MED-C1-12"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Causes of hyperthermia",
+  "question": "MED-C1-13"
+ },
+ {
+  "chapter": 1,
+  "page": 3,
+  "point": "Statements on fever and hyperthermia",
+  "question": "MED-C1-14"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Definition of hyperpyrexia",
+  "question": "MED-C1-15"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Hypothalamic fever",
+  "question": "MED-C1-16"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Mechanism of fever",
+  "question": "MED-C1-17"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Pyrogenic cytokines",
+  "question": "MED-C1-18"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Pyrogenic cytokine list",
+  "question": "MED-C1-19"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Definition of AUFI",
+  "question": "MED-C1-20"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Order in which AUFI causes should be said",
+  "question": "MED-C1-21"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Kala-azar and 'our setting'",
+  "question": "MED-C1-22"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Petersdorf and Beeson definition of PUO",
+  "question": "MED-C1-23"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Harrison's criteria for PUO",
+  "question": "MED-C1-24"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Obligatory investigations in PUO",
+  "question": "MED-C1-25"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Types of PUO",
+  "question": "MED-C1-26"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Key principle underlying PUO",
+  "question": "MED-C1-27"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Aetiology of PUO by group",
+  "question": "MED-C1-28"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Atrial myxoma as a neoplastic cause of PUO",
+  "question": "MED-C1-29"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Intra-abdominal abscess sites in PUO",
+  "question": "MED-C1-30"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Auto-inflammatory diseases with characteristic fever",
+  "question": "MED-C1-31"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "FMF pathogenesis reference and treatment",
+  "question": "MED-C1-32"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "The three diseases in which colchicine is used",
+  "question": "MED-C1-33"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "PAPA syndrome",
+  "question": "MED-C1-34"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "CAPS expansion",
+  "question": "MED-C1-35"
+ },
+ {
+  "chapter": 1,
+  "page": 4,
+  "point": "Hyper-IgD syndrome",
+  "question": "MED-C1-36"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Pulse response to fever",
+  "question": "MED-C1-37"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Causes of relative bradycardia",
+  "question": "MED-C1-38"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Faget's sign",
+  "question": "MED-C1-39"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Mechanism of relative bradycardia in enteric fever",
+  "question": "MED-C1-40"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Separating causes of relative bradycardia from relative tachycardia",
+  "question": "MED-C1-41"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Relative tachycardia list",
+  "question": "MED-C1-42"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Definition of intermittent fever",
+  "question": "MED-C1-43"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Subdivisions of intermittent fever",
+  "question": "MED-C1-44"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Causes of quotidian fever",
+  "question": "MED-C1-45"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Double quotidian fever and its classic associations",
+  "question": "MED-C1-46"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Malarial fevers and their other names",
+  "question": "MED-C1-47"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Definition of remittent fever",
+  "question": "MED-C1-48"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Normal daily temperature fluctuation",
+  "question": "MED-C1-49"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Remittent and continued fever causes",
+  "question": "MED-C1-50"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Which fever never touches the baseline",
+  "question": "MED-C1-51"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Pel-Ebstein pattern",
+  "question": "MED-C1-52"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Specific named fever patterns",
+  "question": "MED-C1-53"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Step-ladder fever",
+  "question": "MED-C1-54"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Baseline behaviour across fever patterns",
+  "question": "MED-C1-55"
+ },
+ {
+  "chapter": 1,
+  "page": 5,
+  "point": "Fever with splenomegaly and double spikes",
+  "question": "MED-C1-56"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Hectic fever and pent-up pus",
+  "question": "MED-C1-57"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Primary versus secondary hypothermia",
+  "question": "MED-C1-58"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Secondary hypothermia",
+  "question": "MED-C1-59"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Hypothermia in a myxoedematous patient",
+  "question": "MED-C1-60"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Signs and symptoms of hypothermia",
+  "question": "MED-C1-61"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Anaemia and pallor are not interchangeable",
+  "question": "MED-C1-62"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Sites to examine for pallor",
+  "question": "MED-C1-63"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Sites for pallor versus sites for icterus",
+  "question": "MED-C1-64"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Pallor without anaemia",
+  "question": "MED-C1-65"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Aetiopathological classification of anaemia",
+  "question": "MED-C1-66"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Where to look for icterus",
+  "question": "MED-C1-67"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Minimum bilirubin for clinical icterus",
+  "question": "MED-C1-68"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Why the sclera shows icterus early",
+  "question": "MED-C1-69"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Tints of icterus",
+  "question": "MED-C1-70"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Why ask the patient to look down",
+  "question": "MED-C1-71"
+ },
+ {
+  "chapter": 1,
+  "page": 6,
+  "point": "Mild haemolytic jaundice",
+  "question": "MED-C1-72"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Definition of cyanosis",
+  "question": "MED-C1-73"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Reduced haemoglobin threshold for cyanosis",
+  "question": "MED-C1-74"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "SpO2 corresponding to cyanosis",
+  "question": "MED-C1-75"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Absolute quantity of reduced haemoglobin",
+  "question": "MED-C1-76"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Central versus peripheral cyanosis",
+  "question": "MED-C1-77"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Causes of central cyanosis",
+  "question": "MED-C1-78"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Iron-replete and iron-deplete cyanosis",
+  "question": "MED-C1-79"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Differential cyanosis patterns",
+  "question": "MED-C1-80"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Differential cyanosis with lower-limb cyanosis",
+  "question": "MED-C1-81"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Definition of clubbing",
+  "question": "MED-C1-82"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "The Lovibond angle",
+  "question": "MED-C1-83"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "Minimum duration for clubbing to appear",
+  "question": "MED-C1-84"
+ },
+ {
+  "chapter": 1,
+  "page": 7,
+  "point": "First finger to be affected",
+  "question": "MED-C1-85"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Grades of clubbing",
+  "question": "MED-C1-86"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Grade 4 clubbing and HOA",
+  "question": "MED-C1-87"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Groups of causes of clubbing",
+  "question": "MED-C1-88"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Diseases in which clubbing is rare",
+  "question": "MED-C1-89"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Clubbing in suppurative and interstitial disease",
+  "question": "MED-C1-90"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Thyroid acropachy",
+  "question": "MED-C1-91"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "POEMS syndrome",
+  "question": "MED-C1-92"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Graves' disease with clubbing",
+  "question": "MED-C1-93"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Definition of pseudoclubbing",
+  "question": "MED-C1-94"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Causes of pseudoclubbing",
+  "question": "MED-C1-95"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Bulbous fingers with a preserved angle",
+  "question": "MED-C1-96"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Most accepted theory of clubbing",
+  "question": "MED-C1-97"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Growth factor released in the nail bed",
+  "question": "MED-C1-98"
+ },
+ {
+  "chapter": 1,
+  "page": 8,
+  "point": "Theories of clubbing",
+  "question": "MED-C1-99"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Causes of painful clubbing",
+  "question": "MED-C1-100"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Unilateral clubbing",
+  "question": "MED-C1-101"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Left-sided clubbing only",
+  "question": "MED-C1-102"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Unidigital clubbing",
+  "question": "MED-C1-103"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "First affected finger",
+  "question": "MED-C1-104"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "When lymphadenopathy is significant",
+  "question": "MED-C1-105"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Nodes significant whatever their size",
+  "question": "MED-C1-106"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Definition of generalised lymphadenopathy",
+  "question": "MED-C1-107"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Persistent generalised lymphadenopathy",
+  "question": "MED-C1-108"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Character of lymph nodes",
+  "question": "MED-C1-109"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Matted nodes",
+  "question": "MED-C1-110"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Levels of cervical nodes",
+  "question": "MED-C1-111"
+ },
+ {
+  "chapter": 1,
+  "page": 9,
+  "point": "Node character in a young patient",
+  "question": "MED-C1-112"
+ },
+ {
+  "chapter": 1,
+  "page": 10,
+  "point": "Neurological causes of clubbing",
+  "question": "MED-C1-113"
+ },
+ {
+  "chapter": 1,
+  "page": 10,
+  "point": "Neurological clubbing list",
+  "question": "MED-C1-114"
+ },
+ {
+  "chapter": 1,
+  "page": 11,
+  "point": "The grade demonstrated in Boloor Fig. 2C.18",
+  "question": "MED-C1-115"
+ },
+ {
+  "chapter": 1,
+  "page": 11,
+  "point": "Interpretation of grade 4",
+  "question": "MED-C1-116"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Acute clubbing",
+  "question": "MED-C1-117"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Unilateral and unidigital clubbing in the table",
+  "question": "MED-C1-118"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Painful and cyanotic clubbing in the table",
+  "question": "MED-C1-119"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Differential clubbing and its lesion",
+  "question": "MED-C1-120"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Reverse differential clubbing",
+  "question": "MED-C1-121"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Pseudoclubbing list in the table",
+  "question": "MED-C1-122"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Clubbing with cyanosis in the table",
+  "question": "MED-C1-123"
+ },
+ {
+  "chapter": 1,
+  "page": 12,
+  "point": "Reversible clubbing",
+  "question": "MED-C1-124"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Causes of generalised lymphadenopathy by group",
+  "question": "MED-C1-125"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Pitting and non-pitting oedema",
+  "question": "MED-C1-126"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Amlodipine-induced oedema",
+  "question": "MED-C1-127"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Non-pitting oedema",
+  "question": "MED-C1-128"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Unilateral and bilateral leg swelling",
+  "question": "MED-C1-129"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Milroy's disease",
+  "question": "MED-C1-130"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Unilateral leg swelling list",
+  "question": "MED-C1-131"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Autoimmune causes of generalised lymphadenopathy",
+  "question": "MED-C1-132"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Miscellaneous cause of generalised lymphadenopathy",
+  "question": "MED-C1-133"
+ },
+ {
+  "chapter": 1,
+  "page": 13,
+  "point": "Which oedema is non-pitting?",
+  "question": "MED-C1-134"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Definition of blood pressure",
+  "question": "MED-C1-135"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Dimensions of the BP cuff",
+  "question": "MED-C1-136"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Phases of Korotkoff sounds",
+  "question": "MED-C1-137"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Which Korotkoff phase is taken as DBP",
+  "question": "MED-C1-138"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Choosing the diastolic end point",
+  "question": "MED-C1-139"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Normal variation between upper limbs",
+  "question": "MED-C1-140"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Definition and effect of the auscultatory gap",
+  "question": "MED-C1-141"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Avoiding the error of the auscultatory gap",
+  "question": "MED-C1-142"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Causes of increased inter-arm BP difference",
+  "question": "MED-C1-143"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Subclavian steal syndrome",
+  "question": "MED-C1-144"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Normal pulse pressure",
+  "question": "MED-C1-145"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Raised and narrow pulse pressure causes",
+  "question": "MED-C1-146"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Paget's disease and pulse pressure",
+  "question": "MED-C1-147"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Narrow pulse pressure in a young patient",
+  "question": "MED-C1-148"
+ },
+ {
+  "chapter": 1,
+  "page": 14,
+  "point": "Adjuncts queried in narrow pulse pressure",
+  "question": "MED-C1-149"
+ }
+]
