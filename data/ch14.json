@@ -1,0 +1,1175 @@
+{
+ "chapter": 14,
+ "title": "RS - General Examination & Chest Wall",
+ "pageRange": "80-92",
+ "questions": [
+  {
+   "id": "MED-C14-01",
+   "sec": "Chest Pain: Origins & Character Table",
+   "page": 80,
+   "fmt": "recall",
+   "q": "Chest pain can originate from the parietal pleura, chest wall and mediastinal structures — but NOT the lung. Per Book p80, why not the lung?",
+   "opts": [
+    "The lung has only autonomic innervation, so it does not cause chest pain",
+    "The lung is supplied only by the sympathetic trunk",
+    "Chest pain always originates from the heart",
+    "The parietal pleura lacks innervation"
+   ],
+   "ans": 0,
+   "exp": "Book p80: 'Chest pain — can originate from the parietal pleura, chest wall and mediastinal structures. NOT LUNG because the lung has only autonomic innervation, it does not cause chest pain.' (Book p80)"
+  },
+  {
+   "id": "MED-C14-02",
+   "sec": "Chest Pain: Origins & Character Table",
+   "page": 80,
+   "fmt": "match",
+   "q": "Match the three origins of chest pain in the Book p80 table to their character and causes — 1) Parietal pleura 2) Chest wall 3) Mediastinal structures … A) Sharp, stabbing, intensified by inspiration or coughing — pulmonary embolism, pneumonia, pneumothorax, fractured ribs B) Dull, aching, unrelated to respiration, progressively worsens and hinders sleep — invasion, trauma, compression C) Central, retrosternal, no relation to respiration — lung cancer, lymphoma, thymoma, mets",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p80 table: Parietal pleura — sharp, stabbing, intensified by inspiration or coughing (causes: PE, pneumonia, pneumothorax, fractured ribs); Chest wall — dull, aching, unrelated to respiration, progressively worsens and hinders sleep (invasion, trauma, compression); Mediastinal structures — central, retrosternal, no relation to respiration (lung cancer, lymphoma, thymoma, mets). (Book p80)"
+  },
+  {
+   "id": "MED-C14-03",
+   "sec": "Chest Pain: Origins & Character Table",
+   "page": 80,
+   "fmt": "fillup",
+   "q": "In the parietal pleura column of Book p80: upper 6 ribs irritation causes ____ pain, lower rib pleural irritation can radiate to the ____, and diaphragmatic pleural irritation is referred to the ____.",
+   "opts": [
+    "radiating; back; knee",
+    "diffuse; upper abdomen; shoulder tip",
+    "localised; shoulder; upper abdomen",
+    "localised; upper abdomen; shoulder tip/neck"
+   ],
+   "ans": 3,
+   "exp": "Book p80 parietal pleura cell: 'Upper 6 ribs irritation -> localised pain. Lower rib pleural irritation can radiate to the upper abdomen. Diaphragmatic pleural irritation is referred to the shoulder tip/neck.' (Book p80)"
+  },
+  {
+   "id": "MED-C14-04",
+   "sec": "Specific TB History Points",
+   "page": 80,
+   "fmt": "match",
+   "q": "Match the three specific history points in a suspected case of tuberculosis on Book p80 to their detail — 1) Occupation of husband 2) Evening rise of temperature 3) Contact history … A) High risk group for HIV B) Due to TNFa C) The third listed TB history point",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Book p80 'Specific history points in a suspected case of Tuberculosis': occupation of husband — high risk group for HIV; evening rise of temperature — due to TNFa; contact history of tuberculosis. (Book p80)"
+  },
+  {
+   "id": "MED-C14-05",
+   "sec": "Examination: Pulse, Pallor, Cyanosis, Clubbing",
+   "page": 81,
+   "fmt": "numeric",
+   "q": "On Book p81, pulsus paradoxus above ____ mmHg is significant, and it reduces on treatment.",
+   "opts": [
+    "10",
+    "5",
+    "15",
+    "20"
+   ],
+   "ans": 0,
+   "exp": "Book p81: 'Pulse: Comment on pulsus paradoxus. >10 mmHg is significant. It reduces on treatment.' (Book p81)"
+  },
+  {
+   "id": "MED-C14-06",
+   "sec": "Examination: Pulse, Pallor, Cyanosis, Clubbing",
+   "page": 81,
+   "fmt": "match",
+   "q": "Match the three causes of pallor in RS on Book p81 to their position — 1) First listed 2) Second listed 3) Third listed … A) Recurrent haemoptysis B) Bronchial ca C) TB",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Book p81 pallor in RS: recurrent haemoptysis; bronchial ca; TB. (Book p81)"
+  },
+  {
+   "id": "MED-C14-07",
+   "sec": "Examination: Pulse, Pallor, Cyanosis, Clubbing",
+   "page": 81,
+   "fmt": "numeric",
+   "q": "The cyanosis threshold on Book p81 is SpO2 below ____%.",
+   "opts": [
+    "90",
+    "80",
+    "85",
+    "75"
+   ],
+   "ans": 2,
+   "exp": "Book p81: 'Cyanosis — SpO2 <85%'. (Book p81)"
+  },
+  {
+   "id": "MED-C14-08",
+   "sec": "Examination: Pulse, Pallor, Cyanosis, Clubbing",
+   "page": 81,
+   "fmt": "fillup",
+   "q": "The four clubbing-in-TB causes on Book p81: post-TB bronchiectasis, ____ (it's an adenocarcinoma), empyema and ____.",
+   "opts": [
+    "carcinoid; endobronchial TB",
+    "scar carcinoma; TB lymphadenitis",
+    "bronchocele; endobronchial TB",
+    "scar carcinoma; endobronchial TB"
+   ],
+   "ans": 3,
+   "exp": "Book p81: 'Clubbing in TB — post TB bronchiectasis, scar carcinoma (it's an Adenocarcinoma), empyema, endobronchial TB'. (Book p81)"
+  },
+  {
+   "id": "MED-C14-09",
+   "sec": "Lymphadenopathy: Epitrochlear & Scalene",
+   "page": 81,
+   "fmt": "fillup",
+   "q": "A palpable epitrochlear node is always pathologic (Book p81) — causes: NHL, secondary syphilis, sarcoidosis, infections of forearm/hand, tularaemia (rare) — but NOT in ____, per Dr. Hamide.",
+   "opts": [
+    "TB",
+    "sarcoidosis",
+    "syphilis",
+    "lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Book p81: 'Palpable epitrochlear nodes are always pathologic — NHL, secondary syphilis, sarcoidosis, infections of forearm, hand, tularaemia (rare) but not in TB (Dr. Hamide)'. (Book p81)"
+  },
+  {
+   "id": "MED-C14-10",
+   "sec": "Lymphadenopathy: Epitrochlear & Scalene",
+   "page": 81,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of a palpable epitrochlear node on Book p81 EXCEPT:",
+   "opts": [
+    "NHL",
+    "Tularaemia",
+    "Secondary syphilis",
+    "Tuberculosis"
+   ],
+   "ans": 3,
+   "exp": "Book p81 lists NHL, secondary syphilis, sarcoidosis, forearm/hand infections and tularaemia (rare) — and explicitly says 'not in TB (Dr. Hamide)'. (Book p81)"
+  },
+  {
+   "id": "MED-C14-11",
+   "sec": "Lymphadenopathy: Epitrochlear & Scalene",
+   "page": 81,
+   "fmt": "fillup",
+   "q": "To palpate the scalene node on Book p81: place the index finger between the ____ and the ____, ask the patient to tilt the head to the same side and press firmly down towards the first rib.",
+   "opts": [
+    "trapezius; scapula",
+    "SCM; first rib",
+    "SCM; clavicle",
+    "sternocleidomastoid; manubrium"
+   ],
+   "ans": 2,
+   "exp": "Book p81: 'Scalene node — Place index finger between SCM and clavicle. Ask the patient to tilt his head to the same side and press firmly down towards the first rib'. (Book p81)"
+  },
+  {
+   "id": "MED-C14-12",
+   "sec": "Lymphadenopathy: Generalised & Mediastinal; Oedema",
+   "page": 82,
+   "fmt": "fillup",
+   "q": "The three causes of generalised lymphadenopathy on Book p82: ____, ____, and sarcoidosis.",
+   "opts": [
+    "TB; malaria",
+    "HIV; IM",
+    "HIV; TB",
+    "IM; sarcoidosis"
+   ],
+   "ans": 1,
+   "exp": "Book p82: 'Generalised lymphadenopathy — HIV, IM, sarcoidosis'. (Book p82)"
+  },
+  {
+   "id": "MED-C14-13",
+   "sec": "Lymphadenopathy: Generalised & Mediastinal; Oedema",
+   "page": 82,
+   "fmt": "scenario",
+   "q": "Dull percussion over the manubrium sterni with bronchial breathing heard below the spine of T4 (d'Espine sign) on Book p82 points to:",
+   "opts": [
+    "Apical TB",
+    "Subcarinal lymphadenopathy — the normally air-containing region at the tracheal bifurcation (T4) now conducts sound better, like consolidation",
+    "Aortic arch aneurysm",
+    "Pneumothorax"
+   ],
+   "ans": 1,
+   "exp": "Book p82: 'Mediastinal lymphadenopathy — dull percussion on manubrium sterni, bronchial breathing heard below the spine of T4 (d'Espine sign); normally tracheal bifurcation @ T4 -> if sub carinal lymphadenopathy -> conducts sound better (consolidation like) -> bronchial breath'. (Book p82)"
+  },
+  {
+   "id": "MED-C14-14",
+   "sec": "Lymphadenopathy: Generalised & Mediastinal; Oedema",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match the three causes of oedema in RS on Book p82 to their position — 1) First listed 2) Second listed 3) Third listed … A) Cor pulmonale B) Protein loss in the sputum, esp in bronchiectasis C) Amyloidosis due to long standing bronchiectasis",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p82: 'Oedema — in RS, can be due to cor pulmonale; protein loss in the sputum, esp in bronchiectasis; amyloidosis due to long standing bronchiectasis'. (Book p82)"
+  },
+  {
+   "id": "MED-C14-15",
+   "sec": "Respiration: Rate, Distress & Muscles",
+   "page": 82,
+   "fmt": "fillup",
+   "q": "The normal respiratory rate on Book p82 is ____–18/min; women breathe ____, men breathe ____.",
+   "opts": [
+    "12; thoraco-abdominal; abdomino thoracic",
+    "10; abdomino thoracic; thoraco-abdominal",
+    "12; abdomino thoracic; thoraco-abdominal",
+    "16; thoraco-abdominal; thoraco-abdominal"
+   ],
+   "ans": 0,
+   "exp": "Book p82: 'Respiration: Normal rate — 12 to 18/min. Women — thoraco-abdominal; Men — abdomino thoracic.' (Book p82)"
+  },
+  {
+   "id": "MED-C14-16",
+   "sec": "Respiration: Rate, Distress & Muscles",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match the five signs of respiratory distress on Book p82 to their detail — 1) Alar nasii 2) Pursed lip breathing 3) Indrawing 4) Accessory muscles 5) Intercostal retraction … A) Enlargement B) Helps like PEEP C) Of the trachea D) Like sternocleidomastoid and recti E) Listed last in the distress list",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-D, 5-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C",
+    "1-A, 2-B, 3-C, 4-D, 5-E"
+   ],
+   "ans": 3,
+   "exp": "Book p82 distress signs: alar nasii enlargement; pursed lip breathing — help like PEEP; indrawing of trachea; use of accessory muscles like sternocleidomastoid and recti; intercostal retraction. (Book p82)"
+  },
+  {
+   "id": "MED-C14-17",
+   "sec": "Respiration: Rate, Distress & Muscles",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match the four muscle-of-respiration entries on Book p82 to their detail — 1) Inspiration — principal 2) Inspiration — accessory 3) Expiration — quiet breathing 4) Expiration — active … A) External intercostal muscles, diaphragm B) Sternocleidomastoid (elevates sternum), scalenes (elevate upper ribs), pectoralis minor, trapezius C) Passive D) Internal intercostals (pulls ribs down), abdominal muscles (pull ribs down, compress abdominal contents pushing diaphragm up), quadratus lumborum (pull ribs down)",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Book p82: Inspiration — principal: external intercostals, diaphragm; accessory: SCM (elevates sternum), scalenes (elevate upper ribs), pectoralis minor, trapezius. Expiration — quiet: passive; active: internal intercostals, abdominal muscles, quadratus lumborum. (Book p82)"
+  },
+  {
+   "id": "MED-C14-18",
+   "sec": "Respiration: Rate, Distress & Muscles",
+   "page": 82,
+   "fmt": "recall",
+   "q": "The 'I always with E' mnemonic on Book p82 means:",
+   "opts": [
+    "Inspiration -> external (intercostals); vice versa for expiration",
+    "Inspiration -> internal; expiration -> external",
+    "Inhalation -> abdominal; exhalation -> thoracic",
+    "Inspiration -> accessory; expiration -> principal"
+   ],
+   "ans": 0,
+   "exp": "Book p82: '**Muscles of respiration — I always with E (insp -> external; vice versa)'. (Book p82)"
+  },
+  {
+   "id": "MED-C14-19",
+   "sec": "External Markers of Tuberculosis",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match the first four external markers of tuberculosis on Book p82 to their detail — 1) Phlycten 2) Choroid tubercles 3) Scars/sinuses 4) Scrofula … A) Small pinkish yellow nodule near the limbus B) Not visible to naked eye C) The third listed marker D) Tuberculous lymphadenitis (painless) in cervical region usually, can be non-TB",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Book p82 TB markers: 1. phlycten — small pinkish yellow nodule near the limbus; 2. choroid tubercles — not visible to naked eye; 3. scars/sinuses; 4. scrofula — tuberculous lymphadenitis (painless) in cervical region usually, can be non-TB. (Book p82)"
+  },
+  {
+   "id": "MED-C14-20",
+   "sec": "External Markers of Tuberculosis",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match the four cutaneous TB forms on Book p82 to their detail — 1) Lupus vulgaris 2) Erythema nodosum 3) Tuberculous verrucous cutis 4) Scrofuloderma … A) Painful cutaneous granuloma with apple-jelly nodules — nose, eyelids, cheek, ear, neck B) The second listed skin form C) Direct inoculation of TB over skin -> solitary plaque with central involution and atrophic scar D) Direct skin extension from TB of LN, bones and joints",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Book p82 skin: a. lupus vulgaris — painful cutaneous granuloma with nodular appearance (brown jelly/apple jelly nodules): nose, eyelids, cheek, ear, neck; b. erythema nodosum; c. tuberculous verrucous cutis — direct inoculation -> solitary plaque with central involution and atrophic scar; d. scrofuloderma — direct skin extensions from TB of LN, bones and joints. (Book p82)"
+  },
+  {
+   "id": "MED-C14-21",
+   "sec": "External Markers of Tuberculosis",
+   "page": 82,
+   "fmt": "fillup",
+   "q": "External TB markers 6 and 7 on Book p82: the ____/collar stud abscess, and ____.",
+   "opts": [
+    "warm abscess; orchitis",
+    "cold abscess; parotitis",
+    "collar stud abscess; prostatitis",
+    "cold abscess; epididymo-orchitis"
+   ],
+   "ans": 3,
+   "exp": "Book p82 TB markers: 6. cold abscess/collar stud abscess; 7. epididymo-orchitis. (Book p82)"
+  },
+  {
+   "id": "MED-C14-22",
+   "sec": "Other in General Examination",
+   "page": 82,
+   "fmt": "recall",
+   "q": "The 'other things in G/E' on Book p82: Horner's syndrome in lung malignancies, and signs of neurovascular compression — wasting of the ____.",
+   "opts": [
+    "small muscles of hands",
+    "muscles of mastication",
+    "foot muscles",
+    "abdominal muscles"
+   ],
+   "ans": 0,
+   "exp": "Book p82: 'Other things in G/E: 1. Horner's syndrome in lung malignancies; 2. Signs of neurovascular compression: wasting of small muscles of hands'. (Book p82)"
+  },
+  {
+   "id": "MED-C14-23",
+   "sec": "Dahl's Sign",
+   "page": 83,
+   "fmt": "fillup",
+   "q": "Dahl's sign on Book p83 is also known as the ____ sign or the ____ sign.",
+   "opts": [
+    "sitting; square",
+    "thinker's; circle",
+    "thinker's; target",
+    "target; tripod"
+   ],
+   "ans": 2,
+   "exp": "Book p83: 'Dahl's sign (also Thinker's sign or Target sign)'. (Book p83)"
+  },
+  {
+   "id": "MED-C14-24",
+   "sec": "Dahl's Sign",
+   "page": 83,
+   "fmt": "recall",
+   "q": "In Dahl's sign, the skin over the lower thighs and elbows is:",
+   "opts": [
+    "pale and atrophic",
+    "darkened (hyperpigmented) and thickened (hyperkeratotic)",
+    "erythematous and vesicular",
+    "purpuric and scaly"
+   ],
+   "ans": 1,
+   "exp": "Book p83 Dahl's sign a: 'areas of darkened (hyperpigmentation) and thickened (hyperkeratotic) skin are seen on the lower thighs and elbows.' (Book p83)"
+  },
+  {
+   "id": "MED-C14-25",
+   "sec": "Dahl's Sign",
+   "page": 83,
+   "fmt": "scenario",
+   "q": "A long-standing COPD patient has brown patches over the lower thighs and elbows while sitting forwards with arms on the thighs. Per the Book p83 mechanism of Dahl's sign, the brown discolouration comes from:",
+   "opts": [
+    "Hemosiderin released from red blood cells trapped in the skin at the contact points",
+    "Yellow jaundice depositing biliverdin",
+    "White depigmentation of the dermis",
+    "Red telangiectasia of the epidermis"
+   ],
+   "ans": 0,
+   "exp": "Book p83: air trapping flattens the diaphragm (sitting forwards improves its effectiveness); long-standing COPD pts sit forwards with arms on thighs -> chronic erythema at contact points -> 'hemosiderin released from red blood cells trapped in the skin is released causing a brown discolouration of the skin'. (Book p83)"
+  },
+  {
+   "id": "MED-C14-26",
+   "sec": "Inspection: Upper Respiratory Tract",
+   "page": 83,
+   "fmt": "match",
+   "q": "Match the three URT inspection entries on Book p83 to their detail — 1) Oral cavity 2) Nose 3) Pharynx … A) Thrush (immunocompromised state), tonsils; poor oral hygiene, halitosis -> lung abscess B) DNS, polyps C) Post nasal drip — even these can cause respiratory symptoms and breathing difficulty",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Book p83: oral cavity — thrush (immunocompromised state), tonsils; poor oral hygiene, halitosis -> lung abscess; nose — DNS, polyps; pharynx — post nasal drip, 'cause even these can cause respiratory symptoms and breathing difficulty'. (Book p83)"
+  },
+  {
+   "id": "MED-C14-27",
+   "sec": "Tracheal Position & Trail's Sign",
+   "page": 83,
+   "fmt": "recall",
+   "q": "The tracheal position is affected mainly by the ____ lobes, per Book p83.",
+   "opts": [
+    "lower",
+    "upper",
+    "middle",
+    "apical"
+   ],
+   "ans": 1,
+   "exp": "Book p83: 'Tracheal position: affected mainly by upper lobes'. (Book p83)"
+  },
+  {
+   "id": "MED-C14-28",
+   "sec": "Tracheal Position & Trail's Sign",
+   "page": 83,
+   "fmt": "fillup",
+   "q": "Trail's sign (Book p83): the pretracheal fascia encloses the clavicular head of SCM on both sides; when the trachea shifts to one side, the fascia on that side ____, making the clavicular head more prominent.",
+   "opts": [
+    "tightens",
+    "tears",
+    "relaxes",
+    "calcifies"
+   ],
+   "ans": 2,
+   "exp": "Book p83: 'Trail's sign — undue prominence of the clavicular head of SCM on the side to which the trachea is deviated. The pretracheal fascia encloses the clavicular head of SCM on both sides. When the trachea is shifted to one side, the fascia on that side relaxes, making the clavicular head more prominent.' (Book p83)"
+  },
+  {
+   "id": "MED-C14-29",
+   "sec": "Chest Wall Inspection: Volume Loss, Symmetry, Shapes",
+   "page": 83,
+   "fmt": "fillup",
+   "q": "The signs of lung volume loss on Book p83: shoulder droop, prominence of the medial border of the scapula (don't call it ____) and crowding of ribs.",
+   "opts": [
+    "fracture",
+    "deformity",
+    "frailty",
+    "winging"
+   ],
+   "ans": 3,
+   "exp": "Book p83: 'Signs of lung volume loss — shoulder droop, prominence of medial border of scapula (don't call it winging), crowding of ribs.' (Book p83)"
+  },
+  {
+   "id": "MED-C14-30",
+   "sec": "Chest Wall Inspection: Volume Loss, Symmetry, Shapes",
+   "page": 83,
+   "fmt": "numeric",
+   "q": "The AP-to-transverse diameter ratios on Book p83: normal chest ____, flat chest ____, barrel chest ____.",
+   "opts": [
+    "5:7; 1:2; 1:1",
+    "4:6; 1:2; 1:1",
+    "5:7; 1:1; 1:2",
+    "5:7; 2:1; 1:1"
+   ],
+   "ans": 0,
+   "exp": "Book p83: normal chest symmetrical and elliptical, AP:transverse 5:7; flat chest 1:2 (pulmonary TB, fibrothorax); barrel chest 1:1 (infancy, old age, emphysema, acromegaly). (Book p83)"
+  },
+  {
+   "id": "MED-C14-31",
+   "sec": "Chest Wall Inspection: Volume Loss, Symmetry, Shapes",
+   "page": 83,
+   "fmt": "match",
+   "q": "Match the four chest shape abnormalities on Book p83 to their detail — 1) Flat chest 2) Barrel chest 3) Pectus carinatum 4) Pectus excavatum … A) AP:transverse 1:2 — seen in pulmonary TB, fibrothorax B) 1:1 — infancy, old age, emphysema, acromegaly C) Pigeon chest — associated with rickets; forward protrusion of sternum with depression on either side D) Funnel chest, cobbler's chest — sunken appearance of sternum, most commonly a cup-shaped concavity",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 1,
+   "exp": "Book p83: flat chest 1:2 (pulmonary TB, fibrothorax); barrel chest 1:1 (infancy, old age, emphysema, acromegaly); pectus carinatum (pigeon chest) — associated with rickets, forward protrusion of sternum, depression on either side; pectus excavatum (funnel chest, cobbler's chest) — sunken sternum, cup-shaped concavity. (Book p83)"
+  },
+  {
+   "id": "MED-C14-32",
+   "sec": "Chest Wall Inspection: Volume Loss, Symmetry, Shapes",
+   "page": 84,
+   "fmt": "match",
+   "q": "Match the two rib-margin findings on Book p84 to their detail — 1) Harrison's sulcus 2) Rachitic rosary … A) Chronic respi disease in child; rickets — symmetrical horizontal grooves above the costal margin along the line of diaphragm attachment, d/t lung hyperinflation and repeated strong diaphragmatic contraction B) Bead-like enlargement of the costochondral junction",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Book p84: Harrison's sulcus — chronic respi disease in child; rickets — symmetrical horizontal grooves above the costal margin along the line of attachment of diaphragm, d/t lung hyperinflation and repeated strong diaphragmatic contraction in chronic respiratory disease in childhood. Rachitic rosary — bead-like enlargement of costochondral junction. (Book p84)"
+  },
+  {
+   "id": "MED-C14-33",
+   "sec": "Chest Wall Inspection: Volume Loss, Symmetry, Shapes",
+   "page": 84,
+   "fmt": "fillup",
+   "q": "Harrison's sulcus on Book p84 results from lung hyperinflation and repeated strong diaphragmatic contraction, as in ____.",
+   "opts": [
+    "acute asthma attacks in adults",
+    "COPD in the elderly",
+    "chronic respiratory disease in childhood",
+    "neonatal jaundice"
+   ],
+   "ans": 2,
+   "exp": "Book p84: 'd/t lung hyperinflation and repeated strong diaphragmatic contraction like in chronic respiratory disease in childhood.' (Book p84)"
+  },
+  {
+   "id": "MED-C14-34",
+   "sec": "Back Inspection & Palpation: Movements",
+   "page": 85,
+   "fmt": "recall",
+   "q": "Flail chest on Book p85: secondary to multiple rib fractures, depression of the diaphragm causes the injured area to cave inward, producing ____ in breathing.",
+   "opts": [
+    "hyperdynamic movement",
+    "absent movement",
+    "paradoxical thoracic movement",
+    "synchronous movement"
+   ],
+   "ans": 2,
+   "exp": "Book p85: 'Flail Chest: secondary to multiple rib fractures, depression of diaphragm causes the injured area to cave inward producing a \"paradoxical thoracic movement\" in breathing.' (Book p85)"
+  },
+  {
+   "id": "MED-C14-35",
+   "sec": "Back Inspection & Palpation: Movements",
+   "page": 85,
+   "fmt": "fillup",
+   "q": "Kyphosis is ____ curvature and scoliosis is ____ curvature, per Book p85.",
+   "opts": [
+    "lateral; forward",
+    "forward; anteroposterior",
+    "lateral; rotational",
+    "forward; lateral"
+   ],
+   "ans": 3,
+   "exp": "Book p85: 'Kyphosis — forward curvature; Scoliosis — lateral curvature'. (Book p85)"
+  },
+  {
+   "id": "MED-C14-36",
+   "sec": "Back Inspection & Palpation: Movements",
+   "page": 85,
+   "fmt": "scenario",
+   "q": "In a patient with unilateral lung fibrosis, the convexity of the scoliotic curvature (Book p85) points to:",
+   "opts": [
+    "The opposite side — because the fibrosed lung pulls both ends of the vertebral column towards the fibrosed side",
+    "The fibrosed side",
+    "Always the right side",
+    "Always the left side"
+   ],
+   "ans": 0,
+   "exp": "Book p85: 'In fibrosis, the fibrosed lung pulls both ends of the vertebral column towards the fibrosed side, so the convexity of the curvature is towards the opposite side'. (Book p85)"
+  },
+  {
+   "id": "MED-C14-37",
+   "sec": "Back Inspection & Palpation: Movements",
+   "page": 85,
+   "fmt": "numeric",
+   "q": "Normal chest expansion on Book p85 is 5–8 cm; in emphysema, ILD and ankylosing spondylitis it falls below ____ cm.",
+   "opts": [
+    "2",
+    "3",
+    "1",
+    "0.5"
+   ],
+   "ans": 2,
+   "exp": "Book p85: 'Chest expansion — Normal = 5 to 8 cm. Emphysema, ILD, Ank Spon — <1 cm'. (Book p85)"
+  },
+  {
+   "id": "MED-C14-38",
+   "sec": "Back Inspection & Palpation: Movements",
+   "page": 85,
+   "fmt": "match",
+   "q": "Match the chest-movement examination items on Book p85 to their technique — 1) Apical chest expansion 2) Anterior thoracic movement 3) Posterior thoracic movement — lower lobes 4) Posterior thoracic movement — upper lobes … A) Put hands over the supraclavicular fossae B) Hand placed on side of chest with thumbs in front; separation of thumbs with respiration observed C) Same as anterior D) Place hand over the TRAPS and compare movements",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Book p85: apical — hands over supraclavicular fossae; anterior — hand on side of chest, thumbs in front, separation of thumbs observed; posterior — same as anterior for lower lobes, upper lobes: hand over the TRAPS, compare movements. (Book p85)"
+  },
+  {
+   "id": "MED-C14-39",
+   "sec": "Back Inspection & Palpation: Movements",
+   "page": 85,
+   "fmt": "fillup",
+   "q": "The measurement notes on Book p85: the metal end of the tape is kept in ____ while measuring chest circumference, kept on the ____ while measuring hemithoracic (the fixed point), and the measurement is taken first in full ____.",
+   "opts": [
+    "back; sternum; inspiration",
+    "front; spines; expiration",
+    "front; xiphisternum; inspiration",
+    "back; spine; expiration"
+   ],
+   "ans": 1,
+   "exp": "Book p85 notes: metal end in front for chest circumference; on the spines for hemithoracic (the fixed point); measure in full expiration first. (Book p85)"
+  },
+  {
+   "id": "MED-C14-40",
+   "sec": "Significant URT Findings & Syndromes",
+   "page": 86,
+   "fmt": "match",
+   "q": "Match the five syndromes of significant URT findings on Book p86 to their feature lists — 1) Kartagener's syndrome 2) Wegener's granulomatosis 3) Samter's triad 4) Young's syndrome 5) Churg-Strauss syndrome … A) Recurrent sinusitis with ciliary dyskinesia, bronchiectasis, situs inversus, male infertility B) Necrotizing granuloma C) Aspirin sensitivity, bronchial asthma, ethmoidal polyps D) Sinopulmonary disease, azoospermia E) Asthma/allergic rhinitis, eosinophilia, vasculitis, granuloma",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A, 5-E",
+    "1-A, 2-E, 3-C, 4-D, 5-B",
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C"
+   ],
+   "ans": 2,
+   "exp": "Book p86: Kartagener's — recurrent sinusitis with ciliary dyskinesia, bronchiectasis, situs inversus, male infertility; Wegener's — necrotizing granuloma; Samter's triad — aspirin sensitivity, bronchial asthma, ethmoidal polyps; Young's — sinopulmonary disease, azoospermia; Churg-Strauss — asthma/allergic rhinitis, eosinophilia, vasculitis, granuloma. (Book p86)"
+  },
+  {
+   "id": "MED-C14-41",
+   "sec": "Significant URT Findings & Syndromes",
+   "page": 86,
+   "fmt": "recall",
+   "q": "The first two significant upper respiratory tract findings on Book p86 are:",
+   "opts": [
+    "Deviated nasal septum; post nasal drip",
+    "Rhinitis medicamentosa; nasal obstruction",
+    "Nasal turbinate hypertrophy or polyps causing airway obstruction; sinus tenderness suggestive of sinusitis",
+    "Nasal polyps with anosmia; laryngeal stridor"
+   ],
+   "ans": 2,
+   "exp": "Book p86: 'Significant findings in the upper respiratory tract: nasal turbinate hypertrophy or polyps causing airway obstruction; sinus tenderness suggestive of sinusitis'. (Book p86)"
+  },
+  {
+   "id": "MED-C14-42",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "page": 86,
+   "fmt": "fillup",
+   "q": "In the surface marking of the lung on Book p86, the right side has ____ lobes and the left side ____ lobes.",
+   "opts": [
+    "2; 3",
+    "3; 3",
+    "2; 2",
+    "3; 2"
+   ],
+   "ans": 3,
+   "exp": "Book p86: 'Surface marking of lung — Right side 3 lobes; Left side 2 lobes'. (Book p86)"
+  },
+  {
+   "id": "MED-C14-43",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "page": 86,
+   "fmt": "match",
+   "q": "Match the course of the major interlobar (oblique) fissure on Book p86 to its points — 1) Starting point 2) Along 3) Crossing 4) Reaching … A) The T2/T3 spinous process B) The medial border of scapula C) The 5th rib in the mid axillary line D) The 6th rib in mid clavicular line",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Book p86: the oblique fissure joins 3 bony points — starting from T2/T3 spinous process, curvilinear line along the medial border of scapula, crossing the 5th rib in the mid axillary line, reaching the 6th rib in mid clavicular line; lung below this line is the lower lobe. (Book p86)"
+  },
+  {
+   "id": "MED-C14-44",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "page": 86,
+   "fmt": "fillup",
+   "q": "The right middle lobe is marked by a straight line (minor/horizontal fissure) from the ____ at the right sternal border towards the midaxillary line, cutting the major fissure at the ____; the triangular area represents the RML.",
+   "opts": [
+    "3rd rib; 4th rib",
+    "4th rib; 6th rib",
+    "4th rib; 5th rib",
+    "5th rib; 6th rib"
+   ],
+   "ans": 2,
+   "exp": "Book p86: 'Draw a straight line (minor interlobar fissure/horizontal fissure) from the 4th rib at right sternal border towards the midaxillary line cutting the major interlobar fissure at 5th rib. The triangular area represents RML.' (Book p86)"
+  },
+  {
+   "id": "MED-C14-45",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "page": 87,
+   "fmt": "recall",
+   "q": "The inserted Boloor p.142 reference on Book p87 shows the surface marking of lung fissures and lobes in which views?",
+   "opts": [
+    "Anterior, posterior, right lateral",
+    "Anterior, left lateral, axial",
+    "Posterior, right lateral, left lateral",
+    "Anterior, posterior, left lateral"
+   ],
+   "ans": 0,
+   "exp": "Book p87 (Boloor p.142): Fig 3D.2 anterior view, Fig 3D.3 posterior view, Fig 3D.4 right lateral view of the chest showing the interlobar fissures and lobes. (Book p87)"
+  },
+  {
+   "id": "MED-C14-46",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "page": 88,
+   "fmt": "fillup",
+   "q": "Fig 3D.5 on Book p88 shows the ____ lateral view of the chest, displaying the left major interlobar fissure.",
+   "opts": [
+    "right",
+    "left",
+    "medial",
+    "axillary"
+   ],
+   "ans": 1,
+   "exp": "Book p88: 'Fig. 3D.5: Left lateral view of chest showing left major interlobar fissure.' (Book p88)"
+  },
+  {
+   "id": "MED-C14-47",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "page": 88,
+   "fmt": "numeric",
+   "q": "The lower border of the LUNG on Book p88 is the 6th/8th/10th rib in the midclavicular/midaxillary/scapular lines, while the PLEURA reaches the ____, ____ and ____ ribs in the same lines.",
+   "opts": [
+    "7th; 9th; 11th",
+    "8th; 9th; 12th",
+    "8th; 10th; 12th",
+    "9th; 11th; 12th"
+   ],
+   "ans": 2,
+   "exp": "Book p88 (Boloor p.143, the 6/8/10 vs 8/10/12 rule): Lung — 6th (midclavicular), 8th (midaxillary), 10th (scapular); Pleura — 8th, 10th, 12th. (Book p88)"
+  },
+  {
+   "id": "MED-C14-48",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "page": 88,
+   "fmt": "match",
+   "q": "Match the three examination positions on Book p88 to what is predominantly assessed — 1) Front examination 2) Back examination 3) Axillary examination … A) Upper and middle lobes B) Lower lobe pathology C) All three lobes",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Book p88 table: front examination — predominantly upper and middle lobe; back examination — predominantly lower lobe pathology; axillary examination — all three lobes can be assessed. (Book p88)"
+  },
+  {
+   "id": "MED-C14-49",
+   "sec": "Tracheal Position: Pushed/Pulled, CricoSternal Distance",
+   "page": 89,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements correctly reflects the tracheal position rules on Book p89?",
+   "opts": [
+    "False: slight tracheal deviation to the right is normal",
+    "True: slight tracheal deviation to the right is normal",
+    "True: an apical tumour pulls the trachea to the same side",
+    "False: in effusion, a shift to the same side suggests co-existent fibrosis/collapse or mesothelioma"
+   ],
+   "ans": 1,
+   "exp": "Book p89: slight tracheal deviation to the right is normal; pushed to the opposite side — pleural effusion, pneumothorax, apical tumour; pulled to the same side — fibrosis, collapse; shifted to the same side in effusion — co-existent fibrosis/collapse, mesothelioma. (Book p89)"
+  },
+  {
+   "id": "MED-C14-50",
+   "sec": "Tracheal Position: Pushed/Pulled, CricoSternal Distance",
+   "page": 89,
+   "fmt": "match",
+   "q": "Match the three tracheal deviation categories on Book p89 to their causes — 1) Pushed to the opposite side 2) Pulled to the same side 3) Shifted to the same side in effusion … A) Pleural effusion, pneumothorax, apical tumour B) Fibrosis, collapse C) Co-existent fibrosis/collapse, mesothelioma",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Book p89: pushed to the opposite side — pleural effusion, pneumothorax, apical tumour; pulled to the same side — fibrosis, collapse; shifted to the same side in effusion — co-existent fibrosis/collapse, mesothelioma. (Book p89)"
+  },
+  {
+   "id": "MED-C14-51",
+   "sec": "Tracheal Position: Pushed/Pulled, CricoSternal Distance",
+   "page": 89,
+   "fmt": "fillup",
+   "q": "The crico-sternal distance on Book p89 is measured as the number of ____ that can be insinuated; it is reduced in COPD because the mediastinum is pulled down, pulling the ____ downward.",
+   "opts": [
+    "toes; thyroid",
+    "fingertips; larynx",
+    "fingers; cricoid",
+    "fingers; thyroid"
+   ],
+   "ans": 2,
+   "exp": "Book p89: 'CricoSternal distance: Measured as number of fingers that can be insinuated. Reduced in COPD bc the mediastinum is pulled down pulling the cricoid also downward.' (Book p89)"
+  },
+  {
+   "id": "MED-C14-52",
+   "sec": "Inspiratory Tracheal Descent & Tracheal Tug (p90)",
+   "page": 90,
+   "fmt": "fillup",
+   "q": "Inspiratory tracheal descent in COPD on Book p90 is called ____'s sign.",
+   "opts": [
+    "Oliver's",
+    "Trail's",
+    "Dahl's",
+    "Campbell's"
+   ],
+   "ans": 3,
+   "exp": "Book p90: 'Inspiratory tracheal descent — COPD — Campbell's sign'. (Book p90)"
+  },
+  {
+   "id": "MED-C14-53",
+   "sec": "Inspiratory Tracheal Descent & Tracheal Tug (p90)",
+   "page": 90,
+   "fmt": "match",
+   "q": "Match the five entries of Oliver's sign on Book p90 to their detail — 1) Technique a 2) Technique b 3) Positive 4) False positive 5) False negative … A) Patient's chin is raised B) Cricoid cartilage held up on deglutition on either side with fingers of both hands C) Downward tug felt — aortic arch aneurysm D) Mediastinal tumour attached to the arch E) Non pulsatile thrombosed aortic aneurysm",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-B, 2-A, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C",
+    "1-A, 2-C, 3-B, 4-D, 5-E"
+   ],
+   "ans": 0,
+   "exp": "Book p90 Oliver's sign: patient's chin is raised; cricoid cartilage held up on deglutition on either side with fingers of both hands; positive — downward tug felt — aortic arch aneurysm; false positive — mediastinal tumour attached to the arch; false negative — non pulsatile thrombosed aortic aneurysm. (Book p90)"
+  },
+  {
+   "id": "MED-C14-54",
+   "sec": "Trachea: Normal Position & Trail's Sign (p91)",
+   "page": 91,
+   "fmt": "recall",
+   "q": "Per Book p91, the trachea is normally:",
+   "opts": [
+    "always central",
+    "central or slightly deviated to the left",
+    "slightly deviated to the right on expiration",
+    "central or slightly deviated to right"
+   ],
+   "ans": 3,
+   "exp": "Book p91: 'Trachea: Normally central or slightly deviated to right.' (Book p91)"
+  },
+  {
+   "id": "MED-C14-55",
+   "sec": "Trachea: Normal Position & Trail's Sign (p91)",
+   "page": 91,
+   "fmt": "fillup",
+   "q": "In the Trail's sign mechanism on Book p91, the investing layer of cervical fascia splits to enclose the sternocleidomastoid and continues as the pretracheal fascia; on tracheal shift, the fascia over the ipsilateral SCM ____, the SCM goes into a state of ____, and the clavicular head becomes prominent.",
+   "opts": [
+    "tightens; relaxation",
+    "tears; contraction",
+    "relaxes; contraction",
+    "relaxes; relaxation"
+   ],
+   "ans": 2,
+   "exp": "Book p91: 'When there is tracheal shift to one side, the fascia covering the ipsilateral sternocleidomastoid relaxes. The sternocleidomastoid goes into a state of contraction making the clavicular head prominent.' (Book p91)"
+  },
+  {
+   "id": "MED-C14-56",
+   "sec": "Trachea: Normal Position & Trail's Sign (p91)",
+   "page": 91,
+   "fmt": "recall",
+   "q": "The clinical implication of tracheal shift on Book p91: it suggests a ____ shift and indicates ____.",
+   "opts": [
+    "upper mediastinal; upper lobe fibrosis or collapse",
+    "lower mediastinal; lower lobe fibrosis or collapse",
+    "upper mediastinal; apical tumour",
+    "lower mediastinal; pneumonia"
+   ],
+   "ans": 0,
+   "exp": "Book p91: 'Clinical implication of tracheal shift: It suggests upper mediastinal shift. Indicates upper lobe fibrosis or collapse.' (Book p91)"
+  },
+  {
+   "id": "MED-C14-57",
+   "sec": "Tracheal Palpation: Oliver's & Campbell's (p92)",
+   "page": 92,
+   "fmt": "fillup",
+   "q": "The Oliver's sign technique on Book p92: stand ____ the patient, hold the cricoid cartilage and give a slight ____ thrust.",
+   "opts": [
+    "in front of; downward",
+    "behind; upward",
+    "behind; downward",
+    "in front of; upward"
+   ],
+   "ans": 1,
+   "exp": "Book p92: 'Stand behind patient and hold cricoid cartilage give a slight upward thrust.' (Book p92)"
+  },
+  {
+   "id": "MED-C14-58",
+   "sec": "Tracheal Palpation: Oliver's & Campbell's (p92)",
+   "page": 92,
+   "fmt": "match",
+   "q": "Match the four entries of Oliver's sign on Book p92 to their detail — 1) Positive test 2) Negative test 3) False positive 4) False negative … A) Downward pull with each heart beat suggestive of aortic aneurysm B) Normal C) Mediastinal tumor attached to abdominal aorta D) Thrombosed aortic aneurysm",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Book p92 Oliver's sign: positive — downward pull with each heart beat suggestive of aortic aneurysm; negative — normal; false positive — mediastinal tumor attached to abdominal aorta; false negative — thrombosed aortic aneurysm. (Book p92)"
+  },
+  {
+   "id": "MED-C14-59",
+   "sec": "Tracheal Palpation: Oliver's & Campbell's (p92)",
+   "page": 92,
+   "fmt": "scenario",
+   "q": "Comparing the two Oliver's sign pages: the false positive on Book p90 is a mediastinal tumour attached to the ____, while on Book p92 it is attached to the ____.",
+   "opts": [
+    "abdominal aorta; arch",
+    "thoracic aorta; abdominal aorta",
+    "arch; thoracic aorta",
+    "arch; abdominal aorta"
+   ],
+   "ans": 3,
+   "exp": "Book p90: 'False positive — mediastinal tumour attached to the arch'; Book p92: 'False positive — mediastinal tumor attached to abdominal aorta'. (Book p92)"
+  },
+  {
+   "id": "MED-C14-60",
+   "sec": "Tracheal Palpation: Oliver's & Campbell's (p92)",
+   "page": 92,
+   "fmt": "fillup",
+   "q": "Tracheal descent on inspiration (Campbell sign) on Book p92 is due to the downward pull of the depressed diaphragm in long standing ____ of lung.",
+   "opts": [
+    "fibrosis",
+    "hyperinflation",
+    "consolidation",
+    "hyperplasia"
+   ],
+   "ans": 1,
+   "exp": "Book p92: 'Tracheal descent on inspiration (Campbell sign): Due to downward pull of the depressed diaphragm in long standing hyperinflation of lung.' (Book p92)"
+  },
+  {
+   "id": "MED-C14-61",
+   "sec": "Tracheal Palpation: Oliver's & Campbell's (p92)",
+   "page": 92,
+   "fmt": "recall",
+   "q": "Figs 3D.14 and 3D.15 on Book p92 show:",
+   "opts": [
+    "Oliver's sign from behind; tracheal tug from the front",
+    "Chest expansion measurement; apical impulse palpation",
+    "Clavicular head prominence; tracheal shift to the left",
+    "Tracing the trachea down with the middle finger; insinuating the middle finger between the trachea and sternal head of sternocleidomastoid and feeling for resistance"
+   ],
+   "ans": 3,
+   "exp": "Book p92: Fig 3D.14 — tracing the trachea down with the middle finger; Fig 3D.15 — insinuate the middle finger between the trachea and sternal head of sternocleidomastoid, and feel for resistance. (Book p92)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U14-1",
+   "ch": 14,
+   "n": 1,
+   "title": "Chest Pain: Origins & Character Table (Book p80)",
+   "sec": "Chest Pain: Origins & Character Table",
+   "guide": "Origins: parietal pleura, chest wall, mediastinal structures — NOT lung (autonomic innervation only).\nTable: parietal pleura sharp/stabbing with inspiration (upper 6 ribs localised, lower ribs -> upper abdomen, diaphragmatic -> shoulder tip/neck); chest wall dull/aching, progressive, hinders sleep; mediastinal central/retrosternal.",
+   "qs": [
+    "MED-C14-01",
+    "MED-C14-02",
+    "MED-C14-03"
+   ]
+  },
+  {
+   "id": "MED-U14-2",
+   "ch": 14,
+   "n": 2,
+   "title": "Specific History Points in Suspected TB (Book p80)",
+   "sec": "Specific TB History Points",
+   "guide": "Occupation of husband — high risk group for HIV; evening rise of temperature — due to TNFa;\ncontact history of tuberculosis.",
+   "qs": [
+    "MED-C14-04"
+   ]
+  },
+  {
+   "id": "MED-U14-3",
+   "ch": 14,
+   "n": 3,
+   "title": "Examination: Pulse, Pallor, Cyanosis, Clubbing (Book p81)",
+   "sec": "Examination: Pulse, Pallor, Cyanosis, Clubbing",
+   "guide": "Pulsus paradoxus >10 mmHg is significant, reduces on treatment. Pallor — recurrent haemoptysis, bronchial ca, TB. Cyanosis — SpO2 <85%.\nClubbing in TB: post-TB bronchiectasis, scar carcinoma (adenocarcinoma), empyema, endobronchial TB.",
+   "qs": [
+    "MED-C14-05",
+    "MED-C14-06",
+    "MED-C14-07",
+    "MED-C14-08"
+   ]
+  },
+  {
+   "id": "MED-U14-4",
+   "ch": 14,
+   "n": 4,
+   "title": "Lymphadenopathy: Epitrochlear & Scalene Nodes (Book p81)",
+   "sec": "Lymphadenopathy: Epitrochlear & Scalene",
+   "guide": "Epitrochlear nodes are always pathologic — NHL, secondary syphilis, sarcoidosis, forearm/hand infections, tularaemia (rare), but not in TB (Dr. Hamide).\nScalene node: index finger between SCM and clavicle; head tilted to the same side; press firmly down towards the first rib.",
+   "qs": [
+    "MED-C14-09",
+    "MED-C14-10",
+    "MED-C14-11"
+   ]
+  },
+  {
+   "id": "MED-U14-5",
+   "ch": 14,
+   "n": 5,
+   "title": "Generalised & Mediastinal Lymphadenopathy; RS Oedema (Book p82)",
+   "sec": "Lymphadenopathy: Generalised & Mediastinal; Oedema",
+   "guide": "Generalised — HIV, IM, sarcoidosis. Mediastinal — dull percussion on manubrium sterni, bronchial breathing below T4 spine (d'Espine sign) from subcarinal nodes.\nRS oedema: cor pulmonale; protein loss in sputum (esp bronchiectasis); amyloidosis of long standing bronchiectasis.",
+   "qs": [
+    "MED-C14-12",
+    "MED-C14-13",
+    "MED-C14-14"
+   ]
+  },
+  {
+   "id": "MED-U14-6",
+   "ch": 14,
+   "n": 6,
+   "title": "Respiration: Rate, Distress Signs & Muscles (Book p82)",
+   "sec": "Respiration: Rate, Distress & Muscles",
+   "guide": "Normal rate 12-18/min; women thoraco-abdominal, men abdomino thoracic. Distress: alar nasii, pursed lip (PEEP), tracheal indrawing, accessory muscles, intercostal retraction.\nMuscles (I always with E): inspiration — external intercostals/diaphragm + SCM, scalenes, pectoralis minor, trapezius; expiration quiet passive, active — internal intercostals, abdominal, quadratus lumborum.",
+   "qs": [
+    "MED-C14-15",
+    "MED-C14-16",
+    "MED-C14-17",
+    "MED-C14-18"
+   ]
+  },
+  {
+   "id": "MED-U14-7",
+   "ch": 14,
+   "n": 7,
+   "title": "External Markers of Tuberculosis (Book p82)",
+   "sec": "External Markers of Tuberculosis",
+   "guide": "Phlycten, choroid tubercles, scars/sinuses, scrofula; skin — lupus vulgaris (apple-jelly), erythema nodosum, verrucous cutis, scrofuloderma;\ncold abscess/collar stud abscess; epididymo-orchitis.",
+   "qs": [
+    "MED-C14-19",
+    "MED-C14-20",
+    "MED-C14-21"
+   ]
+  },
+  {
+   "id": "MED-U14-8",
+   "ch": 14,
+   "n": 8,
+   "title": "Other Things in General Examination (Book p82)",
+   "sec": "Other in General Examination",
+   "guide": "Horner's syndrome in lung malignancies.\nSigns of neurovascular compression: wasting of small muscles of hands.",
+   "qs": [
+    "MED-C14-22"
+   ]
+  },
+  {
+   "id": "MED-U14-9",
+   "ch": 14,
+   "n": 9,
+   "title": "Dahl's Sign (Book p83)",
+   "sec": "Dahl's Sign",
+   "guide": "Also Thinker's sign or Target sign: darkened/thickened skin on lower thighs and elbows.\nMechanism: air trapping flattens the diaphragm; sitting forwards improves it; hemosiderin from trapped RBCs -> brown discolouration.",
+   "qs": [
+    "MED-C14-23",
+    "MED-C14-24",
+    "MED-C14-25"
+   ]
+  },
+  {
+   "id": "MED-U14-10",
+   "ch": 14,
+   "n": 10,
+   "title": "Inspection of the Upper Respiratory Tract (Book p83)",
+   "sec": "Inspection: Upper Respiratory Tract",
+   "guide": "Oral cavity — thrush, tonsils, halitosis -> lung abscess; nose — DNS, polyps;\npharynx — post nasal drip can cause respiratory symptoms and breathing difficulty.",
+   "qs": [
+    "MED-C14-26"
+   ]
+  },
+  {
+   "id": "MED-U14-11",
+   "ch": 14,
+   "n": 11,
+   "title": "Tracheal Position & Trail's Sign (Book p83)",
+   "sec": "Tracheal Position & Trail's Sign",
+   "guide": "Tracheal position affected mainly by the upper lobes; if no deviation — 'trachea appears central'.\nTrail's sign: pretracheal fascia relaxes on the shifted side -> undue prominence of the clavicular head of SCM.",
+   "qs": [
+    "MED-C14-27",
+    "MED-C14-28"
+   ]
+  },
+  {
+   "id": "MED-U14-12",
+   "ch": 14,
+   "n": 12,
+   "title": "Chest Wall Inspection: Volume Loss, Symmetry & Shapes (Book p83-84)",
+   "sec": "Chest Wall Inspection: Volume Loss, Symmetry, Shapes",
+   "guide": "Volume loss: shoulder droop, medial scapular border prominence (not winging), crowding of ribs. Ratios: normal 5:7, flat 1:2 (TB, fibrothorax), barrel 1:1.\nPectus carinatum (rickets) vs excavatum (funnel/cobbler's); Harrison's sulcus (chronic childhood respi disease, rickets); rachitic rosary.",
+   "qs": [
+    "MED-C14-29",
+    "MED-C14-30",
+    "MED-C14-31",
+    "MED-C14-32",
+    "MED-C14-33"
+   ]
+  },
+  {
+   "id": "MED-U14-13",
+   "ch": 14,
+   "n": 13,
+   "title": "Back Inspection & Palpation: Movements (Book p85)",
+   "sec": "Back Inspection & Palpation: Movements",
+   "guide": "Flail chest — paradoxical thoracic movement. Kyphosis (forward), scoliosis (lateral; convexity opposite the fibrosed lung).\nExpansion: normal 5-8 cm; emphysema/ILD/ankylosing spondylitis <1 cm; apical (supraclavicular fossae), anterior (thumbs in front), posterior (TRAPS for upper lobes); metal end in front / on spines; full expiration first.",
+   "qs": [
+    "MED-C14-34",
+    "MED-C14-35",
+    "MED-C14-36",
+    "MED-C14-37",
+    "MED-C14-38",
+    "MED-C14-39"
+   ]
+  },
+  {
+   "id": "MED-U14-14",
+   "ch": 14,
+   "n": 14,
+   "title": "Significant URT Findings & Syndromes (Book p86)",
+   "sec": "Significant URT Findings & Syndromes",
+   "guide": "Turbinate hypertrophy/polyps; sinus tenderness = sinusitis. Kartagener's (situs inversus), Wegener's (necrotizing granuloma),\nSamter's triad (aspirin-asthma-ethmoidal polyps), Young's (sinopulmonary + azoospermia), Churg-Strauss (asthma, eosinophilia, vasculitis, granuloma).",
+   "qs": [
+    "MED-C14-40",
+    "MED-C14-41"
+   ]
+  },
+  {
+   "id": "MED-U14-15",
+   "ch": 14,
+   "n": 15,
+   "title": "Surface Marking of Lungs & Lower Borders (Book p86-88)",
+   "sec": "Surface Marking of Lungs & Lower Borders",
+   "guide": "Right 3 lobes, left 2. Oblique fissure: T2/T3 spinous process -> medial scapular border -> 5th rib MAL -> 6th rib MCL; RML by the horizontal fissure (4th rib sternal border, cuts at 5th rib).\nBoloor p142/143 views; lower border LUNG 6/8/10 vs PLEURA 8/10/12; front (upper/middle lobes), back (lower lobe), axillary (all three).",
+   "qs": [
+    "MED-C14-42",
+    "MED-C14-43",
+    "MED-C14-44",
+    "MED-C14-45",
+    "MED-C14-46",
+    "MED-C14-47",
+    "MED-C14-48"
+   ]
+  },
+  {
+   "id": "MED-U14-16",
+   "ch": 14,
+   "n": 16,
+   "title": "Tracheal Position: Pushed/Pulled & CricoSternal Distance (Book p89)",
+   "sec": "Tracheal Position: Pushed/Pulled, CricoSternal Distance",
+   "guide": "Slight right deviation normal; pushed opposite — effusion, pneumothorax, apical tumour; pulled same — fibrosis, collapse; same-side in effusion — fibrosis/collapse, mesothelioma.\nCricoSternal distance: number of fingers insinuated; reduced in COPD (mediastinum pulls the cricoid down).",
+   "qs": [
+    "MED-C14-49",
+    "MED-C14-50",
+    "MED-C14-51"
+   ]
+  },
+  {
+   "id": "MED-U14-17",
+   "ch": 14,
+   "n": 17,
+   "title": "Inspiratory Tracheal Descent & Tracheal Tug (Book p90)",
+   "sec": "Inspiratory Tracheal Descent & Tracheal Tug (p90)",
+   "guide": "Inspiratory tracheal descent — COPD — Campbell's sign.\nOliver's sign: chin raised, cricoid held up on deglutition; positive — downward tug (aortic arch aneurysm); false positive — tumour attached to the arch; false negative — non pulsatile thrombosed aneurysm.",
+   "qs": [
+    "MED-C14-52",
+    "MED-C14-53"
+   ]
+  },
+  {
+   "id": "MED-U14-18",
+   "ch": 14,
+   "n": 18,
+   "title": "Trachea: Normal Position & Trail's Sign (Book p91)",
+   "sec": "Trachea: Normal Position & Trail's Sign (p91)",
+   "guide": "Normally central or slightly deviated to right. Trail's sign — ipsilateral fascia relaxes, SCM contracts -> prominent clavicular head.\nImplication of tracheal shift: upper mediastinal shift; indicates upper lobe fibrosis or collapse.",
+   "qs": [
+    "MED-C14-54",
+    "MED-C14-55",
+    "MED-C14-56"
+   ]
+  },
+  {
+   "id": "MED-U14-19",
+   "ch": 14,
+   "n": 19,
+   "title": "Tracheal Palpation: Oliver's & Campbell's Sign (Book p92)",
+   "sec": "Tracheal Palpation: Oliver's & Campbell's (p92)",
+   "guide": "Oliver's sign: stand behind, hold cricoid, slight upward thrust; positive — downward pull with each heart beat (aortic aneurysm); false positive — tumour attached to abdominal aorta; false negative — thrombosed aneurysm.\nCampbell sign: downward pull of the depressed diaphragm in long standing hyperinflation. Figs 3D.14/15 — tracing the trachea, feeling for resistance.",
+   "qs": [
+    "MED-C14-57",
+    "MED-C14-58",
+    "MED-C14-59",
+    "MED-C14-60",
+    "MED-C14-61"
+   ]
+  }
+ ]
+}

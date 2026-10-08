@@ -1,0 +1,357 @@
+{
+ "chapter": 10,
+ "title": "Congenital Heart Disease",
+ "pageRange": "64",
+ "questions": [
+  {
+   "id": "MED-C10-01",
+   "sec": "AR Signs i-l (top of Book p64)",
+   "page": 64,
+   "fmt": "scenario",
+   "q": "A patient's aortic regurgitation murmur is best heard over the right sternal border rather than at Erb's point. According to Book p64, what does that suggest?",
+   "opts": [
+    "An accompanying aortic stenosis",
+    "A bicuspid aortic valve",
+    "That the regurgitation is due to aneurysmal dilation",
+    "Severe left ventricular dilation"
+   ],
+   "ans": 2,
+   "exp": "Book p64 sign i: 'When the murmur is best heard over the right sternal border, it suggests that the regurgitation is due to aneurysmal dilation.' (Book p64)"
+  },
+  {
+   "id": "MED-C10-02",
+   "sec": "AR Signs i-l (top of Book p64)",
+   "page": 64,
+   "fmt": "recall",
+   "q": "Per Book p64, which additional systolic finding can be present with aortic regurgitation?",
+   "opts": [
+    "A mid systolic ejection murmur best heard in the aortic area and transmitted to the carotids",
+    "A pansystolic murmur at the apex radiating to the axilla",
+    "A mid diastolic rumble at the apex with an opening snap",
+    "A continuous machinery murmur below the left clavicle"
+   ],
+   "ans": 0,
+   "exp": "Book p64 sign j: 'A mid systolic ejection murmur can also be heard best in the aortic area and transmitted to the carotids'. (Book p64)"
+  },
+  {
+   "id": "MED-C10-03",
+   "sec": "AR Signs i-l (top of Book p64)",
+   "page": 64,
+   "fmt": "fillup",
+   "q": "Book p64 names two eponymous murmurs as signs k and l of aortic regurgitation, without elaborating them: the ____ murmur and the ____ murmur.",
+   "opts": [
+    "Austin Flint; Cole Cecil",
+    "Graham Steell; Carey Coombs",
+    "Traube; Duroziez",
+    "Duroziez; Müller"
+   ],
+   "ans": 0,
+   "exp": "Book p64 signs k–l: 'k. Austin Flint murmur-  l. Cole Cecil murmur-' — the note lists the eponyms only, with nothing after the dashes. (Book p64)"
+  },
+  {
+   "id": "MED-C10-04",
+   "sec": "AR Investigations (p64)",
+   "page": 64,
+   "fmt": "fillup",
+   "q": "In the AR investigation list on Book p64, the only sub-item elaborated is under Doppler Echo: color doppler is the ____ for ____.",
+   "opts": [
+    "most sensitive; mild cases",
+    "most specific; severe cases",
+    "gold standard; prosthetic valves",
+    "most specific; mild cases"
+   ],
+   "ans": 0,
+   "exp": "Book p64 investigations: b. Doppler Echo — i. 'color doppler : most sensitive for mild cases'. (Book p64)"
+  },
+  {
+   "id": "MED-C10-05",
+   "sec": "AR Investigations (p64)",
+   "page": 64,
+   "fmt": "match",
+   "q": "Match the three CXR findings of AR on Book p64 to their sign — 1) Cardiomegaly 2) Aortic root dilation 3) Aortic valve calcification … A) Cor bovinum / bovine heart B) Prominent aortic knuckle C) Sus for concomitant AS",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p64 CXR findings: i. cardiomegaly -> cor bovinum / bovine heart; ii. aortic root dilation -> prominent aortic knuckle; iii. Aortic valve calcification -> sus for concomitant AS. (Book p64)"
+  },
+  {
+   "id": "MED-C10-06",
+   "sec": "AR Investigations (p64)",
+   "page": 64,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed investigations for AR on Book p64 EXCEPT:",
+   "opts": [
+    "ECG — LVH",
+    "Chest X ray",
+    "Color doppler for mild cases",
+    "24-hour ambulatory blood pressure monitoring"
+   ],
+   "ans": 3,
+   "exp": "Book p64 AR investigations: a. ECG — LVH; b. Doppler Echo (color doppler most sensitive for mild cases); c. CXR (three findings); d. Cardiac cath. Holter/ambulatory BP monitoring is not listed. (Book p64)"
+  },
+  {
+   "id": "MED-C10-07",
+   "sec": "AR Management (p64)",
+   "page": 64,
+   "fmt": "match",
+   "q": "Match the AR management entries on Book p64 to their detail — 1) Baseline medical 2) Chronic + significant volume overload 3) Surgical treatment 4) Ideal time for surgery … A) As in MS (IE or syphilitic aortitis needs Rx) B) Requires a vasodilator (hydralazine, nifedipine, or ACE inhibitor) C) AVR D) After haemodynamic / echogenic evidence of LVdys but before significant symptoms",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Book p64 AR management: a. as in MS (IE or syphilitic aortitis needs Rx); b. chronic + significant vol overload: requires vasodilator (hydralazine, nifedipine, or ACE inh); c. Sx: AVR; ideal time: after haemodynamic / echogenic evidence of LVdys but before significant symptoms. (Book p64)"
+  },
+  {
+   "id": "MED-C10-08",
+   "sec": "AR Management (p64)",
+   "page": 64,
+   "fmt": "scenario",
+   "q": "A patient with chronic aortic regurgitation is found to have active infective endocarditis. What does the Book p64 AR management line ('as in MS …') say must happen here?",
+   "opts": [
+    "The MS-style medical regimen proceeds, but IE or syphilitic aortitis needs Rx",
+    "Vasodilators are withheld until the endocarditis is cured",
+    "Immediate AVR regardless of haemodynamic status",
+    "No medical therapy — surgical AVR alone"
+   ],
+   "ans": 0,
+   "exp": "Book p64 management a: 'as in MS ( IE or syphilitic aortitis needs Rx )' — the parenthetical singles out IE and syphilitic aortitis as conditions that require treatment. (Book p64)"
+  },
+  {
+   "id": "MED-C10-09",
+   "sec": "AR Management (p64)",
+   "page": 64,
+   "fmt": "fillup",
+   "q": "For chronic AR with significant volume overload, Book p64 requires a vasodilator — listing ____, ____, or ____.",
+   "opts": [
+    "digoxin; furosemide; spironolactone",
+    "nifedipine; carvedilol; warfarin",
+    "hydralazine; nifedipine; ACE inhibitor",
+    "hydralazine; isosorbide dinitrate; spironolactone"
+   ],
+   "ans": 2,
+   "exp": "Book p64 management b: 'chronic + significant vol overload : requires vasodilator ( hydralazine , nifedipine , or ACE inh )'. (Book p64)"
+  },
+  {
+   "id": "MED-C10-10",
+   "sec": "Congenital HD — ASD: Types",
+   "page": 64,
+   "fmt": "numeric",
+   "q": "In the ASD types on Book p64, ostium secundum ASD accounts for ____% and ostium primum ASD for ____%.",
+   "opts": [
+    "90; 5",
+    "80; 10",
+    "70; 15",
+    "95; 2"
+   ],
+   "ans": 0,
+   "exp": "Book p64 ASD types: a. Ostium secundum ASD — 90%; b. Ostium primum ASD 5%. (Book p64)"
+  },
+  {
+   "id": "MED-C10-11",
+   "sec": "Congenital HD — ASD: Types",
+   "page": 64,
+   "fmt": "recall",
+   "q": "Ostium primum ASD on Book p64 is commonly associated with:",
+   "opts": [
+    "Marfan syndrome or a bicuspid aortic valve",
+    "Down syndrome or endocardial cushion defects",
+    "Turner syndrome or coarctation of the aorta",
+    "Klinefelter syndrome or mitral valve prolapse"
+   ],
+   "ans": 1,
+   "exp": "Book p64: 'Ostium primum ASD 5% — commonly associated with Down syndrome or endocardial cushion defects'. (Book p64)"
+  },
+  {
+   "id": "MED-C10-12",
+   "sec": "Congenital HD — ASD: Syndromic Associations",
+   "page": 64,
+   "fmt": "match",
+   "q": "Match the five syndromic ASD associations on Book p64 to their listed detail — 1) Holt-Oram syndrome 2) Patau syndrome 3) Edward syndrome 4) Ellis van Creveld syndrome 5) Lutembacher syndrome … A) Triphalangeal (fingerised) thumb, sometimes abrachia or phocomelia B) Trisomy 13 C) Trisomy 18 D) Polydactyly, nail dysplasia, dwarfism E) MS + ASD",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-D, 2-B, 3-C, 4-A, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C"
+   ],
+   "ans": 0,
+   "exp": "Book p64 syndromic associations: a. Holt-Oram (triphalangeal fingerised thumb, sometimes abrachia or phocomelia); b. Patau (trisomy 13); c. Edward (trisomy 18); d. Ellis van Creveld (polydactyly, nail dysplasia, dwarfism); e. Lutembacher — MS + ASD. (Book p64)"
+  },
+  {
+   "id": "MED-C10-13",
+   "sec": "Congenital HD — ASD: Syndromic Associations",
+   "page": 64,
+   "fmt": "match",
+   "q": "Match the three Patau syndrome entries on Book p64 to their detail — 1) Chromosomal basis 2) Phenotype 3) Cardiac lesions … A) Trisomy 13 B) Polydactyly, flexion deformity of fingers, simian crease, cleft lip and palate, microcephaly C) ASD, VSD, PDA",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p64 Patau syndrome: i. Trisomy 13; ii. Polydactyly, flexion deformity of fingers, simian crease, cleft lip and palate, microcephaly; iii. ASD, VSD, PDA. (Book p64)"
+  },
+  {
+   "id": "MED-C10-14",
+   "sec": "Congenital HD — ASD: Syndromic Associations",
+   "page": 64,
+   "fmt": "match",
+   "q": "Match the three Edward syndrome entries on Book p64 to their detail — 1) Chromosomal basis 2) Phenotype 3) Cardiac lesions … A) Trisomy 18 B) Prominent occiput, low set malformed ears, rocker bottom feet, micrognathia, clenched fists C) ASD, VSD, PDA",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Book p64 Edward syndrome: i. Trisomy 18; ii. Prominent occiput, low set malformed ears, rocker bottom feet, micrognathia, clenched fists; iii. ASD, VSD, PDA. (Book p64)"
+  },
+  {
+   "id": "MED-C10-15",
+   "sec": "Congenital HD — ASD: Syndromic Associations",
+   "page": 64,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed features of Edward syndrome on Book p64 EXCEPT:",
+   "opts": [
+    "Rocker bottom feet",
+    "Polydactyly",
+    "Clenched fists",
+    "Low set malformed ears"
+   ],
+   "ans": 1,
+   "exp": "Edward syndrome (Book p64): prominent occiput, low set malformed ears, rocker bottom feet, micrognathia, clenched fists. Polydactyly belongs to Patau syndrome (and Ellis van Creveld), not Edward. (Book p64)"
+  },
+  {
+   "id": "MED-C10-16",
+   "sec": "Congenital HD — ASD: Syndromic Associations",
+   "page": 64,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed under the syndromic associations of ASD on Book p64 EXCEPT:",
+   "opts": [
+    "Holt-Oram syndrome",
+    "Patau syndrome",
+    "Williams syndrome",
+    "Ellis van Creveld syndrome"
+   ],
+   "ans": 2,
+   "exp": "The five listed syndromic associations (Book p64) are Holt-Oram, Patau, Edward, Ellis van Creveld and Lutembacher (MS + ASD). Williams syndrome is not listed here — the elfin-facies/hypercalcaemia phenotype appears on p61 beside supravalvular AS. (Book p64)"
+  },
+  {
+   "id": "MED-C10-17",
+   "sec": "Congenital HD — ASD: Syndromic Associations",
+   "page": 64,
+   "fmt": "fillup",
+   "q": "The skeletal entry of Holt-Oram syndrome on Book p64: a triphalangeal (fingerised) thumb, sometimes ____ or ____.",
+   "opts": [
+    "abrachia; phocomelia",
+    "arachnodactyly; pectus excavatum",
+    "polydactyly; clinodactyly",
+    "scoliosis; kyphosis"
+   ],
+   "ans": 0,
+   "exp": "Book p64 Holt-Oram syndrome: 'Triphalangeal (fingerised) thumb, sometimes abrachia or phocomelia'. (Book p64)"
+  },
+  {
+   "id": "MED-C10-18",
+   "sec": "Congenital HD — ASD: Atrial Fibrillation",
+   "page": 64,
+   "fmt": "recall",
+   "q": "The third and final point under ASD on Book p64 states:",
+   "opts": [
+    "Atrial fibrillation is common in ASD",
+    "Complete heart block is common in ASD",
+    "Supraventricular tachycardia is common in ASD",
+    "Ventricular ectopy is common in ASD"
+   ],
+   "ans": 0,
+   "exp": "Book p64, ASD point 3: 'Atrial fibrillation is common in ASD'. (Book p64)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U10-1",
+   "ch": 10,
+   "n": 1,
+   "title": "AR Signs i–l — tail of the AR note (top of Book p64)",
+   "sec": "AR Signs i-l (top of Book p64)",
+   "guide": "Right sternal border murmur -> aneurysmal dilation; a mid systolic ejection murmur can also be best in the aortic area, transmitted to the carotids.\nTwo eponymous murmurs are named without elaboration: Austin Flint and Cole Cecil.",
+   "qs": [
+    "MED-C10-01",
+    "MED-C10-02",
+    "MED-C10-03"
+   ]
+  },
+  {
+   "id": "MED-U10-2",
+   "ch": 10,
+   "n": 2,
+   "title": "AR Investigations (Book p64)",
+   "sec": "AR Investigations (p64)",
+   "guide": "ECG — LVH; Doppler Echo (color doppler: most sensitive for mild cases); cardiac cath.\nCXR: cardiomegaly (cor bovinum / bovine heart), aortic root dilation (prominent aortic knuckle), aortic valve calcification (sus for concomitant AS).",
+   "qs": [
+    "MED-C10-04",
+    "MED-C10-05",
+    "MED-C10-06"
+   ]
+  },
+  {
+   "id": "MED-U10-3",
+   "ch": 10,
+   "n": 3,
+   "title": "AR Management (Book p64)",
+   "sec": "AR Management (p64)",
+   "guide": "As in MS (IE or syphilitic aortitis needs Rx); chronic + significant volume overload requires a vasodilator (hydralazine, nifedipine, or ACE inhibitor).\nSurgery: AVR — ideal time after haemodynamic/echogenic evidence of LVdys but before significant symptoms.",
+   "qs": [
+    "MED-C10-07",
+    "MED-C10-08",
+    "MED-C10-09"
+   ]
+  },
+  {
+   "id": "MED-U10-4",
+   "ch": 10,
+   "n": 4,
+   "title": "Congenital HD — ASD: Types (Book p64)",
+   "sec": "Congenital HD — ASD: Types",
+   "guide": "Ostium secundum ASD = 90%; ostium primum ASD = 5%.\nThe primum type is commonly associated with Down syndrome or endocardial cushion defects.",
+   "qs": [
+    "MED-C10-10",
+    "MED-C10-11"
+   ]
+  },
+  {
+   "id": "MED-U10-5",
+   "ch": 10,
+   "n": 5,
+   "title": "Congenital HD — ASD: Syndromic Associations (Book p64)",
+   "sec": "Congenital HD — ASD: Syndromic Associations",
+   "guide": "Holt-Oram (triphalangeal fingerised thumb, sometimes abrachia or phocomelia); Patau — trisomy 13 (polydactyly, flexion deformity of fingers, simian crease, cleft lip and palate, microcephaly; ASD, VSD, PDA).\nEdward — trisomy 18 (prominent occiput, low set malformed ears, rocker bottom feet, micrognathia, clenched fists; ASD, VSD, PDA); Ellis van Creveld (polydactyly, nail dysplasia, dwarfism); Lutembacher = MS + ASD.",
+   "qs": [
+    "MED-C10-12",
+    "MED-C10-13",
+    "MED-C10-14",
+    "MED-C10-15",
+    "MED-C10-16",
+    "MED-C10-17"
+   ]
+  },
+  {
+   "id": "MED-U10-6",
+   "ch": 10,
+   "n": 6,
+   "title": "Congenital HD — ASD: Atrial Fibrillation (Book p64)",
+   "sec": "Congenital HD — ASD: Atrial Fibrillation",
+   "guide": "The final point of the ASD section: atrial fibrillation is common in ASD.\nThis arrhythmic point closes the congenital heart disease page.",
+   "qs": [
+    "MED-C10-18"
+   ]
+  }
+ ]
+}

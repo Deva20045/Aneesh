@@ -1,3 +1,4 @@
 .venv/
 .audit-render/
 __pycache__/
+.extract/

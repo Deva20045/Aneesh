@@ -1,0 +1,785 @@
+{
+ "chapter": 13,
+ "title": "RS - History, Symptomatology & Breathlessness Tables",
+ "pageRange": "75-79",
+ "questions": [
+  {
+   "id": "MED-C13-01",
+   "sec": "History Proforma & Chest Pain",
+   "page": 75,
+   "fmt": "match",
+   "q": "Match the nine entries of the respiratory history proforma on Book p75 to their detail — 1) Cough with expectoration 2) Haemoptysis 3) Dyspnoea 4) Chest pain 5) Constitutional features 6) Cor pulmonale 7) Bronchiectasis 8) Past history 9) Occupational history … A) First bullet of the proforma B) Second bullet C) MRC grading is preferred in RS D) Unilateral pain usually points towards RS causes E) Fever, evening rise of temperature, weight loss, night sweats F) Features suggestive of right heart failure (cor pulmonale) G) If suspecting bronchiectasis, its complications H) Past history of TB? I) The double-asterisked entry",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F, 7-G, 8-H, 9-I",
+    "1-B, 2-A, 3-C, 4-D, 5-E, 6-F, 7-G, 8-H, 9-I",
+    "1-A, 2-B, 3-C, 4-G, 5-E, 6-F, 7-D, 8-H, 9-I",
+    "1-A, 2-B, 3-D, 4-C, 5-E, 6-F, 7-G, 8-H, 9-I"
+   ],
+   "ans": 0,
+   "exp": "Book p75 proforma: cough with expectoration; haemoptysis; dyspnoea (rule out CVS causes of breathlessness); chest pain; fever/evening rise/weight loss/night sweats; features suggestive of right heart failure (cor pulmonale); if suspecting bronchiectasis, its complications; oedema; past history of TB?; occupational history**. (Book p75)"
+  },
+  {
+   "id": "MED-C13-02",
+   "sec": "History Proforma & Chest Pain",
+   "page": 75,
+   "fmt": "fillup",
+   "q": "Pleuritic chest pain on Book p75 characteristically increases on ____ (coughing).",
+   "opts": [
+    "expiration only",
+    "inspiration",
+    "deep inspiration only, never with coughing",
+    "sneezing"
+   ],
+   "ans": 1,
+   "exp": "Book p75: 'Pleuritic chest pain characteristically increases on inspiration (coughing). Pleural disease can be associated with dry cough and stabbing type of chest pain.' (Book p75)"
+  },
+  {
+   "id": "MED-C13-03",
+   "sec": "History Proforma & Chest Pain",
+   "page": 75,
+   "fmt": "scenario",
+   "q": "A patient with a MINIMAL pleural effusion has intense pleuritic chest pain. Per Book p75, why is the pain greater when the effusion is minimal?",
+   "opts": [
+    "A minimal effusion compresses the bronchus",
+    "A minimal effusion is usually infected",
+    "With minimal effusion the layers of the pleura are more in contact, causing more irritation",
+    "Pain is independent of effusion volume"
+   ],
+   "ans": 2,
+   "exp": "Book p75: 'If the pleural effusion is minimal, the layers of the pleura are more in contact which causes more irritation leading to more pain.' (Book p75)"
+  },
+  {
+   "id": "MED-C13-04",
+   "sec": "Dyspnoea & Acute Onset",
+   "page": 75,
+   "fmt": "fillup",
+   "q": "For dyspnoea, Book p75 prefers the ____ grading in RS, whose advantages are that distance is checked, peer comparison, and ____ vs level ground.",
+   "opts": [
+    "NYHA; peak flow",
+    "Borg; heart rate",
+    "MRC; slope",
+    "MRC; oxygen saturation"
+   ],
+   "ans": 2,
+   "exp": "Book p75: 'Dyspnoea — MRC grading is preferred in RS. The advantages are: distance is checked, peer comparison and slope vs. level ground'. (Book p75)"
+  },
+  {
+   "id": "MED-C13-05",
+   "sec": "Dyspnoea & Acute Onset",
+   "page": 75,
+   "fmt": "fillup",
+   "q": "The acute-onset dyspnoea list on Book p75: pulmonary oedema, pulmonary embolism, acute exacerbation of COPD, acute severe asthma, ____, one more asthma.",
+   "opts": [
+    "atelectasis",
+    "pneumothorax",
+    "cor pulmonale",
+    "status asthmaticus"
+   ],
+   "ans": 3,
+   "exp": "Book p75: 'Acute onset dyspnoea — pulmonary oedema, pulmonary embolism, acute exacerbation of COPD, acute severe asthma, status asthmaticus, one more asthma'. (Book p75)"
+  },
+  {
+   "id": "MED-C13-06",
+   "sec": "Cough & Expectoration History",
+   "page": 75,
+   "fmt": "match",
+   "q": "Match the seven cough-and-expectoration history points on Book p75 to their cause lists — 1) Onset, duration 2) Postural variation 3) Diurnal variation — nocturnal cough 4) Mucopurulent to purulent colour 5) Bronchorrhoea >100 ml/day 6) Foul smell 7) Blood … A) TB, chronic bronchitis B) Post nasal drip, bronchiectasis, left heart failure (orthopnoea equalii), mass on trachea C) Post nasal drip, PND, bronchial asthma, cough variant asthma (no wheeze), GERD, tropical pulmonary eosinophilia D) Bronchial/pneumonia infection E) Bronchiectasis, lung abscess, empyema rupturing into a bronchus, necrotising pneumonia F) Lung abscess, bronchiectasis G) Frank haemoptysis vs blood stained sputum",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D, 5-E, 6-F, 7-G",
+    "1-B, 2-A, 3-C, 4-D, 5-E, 6-F, 7-G",
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F, 7-G",
+    "1-A, 2-B, 3-E, 4-D, 5-C, 6-F, 7-G"
+   ],
+   "ans": 2,
+   "exp": "Book p75: onset/duration — TB, chronic bronchitis; postural variation — post nasal drip, bronchiectasis, left heart failure (orthopnoea equalii), mass on trachea; nocturnal cough — post nasal drip, PND, bronchial asthma, cough variant asthma (no wheeze), GERD, tropical pulmonary eosinophilia; mucopurulent-purulent — bronchial/pneumonia infection; quantity — bronchorrhoea >100 ml/day (bronchiectasis, lung abscess, empyema rupturing into a bronchus, necrotising pneumonia); smell — foul in lung abscess, bronchiectasis; blood — frank haemoptysis vs blood stained sputum. (Book p75)"
+  },
+  {
+   "id": "MED-C13-07",
+   "sec": "Cough & Expectoration History",
+   "page": 75,
+   "fmt": "fillup",
+   "q": "Bronchorrhoea on Book p75 is defined as expectoration of more than ____ ml/day, with one tumbler approximating ____–200 ml.",
+   "opts": [
+    "50; 100",
+    "100; 150",
+    "200; 300",
+    "100; 250"
+   ],
+   "ans": 1,
+   "exp": "Book p75: 'Quantity — bronchorrhea >100 ml/day (1 tumbler approx. 150–200 ml)'. (Book p75)"
+  },
+  {
+   "id": "MED-C13-08",
+   "sec": "Cough & Expectoration History",
+   "page": 75,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of bronchorrhoea (>100 ml/day) on Book p75 EXCEPT:",
+   "opts": [
+    "Bronchiectasis",
+    "Lung abscess",
+    "Simple chronic bronchitis",
+    "Empyema rupturing into a bronchus"
+   ],
+   "ans": 2,
+   "exp": "Book p75 bronchorrhoea causes: bronchiectasis, lung abscess, empyema rupturing into a bronchus, necrotising pneumonia. Simple chronic bronchitis is not on that list. (Book p75)"
+  },
+  {
+   "id": "MED-C13-09",
+   "sec": "Haemoptysis: Types & Severity",
+   "page": 76,
+   "fmt": "match",
+   "q": "Match the four special haemoptysis types on Book p76 to their definition — 1) Frank haemoptysis 2) Spurious haemoptysis 3) Pseudohemoptysis 4) Endemic haemoptysis … A) Expectoration of blood only B) Secondary to URTI C) Serratia marcescens D) Paragonimus westermani",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Book p76: Frank haemoptysis — expectoration of blood only; Spurious — secondary to URTI; Pseudohemoptysis — Serratia marcescens; Endemic — Paragonimus westermani. (Book p76)"
+  },
+  {
+   "id": "MED-C13-10",
+   "sec": "Haemoptysis: Types & Severity",
+   "page": 76,
+   "fmt": "numeric",
+   "q": "Haemoptysis severity on Book p76: mild is below ____ ml of blood loss per day, moderate is 100–150 ml, and severe is up to ____ ml.",
+   "opts": [
+    "50; 100",
+    "100; 150",
+    "100; 200",
+    "150; 200"
+   ],
+   "ans": 2,
+   "exp": "Book p76 severity: Mild <100 ml/day; Moderate 100–150 ml; Severe up to 200 ml. (Book p76)"
+  },
+  {
+   "id": "MED-C13-11",
+   "sec": "Haemoptysis: Types & Severity",
+   "page": 76,
+   "fmt": "fillup",
+   "q": "Massive haemoptysis on Book p76: more than ____ ml/day, or a rate above 150 ml/hr, or 100 ml loss per day for more than ____ days.",
+   "opts": [
+    "200; 5",
+    "500; 7",
+    "300; 3",
+    "500; 3"
+   ],
+   "ans": 3,
+   "exp": "Book p76: Massive — '>500 ml/day or Rate >150 ml/hr or 100 ml loss per day for more than 3 days.' (Book p76)"
+  },
+  {
+   "id": "MED-C13-12",
+   "sec": "Haemoptysis: Causes",
+   "page": 76,
+   "fmt": "fillup",
+   "q": "The airway causes of haemoptysis on Book p76: Bronchitis (acute and chronic), ____, bronchiectasis and ____.",
+   "opts": [
+    "lung abscess; aspergilloma",
+    "bronchogenic carcinoma; body (foreign body)",
+    "tuberculosis; endobronchial TB",
+    "carcinoid; foreign body"
+   ],
+   "ans": 1,
+   "exp": "Book p76 (Dr. Vivekanandan's list), Airway: Bronchitis (Ac & Chr), Bronchogenic Ca, Bronchiectasis and Body (Foreign body). (Book p76)"
+  },
+  {
+   "id": "MED-C13-13",
+   "sec": "Haemoptysis: Causes",
+   "page": 76,
+   "fmt": "recall",
+   "q": "Per the note on Book p76, why is a bronchial bleed more dangerous than a pulmonary artery bleed?",
+   "opts": [
+    "The pulmonary artery carries more blood volume",
+    "Bronchial arteries are smaller and spasm more",
+    "The bronchial arteries are part of the systemic circulation at a much higher pressure than the pulmonary circulation",
+    "Bronchial bleeding triggers more coagulopathy"
+   ],
+   "ans": 2,
+   "exp": "Book p76 note: 'Bronchial bleed is more dangerous than a pulmonary artery bleed because the bronchial arteries are a part of the systemic circulation which are at a much higher pressure than the pulmonary circulation.' (Book p76)"
+  },
+  {
+   "id": "MED-C13-14",
+   "sec": "Haemoptysis: Causes",
+   "page": 76,
+   "fmt": "recall",
+   "q": "A history of repeated small haemoptysis / blood-streaked sputum is highly suggestive of (Book p76):",
+   "opts": [
+    "Bronchiectasis",
+    "Tuberculosis",
+    "Carcinoma",
+    "Pulmonary embolism"
+   ],
+   "ans": 2,
+   "exp": "Book p76 note: 'h/o repeated small haemoptysis/ blood streaked sputum is highly s/o carcinoma.' (Book p76)"
+  },
+  {
+   "id": "MED-C13-15",
+   "sec": "Haemoptysis: Causes",
+   "page": 76,
+   "fmt": "fillup",
+   "q": "Among the alveolar causes on Book p76, TB is specified as fibrocavitary TB due to rupture of ____ aneurysms (dilated pulmonary arteries surrounding the cavity), and acute pulmonary oedema presents with ____ sputum.",
+   "opts": [
+    "mycotic; brown sticky",
+    "Rasmussen; blood-stained",
+    "pulmonary; white frothy",
+    "Rasmussen; pink frothy"
+   ],
+   "ans": 3,
+   "exp": "Book p76 Alveolar: pneumonia; TB — 'Fibrocavitary TB (don't just say TB) due to rupture of Rasmussen Aneurysms (dilated pulmonary arteries surrounding the cavity)'; lung abscess; acute pulmonary oedema (pink frothy sputum). (Book p76)"
+  },
+  {
+   "id": "MED-C13-16",
+   "sec": "Haemoptysis: Causes",
+   "page": 76,
+   "fmt": "match",
+   "q": "Match the four remaining cause groups on Book p76 to their members — 1) Interstitial 2) Vascular 3) CVS 4) Collagen vascular disorders … A) ILD (rare) B) Pulmonary HTN, pulmonary embolism, pulmonary AV fistula C) Mitral stenosis, pulmonary embolism, pulmonary hypertension, AV malformation D) Wegener's, Goodpasture syndrome, other vasculitis",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Book p76: Interstitial — ILD (rare); Vascular — Pulmonary HTN, pulmonary embolism, pulmonary AV fistula; CVS — Mitral stenosis, pulmonary embolism, pulmonary hypertension, AV malformation; Collagen vascular disorders — Wegener's, Goodpasture syndrome, other vasculitis. (Book p76)"
+  },
+  {
+   "id": "MED-C13-17",
+   "sec": "Haemoptysis: Causes",
+   "page": 76,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed infective causes of haemoptysis on Book p76 EXCEPT:",
+   "opts": [
+    "Weil's disease (severe Leptospirosis)",
+    "Invasive Aspergillosis",
+    "Goodpasture syndrome",
+    "Paragonimiasis"
+   ],
+   "ans": 2,
+   "exp": "Book p76 infective causes: Weil's disease (severe Leptospirosis), Fibrocavitary TB, Invasive Aspergillosis, Paragonimiasis. Goodpasture syndrome is under collagen vascular disorders, not infective causes. (Book p76)"
+  },
+  {
+   "id": "MED-C13-18",
+   "sec": "Massive Haemoptysis: Causes & Management",
+   "page": 76,
+   "fmt": "recall",
+   "q": "The four causes of massive haemoptysis on Book p76 are:",
+   "opts": [
+    "Mitral stenosis, pulmonary embolism, pulmonary hypertension, AV malformation",
+    "Bronchiectasis, fibrocavitary TB, aspergillosis, paragonimiasis",
+    "Pneumonia, lung abscess, TB, aspergillosis",
+    "Bronchogenic carcinoma, Wegener's, Goodpasture, leptospirosis"
+   ],
+   "ans": 1,
+   "exp": "Book p76 Massive haemoptysis causes: Bronchiectasis, Fibrocavitary TB, Aspergillosis, Paragonimiasis. (Book p76)"
+  },
+  {
+   "id": "MED-C13-19",
+   "sec": "Massive Haemoptysis: Causes & Management",
+   "page": 76,
+   "fmt": "match",
+   "q": "Match the four management steps for massive haemoptysis on Book p76 to their detail — 1) Airway 2) Circulation 3) Transfusion 4) Bronchoscopy … A) Intubate B) Volume resuscitation C) Blood transfusion D) Balloon tamponade / topical epinephrine or vasopressin",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Book p76 management: Intubate; Volume resuscitation; Blood transfusion; Bronchoscopy with balloon tamponade/topical epinephrine or vasopressin. (Book p76)"
+  },
+  {
+   "id": "MED-C13-20",
+   "sec": "Recurrent Haemoptysis & Differential Diagnosis",
+   "page": 77,
+   "fmt": "fillup",
+   "q": "The causes of recurrent haemoptysis on Book p77: bronchiectasis, chronic bronchitis and ____.",
+   "opts": [
+    "pulmonary embolism",
+    "mitral stenosis",
+    "Wegener's",
+    "bronchogenic carcinoma"
+   ],
+   "ans": 3,
+   "exp": "Book p77: 'Recurrent haemoptysis causes — bronchiectasis, chronic bronchitis, bronchogenic carcinoma'. (Book p77)"
+  },
+  {
+   "id": "MED-C13-21",
+   "sec": "Recurrent Haemoptysis & Differential Diagnosis",
+   "page": 77,
+   "fmt": "fillup",
+   "q": "Pseudohemoptysis on Book p77: bleeding from the ____ or oral cavity.",
+   "opts": [
+    "alveoli",
+    "upper respiratory tract",
+    "bronchial arteries",
+    "lower GIT"
+   ],
+   "ans": 1,
+   "exp": "Book p77: 'Pseudohemoptysis — bleeding from upper respiratory tract or oral cavity'. (Book p77)"
+  },
+  {
+   "id": "MED-C13-22",
+   "sec": "Recurrent Haemoptysis & Differential Diagnosis",
+   "page": 77,
+   "fmt": "match",
+   "q": "Match the three discriminators between haemoptysis and haematemesis on Book p77 to their detail — 1) Associated features 2) pH 3) Food particles / melaena … A) Associated with cough, not with nausea and vomiting; frothing present B) Alkaline — haematemesis is acidic C) Food particles may be present in haematemesis, which may be associated with melaena",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p77: associated with cough, not with nausea and vomiting, frothing present; pH alkaline (haematemesis acidic); food particles may be present in haematemesis, which may be associated with melaena. (Book p77)"
+  },
+  {
+   "id": "MED-C13-23",
+   "sec": "Recurrent Haemoptysis & Differential Diagnosis",
+   "page": 77,
+   "fmt": "recall",
+   "q": "The cause of death in haemoptysis on Book p77 is:",
+   "opts": [
+    "Exsanguination",
+    "Pulmonary embolism from the clot",
+    "Severe anaemia",
+    "Asphyxia due to blood in the bronchial tree"
+   ],
+   "ans": 3,
+   "exp": "Book p77: 'Cause of death in Hemoptysis: Asphyxia as d/t blood in bronchial tree.' (Book p77)"
+  },
+  {
+   "id": "MED-C13-24",
+   "sec": "Recurrent Haemoptysis & Differential Diagnosis",
+   "page": 77,
+   "fmt": "fillup",
+   "q": "Puffiness and swelling in a patient with cor pulmonale on Book p77 results from pulmonary artery hypertension causing ____ failure, or from protein loss in the expectoration — and can also be due to ____.",
+   "opts": [
+    "LV; sarcoidosis",
+    "RV; silicosis",
+    "LV; amyloidosis",
+    "RV; amyloidosis"
+   ],
+   "ans": 3,
+   "exp": "Book p77: 'h/s/o cor pulmonale — puffiness and swelling d/t pulmonary artery hypertension causing RV failure or even due to protein loss from the expectoration. Can also be due to amyloidosis.' (Book p77)"
+  },
+  {
+   "id": "MED-C13-25",
+   "sec": "Causes of Dry Cough & Special Coughs",
+   "page": 77,
+   "fmt": "match",
+   "q": "Match the eight causes of dry cough on Book p77 to their position — 1) First three 2) Next three 3) Last two … A) Pleural pathologies, interstitial lung disease (ILD), cough-variant asthma B) Tropical pulmonary eosinophilia, atypical pneumonia, GERD C) ACE inhibitors, recurrent laryngeal nerve palsy",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p77 dry-cough causes in order: pleural pathologies, interstitial lung disease (ILD), cough-variant asthma, tropical pulmonary eosinophilia, atypical pneumonia, GERD, ACE inhibitors, recurrent laryngeal nerve palsy. (Book p77)"
+  },
+  {
+   "id": "MED-C13-26",
+   "sec": "Causes of Dry Cough & Special Coughs",
+   "page": 77,
+   "fmt": "fillup",
+   "q": "On Book p77, the brassy cough is a cough with a metallic sound from compression over the trachea, while the bovine cough — cough without its explosive nature — points to ____ palsy.",
+   "opts": [
+    "vagus nerve",
+    "phrenic nerve",
+    "hypoglossal nerve",
+    "recurrent laryngeal nerve"
+   ],
+   "ans": 3,
+   "exp": "Book p77: 'Brassy cough — cough with metallic sound — compression over trachea; Bovine cough — cough without its explosive nature — RLN palsy'. (Book p77)"
+  },
+  {
+   "id": "MED-C13-27",
+   "sec": "Causes of Dry Cough & Special Coughs",
+   "page": 77,
+   "fmt": "fillup",
+   "q": "Post-tussive syncope on Book p77: high intrathoracic pressure -> decreased ____ -> decreased cardiac output.",
+   "opts": [
+    "arterial return",
+    "venous return",
+    "cerebral perfusion",
+    "pulmonary flow"
+   ],
+   "ans": 1,
+   "exp": "Book p77: 'Post-tussive syncope: High intraThoracic pressure -> decreases venous return -> decreased cardiac output'. (Book p77)"
+  },
+  {
+   "id": "MED-C13-28",
+   "sec": "Past History of TB",
+   "page": 78,
+   "fmt": "fillup",
+   "q": "The past-history-of-TB items on Book p78: category, treatment taken?, ____, ____, and side effects experienced?",
+   "opts": [
+    "sputum conversion?; adherence?",
+    "duration?; dose?",
+    "relapse?; reinfection?",
+    "treatment completed?; compliance?"
+   ],
+   "ans": 3,
+   "exp": "Book p78 Past history of TB: Category; Treatment taken? Treatment completed? Compliance?; Side effects experienced? (Book p78)"
+  },
+  {
+   "id": "MED-C13-29",
+   "sec": "Breathlessness: MRC Scale & Receptors",
+   "page": 78,
+   "fmt": "match",
+   "q": "Match the five Modified MRC grades on Book p78 to their description — 1) Grade 0 2) Grade 1 3) Grade 2 4) Grade 3 5) Grade 4 … A) No breathlessness, except with strenuous exercise B) Breathlessness when hurrying on level ground / walking up a slight hill C) Walks slower than peers on level ground / has to stop for breath while walking at own pace D) Stops for breath after walking about 100 m or after a few minutes on level ground E) Too breathless to leave the house / breathless when dressing and undressing",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C"
+   ],
+   "ans": 1,
+   "exp": "Book p78 Modified MRC: 0 — no breathlessness except with strenuous exercise; 1 — breathlessness when hurrying on level ground/walking up a slight hill; 2 — walks slower than peers on level ground / has to stop for breath while walking at own pace; 3 — stops for breath after walking about 100 m or after a few minutes on level ground; 4 — too breathless to leave the house / breathless when dressing and undressing. (Book p78)"
+  },
+  {
+   "id": "MED-C13-30",
+   "sec": "Breathlessness: MRC Scale & Receptors",
+   "page": 78,
+   "fmt": "recall",
+   "q": "According to the note under the MRC scale on Book p78, which of these is NOT on the scale?",
+   "opts": [
+    "Stops for breath after walking about 100 m",
+    "Too breathless to leave the house",
+    "Walks slower than peers on level ground",
+    "Breathlessness at rest"
+   ],
+   "ans": 3,
+   "exp": "Book p78 MRC note: 'No \"Breathlessness at rest\"'. (Book p78)"
+  },
+  {
+   "id": "MED-C13-31",
+   "sec": "Breathlessness: MRC Scale & Receptors",
+   "page": 78,
+   "fmt": "fillup",
+   "q": "Per Book p78, the MRC advantages over NYHA are that ____ vs level ground is checked, peer comparison, and distance is checked; the other named classification is the ____ classification.",
+   "opts": [
+    "hill; WHO",
+    "stairs; Borg",
+    "slope; Sherwood Jones",
+    "slope; NYHA class"
+   ],
+   "ans": 2,
+   "exp": "Book p78: 'The advantages vs NYHA are: slope vs. level ground, peer comparison and Distance is checked. Other classification — Sherwood Jones classification'. (Book p78)"
+  },
+  {
+   "id": "MED-C13-32",
+   "sec": "Breathlessness: MRC Scale & Receptors",
+   "page": 78,
+   "fmt": "recall",
+   "q": "The other breathlessness classification named on Book p78 is:",
+   "opts": [
+    "The WHO classification",
+    "The Borg scale",
+    "The NYHA class 4 extension",
+    "The Sherwood Jones classification"
+   ],
+   "ans": 3,
+   "exp": "Book p78: 'Other classification — Sherwood Jones classification'. (Book p78)"
+  },
+  {
+   "id": "MED-C13-33",
+   "sec": "Breathlessness: Receptors (JSCR) & CVS vs RS",
+   "page": 78,
+   "fmt": "match",
+   "q": "Match the receptors involved in dyspnoea (JSCR) on Book p78 to their location — 1) J receptors 2) Stretch receptors 3) Chemoreceptors 4) Respiratory muscle receptors … A) Alveolar capillary junction B) Thoracic cage and lungs C) Carotid artery, aorta, medulla D) The fourth of the four listed receptor groups",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Book p78 JSCR: J receptors — alveolar capillary junction; stretch receptors — thoracic cage and lungs; chemoreceptors — carotid artery, aorta, medulla; respiratory muscle receptors. (Book p78)"
+  },
+  {
+   "id": "MED-C13-34",
+   "sec": "Breathlessness: Receptors (JSCR) & CVS vs RS",
+   "page": 78,
+   "fmt": "match",
+   "q": "Match the two columns of the breathlessness table on Book p78 to their content — 1) CVS breathlessness 2) RS breathlessness … A) Associated CVS cardinal symptom(s); orthopnoea, PND B) No associated CVS symptoms; orthopnoea may be present (asthma, COPD), but PND is specific to CVS",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Book p78 table: CVS breathlessness — associated CVS cardinal symptom(s); orthopnoea, PND. RS breathlessness — no associated CVS symptoms; orthopnoea may be present (asthma, COPD), but PND is specific to CVS. (Book p78)"
+  },
+  {
+   "id": "MED-C13-35",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "page": 79,
+   "fmt": "match",
+   "q": "Match the seven conditions of Box 19.8 on Book p79 to their History column — 1) Pulmonary oedema 2) Massive pulmonary embolus 3) Acute severe asthma 4) Acute exacerbation of COPD 5) Pneumonia 6) Metabolic acidosis 7) Psychogenic … A) Chest pain, palpitations, orthopnoea, cardiac history B) Risk factors, chest pain, pleurisy, syncope, dizziness C) History of asthma, asthma medications, wheeze D) Previous episodes, smoker — in type II respiratory failure may be drowsy E) Prodromal illness, fever, rigors, pleurisy F) Evidence of diabetes mellitus or renal disease, aspirin or ethylene glycol overdose G) Previous episodes, digital or perioral dyssaesthesia",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F, 7-G",
+    "1-B, 2-A, 3-C, 4-D, 5-E, 6-F, 7-G",
+    "1-A, 2-G, 3-C, 4-D, 5-E, 6-F, 7-B",
+    "1-A, 2-B, 3-D, 4-C, 5-E, 6-F, 7-G"
+   ],
+   "ans": 0,
+   "exp": "Box 19.8 (Book p79) History column: Pulmonary oedema — chest pain, palpitations, orthopnoea, cardiac history; Massive PE — risk factors, chest pain, pleurisy, syncope, dizziness; Acute severe asthma — history of asthma, asthma medications, wheeze; Acute COPD exacerbation — previous episodes, smoker, drowsy in type II failure; Pneumonia — prodromal illness, fever, rigors, pleurisy; Metabolic acidosis — diabetes mellitus or renal disease, aspirin or ethylene glycol overdose; Psychogenic — previous episodes, digital or perioral dyssaesthesia. (Book p79)"
+  },
+  {
+   "id": "MED-C13-36",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "page": 79,
+   "fmt": "match",
+   "q": "Match the ABG patterns in Box 19.8 on Book p79 to their condition — 1) Acute severe asthma 2) Acute exacerbation of COPD 3) Metabolic acidosis 4) Psychogenic 5) Pulmonary oedema … A) Down-PaO2, down-PaCO2 — with up-PaCO2 in extremis B) Down or down-down-PaO2, up-PaCO2 (type II failure ± up-H+; up-HCO3 in chronic type II failure) C) PaO2 normal, down-PaCO2, up-H+ D) PaO2 normal, down-down-PaCO2, up-H+ E) Down-PaO2, down-PaCO2",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-B, 5-E",
+    "1-E, 2-B, 3-C, 4-D, 5-A",
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-D, 4-C, 5-E"
+   ],
+   "ans": 2,
+   "exp": "Box 19.8 ABG (Book p79): Acute severe asthma — down-PaO2, down-PaCO2 (up-PaCO2 in extremis); Acute COPD exacerbation — down or down-down-PaO2, up-PaCO2 (type II failure ± up-H+; up-HCO3 in chronic type II failure); Metabolic acidosis — PaO2 normal, down-PaCO2, up-H+; Psychogenic — PaO2 normal, down-down-PaCO2, up-H+; Pulmonary oedema — down-PaO2, down-PaCO2. (Book p79)"
+  },
+  {
+   "id": "MED-C13-37",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "page": 79,
+   "fmt": "match",
+   "q": "Match the ECG rows of Box 19.8 on Book p79 to their condition — 1) Pulmonary oedema 2) Massive pulmonary embolus 3) Acute severe asthma 4) Acute exacerbation of COPD 5) Pneumonia 6) Metabolic acidosis 7) Psychogenic … A) Sinus tachycardia, ischaemia, arrhythmia B) Sinus tachycardia, RBBB, S1Q3T3 pattern, T-wave inversion (V1–V4) C) Sinus tachycardia (bradycardia in extremis) D) Normal, or signs of right ventricular strain E) Tachycardia F) Left blank in the table G) Left blank in the table",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-B, 5-E, 6-F, 7-G",
+    "1-C, 2-B, 3-A, 4-D, 5-E, 6-F, 7-G",
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-G, 7-F",
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F, 7-G"
+   ],
+   "ans": 3,
+   "exp": "Box 19.8 ECG (Book p79): Pulmonary oedema — sinus tachycardia, ischaemia, arrhythmia; Massive PE — sinus tachycardia, RBBB, S1Q3T3 pattern, T(V1–V4) inversion; Acute severe asthma — sinus tachycardia (bradycardia in extremis); Acute COPD exacerbation — normal or signs of right ventricular strain; Pneumonia — tachycardia; Metabolic acidosis and Psychogenic — blank. (Book p79)"
+  },
+  {
+   "id": "MED-C13-38",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "page": 79,
+   "fmt": "scenario",
+   "q": "A patient presents with acute breathlessness, central cyanosis and raised JVP, but NO signs in the lungs, with shock (tachycardia, hypotension). Per Box 19.8 (Book p79), the ECG pattern expected in this condition is:",
+   "opts": [
+    "Sinus tachycardia with bradycardia in extremis",
+    "Sinus tachycardia, ischaemia, arrhythmia",
+    "Normal, or signs of right ventricular strain",
+    "Sinus tachycardia, RBBB, S1Q3T3 pattern, T-wave inversion (V1–V4)"
+   ],
+   "ans": 3,
+   "exp": "Box 19.8 Massive pulmonary embolus (Book p79): signs — central cyanosis, up-JVP, absence of signs in the lung, shock (tachycardia, hypotension); ECG — sinus tachycardia, RBBB, S1Q3T3 pattern, T(V1–V4) inversion. (Book p79)"
+  },
+  {
+   "id": "MED-C13-39",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "page": 79,
+   "fmt": "recall",
+   "q": "The pneumonia row of Box 19.8 (Book p79) includes:",
+   "opts": [
+    "Flapping tremor, bounding pulses; hyperinflation with bullae",
+    "Fever, confusion, pleural rub, consolidation, cyanosis (if severe); pneumonic consolidation on CXR; tachycardia",
+    "Fetor (ketones), air hunger; normal CXR",
+    "Carpopedal spasm; no cyanosis"
+   ],
+   "ans": 1,
+   "exp": "Box 19.8 Pneumonia (Book p79): Signs — fever, confusion, pleural rub, consolidation, cyanosis (if severe); CXR — pneumonic consolidation; ECG — tachycardia. (Book p79)"
+  },
+  {
+   "id": "MED-C13-40",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "page": 79,
+   "fmt": "fillup",
+   "q": "In the acute COPD exacerbation row of Box 19.8 (Book p79), signs of CO2 retention include a ____ tremor and ____ pulses.",
+   "opts": [
+    "choreiform; thready",
+    "flapping; bounding",
+    "flapping; collapsing",
+    "asterixis-like; alternating"
+   ],
+   "ans": 1,
+   "exp": "Box 19.8 Acute exacerbation of COPD (Book p79): 'cyanosis, hyperinflation, signs of CO2 retention (flapping tremor, bounding pulses)'. (Book p79)"
+  },
+  {
+   "id": "MED-C13-41",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "page": 79,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements correctly reflects Box 19.8 (Book p79)?",
+   "opts": [
+    "False: the CXR in massive pulmonary embolus is often normal, with prominent hilar vessels and oligemic lung fields",
+    "True: metabolic acidosis presents with hyperventilation accompanied by heart or lung signs",
+    "True: in acute severe asthma the CXR shows hyperinflation only (unless complicated by pneumothorax), and PaCO2 rises in extremis",
+    "False: in psychogenic breathlessness the ABG shows PaO2 normal, down-down-PaCO2, up-H+"
+   ],
+   "ans": 2,
+   "exp": "Box 19.8 (Book p79): Massive PE CXR — often normal, prominent hilar vessels, oligemic lung fields; Metabolic acidosis — hyperventilation WITHOUT heart or lung signs; Acute severe asthma CXR — hyperinflation only (unless complicated by pneumothorax), up-PaCO2 in extremis; Psychogenic ABG — PaO2 normal, down-down-PaCO2, up-H+. (Book p79)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U13-1",
+   "ch": 13,
+   "n": 1,
+   "title": "History Proforma & Chest Pain (Book p75)",
+   "sec": "History Proforma & Chest Pain",
+   "guide": "Proforma: cough with expectoration, haemoptysis, dyspnoea (rule out CVS causes), chest pain, fever/evening rise/weight loss/night sweats, cor pulmonale features, bronchiectasis complications, oedema, past TB?, occupational history**.\nUnilateral chest pain usually points to RS causes; pleuritic pain increases on inspiration (coughing) — minimal effusion = pleural layers more in contact = more irritation; pleural disease gives dry cough and stabbing pain.",
+   "qs": [
+    "MED-C13-01",
+    "MED-C13-02",
+    "MED-C13-03"
+   ]
+  },
+  {
+   "id": "MED-U13-2",
+   "ch": 13,
+   "n": 2,
+   "title": "Dyspnoea & Acute Onset (Book p75)",
+   "sec": "Dyspnoea & Acute Onset",
+   "guide": "MRC grading preferred in RS — advantages: distance is checked, peer comparison, slope vs level ground.\nAcute onset dyspnoea: pulmonary oedema, pulmonary embolism, acute COPD exacerbation, acute severe asthma, status asthmaticus, one more asthma.",
+   "qs": [
+    "MED-C13-04",
+    "MED-C13-05"
+   ]
+  },
+  {
+   "id": "MED-U13-3",
+   "ch": 13,
+   "n": 3,
+   "title": "Cough & Expectoration History (Book p75)",
+   "sec": "Cough & Expectoration History",
+   "guide": "Onset/duration (TB, chronic bronchitis); postural (post nasal drip, bronchiectasis, LHF 'orthopnoea equalii', tracheal mass); nocturnal (PND, asthma, cough-variant asthma, GERD, TPE); colour (mucopurulent-purulent = infection, serous/frothy pink = pulmonary oedema, blood-stained = bronchiectasis/TB/PE/carcinoma).\nBronchorrhoea >100 ml/day (tumbler 150–200 ml): bronchiectasis, lung abscess, empyema into a bronchus, necrotising pneumonia; foul smell = abscess/bronchiectasis; frank vs blood-stained.",
+   "qs": [
+    "MED-C13-06",
+    "MED-C13-07",
+    "MED-C13-08"
+   ]
+  },
+  {
+   "id": "MED-U13-4",
+   "ch": 13,
+   "n": 4,
+   "title": "Haemoptysis: Types & Severity (Book p76)",
+   "sec": "Haemoptysis: Types & Severity",
+   "guide": "Frank (blood only), spurious (URTI), pseudo (Serratia marcescens), endemic (Paragonimus westermani).\nSeverity: mild <100 ml/day, moderate 100–150 ml, severe up to 200 ml; massive >500 ml/day or >150 ml/hr or 100 ml/day for >3 days.",
+   "qs": [
+    "MED-C13-09",
+    "MED-C13-10",
+    "MED-C13-11"
+   ]
+  },
+  {
+   "id": "MED-U13-5",
+   "ch": 13,
+   "n": 5,
+   "title": "Haemoptysis: Causes (Book p76)",
+   "sec": "Haemoptysis: Causes",
+   "guide": "Airway: bronchitis (acute/chronic), bronchogenic carcinoma, bronchiectasis, body (foreign body) — repeated small haemoptysis/blood-streaked sputum highly suggests carcinoma; bronchial bleed more dangerous (systemic-circulation pressure).\nAlveolar: pneumonia, fibrocavitary TB (Rasmussen aneurysm rupture), lung abscess, pulmonary oedema (pink frothy); interstitial: ILD (rare); vascular: PH, PE, PA fistula; CVS: MS, PE, PH, AV malformation; CVD: Wegener's, Goodpasture, vasculitis; infective: Weil's, fibrocavitary TB, invasive aspergillosis, paragonimiasis.",
+   "qs": [
+    "MED-C13-12",
+    "MED-C13-13",
+    "MED-C13-14",
+    "MED-C13-15",
+    "MED-C13-16",
+    "MED-C13-17"
+   ]
+  },
+  {
+   "id": "MED-U13-6",
+   "ch": 13,
+   "n": 6,
+   "title": "Massive Haemoptysis: Causes & Management (Book p76)",
+   "sec": "Massive Haemoptysis: Causes & Management",
+   "guide": "Causes: bronchiectasis, fibrocavitary TB, aspergillosis, paragonimiasis.\nManagement: intubate; volume resuscitation; blood transfusion; bronchoscopy with balloon tamponade / topical epinephrine or vasopressin.",
+   "qs": [
+    "MED-C13-18",
+    "MED-C13-19"
+   ]
+  },
+  {
+   "id": "MED-U13-7",
+   "ch": 13,
+   "n": 7,
+   "title": "Recurrent Haemoptysis & Differential Diagnosis (Book p77)",
+   "sec": "Recurrent Haemoptysis & Differential Diagnosis",
+   "guide": "Recurrent causes: bronchiectasis, chronic bronchitis, bronchogenic carcinoma; pseudohemoptysis = upper respiratory/oral bleeding.\nHaemoptysis vs haematemesis: cough (not nausea/vomiting) with frothing; alkaline vs acidic pH; food particles and melaena with haematemesis. Cause of death: asphyxia from blood in the bronchial tree. Cor pulmonale history: RV failure or protein loss — also amyloidosis.",
+   "qs": [
+    "MED-C13-20",
+    "MED-C13-21",
+    "MED-C13-22",
+    "MED-C13-23",
+    "MED-C13-24"
+   ]
+  },
+  {
+   "id": "MED-U13-8",
+   "ch": 13,
+   "n": 8,
+   "title": "Causes of Dry Cough & Special Coughs (Book p77)",
+   "sec": "Causes of Dry Cough & Special Coughs",
+   "guide": "Dry cough: pleural pathologies, ILD, cough-variant asthma, tropical pulmonary eosinophilia, atypical pneumonia, GERD, ACE inhibitors, RLN palsy.\nBrassy cough (metallic, tracheal compression); bovine cough (non-explosive, RLN palsy); post-tussive syncope: high intrathoracic pressure -> decreased venous return -> decreased cardiac output.",
+   "qs": [
+    "MED-C13-25",
+    "MED-C13-26",
+    "MED-C13-27"
+   ]
+  },
+  {
+   "id": "MED-U13-9",
+   "ch": 13,
+   "n": 9,
+   "title": "Past History of TB (Book p78)",
+   "sec": "Past History of TB",
+   "guide": "Category; treatment taken? treatment completed? compliance?\nSide effects experienced?",
+   "qs": [
+    "MED-C13-28"
+   ]
+  },
+  {
+   "id": "MED-U13-10",
+   "ch": 13,
+   "n": 10,
+   "title": "Breathlessness: MRC Scale & Receptors (Book p78)",
+   "sec": "Breathlessness: MRC Scale & Receptors",
+   "guide": "Modified MRC grades 0–4 verbatim; note: no 'breathlessness at rest'.\nAdvantages vs NYHA: slope vs level ground, peer comparison, distance checked; other classification — Sherwood Jones.",
+   "qs": [
+    "MED-C13-29",
+    "MED-C13-30",
+    "MED-C13-31",
+    "MED-C13-32"
+   ]
+  },
+  {
+   "id": "MED-U13-11",
+   "ch": 13,
+   "n": 11,
+   "title": "Breathlessness: JSCR Receptors & CVS vs RS (Book p78)",
+   "sec": "Breathlessness: Receptors (JSCR) & CVS vs RS",
+   "guide": "Dyspnoea receptors (JSCR): J (alveolar capillary junction), stretch (thoracic cage and lungs), chemoreceptors (carotid artery, aorta, medulla), respiratory muscle receptors.\nCVS breathlessness: associated CVS cardinal symptoms; orthopnoea, PND. RS breathlessness: no associated CVS symptoms; orthopnoea may be present (asthma, COPD) but PND is specific to CVS.",
+   "qs": [
+    "MED-C13-33",
+    "MED-C13-34"
+   ]
+  },
+  {
+   "id": "MED-U13-12",
+   "ch": 13,
+   "n": 12,
+   "title": "Box 19.8: Differential Diagnosis of Acute Breathlessness (Book p79)",
+   "sec": "Box 19.8: Differential Diagnosis of Acute Breathlessness",
+   "guide": "Seven conditions x History/Signs/CXR/ABG/ECG: pulmonary oedema, massive PE, acute severe asthma, acute COPD exacerbation, pneumonia, metabolic acidosis, psychogenic (* = valuable discriminatory feature).\nKey rows: PE — normal CXR with oligemic fields, S1Q3T3/RBBB/T(V1–V4) inversion; asthma — hyperinflation only, up-PaCO2 in extremis, bradycardia in extremis; COPD — flapping tremor/bounding pulses, type II ABG; psychogenic — normal PaO2, down-down-PaCO2, carpopedal spasm.",
+   "qs": [
+    "MED-C13-35",
+    "MED-C13-36",
+    "MED-C13-37",
+    "MED-C13-38",
+    "MED-C13-39",
+    "MED-C13-40",
+    "MED-C13-41"
+   ]
+  }
+ ]
+}

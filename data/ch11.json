@@ -1,0 +1,743 @@
+{
+ "chapter": 11,
+ "title": "Rheumatic Fever",
+ "pageRange": "65-68",
+ "questions": [
+  {
+   "id": "MED-C11-01",
+   "sec": "ASD: Symptoms, Signs & DDs (top of Book p65)",
+   "page": 65,
+   "fmt": "fillup",
+   "q": "Per Book p65, small ASDs are usually ____, whereas large defects present with features like tachycardia, right heart failure, left heart failure and exertional dyspnoea.",
+   "opts": [
+    "asymptomatic",
+    "cyanotic at birth",
+    "diagnostic on chest X-ray",
+    "accompanied by a loud single S2"
+   ],
+   "ans": 0,
+   "exp": "Book p65, ASD '4. Symptoms and signs': a. Small defects are usually asymptomatic; b. Large defects present with features like tachycardia, right heart failure, left heart failure, exertional dyspnoea. (Book p65)"
+  },
+  {
+   "id": "MED-C11-02",
+   "sec": "ASD: Symptoms, Signs & DDs (top of Book p65)",
+   "page": 65,
+   "fmt": "match",
+   "q": "Match the five ASD sign entries on Book p65 to their detail — 1) Associated PS 2) S2 3) S2 with pulmonary hypertension 4) Flow ESM 5) Flow MDM … A) Can be present B) Wide fixed split of S2 C) Split is narrowed with the development of pulmonary hypertension D) Across the pulmonary valve E) Across the mitral valve",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-D, 2-B, 3-C, 4-A, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C"
+   ],
+   "ans": 1,
+   "exp": "Book p65, ASD '5. Signs': a. Associated PS can be present; b. Wide fixed split of S2; c. S2 split is narrowed with the development of pulmonary hypertension; d. Flow ESM across pulmonary valve; e. Flow MDM across mitral valve. (Book p65)"
+  },
+  {
+   "id": "MED-C11-03",
+   "sec": "ASD: Symptoms, Signs & DDs (top of Book p65)",
+   "page": 65,
+   "fmt": "match",
+   "q": "Match the three ASD differential diagnoses on Book p65 to their detail — 1) MS with pulmonary HTN 2) Partial anomalous pulmonary venous connections 3) Total anomalous pulmonary venous connections … A) Listed first as DD a B) Listed second as DD b C) With a large interatrial communication without pulmonary HTN",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p65, ASD '6. DDs': a. MS with pulmonary HTN; b. Partial anomalous pulmonary venous connections; c. Total anomalous pulmonary venous connections with a large interatrial communication without pulmonary HTN. (Book p65)"
+  },
+  {
+   "id": "MED-C11-04",
+   "sec": "ASD: Symptoms, Signs & DDs (top of Book p65)",
+   "page": 65,
+   "fmt": "recall",
+   "q": "The two pointer stubs that close the congenital heart disease section on Book p65 are:",
+   "opts": [
+    "'TOF and VSD from peds' and 'JVP waves in CHD'",
+    "'PDA and PPHN from peds' and 'Facies in CHD — must know'",
+    "'TOF and AVSD from peds' and 'Facies in CHD — Nice to know'",
+    "'TOF and VSD from peds' and 'Facies in congenital heart disease — Nice to know'"
+   ],
+   "ans": 3,
+   "exp": "Book p65 closes the CHD section with two stubs: 'TOF and VSD from peds' (both terms underlined) and 'Facies in congenital heart disease- Nice to know'. (Book p65)"
+  },
+  {
+   "id": "MED-C11-05",
+   "sec": "RF: Age, Cause, Pathogenesis",
+   "page": 65,
+   "fmt": "numeric",
+   "q": "Per Book p65, acute rheumatic fever is most commonly a disease of children aged ____, is rare in people over ____, while RHD peaks between ____.",
+   "opts": [
+    "5–14 years; 30 years; 25–40 years",
+    "3–10 years; 40 years; 20–30 years",
+    "5–14 years; 20 years; 30–45 years",
+    "6–15 years; 30 years; 25–40 years"
+   ],
+   "ans": 0,
+   "exp": "Book p65 RF point 1: 'Acute Rheumatic Fever is most commonly a disease of children aged 5–14. They are rare in people >30 years. RHD however peaks between 25–40 years.' (Book p65)"
+  },
+  {
+   "id": "MED-C11-06",
+   "sec": "RF: Age, Cause, Pathogenesis",
+   "page": 65,
+   "fmt": "fillup",
+   "q": "The pathogenesis of ARF on Book p65 is molecular mimicry: the immune response targeted at the streptococcal antigens ____ and ____ also recognises human tissues.",
+   "opts": [
+    "M protein; lipoteichoic acid",
+    "M protein; NAG",
+    "Protein G; NAG",
+    "Streptolysin O; DNAse B"
+   ],
+   "ans": 1,
+   "exp": "Book p65 RF point 3: 'Pathogenesis — molecular mimicry: immune response targeted at streptococcal antigens (M protein and NAG) also recognises human tissues.' (Book p65)"
+  },
+  {
+   "id": "MED-C11-07",
+   "sec": "RF: Age, Cause, Pathogenesis",
+   "page": 65,
+   "fmt": "recall",
+   "q": "The cause of rheumatic fever on Book p65 is:",
+   "opts": [
+    "Group B Streptococci",
+    "Staphylococcus aureus",
+    "Group A Streptococci",
+    "Haemophilus influenzae"
+   ],
+   "ans": 2,
+   "exp": "Book p65 RF point 2: 'Cause — Group A Streptococci'. (Book p65)"
+  },
+  {
+   "id": "MED-C11-08",
+   "sec": "RF: RHD Statistics",
+   "page": 65,
+   "fmt": "numeric",
+   "q": "In the RHD statistics on Book p65, mitral stenosis is seen in ____% of cases, isolated MS in ____% of cases, and multi-valve involvement in ____% of cases.",
+   "opts": [
+    "90; 20; 40",
+    "99; 35; 25",
+    "99; 25; 38",
+    "85; 25; 38"
+   ],
+   "ans": 2,
+   "exp": "Book p65 RF statistics: a. Mitral stenosis is seen in 99% of RHD cases; b. 40% of cases have MS with MR, isolated MS in 25%; c. 38% have multi valve involvement. (Book p65)"
+  },
+  {
+   "id": "MED-C11-09",
+   "sec": "RF: RHD Statistics",
+   "page": 65,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements correctly reflects the RHD statistics on Book p65?",
+   "opts": [
+    "False: 6% of RHD cases have tricuspid valve involvement",
+    "True: 35% of RHD cases have aortic valve involvement",
+    "True: the pulmonary valve is commonly involved in RHD",
+    "False: isolated MS is seen in 25% of RHD cases"
+   ],
+   "ans": 1,
+   "exp": "Book p65 statistics c: 38% multi valve involvement, 35% aortic valve involvement, 6% tricuspid valve involvement, 'Pulmonary valve is very rarely involved.' (Book p65)"
+  },
+  {
+   "id": "MED-C11-10",
+   "sec": "RF: RHD Statistics",
+   "page": 65,
+   "fmt": "oddoneout",
+   "q": "All of the following figures appear in the RHD statistics on Book p65 EXCEPT:",
+   "opts": [
+    "35% aortic valve involvement",
+    "6% tricuspid valve involvement",
+    "40% MS with MR",
+    "50% isolated tricuspid stenosis"
+   ],
+   "ans": 3,
+   "exp": "The statistics on Book p65: MS 99%, MS with MR 40%, isolated MS 25%, multi valve 38%, aortic 35%, tricuspid 6%, pulmonary very rare. There is no isolated-tricuspid-stenosis figure. (Book p65)"
+  },
+  {
+   "id": "MED-C11-11",
+   "sec": "RF: Clinical Features",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "The ARF latent period on Book p66 is ____, and the preceding infection is commonly ____ but can be confirmed by antibody testing.",
+   "opts": [
+    "2–6 days; clinical",
+    "1–5 weeks; subclinical",
+    "4–8 weeks; subclinical",
+    "1–5 weeks; always symptomatic"
+   ],
+   "ans": 1,
+   "exp": "Book p66 RF point 5a: 'Latent period of 1–5 weeks. The preceding infection is commonly subclinical but can be confirmed by antibody testing.' (Book p66)"
+  },
+  {
+   "id": "MED-C11-12",
+   "sec": "RF: Clinical Features",
+   "page": 66,
+   "fmt": "numeric",
+   "q": "The most common presenting complaints of ARF on Book p66 are polyarthritis in ____% of cases and carditis in ____%.",
+   "opts": [
+    "60–75; 50–60",
+    "50–60; 60–75",
+    "40–50; 30–40",
+    "75–90; 60–75"
+   ],
+   "ans": 0,
+   "exp": "Book p66 RF point 5b: 'm/c c/f — polyarthritis (60–75%), carditis (50–60%)'. (Book p66)"
+  },
+  {
+   "id": "MED-C11-13",
+   "sec": "RF: Clinical Features",
+   "page": 66,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT stated about the most common presenting complaints of ARF on Book p66?",
+   "opts": [
+    "Polyarthritis is the leading complaint (60–75%)",
+    "Carditis is the second listed complaint (50–60%)",
+    "Rash is the leading complaint (70–80%)",
+    "Both polyarthritis and carditis are listed as the m/c c/f"
+   ],
+   "ans": 2,
+   "exp": "Book p66 lists exactly: 'm/c c/f — polyarthritis (60–75%), carditis (50–60%)'. No rash figure is given. (Book p66)"
+  },
+  {
+   "id": "MED-C11-14",
+   "sec": "RF: Heart Involvement",
+   "page": 66,
+   "fmt": "numeric",
+   "q": "Per Book p66, up to ____% of patients with acute rheumatic fever progress to RHD.",
+   "opts": [
+    "30",
+    "80",
+    "60",
+    "45"
+   ],
+   "ans": 2,
+   "exp": "Book p66 RF point 6a: 'Up to 60% of patients of ARF progress to RHD. Endocardium/myocardium/pericardium may be involved.' (Book p66)"
+  },
+  {
+   "id": "MED-C11-15",
+   "sec": "RF: Heart Involvement",
+   "page": 66,
+   "fmt": "recall",
+   "q": "Which statement about valve involvement in ARF is on Book p66?",
+   "opts": [
+    "The mitral valve is almost always affected, sometimes together with the aortic valve; isolated aortic valve involvement is rare",
+    "The aortic valve is almost always affected, and isolated mitral involvement is rare",
+    "The tricuspid valve is almost always affected",
+    "The pulmonary valve is the most commonly affected valve"
+   ],
+   "ans": 0,
+   "exp": "Book p66 RF point 6b: 'Mitral valve is almost always affected, sometimes together with the aortic valve. Isolated aortic valve involvement is rare.' (Book p66)"
+  },
+  {
+   "id": "MED-C11-16",
+   "sec": "RF: Heart Involvement",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "Early valvular damage in ARF (Book p66) leads to ____, and over ensuing years — usually after recurrent episodes — leaflet thickening, scarring, calcification and eventually ____ may develop.",
+   "opts": [
+    "stenosis; regurgitation",
+    "regurgitation; valvular stenosis",
+    "regurgitation; annular calcification only",
+    "stenosis; annular dilation"
+   ],
+   "ans": 1,
+   "exp": "Book p66 RF point 6c: 'Early valvular damage leads to regurgitation. Over ensuing years, usually as a result of recurrent episodes, leaflet thickening, scarring, calcification and eventually valvular stenosis may develop.' (Book p66)"
+  },
+  {
+   "id": "MED-C11-17",
+   "sec": "RF: Heart Involvement",
+   "page": 66,
+   "fmt": "recall",
+   "q": "The characteristic manifestation of carditis in previously unaffected individuals (Book p66) is:",
+   "opts": [
+    "MS, sometimes accompanied by TS",
+    "AR alone",
+    "PS with TR",
+    "MR, sometimes accompanied by AR"
+   ],
+   "ans": 3,
+   "exp": "Book p66 RF point 6d: 'The characteristic manifestation of carditis in previously unaffected individuals is MR, sometimes accompanied by AR.' (Book p66)"
+  },
+  {
+   "id": "MED-C11-18",
+   "sec": "RF: Heart Involvement",
+   "page": 66,
+   "fmt": "recall",
+   "q": "Myocarditis in ARF may lead to ____ and ____, per Book p66.",
+   "opts": [
+    "first degree AV block; softening of S1",
+    "third degree AV block; loss of S2",
+    "first degree AV block; accentuation of S1",
+    "second degree AV block; an S3 gallop"
+   ],
+   "ans": 0,
+   "exp": "Book p66 RF point 6e: 'Myocarditis — may lead to first degree AV block and softening of S1.' (Book p66)"
+  },
+  {
+   "id": "MED-C11-19",
+   "sec": "RF: Heart Involvement",
+   "page": 66,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements correctly reflects the ARF heart-involvement section on Book p66?",
+   "opts": [
+    "False: endocardium, myocardium or pericardium may be involved in ARF carditis",
+    "True: up to 60% of ARF patients progress to RHD",
+    "True: isolated aortic valve involvement is common in ARF",
+    "False: early valvular damage leads to regurgitation"
+   ],
+   "ans": 1,
+   "exp": "Book p66: 6a — up to 60% of ARF patients progress to RHD and endocardium/myocardium/pericardium may be involved; 6b — isolated aortic involvement is rare; 6c — early damage leads to regurgitation. (Book p66)"
+  },
+  {
+   "id": "MED-C11-20",
+   "sec": "RF: Joint Involvement",
+   "page": 67,
+   "fmt": "match",
+   "q": "Match the five joint-involvement entries of ARF on Book p67 to their detail — 1) Appearance 2) Course 3) Distribution 4) Pain 5) Drug response … A) Hot, swollen, red, tender joints and polyarthritis B) Typically migrates over a period of hours C) Large joints, asymmetric D) Severe and disabling until anti-inflammatory therapy is commenced E) Characteristically sensitive to NSAIDs/Salicylates",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-C, 2-B, 3-A, 4-D, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C"
+   ],
+   "ans": 0,
+   "exp": "Book p67 RF point 7: a. Hot, swollen, red, tender joints and polyarthritis; b. Typically migrates over a period of hours; c. Commonly affects the large joints and is asymmetric — pain severe and disabling until anti-inflammatory therapy is commenced, characteristically sensitive to NSAIDs/Salicylates. (Book p67)"
+  },
+  {
+   "id": "MED-C11-21",
+   "sec": "RF: Joint Involvement",
+   "page": 67,
+   "fmt": "scenario",
+   "q": "A child with ARF has arthritis that shifts from the knee to the ankle over a few hours, with hot, swollen, red, tender joints. Which description on Book p67 fits this course?",
+   "opts": [
+    "ARF arthritis is classically fixed in a single small joint",
+    "It typically migrates over a period of hours, commonly affects the large joints asymmetrically, and is characteristically sensitive to NSAIDs/Salicylates",
+    "ARF arthritis is symmetric and involves the DIP joints",
+    "ARF arthritis is unresponsive to anti-inflammatory therapy"
+   ],
+   "ans": 1,
+   "exp": "Book p67 RF point 7: hot, swollen, red, tender joints and polyarthritis; typically migrates over a period of hours; commonly large joints and asymmetric; severe and disabling until anti-inflammatory therapy; characteristically sensitive to NSAIDs/Salicylates. (Book p67)"
+  },
+  {
+   "id": "MED-C11-22",
+   "sec": "RF: Chorea",
+   "page": 67,
+   "fmt": "match",
+   "q": "Match the six chorea entries of ARF on Book p67 to their detail — 1) Presentation pattern 2) Carditis association 3) Head predilection 4) Distribution 5) Neuropsychiatric association 6) Duration … A) Commonly occurs in the absence of other manifestations, prolonged latent period, more common in females B) Always associated with carditis C) Characteristic darting movements of the tongue, and upper limbs D) May be generalised or restricted to one side of the body E) Emotional lability or obsessive-compulsive traits F) Usually resolves around 6 weeks, but may take up to 6 months",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D, 5-E, 6-F",
+    "1-A, 2-B, 3-E, 4-D, 5-C, 6-F",
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F",
+    "1-D, 2-B, 3-C, 4-A, 5-E, 6-F"
+   ],
+   "ans": 2,
+   "exp": "Book p67 RF point 8: a. Sydenham's chorea — absence of other manifestations, prolonged latent period, more common in females; b. Always associated with carditis; c. Head — darting tongue movements, upper limbs; d. Generalised or one side; e. Emotional lability or obsessive-compulsive traits; f. Resolves around 6 weeks, up to 6 months. (Book p67)"
+  },
+  {
+   "id": "MED-C11-23",
+   "sec": "RF: Chorea",
+   "page": 67,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements correctly reflects the chorea section on Book p67?",
+   "opts": [
+    "True: Sydenham's chorea is more common in females",
+    "False: chorea is always associated with carditis",
+    "True: chorea most often first affects the distal lower limbs",
+    "False: chorea itself usually resolves around 6 weeks, but may take up to 6 months"
+   ],
+   "ans": 0,
+   "exp": "Book p67 RF point 8a–f: Sydenham's chorea more common in females with a prolonged latent period; always associated with carditis; head (darting tongue) and upper limbs; generalised or unilateral; emotional lability/OC traits; resolves around 6 weeks, up to 6 months. (Book p67)"
+  },
+  {
+   "id": "MED-C11-24",
+   "sec": "RF: Chorea",
+   "page": 67,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed features of ARF chorea on Book p67 EXCEPT:",
+   "opts": [
+    "Darting movements of the tongue",
+    "Masked facies with hypokinetic jerking",
+    "Emotional lability or obsessive-compulsive traits",
+    "Generalised or unilateral involvement"
+   ],
+   "ans": 1,
+   "exp": "Book p67 chorea entries: darting tongue/upper-limb movements, generalised or one-sided, emotional lability or obsessive-compulsive traits, always with carditis. 'Masked facies with hypokinetic jerking' is not on the list. (Book p67)"
+  },
+  {
+   "id": "MED-C11-25",
+   "sec": "RF: Skin",
+   "page": 67,
+   "fmt": "fillup",
+   "q": "Erythema marginatum on Book p67 begins as pink macules that clear ____, leaving a ____ spreading edge; the rash is evanescent, appearing and disappearing before the examiner's eyes.",
+   "opts": [
+    "centrally; serpiginous",
+    "peripherally; annular and stable",
+    "centrally; scaly",
+    "centrally; telangiectatic"
+   ],
+   "ans": 0,
+   "exp": "Book p67 RF point 9a–b: erythema marginatum begins as pink macules that clear centrally, leaving a serpiginous spreading edge; the rash is evanescent, appearing and disappearing before the examiner's eyes. (Book p67)"
+  },
+  {
+   "id": "MED-C11-26",
+   "sec": "RF: Skin",
+   "page": 67,
+   "fmt": "recall",
+   "q": "Where does erythema marginatum usually occur, per Book p67?",
+   "opts": [
+    "Face and neck, sometimes the trunk",
+    "Trunk, sometimes the limbs, but almost never the face",
+    "Palms and soles",
+    "Face, trunk and limbs equally"
+   ],
+   "ans": 1,
+   "exp": "Book p67 RF point 9c: 'Usually occurs on the trunk, sometimes on the limbs, but almost never on the face'. (Book p67)"
+  },
+  {
+   "id": "MED-C11-27",
+   "sec": "RF: Skin",
+   "page": 67,
+   "fmt": "fillup",
+   "q": "The subcutaneous nodules of ARF on Book p67 are remembered by the 3 P's: ____, ____, and on bony prominences, lasting a few days to a few weeks.",
+   "opts": [
+    "painful; plum sized",
+    "pruritic; pea sized",
+    "painless; pulsatile",
+    "painless; pea sized"
+   ],
+   "ans": 3,
+   "exp": "Book p67 RF point 9d: 'Subcutaneous nodules — 3 P's — painless, pea sized, on bony prominences. Last for a few days to a few weeks.' (Book p67)"
+  },
+  {
+   "id": "MED-C11-28",
+   "sec": "RF: Investigations",
+   "page": 67,
+   "fmt": "match",
+   "q": "Match the ARF investigation entries on Book p67 to their condition — 1) Blood culture 2) Throat swab 3) ESR and CRP 4) WBC count … A) If febrile B) Before giving antibiotics C) Listed as entry a without a condition D) Listed as entry b without a condition",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Book p67 RF point 10: a. ESR, CRP; b. WBC count; c. Blood culture if febrile; d. Throat swab before giving antibiotics; e. ECG; f. Chest X ray. (Book p67)"
+  },
+  {
+   "id": "MED-C11-29",
+   "sec": "RF: Investigations",
+   "page": 67,
+   "fmt": "scenario",
+   "q": "A febrile child is being evaluated for ARF and antibiotics are about to start. Per the Book p67 investigation list, which sequencing rule must be respected?",
+   "opts": [
+    "ECG before the blood culture",
+    "Chest X ray before the ESR",
+    "Throat swab before giving antibiotics",
+    "WBC count only after penicillin has been started"
+   ],
+   "ans": 2,
+   "exp": "Book p67 RF point 10d: 'Throat swab before giving antibiotics' — and 10c adds blood culture if febrile. (Book p67)"
+  },
+  {
+   "id": "MED-C11-30",
+   "sec": "RF: Treatment",
+   "page": 67,
+   "fmt": "fillup",
+   "q": "The ARF antibiotic regimen on Book p67: Phenoxymethylpenicillin 500 mg PO bd / Amox 50 mg/kg daily for ____ days.",
+   "opts": [
+    "5",
+    "10",
+    "21",
+    "14"
+   ],
+   "ans": 1,
+   "exp": "Book p67 RF point 11a: 'Antibiotics — Phenoxymethylpenicillin 500mg PO bd/Amox 50 mg/kg daily for 10 days.' (Book p67)"
+  },
+  {
+   "id": "MED-C11-31",
+   "sec": "RF: Treatment",
+   "page": 67,
+   "fmt": "match",
+   "q": "Match the seven treatment entries of ARF on Book p67 to their detail — 1) Antibiotics 2) Salicylates/NSAIDs — indications 3) Salicylates/NSAIDs — no value in 4) Aspirin dosing 5) Naproxen 6) Severe carditis 7) Severe chorea … A) Phenoxymethylpenicillin 500mg PO bd / Amox 50 mg/kg daily for 10 days B) Arthritis/arthralgia/fever once the dx is confirmed C) Treatment of carditis and chorea D) 50–60 mg/kg/day up to 80–100 mg/kg/day in 4–5 divided doses E) 10–20 mg/kg/day in two divided doses, an alternative F) Steroids — controversial; prednisolone 1–2 mg/kg/day for a few days, maximum 3 weeks G) Carbamazepine; continued 1–2 weeks after symptoms subside",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D, 5-E, 6-F, 7-G",
+    "1-D, 2-B, 3-C, 4-A, 5-E, 6-F, 7-G",
+    "1-A, 2-B, 3-G, 4-D, 5-E, 6-F, 7-C",
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F, 7-G"
+   ],
+   "ans": 3,
+   "exp": "Book p67 RF point 11: a. Antibiotics (Phenoxymethylpenicillin 500mg PO bd/Amox 50 mg/kg daily x 10 days); b. Salicylates/NSAIDs for arthritis/arthralgia/fever once dx confirmed — no value in carditis and chorea — aspirin 50–60 mg/kg/day up to 80–100 mg/kg/day in 4–5 divided doses, monitor for salicylate toxicity, naproxen 10–20 mg/kg/day in two divided doses as alternative; c. Severe carditis — steroids controversial, prednisolone 1–2 mg/kg/day, max 3 weeks; d. Severe chorea — carbamazepine, response 1–2 weeks, continue 1–2 weeks after remission. (Book p67)"
+  },
+  {
+   "id": "MED-C11-32",
+   "sec": "RF: Treatment",
+   "page": 67,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements correctly reflects the salicylate/NSAID and steroid/chorea therapy on Book p67?",
+   "opts": [
+    "True: salicylates and NSAIDs are of no value in the treatment of carditis and chorea",
+    "False: aspirin is dosed at 50–60 mg/kg/day, up to 80–100 mg/kg/day in 4–5 divided doses",
+    "True: IVIg is recommended for every case of chorea",
+    "False: prednisolone for severe carditis is 1–2 mg/kg/day for a few days, maximum 3 weeks"
+   ],
+   "ans": 0,
+   "exp": "Book p67 RF point 11b–d: salicylates/NSAIDs treat arthritis/arthralgia/fever once dx is confirmed and are of no value in carditis and chorea; aspirin 50–60 mg/kg/day up to 80–100 mg/kg/day in 4–5 divided doses with salicylate-toxicity monitoring; IVIg is NOT recommended except severe chorea refractory to other treatments; prednisolone 1–2 mg/kg/day max 3 weeks for severe carditis. (Book p67)"
+  },
+  {
+   "id": "MED-C11-33",
+   "sec": "RF: Treatment",
+   "page": 67,
+   "fmt": "fillup",
+   "q": "Severe ARF chorea on Book p67 can be controlled with ____, with response possibly not seen for 1–2 weeks and the drug continued 1–2 weeks after symptoms subside; IVIg is not recommended except in ____.",
+   "opts": [
+    "phenobarbital; any chorea with carditis",
+    "haloperidol; severe chorea refractory to other treatments",
+    "carbamazepine; severe chorea refractory to other treatments",
+    "carbamazepine; chorea with emotional lability"
+   ],
+   "ans": 2,
+   "exp": "Book p67 RF point 11d: 'Severe chorea can be controlled with Carbamazepine. Response may not be seen for 1–2 weeks and the medication should be continued for 1–2 weeks after the symptoms subside… IVIg is not recommended except in severe chorea refractory to other treatments.' (Book p67)"
+  },
+  {
+   "id": "MED-C11-34",
+   "sec": "RF: Treatment",
+   "page": 67,
+   "fmt": "oddoneout",
+   "q": "All of the following are stated about salicylate/NSAID therapy in ARF on Book p67 EXCEPT:",
+   "opts": [
+    "Used to treat arthritis/arthralgia/fever once the dx is confirmed",
+    "Of no value in the treatment of carditis and chorea",
+    "Monitor for salicylate toxicity",
+    "First-line for severe carditis instead of steroids"
+   ],
+   "ans": 3,
+   "exp": "Book p67: salicylates/NSAIDs treat arthritis/arthralgia/fever once the dx is confirmed, are of no value in carditis and chorea, and salicylate toxicity must be monitored. For severe CARDITIS the note lists (controversial) steroids — salicylates are not first-line for it. (Book p67)"
+  },
+  {
+   "id": "MED-C11-35",
+   "sec": "RF: Prevention",
+   "page": 68,
+   "fmt": "fillup",
+   "q": "Per Book p68, if commenced within ____ days of sore throat onset, a complete course of penicillin prevents almost all cases of ARF from developing.",
+   "opts": [
+    "9",
+    "3",
+    "14",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "Book p68 RF point 12a.ii: 'If commenced within 9 days of sore throat onset, a complete course of penicillin will prevent almost all cases of ARF from developing.' (Book p68)"
+  },
+  {
+   "id": "MED-C11-36",
+   "sec": "RF: Prevention",
+   "page": 68,
+   "fmt": "match",
+   "q": "Match the three secondary-prophylaxis durations on Book p68 to their rule — 1) RF without carditis 2) RF with carditis but no residual valvular disease 3) RF with persistent valvular disease (clinical or subclinical) … A) 5 years after the last attack or until 21 years of age, whichever is longer B) 10 years after the last attack or until 21 years of age, whichever is longer C) 20 years after the last attack or until 40 years of age, whichever is longer",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Book p68 RF point 12b: ii. RF without carditis — 5 years or until 21 (whichever longer); iii. RF with carditis but no residual valvular disease — 10 years or until 21 (whichever longer); iv. RF with persistent valvular disease, clinically or subclinically evident — 20 years or until 40 (whichever longer). (Book p68)"
+  },
+  {
+   "id": "MED-C11-37",
+   "sec": "RF: Prevention",
+   "page": 68,
+   "fmt": "numeric",
+   "q": "The secondary prevention regimen on Book p68 is Benzathine penicillin G ____ every 4 weeks.",
+   "opts": [
+    "600,000 units",
+    "2.4 million units",
+    "1.2 million units",
+    "900,000 units"
+   ],
+   "ans": 2,
+   "exp": "Book p68 RF point 12b.i: 'Benzathine penicillin G 1.2 million units every 4 weeks.' (Book p68)"
+  },
+  {
+   "id": "MED-C11-38",
+   "sec": "RF: Prevention",
+   "page": 68,
+   "fmt": "scenario",
+   "q": "A 26-year-old with RF with carditis but no residual valvular disease had her last attack 4 years ago. Per Book p68, how long does secondary prophylaxis continue?",
+   "opts": [
+    "Until 10 years after the last attack or until 21 years of age, whichever is longer — i.e., 6 more years from the last attack",
+    "Until 5 years after the last attack or until 21 years of age, whichever is longer",
+    "Until 20 years after the last attack or until 40 years of age, whichever is longer",
+    "It stops now — prophylaxis is never required beyond age 21"
+   ],
+   "ans": 0,
+   "exp": "Book p68 point 12b.iii applies: 'RF with carditis but no residual valvular disease — for 10 years after the last attack or until 21 years of age, whichever is longer.' Last attack at age 22 -> 10 years runs to age 32, so 6 more years. (Book p68)"
+  },
+  {
+   "id": "MED-C11-39",
+   "sec": "RF: Prevention",
+   "page": 68,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements correctly reflects the prevention section on Book p68?",
+   "opts": [
+    "True: secondary prophylaxis for RF without carditis lasts 10 years or until 21 years of age",
+    "False: penicillin started within 9 days of sore throat onset prevents almost all cases of ARF",
+    "True: timely and complete treatment of group A streptococcal sore throat with antibiotics is primary prevention",
+    "False: RF with persistent valvular disease requires 20 years or until 40 years of age, whichever is longer"
+   ],
+   "ans": 2,
+   "exp": "Book p68: primary prevention = timely and complete treatment of group A streptococcal sore throat with antibiotics (within 9 days prevents almost all ARF); RF WITHOUT carditis gets 5 years/21, and persistent valvular disease gets 20 years/40. (Book p68)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U11-1",
+   "ch": 11,
+   "n": 1,
+   "title": "ASD: Symptoms, Signs & DDs — tail of the CHD section (top of Book p65)",
+   "sec": "ASD: Symptoms, Signs & DDs (top of Book p65)",
+   "guide": "Small ASDs are usually asymptomatic; large defects present with tachycardia, right/left heart failure, exertional dyspnoea.\nSigns: associated PS, wide fixed split of S2 (narrowing with pulmonary hypertension), flow ESM across the pulmonary valve, flow MDM across the mitral valve; DDs: MS with pulmonary HTN, partial anomalous pulmonary venous connections, TAPVC with a large interatrial communication without pulmonary HTN. The page closes with the stubs 'TOF and VSD from peds' and 'Facies in congenital heart disease — Nice to know'.",
+   "qs": [
+    "MED-C11-01",
+    "MED-C11-02",
+    "MED-C11-03",
+    "MED-C11-04"
+   ]
+  },
+  {
+   "id": "MED-U11-2",
+   "ch": 11,
+   "n": 2,
+   "title": "RF: Age, Cause, Pathogenesis (Book p65)",
+   "sec": "RF: Age, Cause, Pathogenesis",
+   "guide": "ARF: children aged 5–14, rare >30 years; RHD peaks 25–40 years. Cause: Group A Streptococci.\nPathogenesis: molecular mimicry — immune response targeted at streptococcal antigens (M protein and NAG) also recognises human tissues.",
+   "qs": [
+    "MED-C11-05",
+    "MED-C11-06",
+    "MED-C11-07"
+   ]
+  },
+  {
+   "id": "MED-U11-3",
+   "ch": 11,
+   "n": 3,
+   "title": "RF: RHD Statistics (Book p65)",
+   "sec": "RF: RHD Statistics",
+   "guide": "Mitral stenosis is seen in 99% of RHD cases; 40% of cases have MS with MR; isolated MS in 25%.\n38% have multi valve involvement; 35% aortic valve involvement; 6% tricuspid; the pulmonary valve is very rarely involved.",
+   "qs": [
+    "MED-C11-08",
+    "MED-C11-09",
+    "MED-C11-10"
+   ]
+  },
+  {
+   "id": "MED-U11-4",
+   "ch": 11,
+   "n": 4,
+   "title": "RF: Clinical Features (Book p66)",
+   "sec": "RF: Clinical Features",
+   "guide": "Latent period 1–5 weeks; the preceding infection is commonly subclinical but confirmable by antibody testing.\nMost common complaints: polyarthritis (60–75%), carditis (50–60%).",
+   "qs": [
+    "MED-C11-11",
+    "MED-C11-12",
+    "MED-C11-13"
+   ]
+  },
+  {
+   "id": "MED-U11-5",
+   "ch": 11,
+   "n": 5,
+   "title": "RF: Heart Involvement (Book p66)",
+   "sec": "RF: Heart Involvement",
+   "guide": "Up to 60% of ARF patients progress to RHD; endocardium/myocardium/pericardium may be involved. Mitral valve almost always affected (sometimes with aortic); isolated aortic is rare.\nEarly damage -> regurgitation, then (recurrent episodes) thickening, scarring, calcification -> stenosis; characteristic carditis in previously unaffected patients is MR +/- AR; myocarditis may cause first degree AV block and softening of S1.",
+   "qs": [
+    "MED-C11-14",
+    "MED-C11-15",
+    "MED-C11-16",
+    "MED-C11-17",
+    "MED-C11-18",
+    "MED-C11-19"
+   ]
+  },
+  {
+   "id": "MED-U11-6",
+   "ch": 11,
+   "n": 6,
+   "title": "RF: Joint Involvement (Book p67)",
+   "sec": "RF: Joint Involvement",
+   "guide": "Hot, swollen, red, tender joints and polyarthritis; typically migrates over a period of hours; large joints, asymmetric.\nPain severe and disabling until anti-inflammatory therapy; characteristically sensitive to NSAIDs/Salicylates.",
+   "qs": [
+    "MED-C11-20",
+    "MED-C11-21"
+   ]
+  },
+  {
+   "id": "MED-U11-7",
+   "ch": 11,
+   "n": 7,
+   "title": "RF: Chorea (Book p67)",
+   "sec": "RF: Chorea",
+   "guide": "Sydenham's chorea: absence of other manifestations, prolonged latent period, more common in females; ALWAYS associated with carditis.\nHead (darting tongue movements) and upper limbs; generalised or unilateral; emotional lability/obsessive-compulsive traits; resolves around 6 weeks, up to 6 months.",
+   "qs": [
+    "MED-C11-22",
+    "MED-C11-23",
+    "MED-C11-24"
+   ]
+  },
+  {
+   "id": "MED-U11-8",
+   "ch": 11,
+   "n": 8,
+   "title": "RF: Skin (Book p67)",
+   "sec": "RF: Skin",
+   "guide": "Erythema marginatum: pink macules clearing centrally with a serpiginous spreading edge; evanescent (appears/disappears before the examiner's eyes); trunk, sometimes limbs, almost never the face.\nSubcutaneous nodules — the 3 P's: painless, pea sized, on bony prominences; days to weeks.",
+   "qs": [
+    "MED-C11-25",
+    "MED-C11-26",
+    "MED-C11-27"
+   ]
+  },
+  {
+   "id": "MED-U11-9",
+   "ch": 11,
+   "n": 9,
+   "title": "RF: Investigations (Book p67)",
+   "sec": "RF: Investigations",
+   "guide": "ESR, CRP; WBC count; ECG; chest X ray.\nThe two conditional entries: blood culture if febrile, and throat swab before giving antibiotics.",
+   "qs": [
+    "MED-C11-28",
+    "MED-C11-29"
+   ]
+  },
+  {
+   "id": "MED-U11-10",
+   "ch": 11,
+   "n": 10,
+   "title": "RF: Treatment (Book p67)",
+   "sec": "RF: Treatment",
+   "guide": "Antibiotics: Phenoxymethylpenicillin 500 mg PO bd / Amox 50 mg/kg daily x 10 days. Salicylates/NSAIDs for arthritis/arthralgia/fever once dx confirmed (no value in carditis/chorea); aspirin 50–60 mg/kg/day up to 80–100 mg/kg/day in 4–5 divided doses; naproxen 10–20 mg/kg/day in two divided doses.\nSevere carditis: steroids (controversial) — prednisolone 1–2 mg/kg/day, max 3 weeks. Severe chorea: carbamazepine (1–2 weeks response, continue 1–2 weeks after remission); prednisolone 0.5 mg/kg/day with rapid weaning in very severe/refractory; IVIg not recommended except severe refractory chorea.",
+   "qs": [
+    "MED-C11-30",
+    "MED-C11-31",
+    "MED-C11-32",
+    "MED-C11-33",
+    "MED-C11-34"
+   ]
+  },
+  {
+   "id": "MED-U11-11",
+   "ch": 11,
+   "n": 11,
+   "title": "RF: Prevention (Book p68)",
+   "sec": "RF: Prevention",
+   "guide": "Primary: timely and complete treatment of group A streptococcal sore throat; penicillin within 9 days of onset prevents almost all ARF.\nSecondary: Benzathine penicillin G 1.2 MU every 4 weeks — no carditis: 5 years or until 21; carditis without residual valve disease: 10 years or until 21; persistent valvular disease: 20 years or until 40 (each 'whichever is longer').",
+   "qs": [
+    "MED-C11-35",
+    "MED-C11-36",
+    "MED-C11-37",
+    "MED-C11-38",
+    "MED-C11-39"
+   ]
+  }
+ ]
+}

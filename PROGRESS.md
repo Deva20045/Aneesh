@@ -87,8 +87,17 @@ is `stem — 1) … 2) … … A) … B) …` with bijective key options.
 - **Ch 4** — CVS - Cardiac Examination: Palpation & Auscultation, Book p37–47 · 42 questions · 8 units (match 17, scenario 9, numeric 4, recall 3, truefalse 3, fillup 3, oddoneout 2, management 1).
 - **Ch 5** — CVS - Approach to Diagnosis & the Cardiac Cycle, Book p48, 73–74 · 14 questions · 3 units (match 5, scenario 2, numeric 2, recall 1, fillup 1, oddoneout 1, truefalse 1, management 1).
 - **Ch 6** — Mitral Stenosis, Book p49–55 · 32 questions · 6 units (match 11, scenario 6, recall 3, fillup 3, numeric 3, truefalse 2, oddoneout 2, management 2).
+- **Ch 7** — Mitral Regurgitation, Book p56–57 · 24 questions · 7 units (recall 6, match 6, fillup 3, oddoneout 3, truefalse 3, scenario 3).
+- **Ch 8** — Aortic Stenosis, Book p58–61 · 38 questions · 15 units (recall 13, fillup 7, match 8, oddoneout 6, numeric 1, scenario 2, truefalse 1).
+- **Ch 9** — Aortic Regurgitation, Book p62–63 · 19 questions · 6 units (recall 4, match 4, oddoneout 3, fillup 4, scenario 2, numeric 1, truefalse 1).
+- **Ch 10** — Congenital Heart Disease, Book p64 · 18 questions · 6 units (scenario 2, recall 3, fillup 4, match 5, oddoneout 3, numeric 1).
+- **Ch 11** — Rheumatic Fever, Book p65–68 · 39 questions · 11 units (fillup 9, match 7, recall 6, numeric 5, truefalse 5, oddoneout 4, scenario 3).
+- **Ch 12** — Infective Endocarditis & 2023 Duke-ISCVID, Book p69–72 · 39 questions · 10 units (fillup 10, recall 9, oddoneout 3, match 10, scenario 2, truefalse 4, numeric 1).
+- **Ch 13** — RS - History, Symptomatology & Breathlessness Tables, Book p75–79 · 41 questions · 12 units (match 13, fillup 15, scenario 2, oddoneout 2, numeric 1, recall 7, truefalse 1).
+- **Ch 14** — RS - General Examination & Chest Wall, Book p80–92 · 61 questions · 19 units (recall 11, match 18, fillup 21, numeric 5, oddoneout 1, scenario 4, truefalse 1).
+- **Ch 15** — RS - Inspection, Palpation & Percussion, Book p93–97 · 34 questions · 11 units (recall 6, match 12, fillup 9, scenario 4, truefalse 1, oddoneout 1, numeric 1).
 
-**NEXT:** Ch 7 — Mitral Regurgitation, Book p56–57 (includes Harrison's Table 264-1 on p56).
+**NEXT:** Ch 16 — RS - Auscultation, Breath Sounds & Crackles, Book p98–104.
 
 | Ch | Title | Book pages | Status |
 |---:|---|---:|---|
@@ -98,16 +107,16 @@ is `stem — 1) … 2) … … A) … B) …` with bijective key options.
 | 4 | CVS - Cardiac Examination: Palpation & Auscultation | 37–47 | **DONE — live** |
 | 5 | CVS - Approach to Diagnosis & the Cardiac Cycle | 48, 73–74 | **DONE — live** |
 | 6 | Mitral Stenosis | 49–55 | **DONE — live** |
-| 7 | Mitral Regurgitation | 56–57 | NEXT |
-| 8 | Aortic Stenosis | 58–61 | Soon |
-| 9 | Aortic Regurgitation | 62–63 | Soon |
-| 10 | Congenital Heart Disease | 64 | Soon |
-| 11 | Rheumatic Fever | 65–68 | Soon |
-| 12 | Infective Endocarditis & 2023 Duke-ISCVID | 69–72 | Soon |
-| 13 | RS - History, Symptomatology & Breathlessness Tables | 75–79 | Soon |
-| 14 | RS - General Examination & Chest Wall | 80–92 | Soon |
-| 15 | RS - Inspection, Palpation & Percussion | 93–97 | Soon |
-| 16 | RS - Auscultation, Breath Sounds & Crackles | 98–104 | Soon |
+| 7 | Mitral Regurgitation | 56–57 | **DONE — live** |
+| 8 | Aortic Stenosis | 58–61 | **DONE — live** |
+| 9 | Aortic Regurgitation | 62–63 | **DONE — live** |
+| 10 | Congenital Heart Disease | 64 | **DONE — live** |
+| 11 | Rheumatic Fever | 65–68 | **DONE — live** |
+| 12 | Infective Endocarditis & 2023 Duke-ISCVID | 69–72 | **DONE — live** |
+| 13 | RS - History, Symptomatology & Breathlessness Tables | 75–79 | **DONE — live** |
+| 14 | RS - General Examination & Chest Wall | 80–92 | **DONE — live** |
+| 15 | RS - Inspection, Palpation & Percussion | 93–97 | **DONE — live** |
+| 16 | RS - Auscultation, Breath Sounds & Crackles | 98–104 | NEXT |
 | 17 | RS - Clubbing, Lung Lymphatics & TB/Pneumonia Protocols | 105–107 | Soon |
 | 18 | RS - Consolidation, Collapse, Fibrosis & Cavity | 108–109 | Soon |
 | 19 | RS - Pleural Effusion & Empyema | 110–111 | Soon |
@@ -183,6 +192,51 @@ is `stem — 1) … 2) … … A) … B) …` with bijective key options.
    JavaScript parsers, and `validate_content.py --embedded` confirms the HTML
    arrays equal `data/ch01.json` with the roadmap flags (Chapter 1 `live: true`,
    the other 50 chapters `"Soon"`).
+
+## Release — Chapters 7–15 (Book p56–97)
+
+| Ch | Title | Book pages | Questions | Units |
+|---:|---|---:|---:|---:|
+| 7 | Mitral Regurgitation | 56–57 | 24 | 7 |
+| 8 | Aortic Stenosis | 58–61 | 38 | 15 |
+| 9 | Aortic Regurgitation | 62–63 | 19 | 6 |
+| 10 | Congenital Heart Disease | 64 | 18 | 6 |
+| 11 | Rheumatic Fever | 65–68 | 39 | 11 |
+| 12 | Infective Endocarditis & 2023 Duke-ISCVID | 69–72 | 39 | 10 |
+| 13 | RS - History, Symptomatology & Breathlessness Tables | 75–79 | 41 | 12 |
+| 14 | RS - General Examination & Chest Wall | 80–92 | 61 | 19 |
+| 15 | RS - Inspection, Palpation & Percussion | 93–97 | 34 | 11 |
+
+### Quality and ordering contract delivered (same pipeline as Ch 1–6)
+
+1. Every page of p56–97 was read in printed order — text layer plus 2× renders —
+   and the image-only or text-poor pages (p73–74, p84, p87, p90, and the p88/p89/
+   p91–p94 partial layers) were read from their renders. The point → question
+   read records are `audit/READ_NOTES_07.md` … `audit/READ_NOTES_15.md`.
+2. 313 new points are inventoried in `audit/coverage.json` (687 total across the
+   15 live chapters), one per question, in book order. No page in 56–97 is skipped
+   and no question is placed on a page that does not carry it; the strict
+   printed-page ordering is asserted by `validate_content.py`.
+3. Formats are mixed per chapter (recall, fillup, match, truefalse, scenario,
+   oddoneout, numeric) with answer positions deliberately spread, and distractors
+   are same-category medical alternatives — e.g. Goodpasture beside Wegener's in
+   the haemoptysis-vascular match, tularaemia beside NHL/syphilis/sarcoidosis in
+   the epitrochlear-node list, mesothelioma beside fibrosis in the same-side
+   tracheal shift, "thoracic aorta" beside arch/abdominal aorta in the Oliver's
+   false-positive comparison.
+4. Whole tables became multi-row questions: the classic Duke p69 and the 2023
+   management-by-type table, the BPG duration matrix, the p90 vs p92 Oliver's
+   sign entries, the five-row VR/VF-percussion pathology table, the nine-area
+   percussion map, the Grocco's-triangle red box, and Box 19.8 acute
+   breathlessness differentials.
+5. Line-to-line coverage held even where the book contradicts itself: the
+   p90/p92 Oliver's sign false-positive nuance (arch vs abdominal aorta) is
+   asked as a comparison question rather than silently averaged.
+6. `validate_content.py` passes on schema, sequence, inventory and the app's own
+   JavaScript parsers (including the match-bijection gate), and
+   `validate_content.py --embedded` confirms `pulse-aneesh.html` equals
+   `data/ch07.json`…`data/ch15.json` with the roadmap flags (Ch 1–15 `live`,
+   Ch 16–51 `Soon`).
 
 ## Build and check locally
 

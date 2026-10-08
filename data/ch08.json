@@ -1,0 +1,767 @@
+{
+ "chapter": 8,
+ "title": "Aortic Stenosis",
+ "pageRange": "58-61",
+ "questions": [
+  {
+   "id": "MED-C8-01",
+   "sec": "MR Treatment (top of Book p58)",
+   "page": 58,
+   "fmt": "recall",
+   "q": "The MR treatment section ('7. Mx') that closes at the top of Book p58 states what about medical management?",
+   "opts": [
+    "Same as MS; vasodilators in severe cases may help in reducing R",
+    "Digitalisation is mandatory in all severe cases",
+    "Vasodilators are contraindicated in severe MR",
+    "Diuretics only, with no role for vasodilators"
+   ],
+   "ans": 0,
+   "exp": "Book p58 (top): MR Medical = 'same as MS. Vasodilators in severe cases may help in reducing R'. (Book p58)"
+  },
+  {
+   "id": "MED-C8-02",
+   "sec": "MR Treatment (top of Book p58)",
+   "page": 58,
+   "fmt": "fillup",
+   "q": "Per the MR surgical line at the top of Book p58, surgery is MVR under open heart surgery, sometimes by ____ or ____.",
+   "opts": [
+    "mitral valvuloplasty; annuloplasty",
+    "Ross procedure; transcatheter aortic valve replacement",
+    "percutaneous aortic balloon valvuloplasty; TAVR",
+    "tricuspid valvuloplasty; aortic annuloplasty"
+   ],
+   "ans": 0,
+   "exp": "Book p58 (top): MR Sx = 'MVR under open heart surgery, sometimes by Mitral valvuloplasty or annuloplasty'. (Book p58)"
+  },
+  {
+   "id": "MED-C8-03",
+   "sec": "Anatomic Classification of Aortic Stenosis",
+   "page": 58,
+   "fmt": "match",
+   "q": "Match the three levels of the 'Aortic Stenosis — Classified into' list on Book p58 to how the note treats each — 1) Supravalvular 2) Valvular 3) Subvalvular — hypertrophic entry 4) Subvalvular — fixed entry … A) Fixed fibrotic subvalvular stenosis B) The level with no sub-entry on p58 (detailed later in the notes) C) The level covered by the 'Valvular aortic stenosis' subsection D) Hypertrophic subaortic stenosis (HOCM)",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Book p58: 'Aortic Stenosis — Classified into 1. Supravalvular 2. Valvular 3. Subvalvular (a. Hypertrophic subaortic stenosis (HOCM), b. Fixed fibrotic subvalvular stenosis)'. Only Valvular has an immediate subsection ('Valvular aortic stenosis') on p58. (Book p58)"
+  },
+  {
+   "id": "MED-C8-04",
+   "sec": "Valvular AS: Causes",
+   "page": 58,
+   "fmt": "recall",
+   "q": "Which statement about the causes of valvular aortic stenosis on Book p58 is correct?",
+   "opts": [
+    "Rheumatic heart disease — almost always associated with mitral valve involvement along with aortic regurgitation",
+    "Congenital bicuspid mitral valve disease",
+    "Mitral annular calcification",
+    "Hypertrophic subaortic stenosis (HOCM) is the commonest valvular cause"
+   ],
+   "ans": 0,
+   "exp": "Book p58 valvular AS causes: a. Rheumatic heart disease — 'Almost always associated with mitral valve involvement along with aortic regurgitation'; b. Congenital anomalies — bicuspid or unicuspid AORTIC valve; c. Degenerative calcific stenosis. HOCM is a subvalvular, not valvular, lesion. (Book p58)"
+  },
+  {
+   "id": "MED-C8-05",
+   "sec": "Valvular AS: Causes",
+   "page": 58,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of valvular aortic stenosis on Book p58 EXCEPT:",
+   "opts": [
+    "Congenital anomalies — bicuspid or unicuspid aortic valve",
+    "Degenerative calcific stenosis",
+    "Rheumatic heart disease with mitral valve involvement",
+    "Papillary muscle rupture"
+   ],
+   "ans": 3,
+   "exp": "Book p58 lists exactly three valvular AS causes: rheumatic heart disease (with mitral involvement + AR), congenital anomalies (bicuspid or unicuspid aortic valve) and degenerative calcific stenosis. Papillary muscle rupture causes acute MR, not AS. (Book p58)"
+  },
+  {
+   "id": "MED-C8-06",
+   "sec": "Valvular AS: Classification by Valve Area",
+   "page": 58,
+   "fmt": "fillup",
+   "q": "In the valve-area classification on Book p58 (normal valve area 3–4 cm²), severe AS is a valve area of ____, moderate AS ____, and mild AS ____.",
+   "opts": [
+    "<1 cm²; 1–1.5 cm²; >1.5 cm²",
+    "<1.5 cm²; 1.5–2 cm²; >2 cm²",
+    "<0.8 cm²; 0.8–1.2 cm²; >1.2 cm²",
+    "<2 cm²; 2–2.5 cm²; >2.5 cm²"
+   ],
+   "ans": 0,
+   "exp": "Book p58: Classification — Normal valve area = 3–4 cm²; Severe AS <1 cm²; Moderate AS 1–1.5 cm²; Mild AS >1.5 cm². (Book p58)"
+  },
+  {
+   "id": "MED-C8-07",
+   "sec": "Valvular AS: Classification by Valve Area",
+   "page": 58,
+   "fmt": "numeric",
+   "q": "On Book p58, the normal aortic valve area is stated as ____ cm², and severe aortic stenosis is defined by a valve area below ____ cm².",
+   "opts": [
+    "3–4; 1",
+    "2–3; 1.5",
+    "4–5; 2",
+    "3–4; 0.8"
+   ],
+   "ans": 0,
+   "exp": "Book p58: 'Normal valve area = 3–4 cm²' and 'Severe AS: <1 cm²'. (Book p58)"
+  },
+  {
+   "id": "MED-C8-08",
+   "sec": "Valvular AS: Haemodynamics",
+   "page": 58,
+   "fmt": "scenario",
+   "q": "A 66-year-old man with severe aortic stenosis exerts at work and develops chest pain. Which chain on Book p58 explains his haemodynamics?",
+   "opts": [
+    "LVOT obstruction -> concentric LVH (pressure overload) -> high oxygen demand of the hypertrophied LV -> angina on exertion, with CO that can remain normal for years until the LV finally fails in systolic dysfunction",
+    "LV volume overload -> eccentric hypertrophy -> low-output state from day one",
+    "LA pressure rise -> pulmonary venous hypertension -> early left heart failure with preserved LV mass",
+    "RV failure from secondary pulmonary hypertension -> systemic venous congestion with angina"
+   ],
+   "ans": 0,
+   "exp": "Book p58 haemodynamics: LVOT obstruction causes concentric LVH (pressure overload); this maintains normal haemodynamic function for years without decline in CO, but eventually the LV fails — systolic dysfunction; the hypertrophied LV has a high oxygen demand, thus angina on exertion is common. (Book p58)"
+  },
+  {
+   "id": "MED-C8-09",
+   "sec": "Valvular AS: Haemodynamics",
+   "page": 58,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the AS haemodynamics on Book p58?",
+   "opts": [
+    "False: LVOT obstruction causes concentric left ventricular hypertrophy — a pressure overload",
+    "True: the hypertrophied LV has a high oxygen demand, so angina on exertion is common",
+    "True: the LV usually fails early, with a rapid decline in cardiac output from the start",
+    "False: AS can maintain normal haemodynamic function for years without decline in CO"
+   ],
+   "ans": 1,
+   "exp": "Book p58: LVOT obstruction -> concentric LVH (pressure overload); normal haemodynamic function is maintained for years without decline in CO before eventual LV systolic failure; the hypertrophied LV's high oxygen demand makes exertional angina common. (Book p58)"
+  },
+  {
+   "id": "MED-C8-10",
+   "sec": "Valvular AS: Symptoms",
+   "page": 58,
+   "fmt": "fillup",
+   "q": "Per Book p58, most AS presentations occur in the ____ decade (once AS becomes severe), but ____ presents sooner.",
+   "opts": [
+    "6th to 8th; bicuspid aortic valve disease",
+    "4th to 5th; degenerative calcific disease",
+    "6th to 8th; rheumatic aortic disease",
+    "5th to 6th; unicuspid valve disease"
+   ],
+   "ans": 0,
+   "exp": "Book p58: 'Most presentations occur in the 6th to 8th decade (once AS becomes severe). However, bicuspid aortic valve disease presents sooner.' (Book p58)"
+  },
+  {
+   "id": "MED-C8-11",
+   "sec": "Valvular AS: Symptoms",
+   "page": 58,
+   "fmt": "match",
+   "q": "Match the AS symptoms on Book p58 to their stated mechanism — 1) Exertional dyspnoea 2) Angina pectoris 3) Exertional syncope 4) Left heart failure + pulmonary hypertension in isolated severe AS … A) Increased pulmonary capillary pressure from increased LVEDP due to impaired relaxation of the poorly compliant hypertrophied LV B) Develops somewhat later, from increased oxygen demand C) Imbalance in vasoconstriction and vasodilation in exercising and non-exercising muscles D) Occurs very late",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Book p58 symptoms: exertional dyspnoea (increased pulmonary capillary pressure <- increased LVEDP <- impaired relaxation of the poorly compliant hypertrophied LV); angina pectoris (somewhat later, increased oxygen demand); exertional syncope (imbalance in vasoconstriction and vasodilation in exercising and non-exercising muscles); in isolated severe AS, left heart failure and pulmonary hypertension occur very late. (Book p58)"
+  },
+  {
+   "id": "MED-C8-12",
+   "sec": "Valvular AS: Symptoms",
+   "page": 58,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed symptoms of AS on Book p58 EXCEPT:",
+   "opts": [
+    "Paroxysmal nocturnal dyspnoea",
+    "Exertional dyspnoea",
+    "Angina pectoris",
+    "Exertional syncope"
+   ],
+   "ans": 0,
+   "exp": "Book p58 lists exertional dyspnoea, angina pectoris, exertional syncope, and (late) left heart failure/pulmonary hypertension in isolated severe AS. Paroxysmal nocturnal dyspnoea is not on the list. (Book p58)"
+  },
+  {
+   "id": "MED-C8-13",
+   "sec": "Valvular AS: Early Signs — Rhythm, BP, Carotid Pulse",
+   "page": 58,
+   "fmt": "recall",
+   "q": "According to Book p58, which pairing of early AS signs is correct?",
+   "opts": [
+    "Usually sinus rhythm — AF suggests associated mitral valve disease; BP usually normal early, and late, stroke volume declines so the pulse pressure falls",
+    "Usually AF — suggesting a bicuspid valve; BP falls early with a widened pulse pressure",
+    "Usually sinus rhythm — AF suggests pulmonary hypertension; stroke volume rises late",
+    "Usually AF — suggesting calcification; BP rises early with a narrowed pulse pressure"
+   ],
+   "ans": 0,
+   "exp": "Book p58 signs a–b: 'Usually sinus rhythm. AF suggests associated mitral valve disease.' and 'BP usually normal in the early stages. In the late stages, stroke volume declines so the pulse pressure falls.' (Book p58)"
+  },
+  {
+   "id": "MED-C8-14",
+   "sec": "Valvular AS: Early Signs — Rhythm, BP, Carotid Pulse",
+   "page": 58,
+   "fmt": "fillup",
+   "q": "Pulsus parvus et tardus on Book p58 is a pulse that ____.",
+   "opts": [
+    "rises slowly to a delayed peak",
+    "falls rapidly to a low nadir",
+    "peaks sharply early and collapses (water-hammer)",
+    "is absent in both carotid arteries"
+   ],
+   "ans": 0,
+   "exp": "Book p58 sign c: 'Pulsus parvus et tardus — \"rises slowly to a delayed peak\"'. (Book p58)"
+  },
+  {
+   "id": "MED-C8-15",
+   "sec": "Harrison's Table 261-1: Major Causes of Aortic Stenosis",
+   "page": 59,
+   "fmt": "recall",
+   "q": "Which of the following is listed as an etiology of aortic stenosis in Harrison's Table 261-1 (Book p59)?",
+   "opts": [
+    "Radiation",
+    "Infective endocarditis",
+    "Myxomatous degeneration",
+    "Papillary muscle dysfunction"
+   ],
+   "ans": 0,
+   "exp": "Table 261-1 on Book p59 (Valve lesion: Aortic stenosis) lists exactly four etiologies: Congenital (bicuspid, unicuspid), Degenerative calcific disease, Rheumatic fever and Radiation. (Book p59)"
+  },
+  {
+   "id": "MED-C8-16",
+   "sec": "Harrison's Table 261-1: Major Causes of Aortic Stenosis",
+   "page": 59,
+   "fmt": "match",
+   "q": "Match the four etiologies of Table 261-1 (Book p59) to their corroboration in the 'Valvular aortic stenosis' note — 1) Congenital (bicuspid, unicuspid) 2) Degenerative calcific disease 3) Rheumatic fever 4) Radiation … A) The p58 cause 'almost always associated with mitral valve involvement along with aortic regurgitation' B) The p58 cause noted to present sooner (bicuspid aortic valve disease) C) The p58 cause listed as 'degenerative calcific stenosis' D) The etiology appearing only in the Harrison's table, not in the p58 list",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Book p58's valvular causes are rheumatic (with mitral involvement + AR), congenital bicuspid/unicuspid and degenerative calcific stenosis; bicuspid aortic valve disease 'presents sooner' (p58). Radiation appears only in Table 261-1 on Book p59, not in the p58 list. (Book p59)"
+  },
+  {
+   "id": "MED-C8-17",
+   "sec": "Harrison's Table 261-1: Major Causes of Aortic Stenosis",
+   "page": 59,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT among the four etiologies of aortic stenosis in Table 261-1 (Book p59)?",
+   "opts": [
+    "Congenital (bicuspid, unicuspid)",
+    "Degenerative calcific disease",
+    "Chordal rupture",
+    "Rheumatic fever"
+   ],
+   "ans": 2,
+   "exp": "Table 261-1 on Book p59 lists Congenital (bicuspid, unicuspid), Degenerative calcific disease, Rheumatic fever and Radiation. Chordal rupture is an acute MR cause, not an AS etiology. (Book p59)"
+  },
+  {
+   "id": "MED-C8-18",
+   "sec": "Valvular AS: Auscultation & JVP Signs",
+   "page": 60,
+   "fmt": "recall",
+   "q": "The 'carotid shudder' in AS (Book p60) is:",
+   "opts": [
+    "A thrill palpable over the carotid arteries, especially over the left",
+    "A bruit best heard over the right carotid only",
+    "A thrill confined to the right carotid",
+    "Pulsus paradoxus recorded at the carotids"
+   ],
+   "ans": 0,
+   "exp": "Book p60 sign d: 'Carotid shudder — thrill palpable over the carotid arteries, especially over the left.' (Book p60)"
+  },
+  {
+   "id": "MED-C8-19",
+   "sec": "Valvular AS: Auscultation & JVP Signs",
+   "page": 60,
+   "fmt": "match",
+   "q": "Match the AS auscultatory features on Book p60 to their stated detail — 1) Soft S2 — cause i 2) Soft S2 — cause ii 3) Ejection click — typical patient 4) Ejection click — when inaudible … A) Calcification of the cusps B) Prolongation of left ventricular ejection time C) Younger patients with bicuspid aortic valve D) When the valve is calcified or rigid",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Book p60: e. Soft S2 — (i) Calcification of the cusps, (ii) Prolongation of left ventricular ejection time; i. Ejection click — audible especially in younger patients with bicuspid aortic valve, inaudible when the valve is calcified or rigid. (Book p60)"
+  },
+  {
+   "id": "MED-C8-20",
+   "sec": "Valvular AS: Auscultation & JVP Signs",
+   "page": 60,
+   "fmt": "fillup",
+   "q": "The accentuated a wave in the JVP of AS (Book p60) is the ____ effect, caused by ____.",
+   "opts": [
+    "Bernheim; diminished distensibility of the RV cavity due to the bulging, hypertrophied interventricular septum",
+    "Kussmaul; a giant v wave from tricuspid regurgitation",
+    "Müller; reduced RV compliance from pulmonary hypertension",
+    "Fresneda; RV hypertrophy with a dominant v wave"
+   ],
+   "ans": 0,
+   "exp": "Book p60 sign f: 'Accentuated a wave in JVP — Bernheim effect (diminished distensibility of the RV cavity due to the bulging, hypertrophied interventricular septum)'. (Book p60)"
+  },
+  {
+   "id": "MED-C8-21",
+   "sec": "Valvular AS: Auscultation & JVP Signs",
+   "page": 60,
+   "fmt": "recall",
+   "q": "Which is the verbatim-grade murmur description of AS on Book p60?",
+   "opts": [
+    "Low pitched, rough and rasping ejection (mid) systolic murmur, best heard in the aortic area in the sitting position with the breath held in expiration, radiating to the carotids",
+    "High pitched, blowing diastolic murmur at the apex",
+    "Soft early diastolic decrescendo murmur at the left 3rd intercostal space",
+    "Harsh pansystolic murmur at the apex radiating to the axilla"
+   ],
+   "ans": 0,
+   "exp": "Book p60 sign j: 'Low pitched, rough and rasping ejection (mid) systolic murmur, best heard in the aortic area in the sitting position with the breath held in expiration, radiating to the carotids.' (Book p60)"
+  },
+  {
+   "id": "MED-C8-22",
+   "sec": "Valvular AS: Auscultation & JVP Signs",
+   "page": 60,
+   "fmt": "recall",
+   "q": "The Gallavardin effect (Book p60) refers to:",
+   "opts": [
+    "Transmission of the AS murmur to the apex, where it is confused with MR",
+    "Splitting of S1 that mimics an aortic ejection click",
+    "Radiation of the AS murmur to the left carotid only",
+    "A diastolic rumble at the apex in severe AS"
+   ],
+   "ans": 0,
+   "exp": "Book p60 sign k: 'Gallavardin effect — transmission of AS murmur to the apex, where it is confused with MR.' (Book p60)"
+  },
+  {
+   "id": "MED-C8-23",
+   "sec": "Valvular AS: Investigations",
+   "page": 60,
+   "fmt": "fillup",
+   "q": "In the AS investigation list on Book p60, the only entry given an elaborated finding is the ____, which shows ____.",
+   "opts": [
+    "ECG; LVH",
+    "Chest X ray; boot-shaped heart",
+    "Doppler echo; mean transvalvular gradient",
+    "Cardiac catheterisation; equalised transvalvular pressures"
+   ],
+   "ans": 0,
+   "exp": "Book p60 investigations: a. ECG — LVH; b. Doppler Echo; c. Chest X Ray; d. Cardiac catheterisation (the last three listed without elaborated findings). (Book p60)"
+  },
+  {
+   "id": "MED-C8-24",
+   "sec": "Valvular AS: Investigations",
+   "page": 60,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed investigations for AS on Book p60 EXCEPT:",
+   "opts": [
+    "Doppler Echo",
+    "Cardiac catheterisation",
+    "24-hour Holter monitoring",
+    "Chest X Ray"
+   ],
+   "ans": 2,
+   "exp": "Book p60 lists ECG (LVH), Doppler Echo, Chest X Ray and Cardiac catheterisation. Holter monitoring is not on the list. (Book p60)"
+  },
+  {
+   "id": "MED-C8-25",
+   "sec": "Valvular AS: Treatment",
+   "page": 60,
+   "fmt": "match",
+   "q": "Match the AS treatment entries on Book p60 to their detail — 1) Medical — severe AS 2) Medical — asymptomatic patients 3) Serial Echo 4) Surgical indication i 5) Surgical indication ii 6) Surgical indication iii 7) Surgical indication iv … A) Avoid strenuous physical activity B) ACE inhibitors and beta blockers can be given C) A surveillance tool under the medical arm D) Symptomatic severe AS E) LV systolic dysfunction F) Bicuspid aortic valve disease G) Aneurysmal root or ascending aorta",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D, 5-E, 6-F, 7-G",
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F, 7-G",
+    "1-B, 2-A, 3-C, 4-D, 5-E, 6-F, 7-G",
+    "1-A, 2-B, 3-G, 4-D, 5-E, 6-F, 7-C"
+   ],
+   "ans": 1,
+   "exp": "Book p60 treatment: Medical — (i) in severe AS avoid strenuous physical activity; (ii) ACE inhibitors and beta blockers can be given to asymptomatic patients; (iii) serial Echo. Surgical indications: 1. Symptomatic severe AS, 2. LV systolic dysfunction, 3. Bicuspid aortic valve disease, 4. Aneurysmal root or ascending aorta. (Book p60)"
+  },
+  {
+   "id": "MED-C8-26",
+   "sec": "Valvular AS: Treatment",
+   "page": 60,
+   "fmt": "recall",
+   "q": "The Ross procedure in AS (Book p60) is best described as:",
+   "opts": [
+    "Replacement of the aortic valve with the autologous pulmonic valve and implantation of a prosthetic pulmonic valve — use has declined because of post-op complications and complexity",
+    "Replacement of the aortic valve with a cadaveric homograft",
+    "Replacement of the pulmonic valve with the autologous aortic valve",
+    "Transcatheter valve-in-valve implantation across a degenerated prosthesis"
+   ],
+   "ans": 0,
+   "exp": "Book p60: 'Ross procedure — replacement of the aortic valve with autologous pulmonic valve and implantation of a prosthetic pulmonic valve. Use has declined because of post op complications and complexity of the procedure.' (Book p60)"
+  },
+  {
+   "id": "MED-C8-27",
+   "sec": "Valvular AS: Treatment",
+   "page": 60,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed under AS surgical treatment on Book p60 EXCEPT:",
+   "opts": [
+    "Ross procedure",
+    "Percutaneous aortic balloon valvuloplasty",
+    "Mitral annuloplasty with a rigid ring",
+    "Transcatheter aortic valve replacement"
+   ],
+   "ans": 2,
+   "exp": "Book p60 surgical options: Ross procedure, Percutaneous Aortic balloon valvuloplasty and Transcatheter Aortic valve replacement (plus the four indications). Mitral annuloplasty belongs to MR surgery, not AS. (Book p60)"
+  },
+  {
+   "id": "MED-C8-28",
+   "sec": "Valvular AS: Determinants of Severity",
+   "page": 60,
+   "fmt": "match",
+   "q": "Match the three determinants of AS severity on Book p60 to their stated explanation — 1) Single second heart sound 2) Pulsus parvus et tardus 3) Louder and later peaking murmur … A) Due to LV systole prolongation B) The slowly rising, delayed-peak carotid pulse C) A murmur that grows louder and peaks later",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p60 'Determinants of severity': a. Single second heart sound — due to LV systole prolongation; b. Pulsus parvus et tardus; c. Louder and later peaking murmur. (Book p60)"
+  },
+  {
+   "id": "MED-C8-29",
+   "sec": "Supravalvular Aortic Stenosis",
+   "page": 61,
+   "fmt": "recall",
+   "q": "The usual cause of supravalvular aortic stenosis on Book p61 is:",
+   "opts": [
+    "A localised discrete narrowing above the sinuses of Valsalva",
+    "A diffuse coarctation below the left subclavian artery",
+    "A bicuspid aortic valve with a raphe",
+    "Fibromuscular dysplasia of the aortic arch"
+   ],
+   "ans": 0,
+   "exp": "Book p61, Supravalvular AS point 1: 'Usually caused due to a localised discrete narrowing above the sinuses of Valsalva.' (Book p61)"
+  },
+  {
+   "id": "MED-C8-30",
+   "sec": "Supravalvular Aortic Stenosis",
+   "page": 61,
+   "fmt": "recall",
+   "q": "In supravalvular AS (Book p61), the area of highest murmur intensity is:",
+   "opts": [
+    "The right 2nd intercostal space",
+    "The apex, radiating to the axilla",
+    "Either the suprasternal notch or the first right interspace",
+    "The left 3rd intercostal space at the sternal border"
+   ],
+   "ans": 2,
+   "exp": "Book p61, Supravalvular AS point 2: 'The area of highest intensity of the murmur is either the suprasternal notch or the first right interspace.' (Right 2nd ICS is the VALVULAR AS site on p61's table.) (Book p61)"
+  },
+  {
+   "id": "MED-C8-31",
+   "sec": "Supravalvular Aortic Stenosis",
+   "page": 61,
+   "fmt": "recall",
+   "q": "In supravalvular AS (Book p61), the murmur radiation is:",
+   "opts": [
+    "More towards the left carotid as opposed to the right",
+    "More towards the right carotid as opposed to the left",
+    "Equally to both carotids",
+    "Downwards towards the back rather than to the neck"
+   ],
+   "ans": 1,
+   "exp": "Book p61, Supravalvular AS point 2 (and its aortic-arch diagram marked 'more towards R side'): radiation is more towards the RIGHT carotid as opposed to the left. (Book p61)"
+  },
+  {
+   "id": "MED-C8-32",
+   "sec": "Supravalvular Aortic Stenosis",
+   "page": 61,
+   "fmt": "match",
+   "q": "Match the supravalvular AS features on Book p61 to their detail — 1) Anatomical site 2) Auscultatory site 3) Carotid radiation 4) Associated features 5) Arm and carotid pulse and BP 6) Ejection click … A) Hypercalcaemia, elfin facies — wide set eyes, upturned nose, small chin, patulous lips, deep husky voice B) Almost never associated C) Stronger in the right arm and carotid as opposed to the left D) Localised discrete narrowing above the sinuses of Valsalva E) Suprasternal notch or first right interspace F) More towards the right carotid as opposed to the left",
+   "opts": [
+    "1-D, 2-E, 3-F, 4-A, 5-C, 6-B",
+    "1-D, 2-F, 3-E, 4-A, 5-C, 6-B",
+    "1-D, 2-E, 3-B, 4-A, 5-C, 6-F",
+    "1-E, 2-D, 3-F, 4-A, 5-C, 6-B"
+   ],
+   "ans": 0,
+   "exp": "Book p61 Supravalvular AS: 1. localised discrete narrowing above the sinuses of Valsalva; 2. highest intensity at suprasternal notch or first right interspace, radiation more towards the right carotid; 3. a/w hypercalcaemia, elfin facies (wide set eyes, upturned nose, small chin, patulous lips, deep husky voice); 4. stronger pulse and BP in the right arm and carotid; 5. murmur almost never associated with an ejection click. (Book p61)"
+  },
+  {
+   "id": "MED-C8-33",
+   "sec": "Supravalvular Aortic Stenosis",
+   "page": 61,
+   "fmt": "fillup",
+   "q": "The elfin facies listed with supravalvular AS on Book p61 comprises wide set eyes, ____, ____, patulous lips and a ____.",
+   "opts": [
+    "upturned nose; small chin; deep husky voice",
+    "flattened nasal bridge; retrognathia; hoarse whispering voice",
+    "low-set ears; broad nasal tip; stridulous voice",
+    "widely spaced teeth; prominent chin; nasal twang"
+   ],
+   "ans": 0,
+   "exp": "Book p61 point 3: 'a/w Hypercalcaemia, elfin facies — wide set eyes, upturned nose, small chin, patulous lips, deep husky voice'. (Book p61)"
+  },
+  {
+   "id": "MED-C8-34",
+   "sec": "HOCM",
+   "page": 61,
+   "fmt": "recall",
+   "q": "The defining structural abnormality of HOCM on Book p61 is:",
+   "opts": [
+    "Disproportionate and asymmetric thickening of the IV septum",
+    "Symmetric thickening of both ventricular walls",
+    "Apical hypertrophy of the left ventricle",
+    "Thinning with aneurysmal dilatation of the IV septum"
+   ],
+   "ans": 0,
+   "exp": "Book p61 HOCM point 1: 'Disproportionate and asymmetric thickening of the IV septum.' (Book p61)"
+  },
+  {
+   "id": "MED-C8-35",
+   "sec": "HOCM",
+   "page": 61,
+   "fmt": "scenario",
+   "q": "A 24-year-old with HOCM develops exertional syncope. Per Book p61, what is the mechanism of his LVOT obstruction?",
+   "opts": [
+    "The septum bulges in systole and draws the anterior mitral leaflet medially, obstructing the LVOT",
+    "The posterior mitral leaflet is drawn anteriorly into the aortic root",
+    "Hypertrophied papillary muscles obstruct the outflow",
+    "Dynamic subaortic narrowing from chordal shortening"
+   ],
+   "ans": 0,
+   "exp": "Book p61 HOCM point 2: 'As it bulges in systole, it draws the anterior mitral leaflet medially, thus causing LVOT obstruction.' (Book p61)"
+  },
+  {
+   "id": "MED-C8-36",
+   "sec": "HOCM",
+   "page": 61,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed on Book p61 as manoeuvres that INCREASE the HOCM murmur by decreasing left ventricular size EXCEPT:",
+   "opts": [
+    "Inspiration",
+    "Tachycardia",
+    "Squatting itself (without standing up after)",
+    "Amyl nitrite"
+   ],
+   "ans": 2,
+   "exp": "Book p61 HOCM point 3: the murmur increases with manoeuvres that decrease LV size 'like inspiration, tachycardia, amyl nitrite, standing after squatting' — the list specifies STANDING AFTER squatting, not squatting itself. (Book p61)"
+  },
+  {
+   "id": "MED-C8-37",
+   "sec": "HOCM",
+   "page": 61,
+   "fmt": "recall",
+   "q": "Which pulse-and-impulse findings can occur in HOCM per Book p61?",
+   "opts": [
+    "A bifid pulse and a double or triple apical impulse",
+    "A collapsing water-hammer pulse with a single apical impulse",
+    "Pulsus paradoxus with an absent apical impulse",
+    "A dicrotic pulse with a laterally displaced apex"
+   ],
+   "ans": 0,
+   "exp": "Book p61 HOCM points 4–5: 'Can have a bifid pulse' and 'Can have double or triple apical impulse'. (Book p61)"
+  },
+  {
+   "id": "MED-C8-38",
+   "sec": "AS vs PS: Comparison Table",
+   "page": 61,
+   "fmt": "match",
+   "q": "Match the four rows of the AS-vs-PS comparison table on Book p61 to their entries — 1) Murmur best heard at 2) Effect of inspiration 3) Standing 4) Ejection click … A) AS: Right 2nd ICS; PS: left sternal border B) AS: murmur intensity decreases; PS: increases C) PS: makes the PS murmur louder on inspiration D) AS: may be present; PS: may be present, but disappears in inspiration",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Book p61 table: Murmur best heard at — AS Right 2nd ICS, PS left sternal border; Effect of inspiration — AS murmur intensity decreases, PS increases; Standing — (AS cell blank) PS makes the PS murmur louder on inspiration; Ejection click — AS may be present, PS may be present but disappears in inspiration. (Book p61)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U8-1",
+   "ch": 8,
+   "n": 1,
+   "title": "MR Treatment — tail of the MR note (top of Book p58)",
+   "sec": "MR Treatment (top of Book p58)",
+   "guide": "The MR '7. Mx' section closes at the top of Book p58: Medical = same as MS; vasodilators in severe cases may help in reducing R.\nSurgical = MVR under open heart surgery, sometimes by mitral valvuloplasty or annuloplasty.",
+   "qs": [
+    "MED-C8-01",
+    "MED-C8-02"
+   ]
+  },
+  {
+   "id": "MED-U8-2",
+   "ch": 8,
+   "n": 2,
+   "title": "Anatomic Classification of Aortic Stenosis (Book p58)",
+   "sec": "Anatomic Classification of Aortic Stenosis",
+   "guide": "Aortic stenosis is classified into 1. Supravalvular, 2. Valvular, 3. Subvalvular (a. Hypertrophic subaortic stenosis — HOCM; b. Fixed fibrotic subvalvular stenosis).\nOnly the Valvular level opens the 'Valvular aortic stenosis' subsection on p58; the other two are detailed on p61.",
+   "qs": [
+    "MED-C8-03"
+   ]
+  },
+  {
+   "id": "MED-U8-3",
+   "ch": 8,
+   "n": 3,
+   "title": "Valvular AS: Causes (Book p58)",
+   "sec": "Valvular AS: Causes",
+   "guide": "Three causes: rheumatic heart disease (almost always with mitral valve involvement + aortic regurgitation), congenital anomalies (bicuspid or unicuspid aortic valve), degenerative calcific stenosis.\nRheumatic AS is therefore never 'isolated' — the mitral valve is involved along with aortic regurgitation.",
+   "qs": [
+    "MED-C8-04",
+    "MED-C8-05"
+   ]
+  },
+  {
+   "id": "MED-U8-4",
+   "ch": 8,
+   "n": 4,
+   "title": "Valvular AS: Classification by Valve Area (Book p58)",
+   "sec": "Valvular AS: Classification by Valve Area",
+   "guide": "Normal valve area = 3–4 cm². Severe AS <1 cm²; Moderate AS 1–1.5 cm²; Mild AS >1.5 cm².\nSeverity is graded strictly by valve area on p58, before any haemodynamic discussion.",
+   "qs": [
+    "MED-C8-06",
+    "MED-C8-07"
+   ]
+  },
+  {
+   "id": "MED-U8-5",
+   "ch": 8,
+   "n": 5,
+   "title": "Valvular AS: Haemodynamics (Book p58)",
+   "sec": "Valvular AS: Haemodynamics",
+   "guide": "LVOT obstruction -> concentric LVH (pressure overload); normal haemodynamic function for years without decline in CO, then eventual LV systolic dysfunction.\nThe hypertrophied LV has a high oxygen demand, so angina on exertion is common.",
+   "qs": [
+    "MED-C8-08",
+    "MED-C8-09"
+   ]
+  },
+  {
+   "id": "MED-U8-6",
+   "ch": 8,
+   "n": 6,
+   "title": "Valvular AS: Symptoms (Book p58)",
+   "sec": "Valvular AS: Symptoms",
+   "guide": "Presentation in the 6th–8th decade once severe (bicuspid disease presents sooner): exertional dyspnoea, angina pectoris (somewhat later), exertional syncope.\nIn isolated severe AS, left heart failure and pulmonary hypertension occur very late.",
+   "qs": [
+    "MED-C8-10",
+    "MED-C8-11",
+    "MED-C8-12"
+   ]
+  },
+  {
+   "id": "MED-U8-7",
+   "ch": 8,
+   "n": 7,
+   "title": "Valvular AS: Early Signs — Rhythm, BP, Carotid Pulse (Book p58)",
+   "sec": "Valvular AS: Early Signs — Rhythm, BP, Carotid Pulse",
+   "guide": "Usually sinus rhythm; AF suggests associated mitral valve disease. BP usually normal early; late, stroke volume declines and pulse pressure falls.\nPulsus parvus et tardus 'rises slowly to a delayed peak'.",
+   "qs": [
+    "MED-C8-13",
+    "MED-C8-14"
+   ]
+  },
+  {
+   "id": "MED-U8-8",
+   "ch": 8,
+   "n": 8,
+   "title": "Harrison's Table 261-1: Major Causes of Aortic Stenosis (Book p59)",
+   "sec": "Harrison's Table 261-1: Major Causes of Aortic Stenosis",
+   "guide": "Inserted Harrison's table — valve lesion 'Aortic stenosis' with four etiologies: Congenital (bicuspid, unicuspid), Degenerative calcific disease, Rheumatic fever, Radiation.\nRadiation appears only in the table, not in the p58 cause list.",
+   "qs": [
+    "MED-C8-15",
+    "MED-C8-16",
+    "MED-C8-17"
+   ]
+  },
+  {
+   "id": "MED-U8-9",
+   "ch": 8,
+   "n": 9,
+   "title": "Valvular AS: Auscultation & JVP Signs (Book p60)",
+   "sec": "Valvular AS: Auscultation & JVP Signs",
+   "guide": "Carotid shudder (thrill, especially left); soft S2 (cuspal calcification, prolonged LV ejection time); accentuated JVP a wave — Bernheim effect; laterally displaced apical impulse; systolic thrill.\nEjection click (younger bicuspid patients; inaudible if calcified/rigid); low pitched rough rasping ejection (mid) systolic murmur, aortic area, sitting, breath held in expiration, radiating to carotids; Gallavardin effect (apical transmission confused with MR).",
+   "qs": [
+    "MED-C8-18",
+    "MED-C8-19",
+    "MED-C8-20",
+    "MED-C8-21",
+    "MED-C8-22"
+   ]
+  },
+  {
+   "id": "MED-U8-10",
+   "ch": 8,
+   "n": 10,
+   "title": "Valvular AS: Investigations (Book p60)",
+   "sec": "Valvular AS: Investigations",
+   "guide": "ECG — LVH; Doppler Echo; Chest X Ray; Cardiac catheterisation.\nOnly the ECG entry carries an elaborated finding (LVH); the other three are listed as-is.",
+   "qs": [
+    "MED-C8-23",
+    "MED-C8-24"
+   ]
+  },
+  {
+   "id": "MED-U8-11",
+   "ch": 8,
+   "n": 11,
+   "title": "Valvular AS: Treatment (Book p60)",
+   "sec": "Valvular AS: Treatment",
+   "guide": "Medical: severe AS — avoid strenuous physical activity; asymptomatic — ACE inhibitors and beta blockers; serial Echo.\nSurgical indications: symptomatic severe AS, LV systolic dysfunction, bicuspid aortic valve disease, aneurysmal root/ascending aorta; procedures: Ross (declined use), percutaneous aortic balloon valvuloplasty, TAVR.",
+   "qs": [
+    "MED-C8-25",
+    "MED-C8-26",
+    "MED-C8-27"
+   ]
+  },
+  {
+   "id": "MED-U8-12",
+   "ch": 8,
+   "n": 12,
+   "title": "Valvular AS: Determinants of Severity (Book p60)",
+   "sec": "Valvular AS: Determinants of Severity",
+   "guide": "Single second heart sound (LV systole prolongation), pulsus parvus et tardus, and a louder and later peaking murmur.\nThese bedside markers track worsening gradient severity as the obstruction progresses.",
+   "qs": [
+    "MED-C8-28"
+   ]
+  },
+  {
+   "id": "MED-U8-13",
+   "ch": 8,
+   "n": 13,
+   "title": "Supravalvular Aortic Stenosis (Book p61)",
+   "sec": "Supravalvular Aortic Stenosis",
+   "guide": "Localised discrete narrowing above the sinuses of Valsalva; murmur loudest at suprasternal notch/first right interspace, radiating more to the RIGHT carotid (arch diagram 'more towards R side').\na/w hypercalcaemia and elfin facies (wide set eyes, upturned nose, small chin, patulous lips, deep husky voice); stronger pulse/BP right arm and carotid; almost never with an ejection click.",
+   "qs": [
+    "MED-C8-29",
+    "MED-C8-30",
+    "MED-C8-31",
+    "MED-C8-32",
+    "MED-C8-33"
+   ]
+  },
+  {
+   "id": "MED-U8-14",
+   "ch": 8,
+   "n": 14,
+   "title": "HOCM (Book p61)",
+   "sec": "HOCM",
+   "guide": "Disproportionate asymmetric IV septal thickening; systolic bulge draws the anterior mitral leaflet medially -> LVOT obstruction (proximity-dependent).\nMurmur increases with manoeuvres that decrease LV size (inspiration, tachycardia, amyl nitrite, standing after squatting); bifid pulse; double or triple apical impulse.",
+   "qs": [
+    "MED-C8-34",
+    "MED-C8-35",
+    "MED-C8-36",
+    "MED-C8-37"
+   ]
+  },
+  {
+   "id": "MED-U8-15",
+   "ch": 8,
+   "n": 15,
+   "title": "AS vs PS: Comparison Table (Book p61)",
+   "sec": "AS vs PS: Comparison Table",
+   "guide": "Murmur best heard at — AS right 2nd ICS, PS left sternal border; inspiration — AS decreases, PS increases; standing — makes the PS murmur louder on inspiration.\nEjection click — AS may be present, PS may be present but disappears in inspiration.",
+   "qs": [
+    "MED-C8-38"
+   ]
+  }
+ ]
+}

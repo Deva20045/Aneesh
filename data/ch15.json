@@ -1,0 +1,663 @@
+{
+ "chapter": 15,
+ "title": "RS - Inspection, Palpation & Percussion",
+ "pageRange": "93-97",
+ "questions": [
+  {
+   "id": "MED-C15-01",
+   "sec": "Chest Wall Tenderness, Subcutaneous Emphysema & Fremitus",
+   "page": 93,
+   "fmt": "recall",
+   "q": "Chest wall tenderness in the respiratory system (Book p93) is seen in:",
+   "opts": [
+    "Empyema, pleuritis, infiltration of chest wall",
+    "Asthma, pneumonia, pulmonary oedema",
+    "TB, bronchiectasis, lung cancer",
+    "Pulmonary embolism, fibrosis, collapse"
+   ],
+   "ans": 0,
+   "exp": "Book p93: 'Chest wall tenderness — Empyema, pleuritis, infiltration of chest wall'. (Book p93)"
+  },
+  {
+   "id": "MED-C15-02",
+   "sec": "Chest Wall Tenderness, Subcutaneous Emphysema & Fremitus",
+   "page": 93,
+   "fmt": "recall",
+   "q": "The finding listed on Book p93 immediately after chest wall tenderness is:",
+   "opts": [
+    "cyanosis",
+    "subcutaneous emphysema",
+    "clubbing",
+    "pulsus paradoxus"
+   ],
+   "ans": 1,
+   "exp": "Book p93: the line 'Subcutaneous emphysema' follows 'Chest wall tenderness — Empyema, pleuritis, infiltration of chest wall'. (Book p93)"
+  },
+  {
+   "id": "MED-C15-03",
+   "sec": "Chest Wall Tenderness, Subcutaneous Emphysema & Fremitus",
+   "page": 93,
+   "fmt": "match",
+   "q": "Match the three fremitus types on Book p93 to their detail — 1) Vocal 2) Tactile 3) Friction … A) Increased in consolidation, decreased in effusion B) Palpable added sounds — crackles, rhonchi C) Palpable pleural rub",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Book p93 fremitus: vocal — increased in consolidation, decreased in effusion; tactile — palpable added sounds: crackles, rhonchi; friction — palpable pleural rub. (Book p93)"
+  },
+  {
+   "id": "MED-C15-04",
+   "sec": "VR/VF & Percussion: Physics",
+   "page": 93,
+   "fmt": "match",
+   "q": "Match the four physics entries on Book p93 to their detail — 1) Transmission (speed) of sound 2) Ability to vibrate 3) VR/VF measures 4) Percussion measures … A) Solid > liquid > air B) Air > liquid > solid C) The medium's ability to transmit sound (from vocal cords) D) The medium's ability to vibrate",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Book p93: transmission (speed) of sound — solid > liquid > air; ability to vibrate — air > liquid > solid; VR/VF measure the medium's ability to transmit sound (from vocal cords); percussion measures the medium's ability to vibrate. (Book p93)"
+  },
+  {
+   "id": "MED-C15-05",
+   "sec": "VR/VF & Percussion: Physics",
+   "page": 93,
+   "fmt": "fillup",
+   "q": "For lesions where the lung-to-skin distance is altered (Book p93): as distance increases, ____ of the sound produced (VF/VR/breath sound) increases, while the nature of vibration of the medium ____.",
+   "opts": [
+    "attenuation; remains the same",
+    "amplification; changes",
+    "attenuation; disappears",
+    "amplification; remains the same"
+   ],
+   "ans": 0,
+   "exp": "Book p93: 'Lesions where LUNG to SKIN distance is altered — as distance increase — more attenuation of sound produced (VF/VR/BREATH SOUND) while nature of vibration of medium remain same'. (Book p93)"
+  },
+  {
+   "id": "MED-C15-06",
+   "sec": "Pathology Table: VR/VF & Percussion",
+   "page": 94,
+   "fmt": "match",
+   "q": "Match the five pathologies in the Book p94 table to their VR/VF and percussion — 1) Consolidation 2) Hyperinflation 3) Pleural effusion 4) Pneumothorax 5) Collapse … A) Increased (fluid sound faster) — DULL (fluid vibrate less) B) Reduced (air sound slower) — RESONANT (air vibrate more) C) Reduced (lung-chest distance more) — STONY DULL D) Reduced — Resonant (air vibrate more) E) Reduced — Dull (collapse forms solid like area)",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-B, 2-A, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-D, 4-C, 5-E"
+   ],
+   "ans": 1,
+   "exp": "Book p94 table: Consolidation — fluid in parenchyma — increased — DULL; Hyperinflation — more air in parenchyma — reduced — RESONANT; Pleural effusion — fluid around lung, lung far from chest wall — reduced — STONY DULL; Pneumothorax — air around lung, lung far from chest — reduced — Resonant; Collapse — lung far from chest — reduced — Dull (collapse forms solid like area). (Book p94)"
+  },
+  {
+   "id": "MED-C15-07",
+   "sec": "Pathology Table: VR/VF & Percussion",
+   "page": 94,
+   "fmt": "fillup",
+   "q": "In the Book p94 table, consolidation is described as ____ in the parenchyma, while hyperinflation is described as ____ in the parenchyma.",
+   "opts": [
+    "more air replaced; fluid",
+    "air; fluid",
+    "fluid; air",
+    "fluid; more air replaced"
+   ],
+   "ans": 3,
+   "exp": "Book p94: consolidation — 'fluid in parenchyma'; hyperinflation — 'more air replaced in parenchyma'. (Book p94)"
+  },
+  {
+   "id": "MED-C15-08",
+   "sec": "Pathology Table: VR/VF & Percussion",
+   "page": 94,
+   "fmt": "scenario",
+   "q": "A patient shows STONY DULL percussion with reduced vocal/tactile fremitus because the lung is far from the chest wall. Per the Book p94 table, the pathology is:",
+   "opts": [
+    "consolidation",
+    "pneumothorax",
+    "collapse",
+    "pleural effusion"
+   ],
+   "ans": 3,
+   "exp": "Book p94: pleural effusion — fluid around lung + lung far from chest wall — VR/VF reduced — percussion STONY DULL. (Book p94)"
+  },
+  {
+   "id": "MED-C15-09",
+   "sec": "Pathology Table: VR/VF & Percussion",
+   "page": 94,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements is consistent with the Book p94 table?",
+   "opts": [
+    "False: pneumothorax percussion is resonant because air vibrates more",
+    "True: pneumothorax percussion is resonant because air vibrates more",
+    "True: hyperinflation increases VR/VF because air conducts sound slower",
+    "False: collapse gives a dull note because collapse forms a solid like area"
+   ],
+   "ans": 1,
+   "exp": "Book p94: pneumothorax — reduced VR/VF, percussion resonant (air vibrate more); hyperinflation — reduced VR/VF (air sound slower); collapse — dull (collapse forms solid like area). (Book p94)"
+  },
+  {
+   "id": "MED-C15-10",
+   "sec": "Pathology Table: VR/VF & Percussion",
+   "page": 94,
+   "fmt": "oddoneout",
+   "q": "In the Book p94 table, all of the following pathologies REDUCE VR/VF EXCEPT:",
+   "opts": [
+    "hyperinflation",
+    "consolidation",
+    "pleural effusion",
+    "collapse"
+   ],
+   "ans": 1,
+   "exp": "Book p94: consolidation — INCREASED VR/VF (fluid conducts sound faster); hyperinflation, pleural effusion, pneumothorax and collapse — all reduced. (Book p94)"
+  },
+  {
+   "id": "MED-C15-11",
+   "sec": "Percussion Technique & Areas",
+   "page": 95,
+   "fmt": "match",
+   "q": "Match the three percussion techniques on Book p95 to their hand position — 1) Anterior percussion 2) Posterior percussion 3) Lateral percussion … A) Hand by the side B) Head bent forward, hands on opposite shoulder C) Hands held over head",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Book p95: anterior percussion — hand by the side; posterior percussion — head bent forward, hands on opposite shoulder; lateral percussion — hands held over head. (Book p95)"
+  },
+  {
+   "id": "MED-C15-12",
+   "sec": "Percussion Technique & Areas",
+   "page": 95,
+   "fmt": "match",
+   "q": "Match the nine percussion areas in the Book p95 table to their row/limit — 1) Supraclavicular 2) Clavicular 3) Infraclavicular 4) Mammary 5) Axillary 6) Infra-axillary 7) Suprascapular 8) Interscapular 9) Infrascapular … A) 2nd row of the anterior column B) 3rd row — up to 2nd ICS C) 4th row — 2nd to 6th ICS D) 5th row — up to 4th ICS E) 6th row — 4th to 7th ICS F) 1st row of the posterior column G) 2nd row of the posterior column H) 3rd row of the posterior column I) 1st row of the anterior column",
+   "opts": [
+    "1-I, 2-A, 3-B, 4-C, 5-D, 6-E, 7-F, 8-G, 9-H",
+    "1-A, 2-I, 3-B, 4-C, 5-D, 6-E, 7-F, 8-G, 9-H",
+    "1-I, 2-A, 3-E, 4-C, 5-D, 6-B, 7-F, 8-G, 9-H",
+    "1-I, 2-A, 3-B, 4-C, 5-D, 6-E, 7-H, 8-G, 9-F"
+   ],
+   "ans": 0,
+   "exp": "Book p95 areas table — Anteriorly: supraclavicular, clavicular, infraclavicular (up to 2nd ICS), mammary (2nd to 6th ICS), axillary (up to 4th ICS), infra-axillary (4th to 7th ICS); Posteriorly: suprascapular, interscapular, infrascapular. (Book p95)"
+  },
+  {
+   "id": "MED-C15-13",
+   "sec": "Percussion Technique & Areas",
+   "page": 95,
+   "fmt": "fillup",
+   "q": "The normal upper level of liver dullness on Book p95 is the ____ ICS; if pushed down, it suggests emphysema (primary or ____).",
+   "opts": [
+    "4th; compensatory",
+    "5th; restrictive",
+    "5th; compensatory",
+    "6th; obstructive"
+   ],
+   "ans": 2,
+   "exp": "Book p95: 'Normal upper level of liver dullness is the 5th ICS. If pushed down, it suggests emphysema (Primary or compensatory)'. (Book p95)"
+  },
+  {
+   "id": "MED-C15-14",
+   "sec": "Liver Dullness, Traube's & Grocco's Triangle",
+   "page": 95,
+   "fmt": "recall",
+   "q": "In left sided pathologies, per Book p95 you should also percuss over:",
+   "opts": [
+    "Kronig's isthmus",
+    "Traube's space",
+    "Grocco's triangle",
+    "Garland's triangle"
+   ],
+   "ans": 1,
+   "exp": "Book p95: 'In left sided pathologies, percuss over Traube's space also'. (Book p95)"
+  },
+  {
+   "id": "MED-C15-15",
+   "sec": "Liver Dullness, Traube's & Grocco's Triangle",
+   "page": 95,
+   "fmt": "scenario",
+   "q": "A triangular area of dullness on percussion against the spine at the base of the OPPOSITE lung (Book p95) — its reason and significance are:",
+   "opts": [
+    "The scapula overlying the base; pathognomonic of TB",
+    "The posterior mediastinal pleura may bulge into the contralateral hemithorax in the presence of a pleural effusion — pathognomonic of pleural effusion",
+    "Lateral displacement of the heart; suggestive of pneumothorax",
+    "Depression of the diaphragm; suggests hyperinflation"
+   ],
+   "ans": 1,
+   "exp": "Book p95: Grocco's triangle — area of dullness on percussion against the spine on the base of the opposite lung (possibly due to posterior mediastinal shift); in pleural effusion the posterior mediastinal pleura may bulge into the contralateral hemithorax; pathognomonic of pleural effusion. (Book p95)"
+  },
+  {
+   "id": "MED-C15-16",
+   "sec": "Liver Dullness, Traube's & Grocco's Triangle",
+   "page": 95,
+   "fmt": "fillup",
+   "q": "The figure labels on Book p95: the ____ triangle of hyperresonance; area of compression atelectasis above ____ effusion; and massive effusion with ____ dullness.",
+   "opts": [
+    "Grocco's; small; resonant",
+    "Garland's; moderate; dull",
+    "Ellis's; massive; stony",
+    "Garland's; massive; stony"
+   ],
+   "ans": 3,
+   "exp": "Book p95 figure labels: 'Garland's triangle of hyperresonance', 'Area of compression atelectasis above massive effusion', 'Massive effusion with stony dullness' (also scapula, Grocco's triangle of dullness). (Book p95)"
+  },
+  {
+   "id": "MED-C15-17",
+   "sec": "Grocco's Triangle: The Red Box & Kronig's Isthmus",
+   "page": 96,
+   "fmt": "match",
+   "q": "Match the five entries of the Book p96 red box (Grocco's triangle detail) to their detail — 1) Position 2) Base 3) Apex 4) Internally 5) Externally … A) Triangular area of dullness at the back of chest on the healthy side B) Horizontally along the 12th rib C) At the level of upper margin of fluid on diseased side D) Vertebral line E) Line joining the apex and lateral base",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-B, 2-A, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C"
+   ],
+   "ans": 0,
+   "exp": "Book p96 red box: triangular area of dullness at the back of chest on the healthy side; base — horizontally along the 12th rib; apex — at the level of upper margin of fluid on diseased side; internally — vertebral line; externally — line joining the apex and lateral base. (Book p96)"
+  },
+  {
+   "id": "MED-C15-18",
+   "sec": "Grocco's Triangle: The Red Box & Kronig's Isthmus",
+   "page": 96,
+   "fmt": "numeric",
+   "q": "Kronig's isthmus on Book p96 is a band of resonance of ____ cm over the supraclavicular fossa.",
+   "opts": [
+    "5-7",
+    "3-5",
+    "7-9",
+    "1-3"
+   ],
+   "ans": 0,
+   "exp": "Book p96: 'Kronig's isthmus — Band of resonance 5-7 cm over the supraclavicular fossa.' (Book p96)"
+  },
+  {
+   "id": "MED-C15-19",
+   "sec": "Grocco's Triangle: The Red Box & Kronig's Isthmus",
+   "page": 96,
+   "fmt": "match",
+   "q": "Match the four borders of Kronig's isthmus on Book p96 to their detail — 1) The first listed border 2) Laterally 3) Anteriorly 4) Posteriorly … A) Scalenus medius B) Acromion process C) Clavicle D) Trapezius",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Book p96 Kronig's isthmus borders: scalenus medius; acromion process laterally; anteriorly clavicle; posteriorly trapezius. (Book p96)"
+  },
+  {
+   "id": "MED-C15-20",
+   "sec": "Grocco's Triangle: The Red Box & Kronig's Isthmus",
+   "page": 96,
+   "fmt": "fillup",
+   "q": "Kronig's isthmus percussion on Book p96 is done by standing ____ the patient, from ____ to medial, without touching the ____. An increase in size suggests emphysema; a decreased size suggests TB/apical lung tumour.",
+   "opts": [
+    "in front of; medial; scapula",
+    "behind; medial; trapezius",
+    "behind; lateral; clavicle",
+    "in front of; lateral; clavicle"
+   ],
+   "ans": 2,
+   "exp": "Book p96: 'This percussion is done by standing behind the patient, from lateral to medial; clavicle not touched. It indicates the condition of the lung apex. Increase — emphysema; decreased size — TB/apical lung tumour.' (Book p96)"
+  },
+  {
+   "id": "MED-C15-21",
+   "sec": "Grocco's Triangle: The Red Box & Kronig's Isthmus",
+   "page": 96,
+   "fmt": "recall",
+   "q": "Tidal percussion on Book p96 is used to differentiate ____ pathologies.",
+   "opts": [
+    "upper lobe vs lower lobe",
+    "infradiaphragmatic vs supradiaphragmatic",
+    "right sided vs left sided",
+    "pleural vs parenchymal"
+   ],
+   "ans": 1,
+   "exp": "Book p96: 'Tidal percussion — infradiaphragmatic vs. supradiaphragmatic pathologies.' (Book p96)"
+  },
+  {
+   "id": "MED-C15-22",
+   "sec": "Traube's Space",
+   "page": 96,
+   "fmt": "match",
+   "q": "Match the four borders/content of Traube's space on Book p96 to their detail — 1) Superiorly 2) Laterally 3) Inferiorly 4) Content … A) 6th rib B) Left midaxillary line C) Left costal margin D) Fundus of the stomach",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Book p96: Traube's space — 6th rib superiorly, left midaxillary line laterally, left costal margin inferiorly; content — fundus of the stomach. (Book p96)"
+  },
+  {
+   "id": "MED-C15-23",
+   "sec": "Traube's Space",
+   "page": 96,
+   "fmt": "match",
+   "q": "Match the five relation entries of Traube's space on Book p96 to their detail — 1) Right side 2) Left side 3) Superiorly 4) Inferiorly 5) One obliteration cause … A) Left lobe of the liver B) Spleen C) Left lung resonance D) Left costal margin E) Left pleural effusion",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-D, 4-C, 5-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-A, 2-B, 3-C, 4-D, 5-E"
+   ],
+   "ans": 3,
+   "exp": "Book p96: right side — left lobe of the liver; left side — spleen; superiorly — left lung resonance; inferiorly — left costal margin; obliterated in — left pleural effusion (among others). (Book p96)"
+  },
+  {
+   "id": "MED-C15-24",
+   "sec": "Traube's Space",
+   "page": 96,
+   "fmt": "fillup",
+   "q": "Traube's space is obliterated in left pleural effusion, massive splenomegaly, enlarged left lobe of liver, full stomach, and ____, per Book p96.",
+   "opts": [
+    "massive pericardial effusion",
+    "massive pleural thickening",
+    "left apical fibrosis",
+    "enlarged right lobe of liver"
+   ],
+   "ans": 0,
+   "exp": "Book p96: obliterated in — left pleural effusion, massive splenomegaly, enlarged left lobe of liver, full stomach, massive pericardial effusion. (Book p96)"
+  },
+  {
+   "id": "MED-C15-25",
+   "sec": "Traube's Space",
+   "page": 96,
+   "fmt": "fillup",
+   "q": "Traube's space is shifted upwards in left diaphragmatic paralysis, left lower lobe collapse, and ____, per Book p96.",
+   "opts": [
+    "fibrosis of the right lung",
+    "fibrosis of the left lung",
+    "left upper lobe pneumonia",
+    "right diaphragmatic paralysis"
+   ],
+   "ans": 1,
+   "exp": "Book p96: shifted upwards in — left diaphragmatic paralysis, left lower lobe collapse, fibrosis of left lung. (Book p96)"
+  },
+  {
+   "id": "MED-C15-26",
+   "sec": "Traube's Space",
+   "page": 96,
+   "fmt": "recall",
+   "q": "The label on the Book p96 Traube's space figure points to the 'area to percuss for ____ sign'.",
+   "opts": [
+    "Grocco's",
+    "Kronig's",
+    "Castell's",
+    "Traube's"
+   ],
+   "ans": 2,
+   "exp": "Book p96 figure (Marisa Bonofiglio): labels include sternum, (L) ANT axillary line, 6th rib, costal margin, Traube's space, and 'Area to percuss for Castell's sign'. (Book p96)"
+  },
+  {
+   "id": "MED-C15-27",
+   "sec": "Clavicular Percussion & Hydropneumothorax Signs",
+   "page": 97,
+   "fmt": "fillup",
+   "q": "In clavicular percussion on Book p97, you ____ the skin below, percuss the ____ 1/3 with the middle finger (fewer muscle attachments there), and a dull note over it represents ____ TB.",
+   "opts": [
+    "relaxed; lateral; primary",
+    "stretch; medial; secondary",
+    "stretch; lateral; secondary",
+    "relaxed; medial; reactivation"
+   ],
+   "ans": 1,
+   "exp": "Book p97: 'Percuss the clavicle — stretch the skin below. Percuss the medial 1/3 with your middle finger because there are less muscle attachments on the medial 1/3. Purpose — near the apex of the lung. So a dull note over here would represent a secondary TB.' (Book p97)"
+  },
+  {
+   "id": "MED-C15-28",
+   "sec": "Clavicular Percussion & Hydropneumothorax Signs",
+   "page": 97,
+   "fmt": "scenario",
+   "q": "You find the upper border of posterior dullness and ask the patient to lean forward (Book p97). If the dullness is seen IMMEDIATELY, it is suggestive of:",
+   "opts": [
+    "hydropneumothorax — even effusion has shifting dullness, but it will take time",
+    "simple pleural effusion — it shifts immediately",
+    "pneumothorax — the dullness disappears",
+    "consolidation — the dullness becomes fixed"
+   ],
+   "ans": 0,
+   "exp": "Book p97: 'Shifting dullness — find the upper border of posterior dullness, then ask the patient to lean forward. If the dullness is immediately seen then it is suggestive of hydropneumothorax. Even effusion will have shifting dullness, but it will take time.' (Book p97)"
+  },
+  {
+   "id": "MED-C15-29",
+   "sec": "Clavicular Percussion & Hydropneumothorax Signs",
+   "page": 97,
+   "fmt": "match",
+   "q": "Match the four hydropneumothorax findings on Book p97 to their detail — 1) Straight line dullness 2) Succussion splash 3) Silver coin sounds 4) Shifting dullness … A) Listed as a hydropneumothorax sign B) Percuss the upper limit of dullness, hug the patient and shake him — a splash like over a stomach containing air and fluid C) Hit one coin with the other, stethoscope on the back — clinking sounds audible D) Find the upper border of posterior dullness, lean forward — immediate dullness",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Book p97: straight line dullness — hydropneumothorax; succussion splash — percuss the upper limit of dullness, stethoscope just above it, hug and shake the patient, splash like stomach with air and fluid; silver coin sounds — hit one coin with the other, steth on the back, clinking audible in hydropneumothorax; shifting dullness — immediate on leaning forward. (Book p97)"
+  },
+  {
+   "id": "MED-C15-30",
+   "sec": "S shaped Curve of Ellis & the 20-Second Rule",
+   "page": 97,
+   "fmt": "scenario",
+   "q": "The S shaped curve of Ellis on Book p97 (moderate pleural effusion, uppermost dullness highest in the axilla, lowest near the spine posteriorly and sternum anteriorly) is attributed to:",
+   "opts": [
+    "negative intrapleural pressure",
+    "capillary suction between two layers of pleura",
+    "surface tension of the pleural fluid",
+    "mediastinal pull by the heart"
+   ],
+   "ans": 1,
+   "exp": "Book p97: 'S shaped curve of Ellis — seen in moderate pleural effusion. Uppermost dullness is highest in the axilla. Lowest in spine posteriorly and near sternum anteriorly. Reason — capillary suction between two layers of pleura.' (Book p97)"
+  },
+  {
+   "id": "MED-C15-31",
+   "sec": "S shaped Curve of Ellis & the 20-Second Rule",
+   "page": 97,
+   "fmt": "recall",
+   "q": "The S shaped curve of Ellis is also seen radiologically, per Book p97 believed to be due to:",
+   "opts": [
+    "scattering of X rays by the fluid",
+    "absorption by the mediastinum",
+    "reflection from the diaphragm",
+    "diffraction at the rib margins"
+   ],
+   "ans": 0,
+   "exp": "Book p97: 'Also seen radiologically, believed to be due to scattering of X rays by the fluid'. (Book p97)"
+  },
+  {
+   "id": "MED-C15-32",
+   "sec": "S shaped Curve of Ellis & the 20-Second Rule",
+   "page": 97,
+   "fmt": "fillup",
+   "q": "In shifting dullness due to hydropneumothorax, per Book p97 you don't wait ____ seconds like in ascites — in the abdomen air and fluid are in different compartments so time is needed for bowel loops to move, whereas in the lung air and fluid are in the same compartment.",
+   "opts": [
+    "10",
+    "30",
+    "20",
+    "5"
+   ],
+   "ans": 2,
+   "exp": "Book p97: 'we don't wait for 20 seconds like ascites because in the abdomen the air and fluid are in different compartments... Whereas in the lung, the air and fluid are in the same compartment so there is no need to give time for movement.' (Book p97)"
+  },
+  {
+   "id": "MED-C15-33",
+   "sec": "Vesicular Breath Sounds",
+   "page": 97,
+   "fmt": "match",
+   "q": "Match the four vesicular breath sound entries on Book p97 to their detail — 1) Pitch/nature 2) Inspiration : Expiration 3) Pause 4) Diminished VBS in … A) Low pitched, rustling in nature B) 3:1 C) No pause between end of inspiration and beginning of expiration D) Bronchial asthma (silent chest), tumour, small effusion, pleural thickening",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Book p97 vesicular breath sounds: low pitched, rustling in nature; inspiration: expiration is 3:1; no pause between end of inspiration and beginning of expiration; diminished VBS — bronchial asthma (silent chest), tumour, small effusion, pleural thickening. (Book p97)"
+  },
+  {
+   "id": "MED-C15-34",
+   "sec": "Causes of Diminished Vesicular Breathing (Box)",
+   "page": 97,
+   "fmt": "match",
+   "q": "Match the five causes of diminished vesicular breathing in the Book p97 box to their category row — 1) Obesity/thick chest wall 2) Pleural effusion or thickening 3) Pneumothorax 4) Generalised, e.g. COPD 5) Localised, e.g. collapsed lung due to occluding lung cancer … A) Reduced conduction — 1st listed B) Reduced conduction — 2nd listed C) Reduced conduction — 3rd listed D) Reduced airflow — generalised E) Reduced airflow — localised",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-B, 2-A, 3-C, 4-D, 5-E",
+    "1-A, 2-B, 3-E, 4-D, 5-C"
+   ],
+   "ans": 0,
+   "exp": "Book p97 box 'Causes of diminished vesicular breathing': Reduced conduction — obesity/thick chest wall, pleural effusion or thickening, pneumothorax; Reduced airflow — generalised, e.g. COPD; localised, e.g. collapsed lung due to occluding lung cancer. (Book p97)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U15-1",
+   "ch": 15,
+   "n": 1,
+   "title": "Chest Wall Tenderness, Subcutaneous Emphysema & Fremitus (Book p93)",
+   "sec": "Chest Wall Tenderness, Subcutaneous Emphysema & Fremitus",
+   "guide": "Chest wall tenderness — empyema, pleuritis, infiltration of chest wall; then subcutaneous emphysema.\nFremitus: vocal (increased in consolidation, decreased in effusion), tactile (crackles, rhonchi), friction (pleural rub).",
+   "qs": [
+    "MED-C15-01",
+    "MED-C15-02",
+    "MED-C15-03"
+   ]
+  },
+  {
+   "id": "MED-U15-2",
+   "ch": 15,
+   "n": 2,
+   "title": "VR/VF & Percussion: The Physics (Book p93)",
+   "sec": "VR/VF & Percussion: Physics",
+   "guide": "Transmission of sound: solid > liquid > air; ability to vibrate: air > liquid > solid.\nVR/VF measure transmission (from vocal cords); percussion measures vibration. More lung-to-skin distance = more attenuation, vibration unchanged.",
+   "qs": [
+    "MED-C15-04",
+    "MED-C15-05"
+   ]
+  },
+  {
+   "id": "MED-U15-3",
+   "ch": 15,
+   "n": 3,
+   "title": "Pathology Table: VR/VF & Percussion (Book p94)",
+   "sec": "Pathology Table: VR/VF & Percussion",
+   "guide": "Consolidation (fluid, increased, DULL) vs hyperinflation (air, reduced, RESONANT) vs pleural effusion (STONY DULL) vs pneumothorax (reduced, Resonant) vs collapse (dull, solid like area).\nOnly consolidation INCREASES VR/VF; all others reduce it.",
+   "qs": [
+    "MED-C15-06",
+    "MED-C15-07",
+    "MED-C15-08",
+    "MED-C15-09",
+    "MED-C15-10"
+   ]
+  },
+  {
+   "id": "MED-U15-4",
+   "ch": 15,
+   "n": 4,
+   "title": "Percussion Technique & Areas (Book p95)",
+   "sec": "Percussion Technique & Areas",
+   "guide": "Anterior — hand by the side; posterior — head bent forward, hands on opposite shoulder; lateral — hands over head.\nNine areas (supraclavicular -> infra-axillary 4th-7th ICS; suprascapular -> infrascapular); liver dullness normal upper level 5th ICS, pushed down = emphysema.",
+   "qs": [
+    "MED-C15-11",
+    "MED-C15-12",
+    "MED-C15-13"
+   ]
+  },
+  {
+   "id": "MED-U15-5",
+   "ch": 15,
+   "n": 5,
+   "title": "Liver Dullness, Traube's Space & Grocco's Triangle (Book p95)",
+   "sec": "Liver Dullness, Traube's & Grocco's Triangle",
+   "guide": "Left sided pathologies — also percuss Traube's space. Grocco's triangle — dullness against the spine at the base of the opposite lung,\nposterior mediastinal pleura bulging into the contralateral hemithorax — pathognomonic of pleural effusion; figure labels incl. Garland's triangle.",
+   "qs": [
+    "MED-C15-14",
+    "MED-C15-15",
+    "MED-C15-16"
+   ]
+  },
+  {
+   "id": "MED-U15-6",
+   "ch": 15,
+   "n": 6,
+   "title": "Grocco's Triangle Red Box & Kronig's Isthmus (Book p96)",
+   "sec": "Grocco's Triangle: The Red Box & Kronig's Isthmus",
+   "guide": "Red box: triangular dullness on the healthy back; base along 12th rib; apex at the upper fluid margin on the diseased side; internally vertebral line; externally apex-to-lateral-base.\nKronig's isthmus 5-7 cm (scalenus medius, acromion, clavicle, trapezius); stand behind, lateral to medial, clavicle not touched; up = emphysema, down = TB/apical tumour; tidal percussion.",
+   "qs": [
+    "MED-C15-17",
+    "MED-C15-18",
+    "MED-C15-19",
+    "MED-C15-20",
+    "MED-C15-21"
+   ]
+  },
+  {
+   "id": "MED-U15-7",
+   "ch": 15,
+   "n": 7,
+   "title": "Traube's Space (Book p96)",
+   "sec": "Traube's Space",
+   "guide": "6th rib superiorly, left midaxillary line laterally, left costal margin inferiorly; content — fundus of stomach; right side — left lobe of liver; left side — spleen.\nObliterated — effusion, splenomegaly, left lobe liver, full stomach, pericardial effusion; shifted up — diaphragmatic paralysis, left lower lobe collapse, left lung fibrosis; Castell's sign area.",
+   "qs": [
+    "MED-C15-22",
+    "MED-C15-23",
+    "MED-C15-24",
+    "MED-C15-25",
+    "MED-C15-26"
+   ]
+  },
+  {
+   "id": "MED-U15-8",
+   "ch": 15,
+   "n": 8,
+   "title": "Clavicular Percussion & Hydropneumothorax Signs (Book p97)",
+   "sec": "Clavicular Percussion & Hydropneumothorax Signs",
+   "guide": "Clavicle — stretch the skin, medial 1/3 with middle finger, dull note = secondary TB (apex).\nHydropneumothorax: shifting dullness (immediate), straight line dullness, succussion splash (hug and shake), silver coin sounds.",
+   "qs": [
+    "MED-C15-27",
+    "MED-C15-28",
+    "MED-C15-29"
+   ]
+  },
+  {
+   "id": "MED-U15-9",
+   "ch": 15,
+   "n": 9,
+   "title": "S Shaped Curve of Ellis & the 20-Second Rule (Book p97)",
+   "sec": "S shaped Curve of Ellis & the 20-Second Rule",
+   "guide": "Ellis curve — moderate pleural effusion; highest in axilla, lowest near spine/sternum; capillary suction between the two pleura layers;\nradiologically — scattering of X rays by the fluid. No 20-second wait like ascites (same compartment).",
+   "qs": [
+    "MED-C15-30",
+    "MED-C15-31",
+    "MED-C15-32"
+   ]
+  },
+  {
+   "id": "MED-U15-10",
+   "ch": 15,
+   "n": 10,
+   "title": "Vesicular Breath Sounds (Book p97)",
+   "sec": "Vesicular Breath Sounds",
+   "guide": "Low pitched, rustling; I:E = 3:1; no pause between phases.\nDiminished in — bronchial asthma (silent chest), tumour, small effusion, pleural thickening.",
+   "qs": [
+    "MED-C15-33"
+   ]
+  },
+  {
+   "id": "MED-U15-11",
+   "ch": 15,
+   "n": 11,
+   "title": "Causes of Diminished Vesicular Breathing — Box (Book p97)",
+   "sec": "Causes of Diminished Vesicular Breathing (Box)",
+   "guide": "Reduced conduction: obesity/thick chest wall, pleural effusion or thickening, pneumothorax.\nReduced airflow: generalised (COPD), localised (collapsed lung due to occluding lung cancer).",
+   "qs": [
+    "MED-C15-34"
+   ]
+  }
+ ]
+}
