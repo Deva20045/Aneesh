@@ -1,0 +1,2633 @@
+{
+ "chapter": 1,
+ "title": "General Examination",
+ "pageRange": "3-14",
+ "questions": [
+  {
+   "id": "MED-C1-01",
+   "sec": "General Examination: Overview & Vitals",
+   "page": 3,
+   "fmt": "recall",
+   "q": "The book opens general examination with 'conscious, oriented, cooperative', then build and nutrition status, then vitals. Which of the following is NOT part of the vitals as listed there?",
+   "opts": [
+    "Pulse - rate, rhythm, volume, character, delay, vessel wall thickening and peripheral pulses",
+    "Respiratory rate",
+    "Blood pressure",
+    "Levels of cervical lymph nodes Ia to VII"
+   ],
+   "ans": 3,
+   "exp": "Vitals in the book's opening section are pulse, respiratory rate, blood pressure and temperature. Lymphadenopathy is a separate general-examination step, and the Ia-VII levels are described much later, under lymphadenopathy. (Book p3)"
+  },
+  {
+   "id": "MED-C1-02",
+   "sec": "General Examination: Overview & Vitals",
+   "page": 3,
+   "fmt": "fillup",
+   "q": "Temperature must always be measured with a ____; the book warns you must not write 'afebrile' without one.",
+   "opts": [
+    "Thermometer",
+    "Palpation of forehead and trunk",
+    "Patient's own report of feeling hot",
+    "Axillary tactile comparison with the examiner's hand"
+   ],
+   "ans": 0,
+   "exp": "The instruction is categorical: always measure the temperature with a thermometer and never record 'afebrile' on the basis of feel alone - tactile assessment is unreliable. (Book p3)"
+  },
+  {
+   "id": "MED-C1-03",
+   "sec": "General Examination: Overview & Vitals",
+   "page": 3,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the general-examination headings listed in the book's opening sequence?",
+   "opts": [
+    "Pallor",
+    "Icterus",
+    "Cyanosis",
+    "Fundus examination"
+   ],
+   "ans": 3,
+   "exp": "The listed sequence runs: conscious/oriented/cooperative, build and nutrition, vitals, pallor, icterus, cyanosis, clubbing, lymphadenopathy, oedema. Fundus examination is part of systemic examination, not this general survey. (Book p3)"
+  },
+  {
+   "id": "MED-C1-04",
+   "sec": "General Examination: Overview & Vitals",
+   "page": 3,
+   "fmt": "match",
+   "q": "Match each feature of lymphadenopathy to the description the book wants reported — 1) Site and number 2) Consistency 3) Tenderness 4) Shape and matting … A) Which node groups are enlarged and how many B) Soft, firm, hard or stony hard C) Painful or painless D) Whether nodes move together as a matted unit",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "For every lymph node enlargement the book asks you to report site, number of nodes, consistency, tenderness, shape, and whether the nodes are matted; the matted quality is deliberately separated from simple shape because it carries malignancy and tuberculosis meaning. (Book p3)"
+  },
+  {
+   "id": "MED-C1-05",
+   "sec": "Temperature & its Measurement",
+   "page": 3,
+   "fmt": "numeric",
+   "q": "According to the Harrison's 19e definition quoted in the book, fever is defined by which pair of readings?",
+   "opts": [
+    "An AM temperature of >98.9°F (>37.2°C) or a PM temperature of >99.9°F (>37.7°C)",
+    "An AM temperature of >99.9°F (>37.7°C) or a PM temperature of >98.9°F (>37.2°C)",
+    "An AM temperature of >37.8°C or a PM temperature of >38.3°C",
+    "Any temperature above 37.0°C at any time of the day"
+   ],
+   "ans": 0,
+   "exp": "Fever is an AM temperature above 98.9°F (37.2°C) or a PM temperature above 99.9°F (37.7°C). The afternoon threshold is set higher precisely because normal temperature is higher later in the day. (Book p3)"
+  },
+  {
+   "id": "MED-C1-06",
+   "sec": "Temperature & its Measurement",
+   "page": 3,
+   "fmt": "numeric",
+   "q": "The normal body temperature range given in the book is:",
+   "opts": [
+    "36.0-37.0°C (96.8-98.6°F)",
+    "36.5-37.5°C (97.7-99.5°F)",
+    "37.0-38.0°C (98.6-100.4°F)",
+    "35.5-36.5°C (95.9-97.7°F)"
+   ],
+   "ans": 1,
+   "exp": "Normal body temperature is 36.5-37.5°C, that is 97.7-99.5°F. Any definition of fever has to be read against this range and against the normal daily variation. (Book p3)"
+  },
+  {
+   "id": "MED-C1-07",
+   "sec": "Temperature & its Measurement",
+   "page": 3,
+   "fmt": "recall",
+   "q": "Why is the body temperature higher in the evening?",
+   "opts": [
+    "Because the hypothalamic set point is normally reset upward at night",
+    "Because of increased basal metabolic rate and skeletal muscle activity",
+    "Because evaporative heat loss falls when the ambient temperature falls at night",
+    "Because antipyretic tone from the circadian cortisol peak is lost in the evening"
+   ],
+   "ans": 1,
+   "exp": "The book attributes the evening rise to increased basal metabolic rate and skeletal muscle activity; no set-point reset is involved, which is why the fever definition uses separate AM and PM thresholds. (Book p3)"
+  },
+  {
+   "id": "MED-C1-08",
+   "sec": "Temperature & its Measurement",
+   "page": 3,
+   "fmt": "match",
+   "q": "Match each temperature-measurement site to the book's comment — 1) Rectum 2) Lower oesophagus 3) Tympanic membrane 4) Oral cavity … A) Reading lower than rectal, attributed to mouth breathing B) Generally higher than oral readings C) Temperature closely reflects core temperature D) The third alternative site listed, with no further qualification",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Rectal temperatures are generally higher than oral readings; lower oesophageal temperatures closely reflect core temperature; the tympanic membrane is simply listed as another site; and the low oral reading is attributed to mouth breathing. (Book p3)"
+  },
+  {
+   "id": "MED-C1-09",
+   "sec": "Temperature & its Measurement",
+   "page": 3,
+   "fmt": "scenario",
+   "q": "A patient with severe pneumonia is breathing rapidly through the mouth. His oral temperature reads 37.6°C while the rectal temperature is 38.6°C. According to the book the discrepancy is best explained by:",
+   "opts": [
+    "Mouth breathing lowering the oral reading, an important factor in patients with respiratory infections and rapid breathing",
+    "Rectal thermometry reading spuriously high in sepsis",
+    "A normal circadian difference between core and oral sites",
+    "Delayed equilibration of the rectal thermometer in tachypnoea"
+   ],
+   "ans": 0,
+   "exp": "The lower oral readings are generally attributed to mouth breathing, which matters most in exactly this group - patients with respiratory infection and rapid breathing. This is why core sites (rectum, lower oesophagus) are preferred when accuracy matters. (Book p3)"
+  },
+  {
+   "id": "MED-C1-10",
+   "sec": "Fever vs Hyperthermia",
+   "page": 3,
+   "fmt": "recall",
+   "q": "What single feature separates fever from hyperthermia in the book's definition?",
+   "opts": [
+    "Fever is an elevation of body temperature that exceeds the normal daily variation and occurs with a rise in the hypothalamic set point",
+    "Fever is any temperature above 37.5°C while hyperthermia is any temperature above 41.5°C",
+    "Fever is caused only by infection while hyperthermia is caused only by drugs",
+    "Fever responds to cooling blankets while hyperthermia responds to antipyretics"
+   ],
+   "ans": 0,
+   "exp": "Fever is a rise in temperature produced by a rise in the hypothalamic set point. Hyperthermia is an uncontrolled rise in body temperature that exceeds the body's ability to lose heat in the setting of an intact set point - hence antipyretics do not work. (Book p3)"
+  },
+  {
+   "id": "MED-C1-11",
+   "sec": "Fever vs Hyperthermia",
+   "page": 3,
+   "fmt": "scenario",
+   "q": "A patient with heat stroke has a core temperature of 41.2°C. Antipyretics produce no fall in temperature. The best explanation is:",
+   "opts": [
+    "The hypothalamic set point is intact, so there is no new set point to lower - this is hyperthermia, not fever",
+    "The dose of antipyretic was inadequate for a temperature above 41°C",
+    "Antipyretics act only on peripheral heat loss and fail in humid environments",
+    "Heat stroke always causes hypothalamic damage and therefore a permanently reset set point"
+   ],
+   "ans": 0,
+   "exp": "In hyperthermia the set point is intact; the problem is heat production exceeding heat loss, so antipyretics have no target. Cooling, not antipyresis, is the treatment. (Book p3)"
+  },
+  {
+   "id": "MED-C1-12",
+   "sec": "Fever vs Hyperthermia",
+   "page": 3,
+   "fmt": "match",
+   "q": "Match each drug or setting to the hyperthermia syndrome the book attaches it to — 1) Halothane 2) Haloperidol and fluphenazine 3) Interactions of two or more serotonergic drugs 4) Environmental heat load … A) Neuroleptic malignant syndrome B) Malignant hyperthermia C) Serotonin syndrome D) Heat stroke",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Anaesthetics such as halothane produce malignant hyperthermia by rapid uncoupling of oxidative phosphorylation in sensitive individuals; haloperidol and fluphenazine cause neuroleptic malignant syndrome; serotonin syndrome follows increased CNS serotonergic activity, typically with two or more serotonergic drugs; heat stroke is the environmental cause. (Book p3)"
+  },
+  {
+   "id": "MED-C1-13",
+   "sec": "Fever vs Hyperthermia",
+   "page": 3,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed under causes of hyperthermia?",
+   "opts": [
+    "Neuroleptic malignant syndrome",
+    "Serotonin syndrome",
+    "Malignant hyperthermia",
+    "Hypothyroidism"
+   ],
+   "ans": 3,
+   "exp": "The hyperthermia causes listed are heat stroke, malignant hyperthermia, neuroleptic malignant syndrome and serotonin syndrome. Hypothyroidism belongs to the opposite end of the spectrum - it is one of the endocrine causes of hypothermia. (Book p3)"
+  },
+  {
+   "id": "MED-C1-14",
+   "sec": "Fever vs Hyperthermia",
+   "page": 3,
+   "fmt": "truefalse",
+   "q": "Which statement about fever and hyperthermia is correct?",
+   "opts": [
+    "True: Fever is an elevation of body temperature that exceeds the normal daily variation and occurs in conjunction with a rise in the hypothalamic set point",
+    "True: Antipyretics will not reduce the temperature in hyperthermia because the set point is intact",
+    "False: In hyperthermia the hypothalamic set point is raised, so antipyretics work well",
+    "False: Fever and hyperthermia are interchangeable terms for any temperature above 38°C"
+   ],
+   "ans": 0,
+   "exp": "Fever = raised set point, so antipyretics work. Hyperthermia = intact set point, loss of heat exceeds the body's dissipating capacity, so antipyretics fail. The two are mechanistically different and are never interchangeable. (Book p3)"
+  },
+  {
+   "id": "MED-C1-15",
+   "sec": "Hyperpyrexia, Hypothalamic Fever & Fever Mechanism",
+   "page": 4,
+   "fmt": "numeric",
+   "q": "Fever above which temperature is called hyperpyrexia, and which two causes are named?",
+   "opts": [
+    "Above 41.5°C (>106.7°F); CNS haemorrhage and severe infection",
+    "Above 40.0°C (104°F); heat stroke and malignant hyperthermia",
+    "Above 41.5°C (>106.7°F); heat stroke and neuroleptic malignant syndrome",
+    "Above 39.5°C (103°F); severe infection and drug fever"
+   ],
+   "ans": 0,
+   "exp": "Hyperpyrexia is fever above 41.5°C (>106.7°F) and the two causes the book names are CNS haemorrhage and severe infection. Note that heat stroke and NMS are causes of hyperthermia, a different category. (Book p4)"
+  },
+  {
+   "id": "MED-C1-16",
+   "sec": "Hyperpyrexia, Hypothalamic Fever & Fever Mechanism",
+   "page": 4,
+   "fmt": "truefalse",
+   "q": "Which statement about hypothalamic fever is correct?",
+   "opts": [
+    "True: It is an elevated temperature caused by hypothalamic dysfunction",
+    "True: Hypothalamic dysfunction usually causes subnormal, not supranormal, temperature",
+    "False: Hypothalamic lesions characteristically produce sustained high fever above 41°C",
+    "False: Hypothalamic fever is simply another name for hyperpyrexia"
+   ],
+   "ans": 0,
+   "exp": "Hypothalamic dysfunction as a cause of raised temperature is a real but uncommon event - the book stresses the paradox that hypothalamic disease usually causes subnormal rather than supranormal temperature. Hyperpyrexia is a different, higher-threshold concept. (Book p4)"
+  },
+  {
+   "id": "MED-C1-17",
+   "sec": "Hyperpyrexia, Hypothalamic Fever & Fever Mechanism",
+   "page": 4,
+   "fmt": "match",
+   "q": "Match each step in the mechanism of fever — 1) Pyrogenic cytokines 2) Cells they act on 3) Mediator produced 4) Final effect … A) IL-1, IL-6 and TNFα B) Hypothalamic endothelial cells C) PGE2 D) Rise in the hypothalamic set point",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Infection or immune reactions release pyrogenic cytokines IL-1, IL-6 and TNFα; these induce hypothalamic endothelial cells to produce PGE2, which raises the hypothalamic set point and produces fever. This is the chain that antipyretics (COX inhibitors) interrupt. (Book p4)"
+  },
+  {
+   "id": "MED-C1-18",
+   "sec": "Hyperpyrexia, Hypothalamic Fever & Fever Mechanism",
+   "page": 4,
+   "fmt": "fillup",
+   "q": "The pyrogenic cytokines released by infection or immune reactions, which induce hypothalamic endothelial cells to make PGE2, are IL-1, IL-6 and ____.",
+   "opts": [
+    "TNFα",
+    "IL-4",
+    "IL-10",
+    "IFN-γ"
+   ],
+   "ans": 0,
+   "exp": "The trio is IL-1, IL-6 and TNFα. IL-4, IL-10 and IFN-γ are not listed as pyrogenic cytokines in this cascade. (Book p4)"
+  },
+  {
+   "id": "MED-C1-19",
+   "sec": "Hyperpyrexia, Hypothalamic Fever & Fever Mechanism",
+   "page": 4,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT part of the book's pyrogenic cytokine cascade that raises the set point?",
+   "opts": [
+    "IL-1",
+    "IL-6",
+    "TNFα",
+    "IL-4"
+   ],
+   "ans": 3,
+   "exp": "The cascade is IL-1, IL-6 and TNFα acting on hypothalamic endothelial cells to produce PGE2. IL-4 is a Th2 cytokine with no role in this chain. (Book p4)"
+  },
+  {
+   "id": "MED-C1-20",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "recall",
+   "q": "Acute undifferentiated febrile illness (AUFI) is defined in the book as:",
+   "opts": [
+    "Fever of <14 days without an organ-system-specific aetiology",
+    "Fever of >3 weeks that remains undiagnosed after one week of inpatient evaluation",
+    "Fever with a rash and no localising signs lasting more than 5 days",
+    "Fever of <7 days with a proven bacterial isolate from blood culture"
+   ],
+   "ans": 0,
+   "exp": "AUFI is a clinical term for fever of less than 14 days without an organ-system-specific aetiology. The 3-week definition belongs to PUO, and the two must not be mixed up. (Book p4)"
+  },
+  {
+   "id": "MED-C1-21",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "match",
+   "q": "Match each cause of AUFI to the position in which the book asks you to say it — 1) First 2) Second 3) Third 4) Fourth 5) Fifth … A) Enteric fever B) Dengue C) Leptospirosis D) Scrub typhus E) Malaria",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-E, 5-A",
+    "1-B, 2-C, 3-D, 4-E, 5-A",
+    "1-D, 2-B, 3-C, 4-A, 5-E",
+    "1-B, 2-D, 3-E, 4-C, 5-A"
+   ],
+   "ans": 0,
+   "exp": "The order to say in our setting is Dengue, Scrub typhus, Leptospirosis, Malaria, Enteric fever. The order itself is examinable because it encodes local epidemiology. (Book p4)"
+  },
+  {
+   "id": "MED-C1-22",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "scenario",
+   "q": "In a viva on AUFI the examiner asks for the important causes 'in our setting'. Which statement reflects the book's instruction?",
+   "opts": [
+    "Never say Leishmaniasis/Kala-azar unless probed - it is an important cause of AUFI but not in our setting",
+    "Kala-azar should be named first because it is the commonest cause of AUFI",
+    "Kala-azar should never be mentioned at all in any answer on fever",
+    "Kala-azar is a cause of PUO only and never of AUFI"
+   ],
+   "ans": 0,
+   "exp": "The book is explicit: say the local order (Dengue, Scrub typhus, Leptospirosis, Malaria, Enteric fever) and do not volunteer Kala-azar unless the examiner probes; it is an important cause of AUFI but not in our setting. (Book p4)"
+  },
+  {
+   "id": "MED-C1-23",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "numeric",
+   "q": "The Petersdorf and Beeson definition of PUO requires fever above 101 on at least two occasions, illness duration of more than ____, and uncertain diagnosis despite ____ of inpatient evaluation.",
+   "opts": [
+    "3 weeks; 1 week",
+    "1 week; 3 days",
+    "3 weeks; 3 days",
+    "2 weeks; 1 week"
+   ],
+   "ans": 0,
+   "exp": "Petersdorf and Beeson: illness of more than 3 weeks duration, fever above 101 on at least two occasions, and diagnosis still uncertain despite 1 week of inpatient evaluation. (Book p4)"
+  },
+  {
+   "id": "MED-C1-24",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "truefalse",
+   "q": "Which statement about the criteria for PUO is correct?",
+   "opts": [
+    "True: Fever above 101 on at least two occasions and illness duration of more than 3 weeks",
+    "True: No known immunocompromised state, and diagnosis uncertain after thorough history, examination and obligatory investigations",
+    "False: A known immunocompromised state is part of the classical definition of PUO",
+    "False: The obligatory investigation list for PUO includes bone marrow examination in every patient"
+   ],
+   "ans": 0,
+   "exp": "Harrison's adds to the classical definition the absence of a known immunocompromised state and the requirement that diagnosis remains uncertain after thorough history, physical examination and a defined set of obligatory investigations - bone marrow is not among them. (Book p4)"
+  },
+  {
+   "id": "MED-C1-25",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "oddoneout",
+   "q": "Which investigation is NOT part of the obligatory investigation list for PUO given in the book?",
+   "opts": [
+    "ESR and CRP",
+    "Haemogram with peripheral smear",
+    "USG abdomen and tuberculin skin test",
+    "Bone marrow aspiration and trephine biopsy"
+   ],
+   "ans": 3,
+   "exp": "The obligatory list is ESR, CRP, haemogram with PS, electrolytes, LFT, RFT, ANA, rheumatoid factor, urine analysis and culture, blood culture, CXR, USG abdomen and tuberculin skin test. Bone marrow is a second-line, cause-directed test. (Book p4)"
+  },
+  {
+   "id": "MED-C1-26",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "fillup",
+   "q": "Besides the classical form, the book lists nosocomial PUO, neutropenic PUO and ____-associated PUO.",
+   "opts": [
+    "HIV",
+    "TB",
+    "Dialysis",
+    "Transplant"
+   ],
+   "ans": 0,
+   "exp": "The three variants named are nosocomial PUO, neutropenic PUO and HIV-associated PUO. Each has its own differential and its own obligatory work-up. (Book p4)"
+  },
+  {
+   "id": "MED-C1-27",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "recall",
+   "q": "Which single statement best captures how PUO is usually caused?",
+   "opts": [
+    "PUO is usually caused by atypical presentations of common illnesses, not typical presentations of rare illnesses",
+    "PUO is usually caused by typical presentations of rare illnesses, not atypical presentations of common illnesses",
+    "PUO is usually caused by occult malignancy and should be investigated as such from the outset",
+    "PUO is usually a manifestation of an undiagnosed connective tissue disease"
+   ],
+   "ans": 0,
+   "exp": "This inversion of the two possibilities is the single most useful line in the section: common diseases presenting atypically far outnumber rare diseases presenting typically, so the work-up stays anchored on common illness. (Book p4)"
+  },
+  {
+   "id": "MED-C1-28",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "match",
+   "q": "Match each group of PUO causes to an example from the book's list — 1) Infectious 2) Neoplastic 3) Connective tissue disorders 4) Drugs … A) Atrial myxoma B) Intra-abdominal abscess, including perinephric, perirenal, liver and subphrenic C) SLE, RA and vasculitides D) Drug fever",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Infectious causes include HIV, TB, malaria, enteric fever, infective endocarditis, UTI, intra-abdominal abscess (perinephric, perirenal, liver, subphrenic) and pelvic inflammatory disease; neoplastic causes include leukaemia, lymphoma, GI malignancies, secondaries and atrial myxoma; connective tissue disorders include SLE, RA and vasculitides; drug fever is its own group. (Book p4)"
+  },
+  {
+   "id": "MED-C1-29",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "scenario",
+   "q": "A patient with prolonged fever, a raised ESR and an early diastolic 'tumour plop' has a left atrial mass on echocardiography. Within the book's PUO framework this is an example of:",
+   "opts": [
+    "A neoplastic cause of PUO - atrial myxoma is listed with leukaemia, lymphoma and secondaries",
+    "An infectious cause of PUO - the mass is a vegetation",
+    "A connective tissue cause of PUO - the mass is a sterile thrombus of vasculitis",
+    "A drug fever, since only drugs produce fever with a normal peripheral smear"
+   ],
+   "ans": 0,
+   "exp": "Atrial myxoma is deliberately placed in the neoplastic list of PUO causes alongside leukaemia, lymphoma, GI malignancies and secondaries - a reminder that 'tumour' does not mean only solid organ malignancy or metastasis. (Book p4)"
+  },
+  {
+   "id": "MED-C1-30",
+   "sec": "AUFI & PUO",
+   "page": 4,
+   "fmt": "scenario",
+   "q": "Which of the following abscess sites is NOT named in the book's list of intra-abdominal abscesses causing PUO?",
+   "opts": [
+    "Perinephric",
+    "Perirenal",
+    "Subphrenic",
+    "Psoas"
+   ],
+   "ans": 3,
+   "exp": "The named sites are perinephric, perirenal, liver and subphrenic, together with pelvic inflammatory disease as a separate infectious cause. Psoas abscess, though a real cause of occult fever, is not on this list and is not what the examiner is quoting. (Book p4)"
+  },
+  {
+   "id": "MED-C1-31",
+   "sec": "Auto-inflammatory Diseases of Fever",
+   "page": 4,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the auto-inflammatory diseases in which fever is characteristic, as listed in the book?",
+   "opts": [
+    "Adult and juvenile onset Still's disease",
+    "Familial Mediterranean fever",
+    "Behçet's syndrome",
+    "Systemic lupus erythematosus"
+   ],
+   "ans": 3,
+   "exp": "The list is adult and juvenile onset Still's disease, familial Mediterranean fever, Behçet's syndrome, cryopyrin associated periodic syndromes (CAPS), PAPA syndrome and hyper-IgD syndrome. SLE appears in the PUO list as a connective tissue disorder, not as an auto-inflammatory periodic fever. (Book p4)"
+  },
+  {
+   "id": "MED-C1-32",
+   "sec": "Auto-inflammatory Diseases of Fever",
+   "page": 4,
+   "fmt": "fillup",
+   "q": "Familial Mediterranean fever has its pathogenesis referenced to ____ in the book, and its treatment is colchicine.",
+   "opts": [
+    "Robbins",
+    "Harrison's 19e",
+    "Davidson",
+    "Boloor"
+   ],
+   "ans": 0,
+   "exp": "The pathogenesis of FMF is referenced to Robbins, and the treatment is colchicine - one of the only three diseases in which the book says colchicine is used. (Book p4)"
+  },
+  {
+   "id": "MED-C1-33",
+   "sec": "Auto-inflammatory Diseases of Fever",
+   "page": 4,
+   "fmt": "numeric",
+   "q": "The book gives three diseases in which colchicine can be used. Which of the following is NOT one of them?",
+   "opts": [
+    "Gout",
+    "Pericarditis",
+    "Familial Mediterranean fever",
+    "Behçet's disease"
+   ],
+   "ans": 3,
+   "exp": "The three uses are gout, pericarditis and familial Mediterranean fever. Behçet's syndrome is an auto-inflammatory disease with characteristic fever, but colchicine is not one of the three listed indications. (Book p4)"
+  },
+  {
+   "id": "MED-C1-34",
+   "sec": "Auto-inflammatory Diseases of Fever",
+   "page": 4,
+   "fmt": "fillup",
+   "q": "PAPA syndrome stands for Pyogenic arthritis, Pyoderma gangrenosum and ____.",
+   "opts": [
+    "Acne",
+    "Amyloidosis",
+    "Adenopathy",
+    "Alopecia"
+   ],
+   "ans": 0,
+   "exp": "PAPA = Pyogenic arthritis, Pyoderma gangrenosum, Acne. It is one of the auto-inflammatory diseases listed in which fever is characteristic. (Book p4)"
+  },
+  {
+   "id": "MED-C1-35",
+   "sec": "Auto-inflammatory Diseases of Fever",
+   "page": 4,
+   "fmt": "recall",
+   "q": "CAPS, listed under auto-inflammatory diseases with fever, stands for:",
+   "opts": [
+    "Cryopyrin associated periodic syndromes",
+    "Cold agglutinin positive syndrome",
+    "Chronic auto-inflammatory polyserositis syndrome",
+    "Cytokine activation pyrexia syndrome"
+   ],
+   "ans": 0,
+   "exp": "CAPS = cryopyrin associated periodic syndromes, grouped with Still's disease, FMF, Behçet's, PAPA and hyper-IgD syndrome as auto-inflammatory causes of fever. (Book p4)"
+  },
+  {
+   "id": "MED-C1-36",
+   "sec": "Auto-inflammatory Diseases of Fever",
+   "page": 4,
+   "fmt": "recall",
+   "q": "Which statement about hyper-IgD syndrome in the book is correct?",
+   "opts": [
+    "It is listed among auto-inflammatory diseases in which fever is characteristic",
+    "It is listed as a neoplastic cause of PUO",
+    "It is listed as a variant of PUO seen in HIV infection",
+    "It is listed as a drug fever caused by immunoglobulin therapy"
+   ],
+   "ans": 0,
+   "exp": "Hyper-IgD syndrome appears in the auto-inflammatory fever list with Still's disease, FMF, Behçet's, CAPS and PAPA - all characterised by recurrent fever without infection or malignancy. (Book p4)"
+  },
+  {
+   "id": "MED-C1-37",
+   "sec": "Relative Bradycardia & Tachycardia",
+   "page": 5,
+   "fmt": "numeric",
+   "q": "For every 1°F rise in body temperature, the pulse rate should rise by about ____.",
+   "opts": [
+    "10/min",
+    "5/min",
+    "15/min",
+    "20/min"
+   ],
+   "ans": 0,
+   "exp": "The bedside rule is 10 beats per minute per 1°F (about 18 per 1°C) rise of temperature. A pulse that fails to rise this much is relative bradycardia; one that overshoots is relative tachycardia. (Book p5)"
+  },
+  {
+   "id": "MED-C1-38",
+   "sec": "Relative Bradycardia & Tachycardia",
+   "page": 5,
+   "fmt": "match",
+   "q": "Match each cause of relative bradycardia to its identification — 1) Enteric fever, first week 2) Yellow fever 3) Weil's disease 4) Brucellosis … A) The pulse-temperature dissociation here is called Faget's sign B) Mechanism is heart block C) A variety of leptospirosis D) A zoonosis that classically gives relative bradycardia",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Relative bradycardia in enteric fever (first week) is produced by heart block; in yellow fever the dissociation is called Faget's sign; Weil's disease is a variety of leptospirosis; and brucellosis is a classic cause. (Book p5)"
+  },
+  {
+   "id": "MED-C1-39",
+   "sec": "Relative Bradycardia & Tachycardia",
+   "page": 5,
+   "fmt": "scenario",
+   "q": "A traveller returns with jaundice, bleeding, and a temperature of 39.5°C with a pulse of 78/min. The eponym for this pulse-temperature dissociation, when seen in this illness, is:",
+   "opts": [
+    "Faget's sign",
+    "Kussmaul's sign",
+    "Osler's sign",
+    "de Musset's sign"
+   ],
+   "ans": 0,
+   "exp": "In yellow fever relative bradycardia is called Faget's sign. Kussmaul's sign is a paradoxical rise of JVP on inspiration; Osler's and de Musset's signs concern endocarditis and aortic regurgitation respectively. (Book p5)"
+  },
+  {
+   "id": "MED-C1-40",
+   "sec": "Relative Bradycardia & Tachycardia",
+   "page": 5,
+   "fmt": "recall",
+   "q": "The relative bradycardia of enteric fever in the first week is attributed to:",
+   "opts": [
+    "Heart block",
+    "Increased vagal tone from mesenteric lymphadenopathy",
+    "Dehydration reducing stroke volume",
+    "Direct Salmonella myocarditis"
+   ],
+   "ans": 0,
+   "exp": "The book gives the mechanism as heart block, and flags it as a point to read in more detail. This is distinct from the relative tachycardia seen with myocarditis (diphtheritic, rheumatic). (Book p5)"
+  },
+  {
+   "id": "MED-C1-41",
+   "sec": "Relative Bradycardia & Tachycardia",
+   "page": 5,
+   "fmt": "oddoneout",
+   "q": "Which of the following causes relative bradycardia and NOT relative tachycardia?",
+   "opts": [
+    "Acute rheumatic carditis",
+    "Tuberculosis",
+    "Polyarteritis nodosa",
+    "Brucellosis"
+   ],
+   "ans": 3,
+   "exp": "Relative tachycardia belongs to acute rheumatic carditis, tuberculosis, polyarteritis nodosa and diphtheritic myocarditis; brucellosis is a cause of relative bradycardia, along with enteric fever, viral fevers and Weil's disease. (Book p5)"
+  },
+  {
+   "id": "MED-C1-42",
+   "sec": "Relative Bradycardia & Tachycardia",
+   "page": 5,
+   "fmt": "recall",
+   "q": "Which of the following is listed as a cause of relative tachycardia?",
+   "opts": [
+    "Diphtheritic myocarditis",
+    "Brucellosis",
+    "Yellow fever",
+    "Enteric fever in the first week"
+   ],
+   "ans": 0,
+   "exp": "Diphtheritic myocarditis joins acute rheumatic carditis, tuberculosis and polyarteritis nodosa in the relative tachycardia list. The other three options all cause relative bradycardia. (Book p5)"
+  },
+  {
+   "id": "MED-C1-43",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "recall",
+   "q": "Intermittent fever is defined in the book as:",
+   "opts": [
+    "Fever present for several hours, which always touches the baseline sometime during the day",
+    "Fever that never touches the baseline but fluctuates by more than 2°C",
+    "Fever that does not fluctuate by more than 1°C during the day",
+    "Fever that recurs in cycles of one to two weeks"
+   ],
+   "ans": 0,
+   "exp": "Intermittent fever is present for several hours and always touches the baseline at some point in the day; quotidian, tertian and quartan are its subdivisions. Never touching the baseline defines remittent and continued fevers instead. (Book p5)"
+  },
+  {
+   "id": "MED-C1-44",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "match",
+   "q": "Match each intermittent pattern to its timing — 1) Quotidian 2) Double quotidian 3) Tertian 4) Quartan … A) Paroxysm on alternate days B) Two-day interval between paroxysms C) Paroxysm of fever occurs daily D) Two spikes of fever in a single day",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Quotidian = daily paroxysm; double quotidian = two spikes in a day; tertian = alternate-day paroxysm; quartan = a two-day interval between paroxysms. (Book p5)"
+  },
+  {
+   "id": "MED-C1-45",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "recall",
+   "q": "Which group of conditions is listed as producing quotidian fever?",
+   "opts": [
+    "Tuberculosis, UTI and septicaemia",
+    "Kala-azar and gonococcal perihepatitis",
+    "Borrelia infection",
+    "Lobar pneumonia and meningococcaemia"
+   ],
+   "ans": 0,
+   "exp": "Quotidian (daily) paroxysms are seen in tuberculosis, UTI and septicaemia. Kala-azar and gonococcal perihepatitis give the camel-hump (double quotidian) pattern, and Borrelia gives relapsing fever. (Book p5)"
+  },
+  {
+   "id": "MED-C1-46",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "recall",
+   "q": "Double quotidian fever - two spikes of fever in one day - is most commonly of which aetiology, and was commonly seen in which condition?",
+   "opts": [
+    "Gonococcal; endocarditis",
+    "Malarial; meningitis",
+    "Tubercular; pericarditis",
+    "Enteric; osteomyelitis"
+   ],
+   "ans": 0,
+   "exp": "Double quotidian fever is commonly gonococcal in aetiology and used to be commonly seen in endocarditis - a historical association that still gets asked. (Book p5)"
+  },
+  {
+   "id": "MED-C1-47",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "match",
+   "q": "Match each fever to its organism or mechanism — 1) Benign tertian malaria 2) Malignant tertian malaria 3) Quartan fever 4) Charcot's intermittent fever … A) P. malariae B) P. vivax or P. ovale C) P. falciparum, also called aestivo-autumnal or Roman fever D) Chills with RUQ pain and jaundice from a stone obstructing the CBD",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Benign tertian malaria is P. vivax/ovale; malignant tertian (falciparum, aestivo-autumnal, Roman) fever is P. falciparum; quartan fever with a two-day interval is P. malariae; and Charcot's intermittent fever is the cholangitic pattern of chills, RUQ pain and jaundice from a CBD stone. (Book p5)"
+  },
+  {
+   "id": "MED-C1-48",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "recall",
+   "q": "Remittent fever is characterised by:",
+   "opts": [
+    "A daily fluctuation of more than 2°C (3°F), and it never touches the baseline",
+    "A daily fluctuation of less than 1°C, and it never touches the baseline",
+    "Fever that touches the baseline once every day",
+    "Fever with two spikes in a single day"
+   ],
+   "ans": 0,
+   "exp": "Remittent fever swings by more than 2°C (3°F) a day and never touches the baseline. For contrast, remember that the normal fluctuation of temperature is 0.9°C. (Book p5)"
+  },
+  {
+   "id": "MED-C1-49",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "numeric",
+   "q": "For contrast with the definition of remittent fever, the book notes that normal daily fluctuation of temperature is:",
+   "opts": [
+    "0.9°C",
+    "0.5°C",
+    "1.5°C",
+    "2.0°C"
+   ],
+   "ans": 0,
+   "exp": "Normal fluctuation is 0.9°C, so a swing of more than 2°C is a large excursion indeed, and the definition of continued fever (no more than 1°C) sits far below it. (Book p5)"
+  },
+  {
+   "id": "MED-C1-50",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "match",
+   "q": "Match each fever pattern to its listed causes — 1) Remittent 2) Continued … A) Lobar pneumonia, second week of enteric fever, gram negative sepsis, acute rheumatic fever, meningococcaemia B) Amoebic liver abscess, acute bronchopneumonia, third week of enteric fever",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Remittent fever is seen in amoebic liver abscess, acute bronchopneumonia and the third week of enteric fever; continued fever with minimal fluctuation is seen in lobar pneumonia (classically), the second week of enteric fever, gram negative sepsis, acute rheumatic fever and meningococcaemia. (Book p5)"
+  },
+  {
+   "id": "MED-C1-51",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "oddoneout",
+   "q": "Amoebic liver abscess, acute bronchopneumonia and the third week of enteric fever share which fever pattern?",
+   "opts": [
+    "Continued fever",
+    "Remittent fever",
+    "Quotidian fever",
+    "Pel-Ebstein fever"
+   ],
+   "ans": 1,
+   "exp": "All three are listed under remittent fever - a daily fluctuation of more than 2°C that never touches the baseline. Continued fever belongs to lobar pneumonia, gram negative sepsis, acute rheumatic fever and meningococcaemia. (Book p5)"
+  },
+  {
+   "id": "MED-C1-52",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "recall",
+   "q": "The Pel-Ebstein (Ebstein-Cardarelli) pattern, in which fever cyclically increases and decreases in periods of one to two weeks, is called by that name:",
+   "opts": [
+    "Only when it is associated with Hodgkin's lymphoma - other cyclical fevers are simply called cyclical fevers",
+    "Whenever it is associated with any lymphoma, Hodgkin's or non-Hodgkin's",
+    "Only when it is associated with kala-azar",
+    "Whenever the fever period lasts longer than two weeks"
+   ],
+   "ans": 0,
+   "exp": "The eponym is used only for the cyclical fever of Hodgkin's lymphoma; identical-looking cyclical fevers in other diseases are called cyclical fevers and nothing more. (Book p5)"
+  },
+  {
+   "id": "MED-C1-53",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "match",
+   "q": "Match each named pattern to its disease — 1) Camel hump pattern 2) Step-ladder pattern 3) Undulant fever 4) Relapsing fever … A) Brucellosis, with fever that rapidly rises and falls B) Kala-azar and gonococcal perihepatitis (Fitz-Hugh-Curtis syndrome) C) Enteric fever D) A cyclical fever caused by Borrelia infection",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Camel hump = double quotidian pattern of kala-azar and gonococcal perihepatitis; step-ladder = enteric fever; undulant = brucellosis; relapsing = Borrelia. (Book p5)"
+  },
+  {
+   "id": "MED-C1-54",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "fillup",
+   "q": "The step-ladder pattern, in which fever stays at a baseline and then acutely rises to a new baseline, is characteristic of ____.",
+   "opts": [
+    "Enteric fever",
+    "Brucellosis",
+    "Hodgkin's lymphoma",
+    "Kala-azar"
+   ],
+   "ans": 0,
+   "exp": "Step-ladder fever is the enteric fever pattern; the baseline holds, then climbs acutely to a new level. Brucellosis gives undulant fever, Borrelia relapsing fever, kala-azar the camel hump. (Book p5)"
+  },
+  {
+   "id": "MED-C1-55",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "truefalse",
+   "q": "Which statement about fever patterns is correct?",
+   "opts": [
+    "True: Remittent fever never touches the baseline and fluctuates by more than 2°C",
+    "True: Continued fever does not fluctuate by more than 1°C and never touches the baseline",
+    "False: Intermittent fever never touches the baseline at any time during the day",
+    "False: The normal daily fluctuation of temperature is 2°C"
+   ],
+   "ans": 0,
+   "exp": "Touching or not touching the baseline is the discriminator: intermittent fever always touches it, remittent and continued never do. Normal daily fluctuation is 0.9°C, not 2°C. (Book p5)"
+  },
+  {
+   "id": "MED-C1-56",
+   "sec": "Patterns of Fever",
+   "page": 5,
+   "fmt": "scenario",
+   "q": "A patient from an endemic area has months of fever, massive splenomegaly and two temperature spikes each day. The camel hump (double quotidian) pattern here points to:",
+   "opts": [
+    "Kala-azar",
+    "Enteric fever",
+    "Brucellosis",
+    "Hodgkin's lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Camel hump pattern (double quotidian fever) is listed for kala-azar and gonococcal perihepatitis. Step-ladder fever belongs to enteric fever, undulant fever to brucellosis, and Pel-Ebstein fever to Hodgkin's lymphoma. (Book p5)"
+  },
+  {
+   "id": "MED-C1-57",
+   "sec": "Patterns of Fever",
+   "page": 6,
+   "fmt": "scenario",
+   "q": "A patient has daily fever with wide swings (39.5°C to 35.8°C) and imaging shows a liver abscess. The pattern is hectic fever, and the book associates hectic fever with:",
+   "opts": [
+    "Any pent-up pus in the body, such as liver abscess, lung abscess, empyema and subphrenic abscess",
+    "Cyclical fevers of Hodgkin's lymphoma",
+    "The second week of enteric fever",
+    "Gonococcal perihepatitis only"
+   ],
+   "ans": 0,
+   "exp": "Hectic fever is characterised by wide swings and is associated with any pent-up pus - liver abscess, lung abscess, empyema and subphrenic abscess. This is different from Pel-Ebstein fever of Hodgkin's lymphoma. (Book p6)"
+  },
+  {
+   "id": "MED-C1-58",
+   "sec": "Hypothermia",
+   "page": 6,
+   "fmt": "recall",
+   "q": "Which of the following is a primary cause of hypothermia as classified in the book?",
+   "opts": [
+    "Accidental exposure",
+    "Cerebrovascular accident",
+    "Overwhelming sepsis",
+    "Adrenal insufficiency"
+   ],
+   "ans": 0,
+   "exp": "Primary hypothermia is typically due to accidental exposure. Secondary hypothermia is failure of thermoregulation, and includes cerebrovascular accident, overwhelming sepsis, low cardiac output after acute MI, endocrine disease and intoxication. (Book p6)"
+  },
+  {
+   "id": "MED-C1-59",
+   "sec": "Hypothermia",
+   "page": 6,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT a secondary cause of hypothermia?",
+   "opts": [
+    "Panhypopituitarism",
+    "Adrenal insufficiency",
+    "Overwhelming sepsis",
+    "Immersion in cold water"
+   ],
+   "ans": 3,
+   "exp": "Immersion is a primary (accidental exposure) mechanism. The secondary list is failure of thermoregulation from CVA, overwhelming sepsis, low cardiac output following acute MI, endocrine disorders (hypothyroidism, panhypopituitarism, adrenal insufficiency) and intoxication with drugs or alcohol. (Book p6)"
+  },
+  {
+   "id": "MED-C1-60",
+   "sec": "Hypothermia",
+   "page": 6,
+   "fmt": "scenario",
+   "q": "An elderly woman is found drowsy with a temperature of 34.8°C, bradycardia and delayed reflexes; TSH is markedly raised. According to the book's classification her hypothermia is:",
+   "opts": [
+    "Secondary, from endocrine failure of thermoregulation",
+    "Primary, from accidental cold exposure",
+    "Not true hypothermia because her set point is intact",
+    "A drug-induced hypothermia until proven otherwise"
+   ],
+   "ans": 0,
+   "exp": "Hypothyroidism is one of the endocrine causes of secondary hypothermia - thermoregulation fails rather than the environment overcoming it. The book's secondary list also includes panhypopituitarism, adrenal insufficiency, CVA, sepsis, low cardiac output and intoxication. (Book p6)"
+  },
+  {
+   "id": "MED-C1-61",
+   "sec": "Hypothermia",
+   "page": 6,
+   "fmt": "recall",
+   "q": "Which set of findings does the book list as the signs and symptoms of hypothermia?",
+   "opts": [
+    "Altered sensorium (confusion to coma), tachypnoea, tachycardia, lethargy, shivering and pallor",
+    "Altered sensorium, bradypnoea, bradycardia and absence of shivering",
+    "Confusion, hypertension, flushing and sweating",
+    "Coma, hyperreflexia, hyperthermia and rigors"
+   ],
+   "ans": 0,
+   "exp": "The book lists altered sensorium (confusion to coma), tachypnoea, tachycardia, lethargy, shivering and pallor. Note that clinically severe hypothermia can cause bradycardia, but that is not the list this book gives - answer what the source says. (Book p6)"
+  },
+  {
+   "id": "MED-C1-62",
+   "sec": "Pallor",
+   "page": 6,
+   "fmt": "recall",
+   "q": "Which statement about pallor and anaemia is correct according to the book?",
+   "opts": [
+    "Anaemia and pallor are not interchangeable terms - anaemia is only one of the causes of pallor",
+    "Pallor and anaemia are interchangeable terms because pallor always indicates anaemia",
+    "Pallor never occurs without anaemia",
+    "Anaemia is a clinical diagnosis and pallor is its laboratory confirmation"
+   ],
+   "ans": 0,
+   "exp": "The book is emphatic: pallor is a physical sign with many causes, and anaemia is just one of them. This is why the examiner expects you to name causes of pallor without anaemia. (Book p6)"
+  },
+  {
+   "id": "MED-C1-63",
+   "sec": "Pallor",
+   "page": 6,
+   "fmt": "match",
+   "q": "Match the instruction for examining pallor — 1) Where to examine 2) Which conjunctiva 3) Which part of the tongue 4) Which surfaces … A) Lower palpebral conjunctiva B) In sunlight C) Tip and dorsum D) Palms and soles",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Examine in sunlight and look at the lower palpebral conjunctiva, the tip and dorsum of the tongue, the mucous membrane of the palate, the nail beds, and the palms and soles. (Book p6)"
+  },
+  {
+   "id": "MED-C1-64",
+   "sec": "Pallor",
+   "page": 6,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the sites the book lists for examining pallor?",
+   "opts": [
+    "Lower palpebral conjunctiva",
+    "Tip and dorsum of the tongue",
+    "Mucous membrane of the palate",
+    "Bulbar conjunctiva"
+   ],
+   "ans": 3,
+   "exp": "The bulbar conjunctiva is deliberately avoided - for icterus the book says we do not check through the bulbar conjunctiva because mud or dust can get easily deposited there. It is not a pallor site either. (Book p6)"
+  },
+  {
+   "id": "MED-C1-65",
+   "sec": "Pallor",
+   "page": 6,
+   "fmt": "recall",
+   "q": "Which of the following is listed as a cause of pallor without anaemia (Kundu)?",
+   "opts": [
+    "Shock and low cardiac output states",
+    "Iron deficiency anaemia",
+    "Thalassaemia trait",
+    "Acute blood loss"
+   ],
+   "ans": 0,
+   "exp": "Kundu's list of pallor without anaemia is shock, low cardiac output states, hypothyroidism and hypopituitarism. The other options are anaemias - they produce pallor precisely because haemoglobin is reduced. (Book p6)"
+  },
+  {
+   "id": "MED-C1-66",
+   "sec": "Pallor",
+   "page": 6,
+   "fmt": "match",
+   "q": "Match each arm of the aetiopathological classification of anaemia — 1) Marrow production defect 2) Ineffective erythropoiesis - defective nuclear maturation 3) Ineffective erythropoiesis - cytoplasmic maturation 4) Blood loss/haemolysis … A) B12/folate deficiency and myelodysplasia B) Bone marrow disorders and decreased stimulation from inflammation or renal disease C) Defects in haeme or globin synthesis D) Loss of red cells or their destruction",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Marrow production defects include bone marrow disorders and decreased stimulation (inflammation, renal disease); ineffective erythropoiesis splits into defective nuclear maturation (B12/folate, myelodysplasia) and cytoplasmic maturation (haeme/globin synthesis); the last arm is blood loss and haemolysis. (Book p6)"
+  },
+  {
+   "id": "MED-C1-67",
+   "sec": "Icterus",
+   "page": 6,
+   "fmt": "recall",
+   "q": "Icterus is best looked for in:",
+   "opts": [
+    "The sclera through the upper palpebral conjunctiva",
+    "The sclera through the bulbar conjunctiva",
+    "The lower palpebral conjunctiva",
+    "The hard palate only"
+   ],
+   "ans": 0,
+   "exp": "The site is the sclera, viewed through the upper palpebral conjunctiva. The bulbar conjunctiva is avoided because mud or dust deposits there and can be mistaken for icterus. (Book p6)"
+  },
+  {
+   "id": "MED-C1-68",
+   "sec": "Icterus",
+   "page": 6,
+   "fmt": "numeric",
+   "q": "The minimum serum bilirubin at which clinical icterus appears is:",
+   "opts": [
+    "2.5 mg/dL",
+    "1.0 mg/dL",
+    "1.5 mg/dL",
+    "5.0 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "Icterus needs a bilirubin of at least 2.5 mg/dL to become clinically visible. This is why jaundice is a relatively late sign of hyperbilirubinaemia. (Book p6)"
+  },
+  {
+   "id": "MED-C1-69",
+   "sec": "Icterus",
+   "page": 6,
+   "fmt": "recall",
+   "q": "Why is icterus checked in the sclera?",
+   "opts": [
+    "The sclera is rich in elastic tissue, where bilirubin preferentially gets deposited",
+    "The sclera has the highest blood flow per gram of tissue in the body",
+    "The sclera lacks lymphatics, so bilirubin cannot be cleared",
+    "The sclera has a thin epithelium that makes pigment visible earlier"
+   ],
+   "ans": 0,
+   "exp": "Bilirubin preferentially deposits in elastic tissue, and the sclera is rich in it - which is also why the sclera is the classic first place that jaundice is noticed. (Book p6)"
+  },
+  {
+   "id": "MED-C1-70",
+   "sec": "Icterus",
+   "page": 6,
+   "fmt": "match",
+   "q": "Match each tint of icterus to its severity and aetiology — 1) Lemon yellow 2) Orange yellow 3) Greenish yellow … A) Severe jaundice, obstructive aetiology B) Mild jaundice, haemolytic aetiology C) Moderate jaundice, hepatocellular aetiology",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Lemon yellow = mild, haemolytic; orange yellow = moderate, hepatocellular; greenish yellow = severe, obstructive. The tint is a bedside clue to the underlying mechanism. (Book p6)"
+  },
+  {
+   "id": "MED-C1-71",
+   "sec": "Icterus",
+   "page": 6,
+   "fmt": "recall",
+   "q": "Why does the book ask the patient to look down while checking for icterus?",
+   "opts": [
+    "The perilimbal sclera is thinner than the posterior sclera, and looking down lets both perilimbal and posterior sclerae be compared",
+    "Looking down exposes the lower palpebral conjunctiva, the richest site of bilirubin deposition",
+    "Looking down relaxes the orbicularis oculi and prevents artefactual redness",
+    "Looking down increases conjunctival blood flow and makes mild icterus obvious"
+   ],
+   "ans": 0,
+   "exp": "Since the perilimbal sclera is thinner than the posterior part, mild icterus is easier to appreciate posteriorly; asking the patient to look down lines up both the perilimbal and posterior sclerae so they can be compared. (Book p6)"
+  },
+  {
+   "id": "MED-C1-72",
+   "sec": "Icterus",
+   "page": 6,
+   "fmt": "scenario",
+   "q": "A young man has mild jaundice, splenomegaly and anaemia with a raised reticulocyte count; his conjunctivae show a lemon-yellow tint. The book's tint for haemolytic jaundice is:",
+   "opts": [
+    "Lemon yellow",
+    "Orange yellow",
+    "Greenish yellow",
+    "Greyish yellow"
+   ],
+   "ans": 0,
+   "exp": "Lemon yellow is mild jaundice of haemolytic aetiology; orange yellow is moderate and hepatocellular; greenish yellow is severe and obstructive. (Book p6)"
+  },
+  {
+   "id": "MED-C1-73",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "recall",
+   "q": "Cyanosis is defined (Harrison's 19e) as bluish discolouration of skin and mucous membranes due to accumulation in small blood vessels of:",
+   "opts": [
+    "Reduced haemoglobin or haemoglobin derivatives such as methaemoglobin and sulphhaemoglobin",
+    "Oxygenated haemoglobin within the capillaries",
+    "Bilirubin and bile salts within the dermis",
+    "Reduced albumin-bound free fatty acids in the dermal plexus"
+   ],
+   "ans": 0,
+   "exp": "The pigment responsible is reduced haemoglobin or a haemoglobin derivative (metHb/sulfHb) accumulating in the small vessels of the skin and mucous membranes - never oxygenated haemoglobin, which is bright red. (Book p7)"
+  },
+  {
+   "id": "MED-C1-74",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "numeric",
+   "q": "Cyanosis becomes apparent when the quantity of reduced haemoglobin exceeds:",
+   "opts": [
+    "4 g/dL",
+    "2 g/dL",
+    "8 g/dL",
+    "10 g/dL"
+   ],
+   "ans": 0,
+   "exp": "Cyanosis appears when reduced haemoglobin exceeds 4 g/dL, which corresponds to an SpO2 of about 85% at least. Below that, the tissue appears normally coloured regardless of how the patient feels. (Book p7)"
+  },
+  {
+   "id": "MED-C1-75",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "numeric",
+   "q": "Cyanosis is indicative of an SpO2 of at least:",
+   "opts": [
+    "<85%",
+    "<90%",
+    "<80%",
+    "<95%"
+   ],
+   "ans": 0,
+   "exp": "Cyanosis indicates an SpO2 below about 85%. A patient breathing room air with an SpO2 of 90% may look perfectly pink - a clinical trap. (Book p7)"
+  },
+  {
+   "id": "MED-C1-76",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "scenario",
+   "q": "A woman with a haemoglobin of 4 g/dL is profoundly breathless but has no cyanosis. The best explanation according to the book is:",
+   "opts": [
+    "It is the absolute, not the relative, quantity of reduced Hb that causes cyanosis, and her total Hb is too low to reach 4 g/dL of reduced Hb",
+    "Cyanosis is masked by anaemia-related pallor because conjunctival vessels are constricted",
+    "Cyanosis requires an abnormal haemoglobin derivative, which she lacks",
+    "Cyanosis cannot occur at any saturation above 70%, which she has not yet reached"
+   ],
+   "ans": 0,
+   "exp": "Cyanosis needs an absolute quantity of more than 4 g/dL of reduced haemoglobin. In severe anaemia even a very low SpO2 may generate too little reduced Hb to produce the blue colour - so absence of cyanosis never excludes severe hypoxaemia. (Book p7)"
+  },
+  {
+   "id": "MED-C1-77",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "match",
+   "q": "Match each cyanosis concept to its description — 1) Central cyanosis 2) Peripheral cyanosis 3) Spared site in peripheral cyanosis 4) Intermittent cyanosis … A) Ebstein's anomaly B) Arterial oxygen saturation reduced or an abnormal Hb derivative present, with both mucous membranes and skin affected C) Slowing of blood flow with increased oxygen extraction from saturated arterial blood D) Mucous membranes of the oral cavity and underside of the tongue",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Central cyanosis has a low arterial saturation or an abnormal derivative and involves both mucous membranes and skin; peripheral cyanosis reflects slow flow and increased extraction; in peripheral cyanosis the oral mucosa and underside of the tongue are often spared; intermittent cyanosis belongs to Ebstein's anomaly. (Book p7)"
+  },
+  {
+   "id": "MED-C1-78",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT a listed cause of central cyanosis?",
+   "opts": [
+    "High altitude",
+    "Congenital heart disease with an anatomical shunt",
+    "V/Q mismatch from extensive pneumonia",
+    "Cold exposure with vasoconstriction"
+   ],
+   "ans": 3,
+   "exp": "Cold exposure produces peripheral cyanosis by vasoconstriction and diminished peripheral flow. Central cyanosis is listed as high altitude, anatomical shunts (congenital heart disease, pulmonary AV fistulas), haemoglobin anomalies and V/Q mismatch (extensive pneumonia, pulmonary oedema, COPD). (Book p7)"
+  },
+  {
+   "id": "MED-C1-79",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "truefalse",
+   "q": "Which statement about hyperviscosity in cyanotic states is correct?",
+   "opts": [
+    "True: In iron-replete cyanosis, compensated erythrocytosis establishes equilibrium with the haematocrit, so hyperviscosity is rare",
+    "True: In iron-deplete cyanosis, erythrocytosis fails to establish equilibrium with the haematocrit, so hyperviscosity occurs",
+    "False: Hyperviscosity is commonest in iron-replete cyanosis because the haematocrit is highest",
+    "False: Iron deficiency protects cyanotic patients from hyperviscosity"
+   ],
+   "ans": 0,
+   "exp": "Iron-replete patients develop proportionate erythrocytosis that reaches equilibrium with the haematocrit and rarely becomes hyperviscous. Iron-deplete patients fail to reach that equilibrium, so viscosity rises disproportionately - an argument for treating iron deficiency in cyanotic heart disease. (Book p7)"
+  },
+  {
+   "id": "MED-C1-80",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "match",
+   "q": "Match each distribution of cyanosis to its lesion — 1) Cyanosis of the lower limb only 2) Cyanosis of the upper limb only 3) Cyanosis that is intermittent … A) PDA with pulmonary hypertension and right-to-left shunt together with TGV B) Ebstein's anomaly C) PDA with pulmonary hypertension and right-to-left shunt",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Differential cyanosis (lower limb cyanosed, upper limb spared) means a PDA with Eisenmenger physiology and right-to-left shunt; if the upper limb is cyanosed instead, TGV is added (reverse differential pattern); intermittent cyanosis is a feature of Ebstein's anomaly. (Book p7)"
+  },
+  {
+   "id": "MED-C1-81",
+   "sec": "Cyanosis",
+   "page": 7,
+   "fmt": "scenario",
+   "q": "A child with a large untreated ventricular septal defect has cyanosis and clubbing confined to both legs, with pink upper limbs. The most likely lesion is:",
+   "opts": [
+    "PDA with pulmonary hypertension and right-to-left shunt",
+    "PDA with transposition of the great arteries",
+    "Ebstein's anomaly",
+    "Tetralogy of Fallot with pulmonary stenosis"
+   ],
+   "ans": 0,
+   "exp": "Lower-limb-only cyanosis is the differential cyanosis of a ductus arteriosus with pulmonary hypertension and reversal of shunt, so desaturated blood enters the descending aorta beyond the origin of the upper-limb vessels. Ebstein's anomaly gives intermittent cyanosis. (Book p7)"
+  },
+  {
+   "id": "MED-C1-82",
+   "sec": "Clubbing: Definition & Grades",
+   "page": 7,
+   "fmt": "recall",
+   "q": "Clubbing is defined in the book as:",
+   "opts": [
+    "Selective bulbous enlargement of the distal portion of the digit due to deposition of subungual soft tissue",
+    "Diffuse enlargement of the proximal phalanx due to periosteal new bone formation",
+    "Bulbous enlargement of the digit with loss of the Lovibond angle caused by bony resorption",
+    "Thickening of the nail plate itself with preservation of the nail-bed angle"
+   ],
+   "ans": 0,
+   "exp": "The key words are selective, distal and subungual soft tissue deposition. Bony resorption with a preserved Lovibond angle describes pseudoclubbing, and periosteal new bone formation describes hypertrophic osteoarthropathy. (Book p7)"
+  },
+  {
+   "id": "MED-C1-83",
+   "sec": "Clubbing: Definition & Grades",
+   "page": 7,
+   "fmt": "recall",
+   "q": "The Lovibond angle is:",
+   "opts": [
+    "The normal angle between the nail and the nail bed",
+    "The angle between the proximal and distal nail folds",
+    "The angle subtended by the distal phalanx and the middle phalanx",
+    "The angle between the nail plate and the terminal phalangeal joint line"
+   ],
+   "ans": 0,
+   "exp": "The Lovibond angle is the normal angle between nail and nail-bed, measured at the profile of the finger. It increases in clubbing (grade 2) and is preserved in pseudoclubbing - which is exactly why the distinction matters. (Book p7)"
+  },
+  {
+   "id": "MED-C1-84",
+   "sec": "Clubbing: Definition & Grades",
+   "page": 7,
+   "fmt": "numeric",
+   "q": "The minimum duration required for clubbing to develop is:",
+   "opts": [
+    "2-3 weeks",
+    "2-3 days",
+    "2-3 months",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "Clubbing develops over a minimum of 2-3 weeks - a useful negative point: a finger that becomes bulbous over 24-48 hours is not clubbing, and the book's figure of 2-3 weeks also explains reversible clubbing after empyema or lung abscess resolves. (Book p7)"
+  },
+  {
+   "id": "MED-C1-85",
+   "sec": "Clubbing: Definition & Grades",
+   "page": 7,
+   "fmt": "recall",
+   "q": "The first finger in which clubbing appears is:",
+   "opts": [
+    "Index finger",
+    "Thumb",
+    "Little finger",
+    "Middle finger"
+   ],
+   "ans": 0,
+   "exp": "Clubbing first appears in the index finger. This is stated twice - once in the general clubbing section and once at the end of the section on patterns of clubbing. (Book p7)"
+  },
+  {
+   "id": "MED-C1-86",
+   "sec": "Clubbing: Definition & Grades",
+   "page": 8,
+   "fmt": "match",
+   "q": "Match each grade of clubbing to its clinical description — 1) Grade 1 2) Grade 2 3) Grade 3 4) Grade 4 … A) Drumstick or parrot beak appearance B) Nail bed fluctuations C) Hypertrophic osteoarthropathy D) Increase in the Lovibond angle",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Grade 1 is nail bed fluctuation (bogginess), grade 2 an increase in the Lovibond angle, grade 3 the drumstick/parrot-beak fingertip, and grade 4 hypertrophic osteoarthropathy. The grade is quoted in the viva with the sign, not the disease. (Book p8)"
+  },
+  {
+   "id": "MED-C1-87",
+   "sec": "Clubbing: Definition & Grades",
+   "page": 8,
+   "fmt": "scenario",
+   "q": "A patient with bronchogenic carcinoma has bulbous fingertips with a swollen, tender wrist and periosteal reaction on radiography of the forearm. The grade of clubbing is:",
+   "opts": [
+    "Grade 4, because hypertrophic osteoarthropathy is present",
+    "Grade 3, because the fingertip is drumstick shaped",
+    "Grade 2, because the Lovibond angle is lost",
+    "Not clubbing - this is pseudoclubbing"
+   ],
+   "ans": 0,
+   "exp": "Grade 4 clubbing is defined by the presence of hypertrophic osteoarthropathy, which is what the periosteal reaction and joint symptoms represent. Grades 1 to 3 describe only the finger changes. (Book p8)"
+  },
+  {
+   "id": "MED-C1-88",
+   "sec": "Causes of Clubbing",
+   "page": 8,
+   "fmt": "match",
+   "q": "Match each group of causes to the examples given — 1) Suppurative lung disease 2) Thoracic malignancy 3) Cardiovascular 4) Gastrointestinal … A) Cirrhosis (especially primary biliary cirrhosis) and inflammatory bowel disease B) Bronchiectasis, lung abscess and empyema C) Bronchogenic carcinoma, bronchial adenoma and mesothelioma D) Cyanotic heart disease, infective endocarditis and left atrial myxoma",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Suppurative lung disease (bronchiectasis, lung abscess, empyema), thoracic malignancy (bronchogenic carcinoma, bronchial adenoma, mesothelioma), cardiovascular causes (cyanotic heart disease, infective endocarditis, left atrial myxoma) and GI causes (cirrhosis - especially primary biliary cirrhosis - and inflammatory bowel disease) make up the list from Dr Vivekanandan. (Book p8)"
+  },
+  {
+   "id": "MED-C1-89",
+   "sec": "Causes of Clubbing",
+   "page": 8,
+   "fmt": "truefalse",
+   "q": "Which statement about clubbing and chronic lung disease is correct?",
+   "opts": [
+    "True: Clubbing is rare in COPD and in tuberculosis",
+    "True: Left atrial myxoma is listed among the cardiovascular causes of clubbing",
+    "False: Bronchiectasis, lung abscess and empyema are diseases in which clubbing is rare",
+    "False: Cirrhosis never causes clubbing"
+   ],
+   "ans": 0,
+   "exp": "The book deliberately records that clubbing is rare in COPD and TB while it is common in suppurative lung disease, ILD and thoracic malignancy. Cardiac causes include cyanotic heart disease, infective endocarditis and left atrial myxoma. (Book p8)"
+  },
+  {
+   "id": "MED-C1-90",
+   "sec": "Causes of Clubbing",
+   "page": 8,
+   "fmt": "oddoneout",
+   "q": "Which of the following is LEAST likely to cause clubbing?",
+   "opts": [
+    "Bronchiectasis",
+    "Lung abscess",
+    "Interstitial lung disease",
+    "Chronic obstructive pulmonary disease"
+   ],
+   "ans": 3,
+   "exp": "Clubbing is rare in COPD (and in TB); it is a feature of suppurative lung disease, malignancy and interstitial lung disease. This is one of the classic negative discriminations in a clubbing viva. (Book p8)"
+  },
+  {
+   "id": "MED-C1-91",
+   "sec": "Causes of Clubbing",
+   "page": 8,
+   "fmt": "recall",
+   "q": "Thyroid acropachy, listed among other causes of clubbing, is:",
+   "opts": [
+    "A rare manifestation of Graves' disease with swelling of fingers and toes, clubbing and periosteal reaction of the extremity bones",
+    "A rare manifestation of hypothyroidism with thickening of the skin of the fingers",
+    "A paraneoplastic syndrome of thyroid carcinoma with clubbing and myxoedema",
+    "An autoimmune overlap syndrome with clubbing and pretibial myxoedema only"
+   ],
+   "ans": 0,
+   "exp": "Thyroid acropachy occurs in Graves' disease - swelling of fingers and toes, clubbing and periosteal reaction of extremity bones. It is the reason thyroid disease appears in the causes of clubbing at all. (Book p8)"
+  },
+  {
+   "id": "MED-C1-92",
+   "sec": "Causes of Clubbing",
+   "page": 8,
+   "fmt": "fillup",
+   "q": "POEMS syndrome, listed under other causes of clubbing, stands for Polyneuropathy, Organomegaly, Endocrinopathy, M protein and ____.",
+   "opts": [
+    "Skin changes",
+    "Splenomegaly",
+    "Serositis",
+    "Skeletal lesions"
+   ],
+   "ans": 0,
+   "exp": "POEMS = Polyneuropathy, Organomegaly, Endocrinopathy, M protein, Skin changes. It is worth remembering as a cause of clubbing that begins with a haematological plasma cell disorder, like the M protein itself. (Book p8)"
+  },
+  {
+   "id": "MED-C1-93",
+   "sec": "Causes of Clubbing",
+   "page": 8,
+   "fmt": "scenario",
+   "q": "A patient with treated Graves' disease develops clubbing, swelling of the fingers and toes and periosteal reaction of the long bones. The correct label is:",
+   "opts": [
+    "Thyroid acropachy",
+    "Hypertrophic osteoarthropathy",
+    "Pseudoclubbing of acromegaly",
+    "POEMS syndrome"
+   ],
+   "ans": 0,
+   "exp": "Thyroid acropachy is a rare manifestation of Graves' disease presenting with swelling of fingers and toes, clubbing and periosteal reaction of extremity bones. HOA would imply an intrathoracic neoplasm, not thyroid disease. (Book p8)"
+  },
+  {
+   "id": "MED-C1-94",
+   "sec": "Pseudoclubbing & Theories of Clubbing",
+   "page": 8,
+   "fmt": "recall",
+   "q": "Pseudoclubbing is:",
+   "opts": [
+    "Bulbous enlargement of fingers or toes with preservation of the Lovibond angle",
+    "Bulbous enlargement of fingers or toes with loss of the Lovibond angle but no soft tissue proliferation",
+    "Clubbing associated with an underlying neoplasm",
+    "Clubbing that reverses completely after treatment of the primary disease"
+   ],
+   "ans": 0,
+   "exp": "In pseudoclubbing the Lovibond angle is preserved. Per Kundu the mechanism is subperiosteal bone resorption in the phalanges without soft tissue proliferation - so the finger looks bulbous but the nail profile is unchanged. (Book p8)"
+  },
+  {
+   "id": "MED-C1-95",
+   "sec": "Pseudoclubbing & Theories of Clubbing",
+   "page": 8,
+   "fmt": "match",
+   "q": "Match each cause of pseudoclubbing — 1) Infective 2) Connective tissue 3) Endocrine 4) Occupational … A) Acromegaly B) Leprosy C) Vinyl chloride workers with acro-osteolysis D) Scleroderma",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Pseudoclubbing is seen in leprosy, scleroderma, hyperparathyroidism, acromegaly and vinyl chloride workers with acro-osteolysis. All share bone resorption with a preserved Lovibond angle. (Book p8)"
+  },
+  {
+   "id": "MED-C1-96",
+   "sec": "Pseudoclubbing & Theories of Clubbing",
+   "page": 8,
+   "fmt": "scenario",
+   "q": "A worker in a vinyl chloride plant has bulbous finger tips; the nail-bed angle is normal and radiographs show acro-osteolysis. This is:",
+   "opts": [
+    "Pseudoclubbing from acro-osteolysis",
+    "True clubbing with early HOA",
+    "Grade 3 clubbing",
+    "Thyroid acropachy"
+   ],
+   "ans": 0,
+   "exp": "Preservation of the Lovibond angle with bone resorption is the signature of pseudoclubbing; vinyl chloride exposure with acro-osteolysis is one of its listed causes, along with leprosy, scleroderma, hyperparathyroidism and acromegaly. (Book p8)"
+  },
+  {
+   "id": "MED-C1-97",
+   "sec": "Pseudoclubbing & Theories of Clubbing",
+   "page": 8,
+   "fmt": "recall",
+   "q": "The most accepted theory of clubbing in the book is:",
+   "opts": [
+    "Large megakaryocytes normally broken down in the pulmonary circulation reach the peripheral arterioles of the nail bed in lung disease and release PDGF, causing connective tissue proliferation",
+    "Vagal stimulation causes vasodilation and connective tissue growth in the nail bed",
+    "Growth hormone, PTH and oestrogen directly stimulate subungual fibroblasts",
+    "Persistent hypoxia opens deep arteriovenous fistulae which enlarge the fingertip"
+   ],
+   "ans": 0,
+   "exp": "The megakaryocyte/PDGF theory is the most accepted: megakaryocytes are normally fragmented in the pulmonary circulation; in lung disease they reach the nail-bed arterioles intact and release platelet-derived growth factor, driving connective tissue proliferation. (Book p8)"
+  },
+  {
+   "id": "MED-C1-98",
+   "sec": "Pseudoclubbing & Theories of Clubbing",
+   "page": 8,
+   "fmt": "fillup",
+   "q": "In the most accepted theory of clubbing, the megakaryocytes reaching the nail-bed arterioles release ____, which causes proliferation of connective tissue.",
+   "opts": [
+    "PDGF",
+    "VEGF",
+    "TGF-β",
+    "EGF"
+   ],
+   "ans": 0,
+   "exp": "The mediator is platelet-derived growth factor (PDGF). It explains why clubbing appears in conditions with right-to-left shunting and in suppurative lung disease, where megakaryocytes bypass the lung filter. (Book p8)"
+  },
+  {
+   "id": "MED-C1-99",
+   "sec": "Pseudoclubbing & Theories of Clubbing",
+   "page": 8,
+   "fmt": "match",
+   "q": "Match each theory of clubbing to its proposed mechanism — 1) Neurogenic 2) Humoral 3) Hypoxic 4) Ferritin … A) Vagal stimulation causes vasodilation B) GH, PTH and oestrogen cause vasodilation C) Persistent hypoxia opens deep AV fistulae D) Decreased systemic ferritin causes dilation of AV anastomoses",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic (vagal stimulation causing vasodilation), humoral (GH, PTH, oestrogen), hypoxic (persistent hypoxia opening deep AV fistulae) and ferritin (decreased systemic ferritin dilating AV anastomoses) theories are all listed in addition to the most-accepted megakaryocyte/PDGF mechanism. (Book p8)"
+  },
+  {
+   "id": "MED-C1-100",
+   "sec": "Painful, Unilateral & Unidigital Clubbing",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Painful clubbing is listed in association with:",
+   "opts": [
+    "Bronchogenic carcinoma, lung abscess and infective endocarditis",
+    "Cirrhosis, inflammatory bowel disease and coeliac disease",
+    "Cyanotic heart disease and interstitial lung disease",
+    "Acromegaly, leprosy and hyperparathyroidism"
+   ],
+   "ans": 0,
+   "exp": "Painful clubbing belongs to bronchogenic carcinoma, lung abscess and infective endocarditis - three conditions in which the clubbing itself hurts, in contrast to the usual painless clubbing. (Book p9)"
+  },
+  {
+   "id": "MED-C1-101",
+   "sec": "Painful, Unilateral & Unidigital Clubbing",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Which of the following is a listed cause of unilateral clubbing?",
+   "opts": [
+    "Presubclavian coarctation of aorta, with only left-sided clubbing",
+    "Presubclavian coarctation of aorta, with only right-sided clubbing",
+    "Atrial septal defect with Eisenmenger syndrome",
+    "Scleroderma of one hand"
+   ],
+   "ans": 0,
+   "exp": "Unilateral clubbing is described in presubclavian coarctation of aorta with only left-sided clubbing, apical bronchogenic carcinoma, cervical rib and aneurysm of the subclavian or axillary artery. (Book p9)"
+  },
+  {
+   "id": "MED-C1-102",
+   "sec": "Painful, Unilateral & Unidigital Clubbing",
+   "page": 9,
+   "fmt": "scenario",
+   "q": "A young hypertensive patient has clubbing of the left hand only, with an absent left radial pulse. Among the listed causes of unilateral clubbing, the book's lesion here is:",
+   "opts": [
+    "Presubclavian coarctation of aorta",
+    "Apical bronchogenic carcinoma",
+    "Cervical rib",
+    "Subclavian artery aneurysm"
+   ],
+   "ans": 0,
+   "exp": "Presubclavian coarctation of the aorta is the cause given that produces clubbing confined to the left side. An apical bronchogenic carcinoma, cervical rib and subclavian/axillary aneurysm are the other unilateral causes - each with its own localising signs. (Book p9)"
+  },
+  {
+   "id": "MED-C1-103",
+   "sec": "Painful, Unilateral & Unidigital Clubbing",
+   "page": 9,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT a listed cause of unidigital clubbing?",
+   "opts": [
+    "Hereditary occurrence",
+    "Repeated local trauma",
+    "Median nerve injury",
+    "Bronchiectasis"
+   ],
+   "ans": 3,
+   "exp": "Unidigital clubbing is hereditary, follows repeated local trauma, and rarely follows median nerve injury. Bronchiectasis produces generalised clubbing, not single-digit clubbing. (Book p9)"
+  },
+  {
+   "id": "MED-C1-104",
+   "sec": "Painful, Unilateral & Unidigital Clubbing",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Which finger is the first to be affected by clubbing?",
+   "opts": [
+    "Index finger",
+    "Thumb",
+    "Ring finger",
+    "Ring and little fingers together"
+   ],
+   "ans": 0,
+   "exp": "The index finger is the first to be affected. Both the clubbing definition page and the closing line of the clubbing section state this, which is why it is a favourite one-line viva question. (Book p9)"
+  },
+  {
+   "id": "MED-C1-105",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "numeric",
+   "q": "According to the book, which node size is significant in the inguinal region?",
+   "opts": [
+    ">1.5 cm",
+    ">1 cm",
+    ">2 cm",
+    ">3 cm"
+   ],
+   "ans": 0,
+   "exp": "Inguinal nodes are significant when larger than 1.5 cm; any other node is significant when larger than 1 cm; and any supraclavicular or epitrochlear node is significant however small it is. (Book p9)"
+  },
+  {
+   "id": "MED-C1-106",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Which nodes are significant whatever their size?",
+   "opts": [
+    "Supraclavicular and epitrochlear nodes",
+    "Inguinal and axillary nodes",
+    "Submental and submandibular nodes",
+    "Anterior cervical and posterior triangle nodes"
+   ],
+   "ans": 0,
+   "exp": "Any supraclavicular or epitrochlear node is significant at any size - these are the two sites where even a small node mandates explanation, and both are classic answers in a lymphadenopathy viva. (Book p9)"
+  },
+  {
+   "id": "MED-C1-107",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Generalised lymphadenopathy is best defined as involvement of:",
+   "opts": [
+    "Two or more non-contiguous lymph node areas - though Harrison's says three or more, which is not practical",
+    "All palpable node groups excluding the inguinal group",
+    "Three or more contiguous node areas only",
+    "Any two node areas including the two inguinal groups"
+   ],
+   "ans": 0,
+   "exp": "The book prefers two or more non-contiguous areas and explicitly notes that Harrison's says three or more but that this is not practical. Persistent generalised lymphadenopathy means it lasts more than 3 months. (Book p9)"
+  },
+  {
+   "id": "MED-C1-108",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "numeric",
+   "q": "Persistent generalised lymphadenopathy is defined as lasting more than:",
+   "opts": [
+    "3 months",
+    "2 weeks",
+    "6 months",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "More than 3 months defines persistence. The distinction matters because transient generalised lymphadenopathy accompanies most viral illness, whereas persistence raises HIV, tuberculosis, lymphoma and connective tissue disease. (Book p9)"
+  },
+  {
+   "id": "MED-C1-109",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "match",
+   "q": "Match each lymph node character to its meaning — 1) Painful lymphadenopathy 2) Firm, rubbery nodes 3) Fluctuant nodes 4) Stony hard node … A) Suppurative nodes B) Metastasis C) Infectious aetiology or even acute leukaemia D) Lymphoma",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Painful nodes suggest infection but can occur in acute leukaemia; firm, rubbery nodes suggest lymphoma; fluctuant nodes are suppurative; a stony hard node means metastasis. (Book p9)"
+  },
+  {
+   "id": "MED-C1-110",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "scenario",
+   "q": "Matted nodes - which feel connected and move together as a unit - are seen in:",
+   "opts": [
+    "Tuberculosis as the benign cause, and lymphoma or metastatic carcinoma as the malignant causes",
+    "Infectious mononucleosis as the benign cause, and acute leukaemia as the malignant cause",
+    "Sarcoidosis as the benign cause, and Hodgkin's lymphoma only",
+    "Suppurative lymphadenitis as the benign cause, and secondaries as the malignant cause"
+   ],
+   "ans": 0,
+   "exp": "Matted nodes are benign in tuberculosis and malignant in lymphoma or metastatic carcinoma. The clue is in the matting together with the consistency and the site, not in enlargement alone. (Book p9)"
+  },
+  {
+   "id": "MED-C1-111",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "match",
+   "q": "Match each cervical node level to its region — 1) Ia 2) Ib 3) II, III and IV 4) V 5) VI 6) VII … A) Submental B) Submandibular C) Upper, middle and lower jugular D) Posterior triangle E) Anterior triangle F) Superior mediastinal",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E, 6-F",
+    "1-B, 2-A, 3-C, 4-D, 5-E, 6-F",
+    "1-A, 2-B, 3-D, 4-C, 5-F, 6-E",
+    "1-A, 2-C, 3-B, 4-D, 5-E, 6-F"
+   ],
+   "ans": 0,
+   "exp": "Ia submental, Ib submandibular, II-IV upper/middle/lower jugular, V posterior triangle, VI anterior triangle, VII superior mediastinal. The levels are used to describe neck nodes and to plan neck dissection. (Book p9)"
+  },
+  {
+   "id": "MED-C1-112",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "page": 9,
+   "fmt": "scenario",
+   "q": "A 22-year-old has a 3 cm firm, rubbery, painless lower cervical node with no other nodes palpable. Among the listed characters, firm rubbery nodes are said to be suggestive of:",
+   "opts": [
+    "Lymphoma",
+    "Suppuration",
+    "Metastatic carcinoma from a head and neck primary",
+    "Tubercular lymphadenitis"
+   ],
+   "ans": 0,
+   "exp": "Firm and rubbery suggests lymphoma; fluctuant means suppurative; stony hard means metastatic deposit. Matted nodes would be more typical of tuberculosis. (Book p9)"
+  },
+  {
+   "id": "MED-C1-113",
+   "sec": "Neurological Causes of Clubbing (Boloor insert)",
+   "page": 10,
+   "fmt": "recall",
+   "q": "The inserted Boloor reference page on Book p10 lists which group of causes of clubbing?",
+   "opts": [
+    "Neurological causes - syringomyelia, median nerve injury and hemiplegia",
+    "Cardiac causes - cyanotic heart disease, infective endocarditis and atrial myxoma",
+    "Endocrine causes - thyroid acropachy and acromegaly",
+    "Occupational causes - vinyl chloride and arsenic exposure"
+   ],
+   "ans": 0,
+   "exp": "The Boloor insert supplies the neurological column of clubbing causes: syringomyelia, median nerve injury and hemiplegia. It complements the respiratory, cardiovascular and GI groups given in the main text. (Book p10)"
+  },
+  {
+   "id": "MED-C1-114",
+   "sec": "Neurological Causes of Clubbing (Boloor insert)",
+   "page": 10,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed among the neurological causes of clubbing in the inserted reference page?",
+   "opts": [
+    "Syringomyelia",
+    "Median nerve injury",
+    "Hemiplegia",
+    "Myasthenia gravis"
+   ],
+   "ans": 3,
+   "exp": "The three neurological causes given are syringomyelia, median nerve injury and hemiplegia. Myasthenia gravis is a disorder of the neuromuscular junction and is not a cause of clubbing. (Book p10)"
+  },
+  {
+   "id": "MED-C1-115",
+   "sec": "Grade 4 Clubbing (Boloor figure)",
+   "page": 11,
+   "fmt": "recall",
+   "q": "Boloor Fig. 2C.18, inserted on Book p11, demonstrates which grade of clubbing?",
+   "opts": [
+    "Grade 4",
+    "Grade 1",
+    "Grade 2",
+    "Grade 3"
+   ],
+   "ans": 0,
+   "exp": "The figure caption reads 'Demonstration of grade 4 clubbing'. Grade 4 is the grade at which hypertrophic osteoarthropathy is present, in contrast to grade 3's drumstick fingertip. (Book p11)"
+  },
+  {
+   "id": "MED-C1-116",
+   "sec": "Grade 4 Clubbing (Boloor figure)",
+   "page": 11,
+   "fmt": "scenario",
+   "q": "A patient whose hand is shown in the grade-4 clubbing figure of the insert is examined by you. Which additional finding would you specifically look for, since it defines this grade?",
+   "opts": [
+    "Periosteal reaction of the long bones with joint symptoms - hypertrophic osteoarthropathy",
+    "A raised Lovibond angle alone",
+    "Nail-bed fluctuation on pressure",
+    "Subungual soft tissue proliferation with a parrot-beak fingertip"
+   ],
+   "ans": 0,
+   "exp": "Grade 4 is defined by hypertrophic osteoarthropathy, so periosteal reaction and articular symptoms are the findings that upgrade the finger signs to grade 4. Nail-bed fluctuation is grade 1, a raised Lovibond angle grade 2, and the parrot-beak tip grade 3. (Book p11)"
+  },
+  {
+   "id": "MED-C1-117",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "recall",
+   "q": "In the Boloor atypical clubbing table the causes of acute clubbing are:",
+   "opts": [
+    "Subacute bacterial endocarditis, lung abscess and empyema",
+    "Bronchogenic carcinoma, mesothelioma and lymphoma",
+    "Cirrhosis, inflammatory bowel disease and coeliac disease",
+    "Leprosy, sclerodactyly and vinyl chloride exposure"
+   ],
+   "ans": 0,
+   "exp": "Acute clubbing in the table belongs to subacute bacterial endocarditis, lung abscess and empyema - the same suppurative and endocardial group that produces clubbing over weeks rather than years. (Book p12)"
+  },
+  {
+   "id": "MED-C1-118",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "match",
+   "q": "Match each atypical pattern to the causes given in the Boloor table — 1) Unilateral clubbing 2) Unidigital clubbing 3) Reversible clubbing … A) Hemiplegia, aneurysm of the subclavian artery, Pancoast tumour B) Median nerve injury and trauma C) Lung abscess and empyema",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Unilateral clubbing is listed with hemiplegia, subclavian artery aneurysm and Pancoast tumour; unidigital clubbing with median nerve injury and trauma; reversible clubbing with lung abscess and empyema - clubbing that regresses once the pus is drained. (Book p12)"
+  },
+  {
+   "id": "MED-C1-119",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "match",
+   "q": "Match each pattern to its listed causes — 1) Painful clubbing 2) Clubbing with cyanosis 3) Pseudoclubbing … A) Cyanotic congenital heart diseases and interstitial lung disease B) Bronchogenic carcinoma, subacute bacterial endocarditis and lung abscess C) Leprosy, leukaemic infiltration, hyperparathyroidism, thyroid acropachy, sclerodactyly, vinyl chloride exposure and subungual tumours",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Painful clubbing is listed with bronchogenic carcinoma, subacute bacterial endocarditis and lung abscess; clubbing with cyanosis with cyanotic congenital heart disease and interstitial lung disease; and pseudoclubbing with a long list including leprosy, leukaemic infiltration, hyperparathyroidism, thyroid acropachy, sclerodactyly, vinyl chloride exposure and subungual tumours or cysts. (Book p12)"
+  },
+  {
+   "id": "MED-C1-120",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "scenario",
+   "q": "A patient has clubbing of both lower limbs with normal upper limbs. The Boloor atypical clubbing table attributes differential clubbing (upper limb normal, lower limb clubbed) to:",
+   "opts": [
+    "Patent ductus arteriosus with reversal of shunt",
+    "PDA with transposition of the great arteries and reversal of shunt",
+    "Pancoast tumour of the lung",
+    "Cyanotic congenital heart disease with ILD"
+   ],
+   "ans": 0,
+   "exp": "Differential clubbing with a normal upper limb and clubbed lower limb is produced by a patent ductus arteriosus with reversal of shunt - the mirror image of the reverse pattern. Adding transposition of the great arteries reverses which limb is affected. (Book p12)"
+  },
+  {
+   "id": "MED-C1-121",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "scenario",
+   "q": "Clubbing confined to the upper limbs with normal lower limbs - reverse differential clubbing - is attributed in the table to:",
+   "opts": [
+    "PDA with transposition of the great arteries and reversal of shunt",
+    "PDA with reversal of shunt alone",
+    "Interstitial lung disease with cyanosis",
+    "Subclavian artery aneurysm"
+   ],
+   "ans": 0,
+   "exp": "Reverse differential clubbing (upper limb clubbed, lower limb normal) requires PDA plus transposition of the great arteries plus reversal of shunt. Compare with differential clubbing, which needs PDA with reversal alone. (Book p12)"
+  },
+  {
+   "id": "MED-C1-122",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed under pseudoclubbing in the Boloor atypical clubbing table?",
+   "opts": [
+    "Leprosy",
+    "Leukaemic infiltration",
+    "Thyroid acropachy",
+    "Bronchogenic carcinoma"
+   ],
+   "ans": 3,
+   "exp": "The pseudoclubbing list is leprosy, leukaemic infiltration, hyperparathyroidism, thyroid acropachy, sclerodactyly, vinyl chloride exposure and subungual tumours or cysts. Bronchogenic carcinoma produces true - and painful - clubbing. (Book p12)"
+  },
+  {
+   "id": "MED-C1-123",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "recall",
+   "q": "In the Boloor table, clubbing with cyanosis is listed with:",
+   "opts": [
+    "Cyanotic congenital heart diseases and interstitial lung disease",
+    "Chronic bronchitis and bronchiectasis",
+    "Cirrhosis and inflammatory bowel disease",
+    "Subacute bacterial endocarditis and empyema"
+   ],
+   "ans": 0,
+   "exp": "Clubbing with cyanosis is paired with cyanotic congenital heart disease and interstitial lung disease. The pairing is useful because cyanosis plus clubbing without a shunt suggests ILD rather than heart disease. (Book p12)"
+  },
+  {
+   "id": "MED-C1-124",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "page": 12,
+   "fmt": "scenario",
+   "q": "A patient's clubbing regresses completely after drainage of a lung abscess. In the Boloor atypical clubbing table this pattern is called:",
+   "opts": [
+    "Reversible clubbing",
+    "Acute clubbing",
+    "Pseudoclubbing",
+    "Differential clubbing"
+   ],
+   "ans": 0,
+   "exp": "Reversible clubbing - listed with lung abscess and empyema - is the pattern that resolves when the underlying pus is evacuated. It is a reminder that clubbing is not always permanent. (Book p12)"
+  },
+  {
+   "id": "MED-C1-125",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "match",
+   "q": "Match each group of causes of generalised lymphadenopathy to its examples — 1) Infections 2) Malignancies 3) Autoimmune 4) Miscellaneous … A) HIV, infectious mononucleosis, tuberculosis B) Leukaemia, lymphoma, metastatic carcinoma C) SLE, Felty's syndrome, Still's disease D) Sarcoidosis",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Infections (HIV, infectious mononucleosis, tuberculosis), malignancies (leukaemia, lymphoma, metastatic carcinoma), autoimmune disease (SLE, Felty's syndrome, Still's disease) and miscellaneous (sarcoidosis) form the four groups. (Book p13)"
+  },
+  {
+   "id": "MED-C1-126",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "match",
+   "q": "Match each type of oedema to its causes — 1) Non-pitting oedema 2) Pitting oedema … A) Myxoedema, lymphoedema in late-stage filariasis, scleroderma, angioneurotic oedema B) CCF, cirrhosis, nephrotic syndrome, hypoproteinaemia, pericardial effusion, constrictive pericarditis, amlodipine",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Non-pitting oedema is myxoedema, late-stage filarial lymphoedema, scleroderma and angioneurotic oedema. Pitting oedema is cardiac, hepatic, renal and hypoproteinaemic oedema plus drugs such as amlodipine. (Book p13)"
+  },
+  {
+   "id": "MED-C1-127",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "scenario",
+   "q": "A hypertensive patient on amlodipine develops bilateral pitting pedal oedema with no cardiac, renal or hepatic abnormality. According to the book's list of pitting oedema causes:",
+   "opts": [
+    "Amlodipine is a listed drug cause of pitting oedema",
+    "Drug-induced oedema is always non-pitting",
+    "The oedema must be lymphatic because it is bilateral",
+    "Amlodipine causes oedema only in nephrotic patients"
+   ],
+   "ans": 0,
+   "exp": "Amlodipine appears explicitly in the pitting oedema list, along with CCF, cirrhosis, nephrotic syndrome, hypoproteinaemia, pericardial effusion and constrictive pericarditis. It is one of the commonest bedside causes of unexplained ankle swelling. (Book p13)"
+  },
+  {
+   "id": "MED-C1-128",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "oddoneout",
+   "q": "Which of the following causes non-pitting oedema?",
+   "opts": [
+    "Myxoedema",
+    "Nephrotic syndrome",
+    "Constrictive pericarditis",
+    "Chronic liver disease with hypoproteinaemia"
+   ],
+   "ans": 0,
+   "exp": "Myxoedema is non-pitting because mucopolysaccharide deposition, not free fluid, expands the tissue. Nephrotic syndrome, constrictive pericarditis and hypoproteinaemia all cause pitting oedema. (Book p13)"
+  },
+  {
+   "id": "MED-C1-129",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "match",
+   "q": "Match each distribution of leg swelling to its differential — 1) Unilateral leg swelling 2) Bilateral leg swelling 3) Milroy's disease … A) DVT, soft tissue infection, trauma, lymphoedema, immobility such as hemiplegia B) Heart failure, chronic venous insufficiency, hypoproteinaemia, lymphatic obstruction, drugs C) Unexplained lymphoedema appearing at puberty, more common in females",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Unilateral swelling suggests local causes (DVT, infection, trauma, lymphoedema, immobility such as hemiplegia); bilateral swelling suggests systemic causes (heart failure, chronic venous insufficiency, hypoproteinaemia, lymphatic obstruction, drugs); Milroy's disease is unexplained lymphoedema appearing at puberty and is commoner in females. (Book p13)"
+  },
+  {
+   "id": "MED-C1-130",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "scenario",
+   "q": "A 14-year-old girl has painless, non-pitting swelling of both legs beginning at puberty, with no cardiac, renal or hepatic cause. The entity described in the book is:",
+   "opts": [
+    "Milroy's disease",
+    "Filariasis with late-stage lymphoedema",
+    "Angioneurotic oedema",
+    "Lipodermatosclerosis from chronic venous insufficiency"
+   ],
+   "ans": 0,
+   "exp": "Milroy's disease is unexplained lymphoedema that appears at puberty and is commoner in females - one of the bilateral leg swelling causes that has no systemic driver. (Book p13)"
+  },
+  {
+   "id": "MED-C1-131",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as a cause of unilateral leg swelling?",
+   "opts": [
+    "Deep vein thrombosis",
+    "Soft tissue infection",
+    "Immobility such as hemiplegia",
+    "Chronic venous insufficiency"
+   ],
+   "ans": 3,
+   "exp": "Chronic venous insufficiency is a cause of bilateral leg swelling. The unilateral list is DVT, soft tissue infection, trauma, lymphoedema and immobility such as hemiplegia. (Book p13)"
+  },
+  {
+   "id": "MED-C1-132",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "scenario",
+   "q": "A patient with rheumatoid arthritis develops generalised lymphadenopathy and splenomegaly with neutropenia. The eponymous syndrome named in the autoimmune group of generalised lymphadenopathy causes is:",
+   "opts": [
+    "Felty's syndrome",
+    "Still's disease",
+    "Sjogren's syndrome",
+    "Caplan's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Felty's syndrome - rheumatoid arthritis with splenomegaly and neutropenia - is listed together with SLE and Still's disease among autoimmune causes of generalised lymphadenopathy. (Book p13)"
+  },
+  {
+   "id": "MED-C1-133",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "recall",
+   "q": "Which disease is listed as the 'miscellaneous' cause of generalised lymphadenopathy?",
+   "opts": [
+    "Sarcoidosis",
+    "Amyloidosis",
+    "Hypothyroidism",
+    "Sickle cell disease"
+   ],
+   "ans": 0,
+   "exp": "Sarcoidosis is the miscellaneous cause, standing alone after the infection, malignancy and autoimmune groups. Its bilateral hilar lymphadenopathy plus peripheral nodes is the classic clinical picture. (Book p13)"
+  },
+  {
+   "id": "MED-C1-134",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "page": 13,
+   "fmt": "scenario",
+   "q": "An elderly man has firm, non-pitting swelling of both lower legs, dry skin, hoarse voice and a raised TSH. His oedema is best described as:",
+   "opts": [
+    "Non-pitting oedema of myxoedema",
+    "Pitting oedema of hypoproteinaemia",
+    "Lymphoedema of late-stage filariasis",
+    "Angioneurotic oedema"
+   ],
+   "ans": 0,
+   "exp": "Myxoedema causes non-pitting oedema through mucopolysaccharide deposition. The clue is the accompanying hypothyroid features and the failure to pit on pressure. (Book p13)"
+  },
+  {
+   "id": "MED-C1-135",
+   "sec": "Blood Pressure Measurement",
+   "page": 14,
+   "fmt": "recall",
+   "q": "Blood pressure is defined in the book as:",
+   "opts": [
+    "The lateral force exerted by the blood column per unit area of vascular wall",
+    "The product of cardiac output and systemic vascular resistance",
+    "The force of ventricular contraction transmitted to the arterial wall during systole",
+    "The pressure gradient between the aorta and the right atrium"
+   ],
+   "ans": 0,
+   "exp": "The definition given is the lateral force exerted by the blood column per unit area of vascular wall - a physical rather than physiological definition, which is why measurement technique matters so much. (Book p14)"
+  },
+  {
+   "id": "MED-C1-136",
+   "sec": "Blood Pressure Measurement",
+   "page": 14,
+   "fmt": "numeric",
+   "q": "Regarding the standard BP cuff, the book states that the length is approximately ____ the width, the average length is ____, and the air bag should extend for at least ____ of the arm circumference.",
+   "opts": [
+    "Twice; 25 cm; two-thirds",
+    "Three times; 30 cm; one-half",
+    "Twice; 20 cm; three-quarters",
+    "Three times; 25 cm; two-thirds"
+   ],
+   "ans": 0,
+   "exp": "Cuff length is about twice its width, average length is 25 cm, and the bladder within the cuff should cover at least two-thirds of the arm circumference. A short or narrow cuff over-reads the pressure. (Book p14)"
+  },
+  {
+   "id": "MED-C1-137",
+   "sec": "Blood Pressure Measurement",
+   "page": 14,
+   "fmt": "match",
+   "q": "Match each Korotkoff phase to its description — 1) Phase 1 2) Phase 2 3) Phase 3 4) Phase 4 5) Phase 5 … A) Complete disappearance of sounds B) First appearance of low-frequency tapping sounds C) Softer and longer sounds D) Crisper and louder sounds E) Initial muffling of sounds, often absent",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-E, 5-A",
+    "1-B, 2-D, 3-C, 4-E, 5-A",
+    "1-C, 2-B, 3-D, 4-E, 5-A",
+    "1-B, 2-C, 3-E, 4-D, 5-A"
+   ],
+   "ans": 0,
+   "exp": "Phase 1 is the first appearance of low-frequency tapping sounds (systolic), phase 2 softer and longer, phase 3 crisper and louder, phase 4 initial muffling (often absent), phase 5 complete disappearance (diastolic). (Book p14)"
+  },
+  {
+   "id": "MED-C1-138",
+   "sec": "Blood Pressure Measurement",
+   "page": 14,
+   "fmt": "recall",
+   "q": "Normally, which Korotkoff phase is taken as the diastolic blood pressure, and when is the exception made?",
+   "opts": [
+    "Phase 5; in severe aortic regurgitation complete disappearance may not occur, so phase 4 is taken",
+    "Phase 4; in severe aortic stenosis complete disappearance may not occur, so phase 5 is taken",
+    "Phase 3; in atrial fibrillation the sounds never disappear, so phase 4 is taken",
+    "Phase 5; in cardiac tamponade complete disappearance may not occur, so phase 4 is taken"
+   ],
+   "ans": 0,
+   "exp": "Phase 5 (disappearance) is normally the diastolic pressure. In severe aortic regurgitation the sounds may never disappear completely, so phase 4 (muffling) is used instead - a classic examiner's trap. (Book p14)"
+  },
+  {
+   "id": "MED-C1-139",
+   "sec": "Blood Pressure Measurement",
+   "page": 14,
+   "fmt": "scenario",
+   "q": "A patient with a wide pulse pressure and a blowing early diastolic murmur has Korotkoff sounds audible all the way down to 0 mmHg. The correct diastolic end point is:",
+   "opts": [
+    "Phase 4, because complete disappearance of sounds does not occur in severe aortic regurgitation",
+    "Phase 5, because disappearance must always define the diastolic pressure",
+    "Phase 1, because the true diastolic pressure equals the first sound in AR",
+    "The midpoint between phase 4 and phase 5"
+   ],
+   "ans": 0,
+   "exp": "When the sounds never disappear - the classic setting being severe aortic regurgitation - phase 4 (initial muffling) is taken as the DBP. (Book p14)"
+  },
+  {
+   "id": "MED-C1-140",
+   "sec": "Blood Pressure Measurement",
+   "page": 14,
+   "fmt": "numeric",
+   "q": "Normal variation in blood pressure between the two upper limbs is:",
+   "opts": [
+    "10-15 mmHg",
+    "5-8 mmHg",
+    "15-25 mmHg",
+    "Up to 30 mmHg"
+   ],
+   "ans": 0,
+   "exp": "The book allows 10-15 mmHg between upper limbs; a difference above this must be explained, and if it is new it raises the possibility of aortic dissection or subclavian steal. (Book p14)"
+  },
+  {
+   "id": "MED-C1-141",
+   "sec": "Auscultatory Gap & Inter-limb BP Variation",
+   "page": 14,
+   "fmt": "recall",
+   "q": "The auscultatory gap is:",
+   "opts": [
+    "Temporary disappearance of Korotkoff sounds after the systolic reading with reappearance just above the diastolic value, which underestimates the systolic BP",
+    "Permanent loss of Korotkoff sounds below systolic pressure, which overestimates the systolic BP",
+    "A gap between the first and second Korotkoff sounds, which overestimates the diastolic pressure",
+    "Absence of all Korotkoff sounds in the presence of a palpable pulse"
+   ],
+   "ans": 0,
+   "exp": "In the auscultatory gap the sounds vanish after the systolic reading and return just above the diastolic value; it is seen in elderly hypertensives and causes the systolic pressure to be underestimated. (Book p14)"
+  },
+  {
+   "id": "MED-C1-142",
+   "sec": "Auscultatory Gap & Inter-limb BP Variation",
+   "page": 14,
+   "fmt": "management",
+   "q": "How is the error caused by an auscultatory gap avoided at the bedside?",
+   "opts": [
+    "By simultaneously palpating the radial pulse, which persists throughout the gap",
+    "By inflating the cuff 20 mmHg above the estimated systolic pressure",
+    "By using a larger cuff and recording both phases 4 and 5",
+    "By taking the measurement in the standing position only"
+   ],
+   "ans": 0,
+   "exp": "Palpating the radial pulse while auscultating solves it: the pulse continues through the gap, so the true systolic level is not lost - this is exactly why the palpatory method precedes auscultation in clinical practice. (Book p14)"
+  },
+  {
+   "id": "MED-C1-143",
+   "sec": "Auscultatory Gap & Inter-limb BP Variation",
+   "page": 14,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the causes of increased BP variation between the upper limbs given in the book?",
+   "opts": [
+    "Aortic dissection, with occlusion of the subclavian artery by the haematoma",
+    "Subclavian steal syndrome",
+    "Elderly age with an auscultatory gap",
+    "Coarctation of the aorta with unequal upper-limb pressures"
+   ],
+   "ans": 2,
+   "exp": "The book lists aortic dissection (occlusion of the subclavian artery by the haematoma) and subclavian steal syndrome as causes of an increased inter-arm difference. An auscultatory gap affects the systolic reading of a single limb and is not the mechanism for inter-arm difference. (Book p14)"
+  },
+  {
+   "id": "MED-C1-144",
+   "sec": "Auscultatory Gap & Inter-limb BP Variation",
+   "page": 14,
+   "fmt": "scenario",
+   "q": "A patient has a 25 mmHg difference in blood pressure between the arms; angiography shows reversed flow in the left vertebral artery feeding the left arm. The book's description of this situation is:",
+   "opts": [
+    "Subclavian steal syndrome - blood is stolen from the vertebral artery circulation to feed a hypoperfused arm",
+    "Aortic dissection - the subclavian artery is occluded by haematoma",
+    "Auscultatory gap - underestimation of systolic pressure",
+    "Pulsus paradoxus - inspiratory fall in systolic pressure"
+   ],
+   "ans": 0,
+   "exp": "Subclavian steal syndrome is exactly blood stolen from the vertebral circulation to feed a hypoperfused arm. Aortic dissection, by contrast, causes inter-arm difference from occlusion of the subclavian artery by the dissection haematoma. (Book p14)"
+  },
+  {
+   "id": "MED-C1-145",
+   "sec": "Pulse Pressure & Haemodynamics",
+   "page": 14,
+   "fmt": "numeric",
+   "q": "Pulse pressure is the difference between systolic and diastolic pressure; the book gives a normal range of:",
+   "opts": [
+    "30-60 mmHg",
+    "20-40 mmHg",
+    "40-80 mmHg",
+    "60-100 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Normal pulse pressure is 30-60 mmHg. Wider pressure means a large stroke volume or a leaky/rapid run-off circuit; narrower pressure means obstruction to outflow or to filling. (Book p14)"
+  },
+  {
+   "id": "MED-C1-146",
+   "sec": "Pulse Pressure & Haemodynamics",
+   "page": 14,
+   "fmt": "match",
+   "q": "Match each pulse pressure abnormality to its listed causes — 1) Raised pulse pressure 2) Narrow pulse pressure … A) Exercise, AR, PDA, fever, anaemia, AV fistulas, beriberi, Paget's disease, cirrhosis, pregnancy B) Aortic stenosis, constrictive pericarditis, cardiac tamponade",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Raised pulse pressure is seen with exercise, aortic regurgitation, PDA, fever, anaemia, AV fistulas, beriberi, Paget's disease, cirrhosis and pregnancy. Narrow pulse pressure is obstructive - aortic stenosis (outflow obstruction) and constrictive pericarditis or tamponade (filling obstruction), with MS and DSS queried in the book. (Book p14)"
+  },
+  {
+   "id": "MED-C1-147",
+   "sec": "Pulse Pressure & Haemodynamics",
+   "page": 14,
+   "fmt": "scenario",
+   "q": "A patient with Paget's disease has a wide pulse pressure and bounding pulses. The mechanism given in the book is:",
+   "opts": [
+    "Arteriovenous fistulae within the bone",
+    "Increased sympathetic drive with a large stroke volume",
+    "Left ventricular hypertrophy from outflow obstruction",
+    "Reduced arterial compliance with age alone"
+   ],
+   "ans": 0,
+   "exp": "The book explains Paget's wide pulse pressure by fistulae in the bone - the same logic it applies to pregnancy (the whole placenta behaving as a big AV fistula) and to cirrhosis (intrahepatic and extrahepatic AV fistulae). (Book p14)"
+  },
+  {
+   "id": "MED-C1-148",
+   "sec": "Pulse Pressure & Haemodynamics",
+   "page": 14,
+   "fmt": "scenario",
+   "q": "A young patient has exertional syncope, an ejection systolic murmur and a narrow pulse pressure with a slow-rising low-volume carotid pulse. Among the narrow pulse pressure causes this is:",
+   "opts": [
+    "Aortic stenosis - obstruction to ventricular outflow",
+    "Constrictive pericarditis - obstruction to ventricular filling",
+    "Cardiac tamponade - obstruction to ventricular filling",
+    "Beriheri - high output state"
+   ],
+   "ans": 0,
+   "exp": "The book separates the narrow pulse pressure causes into outflow obstruction (aortic stenosis) and filling obstruction (constrictive pericarditis, cardiac tamponade). An ejection murmur with a slowly rising pulse is outflow obstruction. (Book p14)"
+  },
+  {
+   "id": "MED-C1-149",
+   "sec": "Pulse Pressure & Haemodynamics",
+   "page": 14,
+   "fmt": "recall",
+   "q": "Besides aortic stenosis, constrictive pericarditis and cardiac tamponade, which two conditions does the book query as causes of a narrow pulse pressure?",
+   "opts": [
+    "Mitral stenosis and dextro-stenosis of the pulmonary artery?",
+    "Mitral regurgitation and aortic regurgitation",
+    "PDA and VSD",
+    "Hypertrophic cardiomyopathy and coarctation"
+   ],
+   "ans": 0,
+   "exp": "The book writes '? MS, ? DSS' - mitral stenosis and DSS are queried rather than asserted, and that query mark is part of the answer: they are possibilities, not established causes. (Book p14)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U1-1",
+   "ch": 1,
+   "n": 1,
+   "title": "Overview & the Vital Signs",
+   "sec": "General Examination: Overview & Vitals",
+   "guide": "The general survey runs conscious/oriented/cooperative to build and nutrition to the vitals.\nVitals = pulse (rate, rhythm, volume, character, delay, vessel wall thickening, peripheral pulses), respiratory rate, blood pressure and temperature.\nTemperature must be measured with a thermometer - never record 'afebrile' without one.\nThen pallor, icterus, cyanosis, clubbing, lymphadenopathy and oedema complete the survey.",
+   "qs": [
+    "MED-C1-01",
+    "MED-C1-02",
+    "MED-C1-03",
+    "MED-C1-04"
+   ]
+  },
+  {
+   "id": "MED-U1-2",
+   "ch": 1,
+   "n": 2,
+   "title": "Temperature: Definition & Sites",
+   "sec": "Temperature & its Measurement",
+   "guide": "Fever (Harrison's 19e) = AM >98.9 F (>37.2 C) or PM >99.9 F (>37.7 C); normal range 36.5-37.5 C (97.7-99.5 F).\nEvening rise is due to increased basal metabolic rate and skeletal muscle activity.\nSites beyond axilla/oral: rectum (higher than oral; lower oral readings from mouth breathing), lower oesophagus (core), tympanic membrane.",
+   "qs": [
+    "MED-C1-05",
+    "MED-C1-06",
+    "MED-C1-07",
+    "MED-C1-08",
+    "MED-C1-09"
+   ]
+  },
+  {
+   "id": "MED-U1-3",
+   "ch": 1,
+   "n": 3,
+   "title": "Fever vs Hyperthermia & Hyperthermia Causes",
+   "sec": "Fever vs Hyperthermia",
+   "guide": "Fever raises the hypothalamic set point; hyperthermia is an uncontrolled rise that exceeds heat loss with an intact set point - so antipyretics fail.\nCauses of hyperthermia: heat stroke; malignant hyperthermia (halothane); neuroleptic malignant syndrome (haloperidol, fluphenazine); serotonin syndrome (two or more serotonergic drugs).",
+   "qs": [
+    "MED-C1-10",
+    "MED-C1-11",
+    "MED-C1-12",
+    "MED-C1-13",
+    "MED-C1-14"
+   ]
+  },
+  {
+   "id": "MED-U1-4",
+   "ch": 1,
+   "n": 4,
+   "title": "Hyperpyrexia, Hypothalamic Fever & the Fever Cascade",
+   "sec": "Hyperpyrexia, Hypothalamic Fever & Fever Mechanism",
+   "guide": "Hyperpyrexia = fever >41.5 C (>106.7 F); causes CNS haemorrhage and severe infection.\nHypothalamic dysfunction usually gives subnormal, not supranormal, temperature.\nFever cascade: IL-1, IL-6, TNF-alpha -> hypothalamic endothelial cells -> PGE2 -> raised set point.",
+   "qs": [
+    "MED-C1-15",
+    "MED-C1-16",
+    "MED-C1-17",
+    "MED-C1-18",
+    "MED-C1-19"
+   ]
+  },
+  {
+   "id": "MED-U1-5",
+   "ch": 1,
+   "n": 5,
+   "title": "AUFI & PUO",
+   "sec": "AUFI & PUO",
+   "guide": "AUFI = fever <14 days without an organ-system-specific cause; say Dengue, Scrub typhus, Leptospirosis, Malaria, Enteric fever in that order and never volunteer Kala-azar.\nPUO (Petersdorf and Beeson): >3 weeks, fever >101 on two occasions, uncertain despite 1 week inpatient evaluation; Harrison's adds no immunocompromise and an obligatory investigation set.\nVariants: nosocomial, neutropenic, HIV-associated. PUO is atypical presentations of common illness, not typical presentations of rare illness.\nCauses: infectious, neoplastic (including atrial myxoma), connective tissue disease and drug fever.",
+   "qs": [
+    "MED-C1-20",
+    "MED-C1-21",
+    "MED-C1-22",
+    "MED-C1-23",
+    "MED-C1-24",
+    "MED-C1-25",
+    "MED-C1-26",
+    "MED-C1-27",
+    "MED-C1-28",
+    "MED-C1-29",
+    "MED-C1-30"
+   ]
+  },
+  {
+   "id": "MED-U1-6",
+   "ch": 1,
+   "n": 6,
+   "title": "Auto-inflammatory Fevers",
+   "sec": "Auto-inflammatory Diseases of Fever",
+   "guide": "Auto-inflammatory diseases with characteristic fever: adult and juvenile Still's disease, familial Mediterranean fever (Robbins; colchicine), Behcet's syndrome, CAPS, PAPA and hyper-IgD syndrome.\nColchicine has exactly three listed uses: gout, pericarditis, FMF.\nPAPA = Pyogenic arthritis, Pyoderma gangrenosum, Acne.",
+   "qs": [
+    "MED-C1-31",
+    "MED-C1-32",
+    "MED-C1-33",
+    "MED-C1-34",
+    "MED-C1-35",
+    "MED-C1-36"
+   ]
+  },
+  {
+   "id": "MED-U1-7",
+   "ch": 1,
+   "n": 7,
+   "title": "Relative Bradycardia & Tachycardia",
+   "sec": "Relative Bradycardia & Tachycardia",
+   "guide": "Pulse should rise about 10/min per 1 F of fever (about 18 per 1 C).\nRelative bradycardia: enteric fever first week (heart block), viral fevers including dengue and yellow fever (Faget's sign), brucellosis, Weil's disease.\nRelative tachycardia: acute rheumatic carditis, tuberculosis, polyarteritis nodosa, diphtheritic myocarditis.",
+   "qs": [
+    "MED-C1-37",
+    "MED-C1-38",
+    "MED-C1-39",
+    "MED-C1-40",
+    "MED-C1-41",
+    "MED-C1-42"
+   ]
+  },
+  {
+   "id": "MED-U1-8",
+   "ch": 1,
+   "n": 8,
+   "title": "Patterns of Fever",
+   "sec": "Patterns of Fever",
+   "guide": "Intermittent touches the baseline (quotidian, double quotidian, tertian, quartan); remittent swings >2 C (normal fluctuation 0.9 C) and never touches it; continued swings <=1 C and never touches it.\nNamed patterns: Pel-Ebstein (Hodgkin's lymphoma only), camel hump/double quotidian (kala-azar, gonococcal perihepatitis), step-ladder (enteric fever), undulant (brucellosis), relapsing (Borrelia), hectic (pent-up pus).\nCharcot's intermittent fever = chills with RUQ pain and jaundice from a stone in the CBD.",
+   "qs": [
+    "MED-C1-43",
+    "MED-C1-44",
+    "MED-C1-45",
+    "MED-C1-46",
+    "MED-C1-47",
+    "MED-C1-48",
+    "MED-C1-49",
+    "MED-C1-50",
+    "MED-C1-51",
+    "MED-C1-52",
+    "MED-C1-53",
+    "MED-C1-54",
+    "MED-C1-55",
+    "MED-C1-56",
+    "MED-C1-57"
+   ]
+  },
+  {
+   "id": "MED-U1-9",
+   "ch": 1,
+   "n": 9,
+   "title": "Hypothermia",
+   "sec": "Hypothermia",
+   "guide": "Primary hypothermia is accidental exposure; secondary is failure of thermoregulation (CVA, overwhelming sepsis, low cardiac output after acute MI, endocrine failure, intoxication).\nSigns and symptoms listed: altered sensorium from confusion to coma, tachypnoea, tachycardia, lethargy, shivering and pallor.",
+   "qs": [
+    "MED-C1-58",
+    "MED-C1-59",
+    "MED-C1-60",
+    "MED-C1-61"
+   ]
+  },
+  {
+   "id": "MED-U1-10",
+   "ch": 1,
+   "n": 10,
+   "title": "Pallor",
+   "sec": "Pallor",
+   "guide": "Anaemia and pallor are not interchangeable - anaemia is only one cause of pallor.\nExamine in sunlight: lower palpebral conjunctiva, tip and dorsum of tongue, palatal mucosa, nail beds, palms and soles.\nPallor without anaemia (Kundu): shock, low cardiac output, hypothyroidism, hypopituitarism.\nAnaemia classification: marrow production defect, ineffective erythropoiesis (nuclear and cytoplasmic), blood loss/haemolysis.",
+   "qs": [
+    "MED-C1-62",
+    "MED-C1-63",
+    "MED-C1-64",
+    "MED-C1-65",
+    "MED-C1-66"
+   ]
+  },
+  {
+   "id": "MED-U1-11",
+   "ch": 1,
+   "n": 11,
+   "title": "Icterus",
+   "sec": "Icterus",
+   "guide": "Look at the sclera through the upper palpebral conjunctiva - not the bulbar conjunctiva (mud and dust) - and ask the patient to look down.\nMinimum bilirubin for clinical icterus is 2.5 mg/dL; the sclera is rich in elastic tissue where bilirubin deposits.\nTint: lemon yellow = mild haemolytic, orange yellow = moderate hepatocellular, greenish yellow = severe obstructive.",
+   "qs": [
+    "MED-C1-67",
+    "MED-C1-68",
+    "MED-C1-69",
+    "MED-C1-70",
+    "MED-C1-71",
+    "MED-C1-72"
+   ]
+  },
+  {
+   "id": "MED-U1-12",
+   "ch": 1,
+   "n": 12,
+   "title": "Cyanosis",
+   "sec": "Cyanosis",
+   "guide": "Bluish discolouration from reduced Hb or Hb derivatives (metHb/sulfHb) in small vessels; visible when reduced Hb exceeds 4 g/dL, i.e. SpO2 below about 85%.\nIt is the absolute, not relative, quantity of reduced Hb that matters - severe anaemia may show no cyanosis.\nCentral (saturation reduced or abnormal derivative) vs peripheral (slow flow, high extraction; oral mucosa and tongue underside spared).\nDifferential cyanosis: lower limb only = PDA with pulmonary hypertension and right-to-left shunt; upper limb only adds TGV; intermittent = Ebstein's anomaly.",
+   "qs": [
+    "MED-C1-73",
+    "MED-C1-74",
+    "MED-C1-75",
+    "MED-C1-76",
+    "MED-C1-77",
+    "MED-C1-78",
+    "MED-C1-79",
+    "MED-C1-80",
+    "MED-C1-81"
+   ]
+  },
+  {
+   "id": "MED-U1-13",
+   "ch": 1,
+   "n": 13,
+   "title": "Clubbing: Definition & Grades",
+   "sec": "Clubbing: Definition & Grades",
+   "guide": "Selective bulbous enlargement of the distal digit from subungual soft tissue deposition; Lovibond angle is the normal nail-to-nail-bed angle.\nMinimum duration 2-3 weeks; the index finger is affected first.\nGrades: 1 nail bed fluctuation, 2 increase in Lovibond angle, 3 drumstick/parrot beak, 4 hypertrophic osteoarthropathy.",
+   "qs": [
+    "MED-C1-82",
+    "MED-C1-83",
+    "MED-C1-84",
+    "MED-C1-85",
+    "MED-C1-86",
+    "MED-C1-87"
+   ]
+  },
+  {
+   "id": "MED-U1-14",
+   "ch": 1,
+   "n": 14,
+   "title": "Causes of Clubbing",
+   "sec": "Causes of Clubbing",
+   "guide": "Suppurative lung disease (bronchiectasis, lung abscess, empyema), thoracic malignancy (bronchogenic carcinoma, bronchial adenoma, mesothelioma), interstitial lung disease.\nClubbing is rare in COPD and TB. Cardiovascular: cyanotic heart disease, infective endocarditis, left atrial myxoma. GI: cirrhosis (especially PBC), inflammatory bowel disease.\nOthers: thyroid acropachy of Graves' disease and POEMS syndrome.",
+   "qs": [
+    "MED-C1-88",
+    "MED-C1-89",
+    "MED-C1-90",
+    "MED-C1-91",
+    "MED-C1-92",
+    "MED-C1-93"
+   ]
+  },
+  {
+   "id": "MED-U1-15",
+   "ch": 1,
+   "n": 15,
+   "title": "Pseudoclubbing & Theories",
+   "sec": "Pseudoclubbing & Theories of Clubbing",
+   "guide": "Pseudoclubbing preserves the Lovibond angle; per Kundu it is subperiosteal bone resorption without soft tissue proliferation.\nCauses: leprosy, scleroderma, hyperparathyroidism, acromegaly, vinyl chloride workers with acro-osteolysis.\nMost accepted theory: megakaryocytes bypass the lung, reach nail-bed arterioles and release PDGF. Other theories: neurogenic (vagal), humoral (GH/PTH/oestrogen), hypoxic (AV fistulae), ferritin.",
+   "qs": [
+    "MED-C1-94",
+    "MED-C1-95",
+    "MED-C1-96",
+    "MED-C1-97",
+    "MED-C1-98",
+    "MED-C1-99"
+   ]
+  },
+  {
+   "id": "MED-U1-16",
+   "ch": 1,
+   "n": 16,
+   "title": "Painful, Unilateral & Unidigital Patterns",
+   "sec": "Painful, Unilateral & Unidigital Clubbing",
+   "guide": "Painful clubbing: bronchogenic carcinoma, lung abscess, infective endocarditis.\nUnilateral clubbing: presubclavian coarctation of aorta (left-sided only), apical bronchogenic carcinoma, cervical rib, aneurysm of the subclavian or axillary artery.\nUnidigital clubbing: hereditary, repeated local trauma, rarely median nerve injury. The index finger is affected first.",
+   "qs": [
+    "MED-C1-100",
+    "MED-C1-101",
+    "MED-C1-102",
+    "MED-C1-103",
+    "MED-C1-104"
+   ]
+  },
+  {
+   "id": "MED-U1-17",
+   "ch": 1,
+   "n": 17,
+   "title": "Lymphadenopathy: Significance & Character",
+   "sec": "Lymphadenopathy: Significance & Character",
+   "guide": "Significant nodes: any supraclavicular or epitrochlear node, inguinal >1.5 cm, others >1 cm.\nGeneralised = two or more non-contiguous areas (Harrison's says three, which the book calls impractical); persistent if more than 3 months.\nPainful = infection or acute leukaemia; firm rubbery = lymphoma; fluctuant = suppurative; stony hard = metastasis; matted = tuberculous (benign) or lymphoma/metastatic (malignant).\nCervical levels: Ia submental, Ib submandibular, II-IV jugular, V posterior triangle, VI anterior triangle, VII superior mediastinal.",
+   "qs": [
+    "MED-C1-105",
+    "MED-C1-106",
+    "MED-C1-107",
+    "MED-C1-108",
+    "MED-C1-109",
+    "MED-C1-110",
+    "MED-C1-111",
+    "MED-C1-112"
+   ]
+  },
+  {
+   "id": "MED-U1-18",
+   "ch": 1,
+   "n": 18,
+   "title": "Neurological Causes of Clubbing (insert)",
+   "sec": "Neurological Causes of Clubbing (Boloor insert)",
+   "guide": "The Boloor insert on the neurological causes of clubbing adds syringomyelia, median nerve injury and hemiplegia.\nIt completes the respiratory, cardiovascular, gastrointestinal and other groups given in the main text.",
+   "qs": [
+    "MED-C1-113",
+    "MED-C1-114"
+   ]
+  },
+  {
+   "id": "MED-U1-19",
+   "ch": 1,
+   "n": 19,
+   "title": "Grade 4 Clubbing Figure",
+   "sec": "Grade 4 Clubbing (Boloor figure)",
+   "guide": "Boloor Fig. 2C.18 demonstrates grade 4 clubbing.\nGrade 4 is defined by hypertrophic osteoarthropathy - periosteal reaction of the long bones with joint symptoms - not by the finger appearance alone.",
+   "qs": [
+    "MED-C1-115",
+    "MED-C1-116"
+   ]
+  },
+  {
+   "id": "MED-U1-20",
+   "ch": 1,
+   "n": 20,
+   "title": "Atypical Clubbing (insert table)",
+   "sec": "Atypical Presentations of Clubbing (Boloor table)",
+   "guide": "Acute clubbing: subacute bacterial endocarditis, lung abscess, empyema. Reversible: lung abscess, empyema.\nUnilateral: hemiplegia, aneurysm of the subclavian artery, Pancoast tumour. Unidigital: median nerve injury, trauma. Painful: bronchogenic carcinoma, SBE, lung abscess.\nClubbing with cyanosis: cyanotic congenital heart disease and ILD. Pseudoclubbing list adds leukaemic infiltration, thyroid acropachy, sclerodactyly, subungual tumours or cysts.\nDifferential clubbing (upper normal, lower clubbed) = PDA with reversal of shunt; reverse differential clubbing (upper clubbed, lower normal) = PDA + TGA + reversal of shunt.",
+   "qs": [
+    "MED-C1-117",
+    "MED-C1-118",
+    "MED-C1-119",
+    "MED-C1-120",
+    "MED-C1-121",
+    "MED-C1-122",
+    "MED-C1-123",
+    "MED-C1-124"
+   ]
+  },
+  {
+   "id": "MED-U1-21",
+   "ch": 1,
+   "n": 21,
+   "title": "Generalised Lymphadenopathy & Oedema",
+   "sec": "Generalised Lymphadenopathy & Oedema",
+   "guide": "Generalised lymphadenopathy groups: infections (HIV, infectious mononucleosis, TB), malignancies, autoimmune (SLE, Felty's, Still's), miscellaneous (sarcoidosis).\nNon-pitting oedema: myxoedema, late filarial lymphoedema, scleroderma, angioneurotic oedema. Pitting: CCF, cirrhosis, nephrotic syndrome, hypoproteinaemia, pericardial effusion, constrictive pericarditis, amlodipine.\nUnilateral leg swelling: DVT, soft tissue infection, trauma, lymphoedema, immobility such as hemiplegia. Bilateral: heart failure, chronic venous insufficiency, hypoproteinaemia, lymphatic obstruction, drugs, Milroy's disease.",
+   "qs": [
+    "MED-C1-125",
+    "MED-C1-126",
+    "MED-C1-127",
+    "MED-C1-128",
+    "MED-C1-129",
+    "MED-C1-130",
+    "MED-C1-131",
+    "MED-C1-132",
+    "MED-C1-133",
+    "MED-C1-134"
+   ]
+  },
+  {
+   "id": "MED-U1-22",
+   "ch": 1,
+   "n": 22,
+   "title": "Blood Pressure Measurement",
+   "sec": "Blood Pressure Measurement",
+   "guide": "BP is the lateral force of the blood column per unit area of vascular wall. Cuff length about twice its width, average length 25 cm, bladder at least two-thirds of arm circumference.\nKorotkoff 1 first low-frequency tapping; 2 softer and longer; 3 crisper and louder; 4 muffling (often absent); 5 disappearance. Normally phase 5 is the DBP; in severe AR phase 4 is taken.\nNormal inter-arm difference 10-15 mmHg.",
+   "qs": [
+    "MED-C1-135",
+    "MED-C1-136",
+    "MED-C1-137",
+    "MED-C1-138",
+    "MED-C1-139",
+    "MED-C1-140"
+   ]
+  },
+  {
+   "id": "MED-U1-23",
+   "ch": 1,
+   "n": 23,
+   "title": "Auscultatory Gap & Inter-limb BP Variation",
+   "sec": "Auscultatory Gap & Inter-limb BP Variation",
+   "guide": "Auscultatory gap: sounds disappear after the systolic reading and return just above the diastolic value, seen in elderly hypertensives; it underestimates the systolic BP.\nAvoid it by palpating the radial pulse, which persists through the gap.\nWide inter-arm difference: aortic dissection (haematoma occluding the subclavian artery) and subclavian steal syndrome.",
+   "qs": [
+    "MED-C1-141",
+    "MED-C1-142",
+    "MED-C1-143",
+    "MED-C1-144"
+   ]
+  },
+  {
+   "id": "MED-U1-24",
+   "ch": 1,
+   "n": 24,
+   "title": "Pulse Pressure",
+   "sec": "Pulse Pressure & Haemodynamics",
+   "guide": "Pulse pressure = SBP minus DBP; normal 30-60 mmHg.\nRaised: exercise, AR, PDA, fever, anaemia, AV fistulas, beriberi, Paget's disease (bone fistulae), cirrhosis (intrahepatic and extrahepatic AV fistulae), pregnancy (placenta as a large AV fistula).\nNarrow: aortic stenosis (outflow obstruction), constrictive pericarditis and cardiac tamponade (filling obstruction), with MS and DSS queried.",
+   "qs": [
+    "MED-C1-145",
+    "MED-C1-146",
+    "MED-C1-147",
+    "MED-C1-148",
+    "MED-C1-149"
+   ]
+  }
+ ]
+}
