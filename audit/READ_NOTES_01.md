@@ -1,42 +1,11 @@
-# Read notes — Chapter 1, General Examination (Book p3–14)
+# Read notes — Chapter 1, General Examination (Book p3-15)
 
-**Method.** All twelve pages (Book p3–14) were read in printed order from the text
-layer of `uploads/part_1.pdf` (the file's sheet number equals the book page for
-p1–120), and every page was additionally rendered at 2× with
-`python3 tools/render_audit.py 3 14 2` into `.audit-render/book_003.png` …
-`book_014.png` to confirm layout and to read the three inserted Boloor reference
-pages (p10–12), which carry no text layer. Text extraction was spot-checked
-against the renders line by line, so no point below rests on an unverified guess.
-
-**What was interrogated.** Every heading, bullet, sub-bullet, table cell, figure
-label and numeric value in p3–14 is represented by at least one question, and
-tables were converted into whole-set questions rather than single-fact recalls:
-the temperature sites, the hyperthermia causes, the AUFI order, the PUO criteria
-and obligatory investigations, the auto-inflammatory list, the fever-pattern
-matrix (intermittent/remittent/continued and the named patterns), pallor sites,
-the anaemia classification, the icterus tints, the cyanosis types and differential
-patterns, the four clubbing grades, the cause groups, pseudoclubbing versus the
-five theories, the Boloor neurological and atypical-clubbing tables, the
-lymph-node characters and cervical levels, the oedema and leg-swelling lists, and
-the Korotkoff, auscultatory-gap and pulse-pressure material.
-
-**Points the book leaves blank** were deliberately not invented: the p14 stubs
-"Drugs causing oedema", "Slow filling vs fast filling oedema", "Latest
-hypertension guidelines", "Mean arterial pressure", "Pulsus paradoxus" and
-"Types of hypertension — ref Alagappan" are headings with no detail in these
-pages; the detail lives in the CVS pulse/BP pages (Book p26–30) and will be
-built with that chapter. Nothing was fabricated to fill them.
-
-**Insert cross-links.** Boloor p.85 (p10) adds the neurological causes of
-clubbing; Boloor p.87 (p11) is the grade-4 clubbing photograph; Boloor p.88 (p12)
-is the atypical clubbing table. The three inserts are questioned at their own
-book page, so the citation stays exact.
+**Method.** All thirteen pages (Book p3–15) were read in printed order from the text layer of `uploads/part_1.pdf` and rendered at 2× with `python3 tools/render_audit.py 3 15 2` into `.audit-render/book_003.png` … `book_015.png` to confirm layout and read the inserted Boloor reference pages (p10–12) and the AHA/ASA Blood Pressure Categories table on p15.
 
 ## Unit and question inventory
 
 | Unit | Section | Book page(s) | Questions | Formats |
 |---:|---|---|---:|---|
-
 | 1 | Overview & the Vital Signs | 3 | 4 | recall 1, fillup 1, oddoneout 1, match 1 |
 | 2 | Temperature: Definition & Sites | 3 | 5 | numeric 2, recall 1, match 1, scenario 1 |
 | 3 | Fever vs Hyperthermia & Hyperthermia Causes | 3 | 5 | recall 1, scenario 1, match 1, oddoneout 1, truefalse 1 |
@@ -61,8 +30,9 @@ book page, so the citation stays exact.
 | 22 | Blood Pressure Measurement | 14 | 6 | recall 2, numeric 2, match 1, scenario 1 |
 | 23 | Auscultatory Gap & Inter-limb BP Variation | 14 | 4 | recall 1, management 1, oddoneout 1, scenario 1 |
 | 24 | Pulse Pressure | 14 | 5 | scenario 2, numeric 1, match 1, recall 1 |
+| 25 | AHA/ASA Blood Pressure Categories (Insert Table) | 15 | 2 | match 1, scenario 1 |
 
-**Chapter 1 total:** 149 questions across 24 units, covering Book p3–14 with no page omitted.
+**Chapter 1 total:** 151 questions across 25 units, covering Book p3-15 with no page omitted.
 
 ## Point → question map (audit/coverage.json)
 
@@ -251,5 +221,10 @@ book page, so the citation stays exact.
 - Paget's disease and pulse pressure → `MED-C1-147`
 - Narrow pulse pressure in a young patient → `MED-C1-148`
 - Adjuncts queried in narrow pulse pressure → `MED-C1-149`
+
+**Book p15**
+
+- Five AHA/ASA blood pressure categories and their systolic/diastolic cutoffs on Book p15 → `MED-C1-150`
+- Classifying Elevated BP vs Stage 1 Hypertension using the AND vs OR connectors on Book p15 → `MED-C1-151`
 
 **Unasked points after this review:** NONE in the recorded inventory. Every listed point resolves to exactly one question, and the ledger order equals the question array order (enforced by `validate_content.py`).

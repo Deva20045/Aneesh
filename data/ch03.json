@@ -1,0 +1,741 @@
+{
+ "chapter": 3,
+ "title": "CVS - Cardiac Examination: Inspection & JVP",
+ "pageRange": "31-36",
+ "questions": [
+  {
+   "id": "MED-C3-01",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "match",
+   "q": "Match each eponymous sign of aortic regurgitation on Book p31 to its clinical finding — 1) Becker's sign 2) Landolfi's sign 3) Muller's sign 4) De Musset's sign and Corrigan's sign … A) Changes in pupil size with cardiac systole B) Retinal artery pulsations C) Uvula pulsation D) Head bobbing [De Musset's] and dancing carotids [Corrigan's]",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Continuing from p30's Lighthouse sign (1), Book p31 lists: (2) Becker's sign = retinal artery pulsations, (3) Landolfi's sign = changes in pupil size with cardiac systole, (4) Muller's sign = uvula pulsation, (5) De Musset's sign = head bobbing, (6) Corrigan's sign = dancing carotids, and (7) Locomotor brachii = tortuous and highly pulsatile brachial artery. (Book p31)"
+  },
+  {
+   "id": "MED-C3-02",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "oddoneout",
+   "q": "Which of the following eponymous signs of aortic regurgitation on Book p31 is paired with an INCORRECT anatomical site?",
+   "opts": [
+    "Becker's sign — retinal artery pulsations",
+    "Landolfi's sign — changes in pupil size with cardiac systole",
+    "Muller's sign — uvula pulsation",
+    "Corrigan's sign — tortuous and highly pulsatile brachial artery"
+   ],
+   "ans": 3,
+   "exp": "On Book p31, Corrigan's sign is dancing carotids (while Corrigan's pulse is the water-hammer/collapsing pulse); a tortuous and highly pulsatile brachial artery is locomotor brachii. (Book p31)"
+  },
+  {
+   "id": "MED-C3-03",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "recall",
+   "q": "How does Book p31 define 'locomotor brachii', and what two cuff-and-artery combinations are given for measuring lower-limb systolic BP when testing Hill's sign?",
+   "opts": [
+    "Tortuous and highly pulsatile brachial artery; (1) popliteal artery with a lower-limb cuff over the thigh, or (2) posterior tibial artery with the cuff tied just above the medial malleolus",
+    "Alternate flushing and blanching of the forearm skin; (1) femoral artery with an inguinal cuff, or (2) dorsalis pedis artery with a metatarsal cuff",
+    "Visible venous pulsations in the antecubital fossa; (1) popliteal artery with a calf cuff, or (2) anterior tibial artery with a thigh cuff",
+    "Systolic thrill over the axillary artery; (1) femoral artery at the mid-inguinal point, or (2) peroneal artery above the lateral malleolus"
+   ],
+   "ans": 0,
+   "exp": "Locomotor brachii is a tortuous and highly pulsatile brachial artery. For Hill's sign (LL SBP >20 mmHg above UL SBP), lower-limb BP can be measured in the popliteal artery with a lower-limb cuff over the thigh, or over the posterior tibial artery with the cuff tied just above the medial malleolus. (Book p31)"
+  },
+  {
+   "id": "MED-C3-04",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "numeric",
+   "q": "In Hill's sign on Book p31, what lower-limb minus upper-limb systolic BP thresholds correspond to mild, moderate and severe aortic regurgitation?",
+   "opts": [
+    ">10 mmHg = mild AR; >20 mmHg = moderate AR; >40 mmHg = severe AR",
+    ">20 mmHg = mild AR; >40 mmHg = moderate AR; >60 mmHg = severe AR",
+    ">15 mmHg = mild AR; >30 mmHg = moderate AR; >45 mmHg = severe AR",
+    ">30 mmHg = mild AR; >50 mmHg = moderate AR; >70 mmHg = severe AR"
+   ],
+   "ans": 1,
+   "exp": "Book p31 grades Hill's sign as: >20 mmHg = mild AR, >40 mmHg = moderate AR, and >60 mmHg = severe AR. (Book p31)"
+  },
+  {
+   "id": "MED-C3-05",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "scenario",
+   "q": "Direct intra-arterial catheterisation in a patient with severe AR and a +65 mmHg Hill's sign shows identical systolic pressures in the brachial and femoral arteries. How does Book p31 (citing Jules Constant) explain Hill's sign, and which two conditions produce a falsely low Hill's sign?",
+   "opts": [
+    "Hill's sign reflects true hydrostatic pressure amplification in the supine posture; it is falsely low in patent ductus arteriosus and hyperthyroidism",
+    "Hill's sign is a sphygmomanometer artefact caused by summation of reflected waves from the periphery with forward waves of the central arteries; it is falsely low in CHF (decreased stroke volume / myocardial contraction) and severe AS",
+    "Hill's sign is caused by Bernoulli suction in the descending thoracic aorta; it is falsely low in mitral regurgitation and atrial fibrillation",
+    "Hill's sign is caused by femoral arterial calcification; it is falsely low in coarctation of the aorta above the left subclavian artery"
+   ],
+   "ans": 1,
+   "exp": "Book p31 (citing Jules Constant) notes that Hill's sign is an artefact of the sphygmomanometer (intra-arterial measurements are the same in UL and LL arteries), believed to result from reflected peripheral waves summating with central forward waves. A falsely low Hill's sign occurs in (i) CHF (decreased stroke volume, as Hill's sign depends on myocardial contraction) and (ii) severe AS. (Book p31)"
+  },
+  {
+   "id": "MED-C3-06",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the note on a 'falsely low Hill's sign' on Book p31?",
+   "opts": [
+    "True: The presence of Hill's sign depends on myocardial contraction, so congestive heart failure (decreased stroke volume) and severe aortic stenosis produce a falsely low Hill's sign",
+    "True: Congestive heart failure and severe aortic stenosis produce a falsely high Hill's sign exceeding 80 mmHg",
+    "False: Intra-arterial blood pressure measurements are the same in the upper-limb and lower-limb arteries in Hill's sign",
+    "False: Severe aortic stenosis is a cause of a falsely low Hill's sign"
+   ],
+   "ans": 0,
+   "exp": "Item 8.e on Book p31 states that a falsely low Hill's sign (where the BP difference is lower than the actual severity of AR) occurs in CHF — due to decreased stroke volume, as the presence of Hill's sign depends on myocardial contraction — and in severe AS. (Book p31)"
+  },
+  {
+   "id": "MED-C3-07",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "match",
+   "q": "Match each peripheral sign of aortic regurgitation on Book p31 to its description — 1) Quincke's sign 2) Rosenbach's sign vs Gerhardt's sign 3) Duroziez's murmur vs proximal femoral compression murmur 4) Traube's pistol-shot femorals … A) Alternate flushing and pallor when light pressure is applied to the nail bed B) Booming sound produced after pressing the stethoscope over the femoral artery C) Rosenbach's = pulsations in the liver; Gerhardt's = pulsations in an enlarged spleen D) Diastolic murmur on distal femoral artery compression [Duroziez] vs systolic murmur on proximal femoral artery compression",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Signs 9–16 on Book p31: (9) Corrigan's water-hammer/collapsing pulse, (10) Quincke's sign (capillary nail-bed flushing and pallor on light pressure), (11) Suprasternal pulsations, (12) Rosenbach's sign (hepatic pulsations), (13) Gerhardt's sign (pulsations in an enlarged spleen), (14) Duroziez's murmur (diastolic murmur on distal femoral compression), (15) Traube's pistol-shot femorals (booming sound over femoral artery), and (16) systolic murmur on proximal femoral compression. (Book p31)"
+  },
+  {
+   "id": "MED-C3-08",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "scenario",
+   "q": "In a patient with chronic severe aortic regurgitation and hepatosplenomegaly, you palpate systolic pulsations over both the liver and the enlarged spleen. Which pair of eponyms on Book p31 names these two findings?",
+   "opts": [
+    "Rosenbach's sign = pulsations in the liver; Gerhardt's sign = pulsations in the enlarged spleen",
+    "Gerhardt's sign = pulsations in the liver; Rosenbach's sign = pulsations in the enlarged spleen",
+    "Becker's sign = pulsations in the liver; Landolfi's sign = pulsations in the enlarged spleen",
+    "Muller's sign = pulsations in the liver; Quincke's sign = pulsations in the enlarged spleen"
+   ],
+   "ans": 0,
+   "exp": "Items 12 and 13 on Book p31 define Rosenbach's sign as pulsations in the liver and Gerhardt's sign as pulsations in an enlarged spleen. (Book p31)"
+  },
+  {
+   "id": "MED-C3-09",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "page": 31,
+   "fmt": "fillup",
+   "q": "In aortic regurgitation on Book p31, compressing the femoral artery distally produces a ____ murmur (Duroziez's murmur), whereas compressing the femoral artery proximally produces a ____ murmur.",
+   "opts": [
+    "Diastolic; systolic",
+    "Systolic; diastolic",
+    "Continuous; mid-diastolic",
+    "Presystolic; pansystolic"
+   ],
+   "ans": 0,
+   "exp": "Items 14 and 16 on Book p31 contrast the two components of femoral compression: distal compression produces a diastolic murmur (Duroziez's murmur, from retrograde diastolic flow), whereas proximal compression produces a systolic murmur (from antegrade systolic flow). (Book p31)"
+  },
+  {
+   "id": "MED-C3-10",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "page": 31,
+   "fmt": "recall",
+   "q": "Cardiac examination on Book p31 opens under 'Inspection' with JVP, trachea, and thyroid. If a thyroid swelling is present, what does the note specifically instruct you to look out for?",
+   "opts": [
+    "Hoarseness from recurrent laryngeal nerve palsy and superior vena caval obstruction",
+    "Thyrotoxicosis — look out for palpitations and other eye signs",
+    "Myxoedema coma — look out for non-pitting ankle oedema and loss of lateral eyebrows",
+    "Medullary thyroid carcinoma — look out for marfanoid habitus and mucosal neuromas"
+   ],
+   "ans": 1,
+   "exp": "Under Cardiac Examination -> Inspection on Book p31, the first three items are (1) JVP, (2) Trachea, and (3) Thyroid: 'If present, thyrotoxicosis — look out for palpitations and other eye signs.' (Book p31)"
+  },
+  {
+   "id": "MED-C3-11",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "page": 32,
+   "fmt": "match",
+   "q": "Match each precordial inspection item on Book p32 to its description — 1) Clue to precordial bulge in males 2) Skeletal and pleuropulmonary causes of precordial bulge 3) Cardiac, pericardial and localised causes of precordial bulge 4) Backward bulge of the precordium … A) Ventricular hypertrophy, pericardial effusion, and localised bulging from a post-MI ventricular aneurysm B) Pectus excavatum C) Lateral displacement and elevation of the left nipple D) Scoliosis, kyphoscoliosis, rachitic deformity, bronchial carcinoma and pleural effusion",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "On Book p32, a good sign for detecting a precordial bulge in males is lateral displacement and elevation of the left nipple. Its four cause groups are skeletal anomalies (scoliosis, kyphoscoliosis, rachitic deformity), lung/pleural diseases (bronchial carcinoma, pleural effusion), heart/pericardial diseases (ventricular hypertrophy, pericardial effusion), and localised bulging (aneurysm, possibly secondary to MI). Backward bulges are pectus excavatum. (Book p32)"
+  },
+  {
+   "id": "MED-C3-12",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "page": 32,
+   "fmt": "oddoneout",
+   "q": "Which of the following is listed on Book p32 as a 'backward bulge' of the precordium rather than a cause of a precordial bulge?",
+   "opts": [
+    "Scoliosis, kyphoscoliosis or rachitic deformity",
+    "Bronchial carcinoma or pleural effusion",
+    "Ventricular hypertrophy, pericardial effusion or post-MI ventricular aneurysm",
+    "Pectus excavatum"
+   ],
+   "ans": 3,
+   "exp": "Book p32 groups scoliosis/kyphoscoliosis/rachitic deformity, bronchial carcinoma/pleural effusion, ventricular hypertrophy/pericardial effusion, and post-MI aneurysm under 'Causes of precordial bulge', and lists pectus excavatum under 'Backward bulges'. (Book p32)"
+  },
+  {
+   "id": "MED-C3-13",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "page": 32,
+   "fmt": "scenario",
+   "q": "While inspecting the precordium tangentially from the left side (Book p32), you observe an inward movement of the apex accompanied by an outward movement of the precordium during systole (see-saw movement). What does this pattern signify, and what causes a visible parasternal heave?",
+   "opts": [
+    "Left ventricular hypertrophy causes inward apical movement with outward precordial movement; visible parasternal heave is caused only by right atrial myxoma",
+    "Right ventricular hypertrophy causes inward movement of the apex with outward movement of the precordium during systole (LV hypertrophy produces the reverse); visible parasternal heave is due to massive RV hypertrophy or sometimes LA enlargement",
+    "Cardiac tamponade causes see-saw precordial movement; visible parasternal heave is specific for ascending aortic aneurysm",
+    "Pectus excavatum causes see-saw movement; visible parasternal heave occurs only in tricuspid atresia"
+   ],
+   "ans": 1,
+   "exp": "Book p32 notes: look tangentially from the left side for the apical impulse; a visible parasternal heave indicates massive RV hypertrophy (or sometimes LA enlargement); in see-saw movements, RV hypertrophy gives inward movement of the apex with outward movement of the precordium during systole, while LV hypertrophy gives the reverse. (Book p32)"
+  },
+  {
+   "id": "MED-C3-14",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "page": 32,
+   "fmt": "match",
+   "q": "Match each anatomical site of visible pulsation on Book p32 to its listed causes — 1) High thoracic region: 2nd right intercostal space 2) 2nd or 3rd left intercostal space 3) Suprasternal notch pulsation 4) Back pulsations … A) Coarctation of the aorta [Suzman's sign] B) Ascending aortic aneurysm, aortic regurgitation or dilation of the aorta C) Pulmonary artery dilation, hyperkinetic states or aneurysm of the aorta D) Can be physiological; pathological causes are aortic regurgitation and aortic arch aneurysm",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Book p32 localises visible pulsations: 2nd right ICS = ascending aortic aneurysm, AR, dilation of aorta; 2nd/3rd left ICS = pulmonary artery dilation, hyperkinetic states, aortic aneurysm; suprasternal = physiological or aortic pathology (AR, aortic arch aneurysm); back pulsations = coarctation of aorta (Suzman's sign). (Book p32)"
+  },
+  {
+   "id": "MED-C3-15",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "page": 32,
+   "fmt": "fillup",
+   "q": "Visible pulsations over the back in coarctation of the aorta are named ____ sign on Book p32.",
+   "opts": [
+    "Suzman's",
+    "Trail's",
+    "Oliver's",
+    "Broadbent's"
+   ],
+   "ans": 0,
+   "exp": "Item 4.d.vi on Book p32 states: 'Back pulsations — Coarctation of aorta (Suzman sign)'. (Book p32)"
+  },
+  {
+   "id": "MED-C3-16",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "page": 32,
+   "fmt": "scenario",
+   "q": "On inspecting the epigastrium (Book p32), how do you distinguish an epigastric pulsation originating from the right ventricle from one originating from the abdominal aorta?",
+   "opts": [
+    "Right ventricular pulsation coincides with the apex beat and is located higher up in the epigastrium; abdominal aortic pulsation (seen physiologically in thin people, in AAA, or with a mass on the aorta) occurs after the apex beat and is located lower down in the epigastrium",
+    "Right ventricular pulsation occurs after the apex beat in the lower epigastrium; abdominal aortic pulsation precedes the apex beat in the subxiphoid notch",
+    "Right ventricular pulsation is expansile in all directions; abdominal aortic pulsation disappears completely during expiration",
+    "Both coincide exactly with the apex beat and can only be separated after inspecting for dilated veins, scars and sinuses"
+   ],
+   "ans": 0,
+   "exp": "Book p32 contrasts the two origins of epigastric pulsation: from the RV, it coincides with the apex beat and lies higher up in the epigastrium; from the abdominal aorta (physiological in thin people, AAA, or a mass on the aorta), it occurs after the apex beat and lies lower down in the epigastrium (followed by inspecting for dilated veins, scars and sinuses). (Book p32)"
+  },
+  {
+   "id": "MED-C3-17",
+   "sec": "JVP: Definition, RAP Conversion, POLICE & IJV vs EJV",
+   "page": 33,
+   "fmt": "numeric",
+   "q": "Book p33 defines the JVP as the vertical height from the sternal angle to the zone of transition of distended and collapsed internal jugular veins. According to Macleod as quoted on p33, normal right atrial pressure (RAP) is ____, and because the sternal angle lies ____ above the right atrium, the normal JVP height is ____.",
+   "opts": [
+    "<7 mmHg / 9 cm water; 5 cm; <=4 cm",
+    "<10 mmHg / 12 cm water; 7 cm; <=5 cm",
+    "<5 mmHg / 6 cm water; 3 cm; <=3 cm",
+    "<8 mmHg / 10 cm water; 4 cm; <=6 cm"
+   ],
+   "ans": 0,
+   "exp": "On Book p33: normal RAP is <7 mmHg / 9 cm water (Macleod); since the sternal angle is 5 cm above the right atrium, normal JVP should be <=4 cm above the sternal angle. (Book p33)"
+  },
+  {
+   "id": "MED-C3-18",
+   "sec": "JVP: Definition, RAP Conversion, POLICE & IJV vs EJV",
+   "page": 33,
+   "fmt": "numeric",
+   "q": "A patient's JVP is measured at 5 cm vertically above the sternal angle. Using the two-step conversion formula on Book p33, how do you calculate the right atrial pressure (RAP) in mmHg?",
+   "opts": [
+    "Add 5 cm (sternal angle to RA distance) to get 10 cm water, then multiply by 0.736 to get 7.36 mmHg",
+    "Subtract 5 cm from the JVP height to get 0 cm water, then multiply by 1.36 to get 0 mmHg",
+    "Add 3 cm to the JVP height to get 8 cm water, then divide by 0.736 to get 10.87 mmHg",
+    "Multiply 5 cm directly by 0.736 without adding the sternal-angle distance to get 3.68 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Step 3a on Book p33: add the height of the JVP from the sternal angle to 5 cm (distance from RA to sternal angle). Step 3b: multiply that total cm H2O height by 0.736 to convert cm H2O into mmHg RAP. (Book p33)"
+  },
+  {
+   "id": "MED-C3-19",
+   "sec": "JVP: Definition, RAP Conversion, POLICE & IJV vs EJV",
+   "page": 33,
+   "fmt": "match",
+   "q": "Match each letter of the 'POLICE' mnemonic on Book p33 for JVP vs Carotid to its JVP characteristic — 1) P and O: Palpation and Occlusion 2) L: Location 3) I: Inspiration 4) C and E: Contour and Erection … A) Between the heads of the sternocleidomastoid muscle, lateral to the carotid B) Non-palpable and readily occludable C) Biphasic waveform that drops when sitting erect D) Drops with inspiration",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "The POLICE mnemonic on Book p33: P = Palpation (non-palpable), O = Occlusion (readily occludable), L = Location (between the heads of SCM, lateral to carotid), I = Inspiration (drops with inspiration), C = Contour (biphasic waveform), E = Erection (drops when sitting erect). (Book p33)"
+  },
+  {
+   "id": "MED-C3-20",
+   "sec": "JVP: Definition, RAP Conversion, POLICE & IJV vs EJV",
+   "page": 33,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the comparison between the internal jugular vein (IJV) and external jugular vein (EJV) on Book p33?",
+   "opts": [
+    "True: The EJV is in direct straight-line communication with the SVC, whereas the IJV makes two 90-degree turns through fascial planes",
+    "True: The IJV communicates in a direct straight line with the SVC and RA (while the EJV makes two near-90° turns, can be compressed by fascial planes, and can constrict in shock/HF), and the IJV itself is never visible except in severe TR — only its transmitted skin pulsations are seen",
+    "False: In shock or heart failure, sympathetic stimulation can constrict the EJV and render it invisible",
+    "False: The IJV is never directly visible except in severe tricuspid regurgitation"
+   ],
+   "ans": 1,
+   "exp": "Book p33 gives four points comparing IJV and EJV: (a) IJV is in a direct straight line with the SVC and RA, while EJV makes two near-90° turns; (b) EJV runs through fascial planes and can be compressed; (c) EJV can constrict and become invisible in shock/HF due to sympathetic stimulation; (d) the IJV itself is never visible (except in severe TR) — its pulsations are transmitted to the skin. (Book p33)"
+  },
+  {
+   "id": "MED-C3-21",
+   "sec": "JVP: Definition, RAP Conversion, POLICE & IJV vs EJV",
+   "page": 33,
+   "fmt": "scenario",
+   "q": "In an elderly, severely arteriosclerotic patient, the left jugular venous column appears elevated while the right IJV is normal. According to Book p33, why is the right IJV always preferred over the left IJV?",
+   "opts": [
+    "Because the thoracic duct drains into the right IJV and obscures its pulsations after a fatty meal",
+    "Because the left IJV lacks a superior bulb valve and transmits left atrial pressure directly",
+    "Because in severely arteriosclerotic patients the left innominate (brachiocephalic) vein can be compressed between the sternum and arteries arising from the aortic arch, causing a falsely elevated left JVP",
+    "Because the right innominate vein crosses behind the oesophagus and is compressed in left atrial enlargement"
+   ],
+   "ans": 2,
+   "exp": "Item 6 on Book p33 states: the right IJV is preferred to the left IJV because in severely arteriosclerotic patients, the left innominate vein can get compressed between the sternum and arteries arising from the aortic arch and cause a falsely elevated JVP. (Book p33)"
+  },
+  {
+   "id": "MED-C3-22",
+   "sec": "JVP: Definition, RAP Conversion, POLICE & IJV vs EJV",
+   "page": 33,
+   "fmt": "numeric",
+   "q": "In the red reference box at the bottom of Book p33 pointing to Harrison's 21e Chapter 239, what JVP height above the sternal angle (angle of Louis) at 30 degrees elevation is cited as abnormal?",
+   "opts": [
+    ">2.5 cm at 30 degrees",
+    ">3.0 cm at 30 degrees",
+    ">4.5 cm at 30 degrees",
+    ">6.0 cm at 30 degrees"
+   ],
+   "ans": 2,
+   "exp": "The Harrison's 21e Chapter 239 summary box at the foot of Book p33 highlights: 'angle of Louis vs clavicle, >4.5 cm at 30 degrees, a/c/v waves and x/y descents, Kussmaul's sign, abdominojugular reflux'. (Book p33)"
+  },
+  {
+   "id": "MED-C3-23",
+   "sec": "JVP Procedure, Non-pulsatile JVP & ACXVY Waveforms",
+   "page": 34,
+   "fmt": "scenario",
+   "q": "When examining the JVP (Book p34), you first inspect the patient in the sitting position (checking other positions if it rises above the clavicle, and preferring 45° over supine where the top of the column may be hard to detect). During inspiration, why does the mean JVP level fall while the JVP pulsations paradoxically become MORE prominent?",
+   "opts": [
+    "Negative intrathoracic pressure creates a suction effect that lowers the mean JVP column, while the resulting increase in venous return increases right-heart volume and makes the individual pulsations more prominent",
+    "Inspiratory contraction of the sternocleidomastoid compresses the lower IJV while dilating the superior jugular bulb",
+    "Tricuspid valve closure is delayed during inspiration, abolishing the y descent while doubling the c wave",
+    "Inspiration shifts blood from the right atrium into the left atrium across the interatrial septum"
+   ],
+   "ans": 0,
+   "exp": "Item 7 on Book p34 explains both halves of the inspiratory response: the JVP column drops on inspiration because the drop in intrathoracic pressure causes a suction effect, yet the pulsations of the JVP become more prominent on inspiration because the increased venous return increases the volume of the right heart. (Book p34)"
+  },
+  {
+   "id": "MED-C3-24",
+   "sec": "JVP Procedure, Non-pulsatile JVP & ACXVY Waveforms",
+   "page": 34,
+   "fmt": "match",
+   "q": "Match each JVP column abnormality on Book p34 to its cause — 1) Reduced JVP 2) Bilateral elevated JVP without pulsation 3) Unilateral non-pulsatile elevated JVP 4) Wide respiratory variation of JVP … A) Superior vena cava (SVC) obstruction B) Innominate vein obstruction or thrombosis C) Hypovolaemia D) Bronchial asthma and emphysema (wide variation of intrathoracic pressure with respiration)",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 1,
+   "exp": "Items 8–11 on Book p34 state: (8) reduced JVP is seen in hypovolaemia; (9) bilateral elevated JVP without pulsation = SVC obstruction; (10) unilateral non-pulsatile elevated JVP = innominate vein obstruction or thrombosis; (11) in bronchial asthma and emphysema, wide intrathoracic pressure swings cause the JVP to vary with respiration. (Book p34)"
+  },
+  {
+   "id": "MED-C3-25",
+   "sec": "JVP Procedure, Non-pulsatile JVP & ACXVY Waveforms",
+   "page": 34,
+   "fmt": "numeric",
+   "q": "In the illustrated JVP figure on Book p34, a venous pulsation top level of 3 cm above the sternal angle added to the 5 cm distance from the right atrium to the sternal angle equals ____, and on the simultaneous Phonocardiogram/EKG strip the 'x' descent falls between ____ and ____ while the 'y' descent follows ____.",
+   "opts": [
+    "8 cm H2O jugular venous pressure; S1 and S2; S2",
+    "5 cm H2O jugular venous pressure; S2 and S1; S1",
+    "8 mmHg jugular venous pressure; P wave and QRS; QRS",
+    "15 cm H2O jugular venous pressure; T wave and P wave; S1"
+   ],
+   "ans": 0,
+   "exp": "The figure on Book p34 shows: '3 cm (from sternal angle) + 5 cm (from right atrium to sternal angle) = 8 cm H2O jugular venous pressure', and aligns the JVP waves with the phonocardiogram and EKG: 'a' wave with the P wave before S1, 'c' wave at S1/QRS, 'x' descent in systole between S1 and S2, 'v' wave peaking around S2, and 'y' descent in diastole after S2. (Book p34)"
+  },
+  {
+   "id": "MED-C3-26",
+   "sec": "JVP Procedure, Non-pulsatile JVP & ACXVY Waveforms",
+   "page": 34,
+   "fmt": "match",
+   "q": "Match each component of the ACXVY jugular venous waveform on Book p34 to its physiological mechanism — 1) 'a' wave 2) 'c' wave 3) 'v' wave and 'y' descent 4) 'x' descent and 'x prime' descent … A) Tricuspid valve bulging into the RA during isovolumetric contraction (plus a small component from adjacent carotid pulsations) B) 'x prime' (between a and c) is due to atrial relaxation; 'x' is due to ventricular systolic contraction pulling the tricuspid valve apparatus toward the apex, increasing RA volume C) Atrial contraction D) 'v' wave = venous return (passive RA filling); 'y' descent = atrial emptying",
+   "opts": [
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Item 12 on Book p34 defines ACXVY: a = Atrial contraction; c = TriCuspid valve bulging into RA in isovolumetric contraction (plus a small carotid pulsation component); v = Venous return; x = Atrial RelaXation (comprising x' between a and c from atrial relaxation, and x from systolic descent of the tricuspid ring toward the apex increasing RA volume); y = atrial emptYing. (Book p34)"
+  },
+  {
+   "id": "MED-C3-27",
+   "sec": "JVP Procedure, Non-pulsatile JVP & ACXVY Waveforms",
+   "page": 34,
+   "fmt": "fillup",
+   "q": "On Book p34, the x descent actually comprises the x' descent (between the a and c waves, caused by ____) and the x descent proper (caused during ventricular systole when the ventricles pull the ____ apparatus toward the apex).",
+   "opts": [
+    "Atrial relaxation; tricuspid valve",
+    "Isovolumetric relaxation; mitral valve",
+    "Passive venous filling; semilunar valve",
+    "Carotid recoil; eustachian valve"
+   ],
+   "ans": 0,
+   "exp": "Item 12.d on Book p34 explains that the x' descent between a and c is due to atrial relaxation, whereas when the ventricles contract in systole they pull the tricuspid valve apparatus toward the apex, increasing right atrial volume and lowering RA pressure (the x descent). (Book p34)"
+  },
+  {
+   "id": "MED-C3-28",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "page": 35,
+   "fmt": "match",
+   "q": "Match each 'a' wave abnormality on Book p35 to its cause or mechanism — 1) Prominent 'a' waves 2) Classical valvular cause of giant 'a' waves 3) Bernheim effect causing giant 'a' waves 4) Cannon 'a' waves … A) Marked LVH pushes the interventricular septum toward the right, making RV filling more difficult B) Right atrium contracting against a closed tricuspid valve C) Right ventricular hypertrophy causes: pulmonary hypertension, pulmonary embolism causing acute cor pulmonale, and pulmonic stenosis D) Tricuspid stenosis (TS)",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Item 13 on Book p35 separates: prominent 'a' waves (RVH from pulmonary hypertension, PE causing acute cor pulmonale, pulmonic stenosis); giant 'a' waves in tricuspid stenosis (TS) and via the Bernheim effect in marked LVH (septum pushed rightward, impeding RV filling); and cannon 'a' waves (RA contracting against a closed tricuspid valve). (Book p35)"
+  },
+  {
+   "id": "MED-C3-29",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "page": 35,
+   "fmt": "scenario",
+   "q": "A patient with severe systemic hypertension and marked left ventricular hypertrophy exhibits giant 'a' waves in the JVP without tricuspid stenosis or pulmonary hypertension. According to Book p35, this phenomenon is called the:",
+   "opts": [
+    "Bernheim effect — the hypertrophied interventricular septum is pushed toward the right, making right ventricular filling more difficult",
+    "Reverse Bernheim effect — right ventricular dilation pushes the interventricular septum into the left ventricle during inspiration",
+    "Venturi effect — high-velocity outflow across the aortic valve sucks the anterior mitral leaflet into the outflow tract",
+    "Carvallo effect — inspiratory augmentation of right-sided venous return unmasks tricuspid regurgitation"
+   ],
+   "ans": 0,
+   "exp": "Item 13.b.i on Book p35 defines the Bernheim effect: giant 'a' waves can also be seen in marked LVH because the RV septum is pushed toward the right, making RV filling more difficult. (Book p35)"
+  },
+  {
+   "id": "MED-C3-30",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "page": 35,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately states the distinction between intermittent and regular cannon 'a' waves on Book p35?",
+   "opts": [
+    "True: Regular cannon 'a' waves are characteristic of complete (third-degree) heart block, whereas intermittent cannon 'a' waves are characteristic of junctional tachycardia",
+    "True: Intermittent cannon 'a' waves occur in AV dissociation (third-degree heart block), whereas regular cannon 'a' waves occur in junctional tachycardia (where the AV-nodal focus depolarises right and left chambers simultaneously)",
+    "False: Cannon 'a' waves represent the right atrium contracting against a closed tricuspid valve",
+    "False: In junctional tachycardia the focus is at the AV node"
+   ],
+   "ans": 1,
+   "exp": "Item 13.c on Book p35 distinguishes intermittent cannon waves (AV dissociation / third-degree heart block) from regular cannon 'a' waves (junctional tachycardia, where the focus is at the AV node and depolarisation spreads equally to the chambers at the same time). (Book p35)"
+  },
+  {
+   "id": "MED-C3-31",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "page": 35,
+   "fmt": "scenario",
+   "q": "You are asked at the bedside to use the JVP to distinguish ventricular tachycardia (VT) from supraventricular tachycardia (SVT) with aberrancy, and to distinguish a cannon 'a' wave from a giant 'a' wave. Which statement matches Book p35?",
+   "opts": [
+    "SVT with aberrancy produces intermittent cannon 'a' waves while VT produces regular cannon 'a' waves; both cannon and giant 'a' waves peak after S2",
+    "Junctional tachycardia produces intermittent cannon 'a' waves while 3rd-degree heart block produces regular cannon 'a' waves; cannon 'a' waves precede S1",
+    "VT has complete V-A dissociation and therefore produces cannon 'a' waves, whereas SVT with aberrancy (without 3rd-degree heart block) preserves AV association and has no cannon 'a' waves; a cannon 'a' wave begins JUST AFTER S1, whereas a giant 'a' wave begins JUST BEFORE S1",
+    "Neither VT nor junctional tachycardia alters the 'a' wave; cannon 'a' waves occur only in atrial fibrillation"
+   ],
+   "ans": 2,
+   "exp": "Book p35 (13.c.iii & 13.d) stresses that in VT there is complete V-A dissociation (so cannon 'a' waves are present), whereas in SVT with aberrancy (without 3rd-degree heart block) AV association is preserved (no cannon 'a' waves); and a cannon 'a' wave begins just AFTER S1 (atrial contraction against a closed tricuspid valve), whereas a giant 'a' wave begins just BEFORE S1. (Book p35)"
+  },
+  {
+   "id": "MED-C3-32",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "page": 35,
+   "fmt": "scenario",
+   "q": "In a normal JVP the 'a' wave is taller than the 'v' wave, but in a patient with an atrial septal defect (ASD) the 'a' and 'v' waves have equal amplitude. How does Book p35 explain this 'left atrialization' of the jugular venous waveform?",
+   "opts": [
+    "Normally the RA 'a' wave (active contraction) exceeds the 'v' wave (passive filling), whereas in the LA the 4 pulmonary vein entry points decrease LA compliance so LA 'a' and 'v' waves have similar amplitude; in ASD, left atrialization of the JVP occurs",
+    "In ASD the tricuspid valve is congenitally stenotic, reducing the 'a' wave to match the 'v' wave",
+    "The four pulmonary veins drain directly into the superior vena cava in every ostium secundum ASD",
+    "High left ventricular end-diastolic pressure obliterates the 'x' descent and fuses the 'a' and 'v' waves into a single systolic wave"
+   ],
+   "ans": 0,
+   "exp": "Item 14 on Book p35 notes that equally prominent 'a' and 'v' waves occur in RV failure and ASD: normally the 'a' wave exceeds the 'v' wave (active contraction vs passive filling), but in the left atrium the 4 pulmonary vein entry points reduce LA compliance so LA 'a' and 'v' waves have similar amplitude; in ASD, left atrialization of the JVP equalises the 'a' and 'v' waves. (Book p35)"
+  },
+  {
+   "id": "MED-C3-33",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "page": 35,
+   "fmt": "match",
+   "q": "Match each JVP descent pattern or mnemonic on Book p35 to its clinical correlate — 1) Prominent 'x' descent 2) Diminished or blunted 'x' descent 3) Prominent 'y' descent vs diminished/absent 'y' descent 4) 'PAY TAX' mnemonic … A) Pericarditis [constrictive] = prominent Y descent; Tamponade = prominent X descent [with blunted y descent] B) Vigorous RV contraction / space creation in systole: cardiac tamponade and RV overload C) Atrial fibrillation, cardiomyopathy and tricuspid regurgitation [systolic regurgitant jet into RA prevents pressure fall] D) Prominent y = constrictive pericarditis and restrictive cardiomyopathy; Diminished/absent y = tricuspid stenosis [diastolic RA emptying impaired, with giant a wave]",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 1,
+   "exp": "Items 15–20 on Book p35 cover all four: (15) prominent x = tamponade, RV overload; (16 & 19b) diminished/blunted x = AF, cardiomyopathy, TR; (17–19a) prominent y = constrictive pericarditis, restrictive cardiomyopathy, while diminished/absent y = TS (a diastolic pathology giving giant a wave + diminished y descent); (19c & 20) PAY TAX = Pericarditis prominent y descent, Tamponade prominent x descent (and blunted y descent). (Book p35)"
+  },
+  {
+   "id": "MED-C3-34",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "page": 35,
+   "fmt": "fillup",
+   "q": "The mnemonic 'PAY TAX' on Book p35 stands for: Constrictive ____ has a prominent ____ descent, whereas Cardiac ____ has a prominent ____ descent.",
+   "opts": [
+    "Pericarditis; y; Tamponade; x",
+    "Pericarditis; x; Tamponade; y",
+    "Pulmonary stenosis; a; Tricuspid stenosis; v",
+    "Pericarditis; a; Tamponade; y"
+   ],
+   "ans": 0,
+   "exp": "Item 19.c on Book p35 gives the mnemonic: 'PAY TAX — Pericarditis prominent y descent, Tamponade prominent x descent'. (Book p35)"
+  },
+  {
+   "id": "MED-C3-35",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "scenario",
+   "q": "In constrictive pericarditis, the pericardium is stuck like an adhesive to the right ventricle. How does Book p36 link this pathology to both the JVP waveform and the cardiac catheterisation tracing?",
+   "opts": [
+    "The RV fails to relax in early diastole and contracts twice in systole — producing a prominent 'x' descent on JVP and a 'spike and dome' tracing on cardiac catheterisation",
+    "Pericardial fluid compresses the right atrium throughout diastole — obliterating the 'y' descent and producing electrical alternans on catheterisation",
+    "The RV relaxes very quickly in early diastole (causing a rapid pressure drop), but its pressure increases and plateaus immediately due to a recoil against the adherent pericardium — producing a rapid 'y' descent on JVP and the 'dip and square root' sign on cardiac catheterisation",
+    "The tricuspid valve remains fixed open in systole — producing cv fusion waves and a 'square wave' arterial response"
+   ],
+   "ans": 2,
+   "exp": "Item 21 on Book p36 explains: in constrictive pericarditis, the pericardium is stuck like an adhesive to the RV; the RV relaxes very quickly (rapid pressure drop), but its pressure rises immediately due to a recoil of sorts, causing the rapid 'y' descent on JVP and accounting for the 'dip and square root' sign on cardiac catheterisation. (Book p36)"
+  },
+  {
+   "id": "MED-C3-36",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "match",
+   "q": "Match each row or column of the three-way comparison table on Book p36 — 1) Cardiac tamponade 2) Constrictive pericarditis 3) Restrictive cardiomyopathy 4) Feature present in both Tamponade and Constrictive pericarditis but absent in Restrictive cardiomyopathy … A) Kussmaul sign PRESENT, Pulsus paradoxus PRESENT, JVP shows rapid y descent B) Kussmaul sign ABSENT, Pulsus paradoxus PRESENT, JVP shows prominent x descent with blunted y descent C) Pulsus paradoxus D) Kussmaul sign PRESENT, Pulsus paradoxus ABSENT",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "The p36 table contrasts the three entities: Tamponade (Kussmaul absent, pulsus paradoxus present, JVP prominent x / blunted y); Constrictive pericarditis (Kussmaul present, pulsus paradoxus present, JVP rapid y descent); Restrictive cardiomyopathy (Kussmaul present, pulsus paradoxus absent). (Book p36)"
+  },
+  {
+   "id": "MED-C3-37",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "truefalse",
+   "q": "Which of the following True/False statements accurately reflects the three-column comparison table on Book p36?",
+   "opts": [
+    "True: Both constrictive pericarditis and restrictive cardiomyopathy have Kussmaul's sign present, whereas pulsus paradoxus is present in constrictive pericarditis (and tamponade) but absent in restrictive cardiomyopathy",
+    "True: Cardiac tamponade has Kussmaul's sign present and pulsus paradoxus absent",
+    "False: Constrictive pericarditis has both Kussmaul's sign and pulsus paradoxus present in the p36 table",
+    "False: Tamponade shows a prominent x descent with a blunted y descent on the JVP"
+   ],
+   "ans": 0,
+   "exp": "In the p36 table, Kussmaul's sign is Absent in Tamponade and Present in both Constrictive pericarditis and Restrictive cardiomyopathy; Pulsus paradoxus is Present in Tamponade and Constrictive pericarditis, and Absent in Restrictive cardiomyopathy. (Book p36)"
+  },
+  {
+   "id": "MED-C3-38",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "management",
+   "q": "How is the abdominojugular reflux elicited according to Book p36, what defines a positive test, why does the JVP normally fall with abdominal compression, and what are its two clinical uses?",
+   "opts": [
+    "Apply the hand over the periumbilical area with fingers widely spread and press gradually, firmly and steadily inward for at least 15 seconds; positive if JVP rises by >3 cm throughout compression; normally abdominal compression obstructs femoral venous return so less blood reaches the RA; used to unmask subclinical RV failure and confirm symptomatic LV failure",
+    "Press sharply over the left iliac fossa for 3 seconds while the patient holds breath in expiration; positive if JVP rises by >1 cm transiently; used to diagnose superior vena cava obstruction",
+    "Compress the epigastrium for 60 seconds with the patient standing erect; positive if JVP falls by >5 cm; used to differentiate tricuspid stenosis from mitral stenosis",
+    "Percuss the right costal margin for 5 seconds; positive if a jugular venous thrill appears; used to confirm cardiac tamponade"
+   ],
+   "ans": 0,
+   "exp": "Item 22 on Book p36 covers every detail of abdominojugular reflux: (a) normally abdominal compression makes JVP fall because it obstructs femoral venous return so less blood reaches the RA; (b) in RV failure, RA/RV already have high pressure, so RUQ/abdominal compression decreases RV output and raises JVP for a sustained duration; (c) used to unmask subclinical RV failure and confirm symptomatic LV failure; (d) hand over periumbilical area with fingers widely spread, gradual firm inward steady pressure for at least 15 seconds — positive if JVP rises by >3 cm throughout the compression. (Book p36)"
+  },
+  {
+   "id": "MED-C3-39",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "numeric",
+   "q": "In the abdominojugular reflux procedure on Book p36, steady periumbilical pressure is applied for at least ____, and the test is positive if the JVP rises by ____ throughout the compression.",
+   "opts": [
+    "5 seconds; >1 cm",
+    "10 seconds; >2 cm",
+    "15 seconds; >3 cm",
+    "30 seconds; >4.5 cm"
+   ],
+   "ans": 2,
+   "exp": "Item 22.d on Book p36 specifies applying gradual, firm, inward, steady pressure over the periumbilical area for at least 15 seconds; it is positive if the JVP rises by >3 cm throughout the compression. (Book p36)"
+  },
+  {
+   "id": "MED-C3-40",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "numeric",
+   "q": "Book p36 defines Kussmaul's sign as a paradoxical rise in JVP with inspiration. What is the normal inspiratory fall of JVP (with the exact unit stressed in the note), and which cause of Kussmaul's sign does the book instruct you to 'tell first'?",
+   "opts": [
+    "3 cm of water; constrictive pericarditis — tell this first",
+    "3 mmHg (explicitly noted: 'not cm of water'); right ventricular myocardial infarction (RVMI) — tell this first",
+    "7 mmHg; tricuspid stenosis — tell this first",
+    "5 cm of water; cardiac tamponade — tell this first"
+   ],
+   "ans": 1,
+   "exp": "Item 23 on Book p36 states: Kussmaul's sign is a paradoxical rise in JVP with inspiration; the normal fall of JVP on inspiration is 3 mmHg ('not cm of water'); and among the six causes (1. Right ventricular MI — 'tell this first', 2. RV failure, 3. Tricuspid stenosis, 4. Cor pulmonale, 5. Constrictive pericarditis, 6. Restrictive cardiomyopathy), RVMI must be named first. (Book p36)"
+  },
+  {
+   "id": "MED-C3-41",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "oddoneout",
+   "q": "Which of the following conditions is explicitly noted on Book p36 as NOT causing Kussmaul's sign?",
+   "opts": [
+    "Right ventricular myocardial infarction and RV failure",
+    "Tricuspid stenosis and cor pulmonale",
+    "Constrictive pericarditis and restrictive cardiomyopathy",
+    "Cardiac tamponade"
+   ],
+   "ans": 3,
+   "exp": "Item 23.d lists the six causes of Kussmaul's sign: right ventricular MI ('tell this first'), RV failure, tricuspid stenosis (backflow from RA), cor pulmonale (RV failure), constrictive pericarditis, and restrictive cardiomyopathy. Item 23.e specifically asks 'Why not in tamponade?' (Book p36)"
+  },
+  {
+   "id": "MED-C3-42",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "page": 36,
+   "fmt": "scenario",
+   "q": "Why does cardiac tamponade produce pulsus paradoxus but NOT Kussmaul's sign, whereas constrictive pericarditis produces Kussmaul's sign? (Book p36)",
+   "opts": [
+    "In tamponade, the RV can still accommodate the inspiratory increase in venous return by pushing the interventricular septum toward the LV (so there is no Kussmaul's sign, but decreased LV volume causes pulsus paradoxus); in constrictive pericarditis, RA pressure increases with inspiration but is not transmitted to the RV",
+    "In tamponade, the superior vena cava collapses completely during inspiration, preventing blood from entering the neck veins",
+    "In tamponade, the pericardial fluid is confined to the left ventricle and spares the right atrium and right ventricle",
+    "In constrictive pericarditis, the interventricular septum is absent, equalising systemic and pulmonary pressures"
+   ],
+   "ans": 0,
+   "exp": "Item 23.d.v and 23.e on Book p36 explain: in constrictive pericarditis, right atrial pressure increases with inspiration because it is not transmitted to the constricted RV; in tamponade, by contrast, the RV can accommodate the increased inspiratory venous return by pushing the IV septum toward the LV — so there is no Kussmaul's sign, but there is pulsus paradoxus because of decreased LV volume. (Book p36)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U3-1",
+   "ch": 3,
+   "n": 1,
+   "title": "Peripheral Signs of AR & Hill's Sign",
+   "sec": "Peripheral Signs of Aortic Regurgitation & Hill's Sign",
+   "guide": "Peripheral AR signs 2-16: Becker's (retinal), Landolfi's (pupil), Muller's (uvula), De Musset's (head), Corrigan's (dancing carotids/waterhammer), locomotor brachii, Quincke's (nail bed), Rosenbach's (liver), Gerhardt's (spleen), Duroziez's (distal diastolic femoral murmur) and Traube's pistol-shot femorals.\nHill's sign (LL SBP >20 mmHg above UL SBP; popliteal/thigh cuff or posterior tibial/supramalleolar cuff): >20 mild, >40 moderate, >60 severe AR.\nHill's sign is a sphygmomanometer artefact from summation of reflected and forward waves (Jules Constant), and is falsely low in CHF and severe AS.",
+   "qs": [
+    "MED-C3-01",
+    "MED-C3-02",
+    "MED-C3-03",
+    "MED-C3-04",
+    "MED-C3-05",
+    "MED-C3-06",
+    "MED-C3-07",
+    "MED-C3-08",
+    "MED-C3-09"
+   ]
+  },
+  {
+   "id": "MED-U3-2",
+   "ch": 3,
+   "n": 2,
+   "title": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "sec": "Cardiac Inspection: Neck, Precordium & Pulsations",
+   "guide": "Inspect JVP, trachea and thyroid (if enlarged, look for thyrotoxic palpitations and eye signs), then chest shape: precordial bulge (left nipple displaced laterally/upward) vs pectus excavatum (backward bulge).\nSee-saw movement: RVH pulls the apex in while the precordium moves out in systole; LVH is the reverse. Back pulsations in coarctation = Suzman's sign.\nEpigastric pulsations: RV origin coincides with the apex beat higher in the epigastrium; abdominal aortic origin occurs after the apex beat lower down.",
+   "qs": [
+    "MED-C3-10",
+    "MED-C3-11",
+    "MED-C3-12",
+    "MED-C3-13",
+    "MED-C3-14",
+    "MED-C3-15",
+    "MED-C3-16"
+   ]
+  },
+  {
+   "id": "MED-U3-3",
+   "ch": 3,
+   "n": 3,
+   "title": "JVP: Definition, RAP Formula, POLICE & IJV vs EJV",
+   "sec": "JVP: Definition, RAP Conversion, POLICE & IJV vs EJV",
+   "guide": "JVP = vertical height above the sternal angle (<=4 cm normal, since sternal angle is 5 cm above RA and normal RAP is <7 mmHg / 9 cm H2O; RAP mmHg = [JVP + 5] x 0.736; Harrison notes >4.5 cm at 30 deg).\nPOLICE separates JVP from carotid: non-Palpable, Occludable, Located between SCM heads lateral to carotid, drops on Inspiration, biphasic Contour, drops on Erection.\nRight IJV is preferred over EJV (two 90-deg turns, fascial compression, sympathetic constriction) and over left IJV (left innominate vein compression in arteriosclerosis).",
+   "qs": [
+    "MED-C3-17",
+    "MED-C3-18",
+    "MED-C3-19",
+    "MED-C3-20",
+    "MED-C3-21",
+    "MED-C3-22"
+   ]
+  },
+  {
+   "id": "MED-U3-4",
+   "ch": 3,
+   "n": 4,
+   "title": "JVP Procedure, Non-pulsatile JVP & ACXVY Waves",
+   "sec": "JVP Procedure, Non-pulsatile JVP & ACXVY Waveforms",
+   "guide": "Check JVP sitting first (if above clavicle), then at 45 deg; on inspiration mean JVP falls by suction while pulsations become more prominent from increased right-heart volume.\nNon-pulsatile elevated JVP: bilateral = SVC obstruction; unilateral = innominate vein obstruction/thrombosis.\nACXVY: a = atrial contraction; c = tricuspid bulging in isovolumetric contraction (+ carotid component); v = venous return; x' (atrial relaxation) and x (systolic downward pull of tricuspid ring); y = atrial emptying.",
+   "qs": [
+    "MED-C3-23",
+    "MED-C3-24",
+    "MED-C3-25",
+    "MED-C3-26",
+    "MED-C3-27"
+   ]
+  },
+  {
+   "id": "MED-U3-5",
+   "ch": 3,
+   "n": 5,
+   "title": "Abnormalities of A, V, X & Y Waves (PAY TAX)",
+   "sec": "Abnormalities of JVP Waves & Descents (A, V, X, Y)",
+   "guide": "Prominent a wave = RVH (PAH, PE, PS); giant a wave = TS and marked LVH (Bernheim effect, before S1); cannon a wave (just after S1, RA vs closed TV) = intermittent in 3rd-degree block/VT, regular in junctional tachycardia, absent in SVT with aberrancy.\nEqual a and v waves occur in RV failure and ASD ('left atrialization' of JVP because 4 pulmonary veins lower LA compliance).\nPAY TAX: Constrictive Pericarditis gives a prominent Y descent; Cardiac Tamponade gives a prominent X descent (and blunted y descent); TR blunts the x descent and TS blunts the y descent.",
+   "qs": [
+    "MED-C3-28",
+    "MED-C3-29",
+    "MED-C3-30",
+    "MED-C3-31",
+    "MED-C3-32",
+    "MED-C3-33",
+    "MED-C3-34"
+   ]
+  },
+  {
+   "id": "MED-U3-6",
+   "ch": 3,
+   "n": 6,
+   "title": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "sec": "Constrictive Pericarditis, Abdominojugular Reflux & Kussmaul's Sign",
+   "guide": "In constrictive pericarditis the adherent pericardium causes rapid early RV relaxation followed by sudden recoil — producing a rapid y descent and the catheterisation 'dip and square root' sign.\nAbdominojugular reflux (periumbilical pressure >=15 s; positive if JVP rises >3 cm throughout) unmasks subclinical RV failure and confirms symptomatic LV failure.\nKussmaul's sign (paradoxical inspiratory JVP rise vs normal 3 mmHg fall): say RVMI first, then RV failure, TS, cor pulmonale, constrictive pericarditis and RCM — never tamponade (where septal bowing into the LV accommodates venous return and causes pulsus paradoxus instead).",
+   "qs": [
+    "MED-C3-35",
+    "MED-C3-36",
+    "MED-C3-37",
+    "MED-C3-38",
+    "MED-C3-39",
+    "MED-C3-40",
+    "MED-C3-41",
+    "MED-C3-42"
+   ]
+  }
+ ]
+}

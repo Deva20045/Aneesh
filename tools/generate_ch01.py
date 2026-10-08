@@ -20,7 +20,7 @@ from ch01_data_d import D  # noqa: E402
 
 CHAPTER = 1
 TITLE = "General Examination"
-PAGE_RANGE = "3-14"
+PAGE_RANGE = "3-15"
 
 # Unit sources: (section in book order, unit title, 2-4 line guide).
 UNITS = [
@@ -122,6 +122,9 @@ UNITS = [
      "Pulse pressure = SBP minus DBP; normal 30-60 mmHg.\n"
      "Raised: exercise, AR, PDA, fever, anaemia, AV fistulas, beriberi, Paget's disease (bone fistulae), cirrhosis (intrahepatic and extrahepatic AV fistulae), pregnancy (placenta as a large AV fistula).\n"
      "Narrow: aortic stenosis (outflow obstruction), constrictive pericarditis and cardiac tamponade (filling obstruction), with MS and DSS queried."),
+    ("AHA/ASA Blood Pressure Categories (Insert Table)", "AHA/ASA Blood Pressure Categories (Insert Table)",
+     "AHA/ASA Blood Pressure Categories on Book p15: Normal (<120 AND <80 mmHg) vs Elevated (120-129 AND <80 mmHg).\n"
+     "Hypertension Stage 1 = 130-139 OR 80-89 mmHg; Stage 2 = >=140 OR >=90 mmHg; Hypertensive Crisis = >180 and/or >120 mmHg."),
 ]
 
 
@@ -129,7 +132,7 @@ def main() -> None:
     rows = A + B + C + D
     pages = [r[0] for r in rows]
     assert pages == sorted(pages), "questions must follow book page order"
-    assert set(pages) == set(range(3, 15)), "every page of the range must be covered"
+    assert set(pages) == set(range(3, 16)), "every page of the range must be covered"
 
     questions = []
     ledger = []
@@ -170,7 +173,11 @@ def main() -> None:
 
     artifact = dict(chapter=CHAPTER, title=TITLE, pageRange=PAGE_RANGE, questions=questions, units=units)
     (ROOT / "data" / "ch01.json").write_text(json.dumps(artifact, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    (ROOT / "audit" / "coverage.json").write_text(json.dumps(ledger, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    cov_path = ROOT / "audit" / "coverage.json"
+    existing = json.loads(cov_path.read_text(encoding="utf-8")) if cov_path.exists() else []
+    merged = [row for row in existing if row["chapter"] != CHAPTER] + ledger
+    merged.sort(key=lambda r: (r["chapter"], int(r["question"].rsplit("-", 1)[1])))
+    cov_path.write_text(json.dumps(merged, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"ch01: {len(questions)} questions, {len(units)} units, {len(ledger)} ledger points")
 
 

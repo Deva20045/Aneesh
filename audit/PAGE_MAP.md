@@ -60,15 +60,19 @@ from extracted text: **10, 11, 12, 15, 18, 19, 48, 49, 56, 59, 62, 69, 73, 74,
 79, 84, 87, 90, 118, 123, 131, 152, 153, 157, 163, 164, 171, 172, 177, 181, 192,
 193, 206, 221, 244, 249**.
 
-Notable ones already read and identified while building Chapter 1:
-p15 Wiggers cardiac-cycle diagram; p73 cardiac cycle page; p74 AHA blood-pressure
-categories chart; p79 NCPF/EHPVO/cirrhosis differentiation table; p163 Kumar &
+Notable ones already read and identified while building Chapters 1–6:
+p15 AHA/ASA Blood Pressure Categories chart (end of Chapter 1, Book p3–15);
+p18–19 Boloor Table 3C.7 orthopnoea vs PND (Chapter 2, Book p16–30);
+p48 7-point Approach to Cardiovascular Diagnosis (Chapter 5, Book p48, 73–74);
+p49 Harrison's Table 263-1 & rheumatic mitral stenosis pathology (Chapter 6, Book p49–55);
+p73 circular 0.8 s cardiac cycle diagram & p74 Wiggers cardiac-cycle diagram (Chapter 5, Book p48, 73–74);
+p79 NCPF/EHPVO/cirrhosis differentiation table; p163 Kumar &
 Clark Table 19.8 (acute breathlessness); p164 MMSE form; p177 Waldeyer's
 lymphatic rings; p206 (stroke figure page, to be read with Chapter 40).
 
 ## Chapter start pages (roadmap)
 
-Chapter 1 start is verified line by line. The remaining start pages come from the
+Chapters 1–6 are verified line by line. The remaining start pages come from the
 12.4 pt+ heading scan (`tools/heading_scan.py`) and are confirmed chapter by
 chapter as each one is built; `build_content.py` holds the same table.
 
