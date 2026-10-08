@@ -2242,5 +2242,1883 @@
   "page": 55,
   "point": "Reasons tilting-disc valves are preferred over caged-ball valves and BMV success criteria on Book p55",
   "question": "MED-C6-32"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "Acute row of Table 264-1: IE, papillary muscle rupture (post-MI), chordal rupture/leaflet flail (MVP, IE), blunt trauma",
+  "question": "MED-C7-01"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "Four rows of Table 264-1 (Acute / Chronic Primary / Chronic Secondary / Mitral annular calcification) mapped to their defining feature",
+  "question": "MED-C7-02"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "Chronic Primary (affecting leaflets, chordae) list: Myxomatous, Rheumatic fever, IE (healed), Congenital (cleft, AV canal), Radiation",
+  "question": "MED-C7-03"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "The three entities under 'Myxomatous' in the Chronic Primary list (MVP, Barlow's, forme fruste)",
+  "question": "MED-C7-04"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "Chronic Secondary (leaflets, chordae 'innocent bystanders') list: Ischemic CM, Dilated CM, HOCM (with SAM), AF with LA enlargement and annular dilation (atrial functional MR)",
+  "question": "MED-C7-05"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "Odd-one-out within the Chronic Secondary 'innocent bystanders' group",
+  "question": "MED-C7-06"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "Footnote a to Mitral annular calcification: mixed primary+secondary elements, sphincteric function, MVP + ischemic CM example",
+  "question": "MED-C7-07"
+ },
+ {
+  "chapter": 7,
+  "page": 56,
+  "point": "Abbreviation key at the foot of Table 264-1: SAM, HOCM, AV, MVP",
+  "question": "MED-C7-08"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Acute MR list on p57: Endocarditis, Post-MI papillary muscle rupture (posteromedial), Chordal rupture/leaflet flail due to MVP and IE, Trauma",
+  "question": "MED-C7-09"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Posteromedial papillary muscle rupture in post-MI acute MR; MVP and IE as chordal rupture/leaflet flail causes",
+  "question": "MED-C7-10"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Chronic MR list on p57: MVP, Rheumatic Fever, healed endocarditis, mitral annular calcification, congenital cleft, HOCM with SAM, Dilated cardiomyopathy",
+  "question": "MED-C7-11"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Chronic MR haemodynamics: gradual LA dilation with little pressure rise (few symptoms); slow LV dilation; gradual LA and LV pressure rise from chronic volume overload",
+  "question": "MED-C7-12"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Chronic MR: increased LV volume often with reduced cardiac output (verify note); acute MR: rapid LA pressure rise due to normal LA compliance with marked deterioration",
+  "question": "MED-C7-13"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Acute MR haemodynamics: normal LA compliance prevents buffering, so LA pressure rises rapidly with marked symptomatic deterioration",
+  "question": "MED-C7-14"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Four MR symptoms on p57 matched to their stated mechanisms: Dyspnoea (early, with palpitations), Fatigue (decreased CO), Palpitations (A fib, increased stroke volume), late Right heart failure",
+  "question": "MED-C7-15"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Odd-one-out among the MR symptoms listed on p57",
+  "question": "MED-C7-16"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "MR sign list on p57: A fib; cardiomegaly with displaced hyperdynamic apex; apical PSM +/- thrill; soft S1, S3; pulmonary venous congestion (crepts, oedema, effusions); pulmonary hypertension and right heart failure",
+  "question": "MED-C7-17"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "The six sign entries on p57 matched to their book description",
+  "question": "MED-C7-18"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Odd-one-out: a TR-specific sign among MR signs",
+  "question": "MED-C7-19"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "MR investigations on p57: ECG (LAH, LVH/A fib), CXR (inverted moustache, enlarged LA/LV, pulm venous congestion, pulm oedema if acute), Echo (dilated LA, LV), Doppler, cardiac cath",
+  "question": "MED-C7-20"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "CXR 'inverted moustache' of MR and pulmonary oedema in acute MR",
+  "question": "MED-C7-21"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "The six TR features in the TR-vs-MR list on p57: tricuspid-area murmur, positive Carvallo's, hepatic pulsation, A-JR response (Vitam sign), giant V waves with deep Y descents (Lancisi sign), earlobe pulsation",
+  "question": "MED-C7-22"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "Why acute MR produces an early systolic murmur: undilated LA means LV-LA pressure equalises in early systole",
+  "question": "MED-C7-23"
+ },
+ {
+  "chapter": 7,
+  "page": 57,
+  "point": "TR feature statements: tricuspid-area murmur, Carvallo's, Vitam sign (A-JR), Lancisi sign (giant V waves), earlobe pulsation",
+  "question": "MED-C7-24"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "MR '7. Mx' — Medical: same as MS; vasodilators in severe cases may help in reducing R",
+  "question": "MED-C8-01"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "MR '7. Mx' — Sx: MVR under open heart surgery, sometimes by mitral valvuloplasty or annuloplasty",
+  "question": "MED-C8-02"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "The three-level classification (Supravalvular / Valvular / Subvalvular with HOCM and fixed fibrotic entries)",
+  "question": "MED-C8-03"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Rheumatic cause: almost always associated with mitral valve involvement along with aortic regurgitation",
+  "question": "MED-C8-04"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Odd-one-out among the three valvular AS causes",
+  "question": "MED-C8-05"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Severity bands: Severe <1 cm2; Moderate 1-1.5 cm2; Mild >1.5 cm2 (normal 3-4 cm2)",
+  "question": "MED-C8-06"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Normal valve area (3-4 cm2) and the severe-AS cutoff (<1 cm2)",
+  "question": "MED-C8-07"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "LVOT obstruction -> concentric LVH (pressure overload); CO maintained for years then systolic failure; high O2 demand -> exertional angina",
+  "question": "MED-C8-08"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "True/False: pressure overload -> concentric LVH; high O2 demand; CO preserved for years before systolic failure",
+  "question": "MED-C8-09"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Presentation decade (6th to 8th once severe) and the earlier-presenting bicuspid valve",
+  "question": "MED-C8-10"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "The four AS symptom entries matched to their stated mechanisms",
+  "question": "MED-C8-11"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Odd-one-out among AS symptoms",
+  "question": "MED-C8-12"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Sinus rhythm (AF suggests mitral disease); BP normal early, pulse pressure falls late; pulsus parvus et tardus definition",
+  "question": "MED-C8-13"
+ },
+ {
+  "chapter": 8,
+  "page": 58,
+  "point": "Pulsus parvus et tardus: 'rises slowly to a delayed peak'",
+  "question": "MED-C8-14"
+ },
+ {
+  "chapter": 8,
+  "page": 59,
+  "point": "Table 261-1 etiologies: Congenital (bicuspid, unicuspid), Degenerative calcific disease, Rheumatic fever, Radiation",
+  "question": "MED-C8-15"
+ },
+ {
+  "chapter": 8,
+  "page": 59,
+  "point": "Cross-mapping the four Table 261-1 etiologies to their corroboration in the p58 valvular AS note",
+  "question": "MED-C8-16"
+ },
+ {
+  "chapter": 8,
+  "page": 59,
+  "point": "Odd-one-out against the Table 261-1 etiology list",
+  "question": "MED-C8-17"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Carotid shudder: thrill palpable over the carotid arteries, especially over the left",
+  "question": "MED-C8-18"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Soft S2 (two stated causes) and the ejection click (when heard / when inaudible)",
+  "question": "MED-C8-19"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Accentuated a wave in JVP = Bernheim effect (diminished RV distensibility from the bulging hypertrophied IV septum)",
+  "question": "MED-C8-20"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Murmur description: low pitched, rough and rasping ejection (mid) systolic, aortic area, sitting, breath held in expiration, radiating to carotids",
+  "question": "MED-C8-21"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Gallavardin effect: transmission of AS murmur to the apex, where it is confused with MR",
+  "question": "MED-C8-22"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "ECG-LVH is the only elaborated investigation finding on the p60 list",
+  "question": "MED-C8-23"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Odd-one-out against the p60 AS investigation list",
+  "question": "MED-C8-24"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Medical (severe: avoid strenuous activity; asymptomatic: ACEi + BB; serial echo) and the four surgical indications",
+  "question": "MED-C8-25"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Ross procedure: autologous pulmonic valve to the aortic position + prosthetic pulmonic valve; use declined (post-op complications, complexity)",
+  "question": "MED-C8-26"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Odd-one-out against the p60 AS surgical options",
+  "question": "MED-C8-27"
+ },
+ {
+  "chapter": 8,
+  "page": 60,
+  "point": "Three determinants: single S2 (LV systole prolongation), pulsus parvus et tardus, louder and later peaking murmur",
+  "question": "MED-C8-28"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Usually a localised discrete narrowing above the sinuses of Valsalva",
+  "question": "MED-C8-29"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Murmur site: suprasternal notch or first right interspace",
+  "question": "MED-C8-30"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Radiation more towards the RIGHT carotid (diagram: 'more towards R side')",
+  "question": "MED-C8-31"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "The five supravalvular AS points matched to their detail",
+  "question": "MED-C8-32"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Elfin facies components: wide set eyes, upturned nose, small chin, patulous lips, deep husky voice",
+  "question": "MED-C8-33"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Disproportionate and asymmetric thickening of the IV septum",
+  "question": "MED-C8-34"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Systolic bulge draws the anterior mitral leaflet medially -> LVOT obstruction",
+  "question": "MED-C8-35"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Murmur-increasing manoeuvres (decrease LV size): inspiration, tachycardia, amyl nitrite, standing after squatting",
+  "question": "MED-C8-36"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "Bifid pulse; double or triple apical impulse",
+  "question": "MED-C8-37"
+ },
+ {
+  "chapter": 8,
+  "page": 61,
+  "point": "The four rows of the Aortic vs Pulmonic Stenosis character table",
+  "question": "MED-C8-38"
+ },
+ {
+  "chapter": 9,
+  "page": 62,
+  "point": "Valvular column of Table 262-1: Congenital (bicuspid), Endocarditis, Rheumatic fever, Myxomatous (prolapse), Radiation, Trauma, Syphilis, Ankylosing spondylitis",
+  "question": "MED-C9-01"
+ },
+ {
+  "chapter": 9,
+  "page": 62,
+  "point": "The two etiology columns of Table 262-1 (Valvular vs Aortic root disease) applied to four entries",
+  "question": "MED-C9-02"
+ },
+ {
+  "chapter": 9,
+  "page": 62,
+  "point": "Table entry reads 'Medial degeneration' (the 'Cystic' prefix appears only in the p63 note)",
+  "question": "MED-C9-03"
+ },
+ {
+  "chapter": 9,
+  "page": 62,
+  "point": "Aortic root disease column: Aortic dissection, Medial degeneration, Marfan syndrome, Bicuspid aortic valve, Nonsyndromic familial aneurysm, Aortitis, Hypertension",
+  "question": "MED-C9-04"
+ },
+ {
+  "chapter": 9,
+  "page": 62,
+  "point": "Table-only etiologies (Hypertension, Nonsyndromic familial aneurysm, Radiation) vs Aortitis which the p63 note also lists",
+  "question": "MED-C9-05"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Valvular list parentheticals: Syphilis (Luetic Aortitis); Myxomatous (prolapse)",
+  "question": "MED-C9-06"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Root disease list: dissection (displacement of the valves), cystic medial degeneration, Marfan's, bicuspid (also a valvular cause)",
+  "question": "MED-C9-07"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Odd-one-out against the full p63 AR cause list",
+  "question": "MED-C9-08"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "p63 'Cystic medial degeneration' vs the p62 table's bare 'Medial degeneration'",
+  "question": "MED-C9-09"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Cascade: increased total stroke volume -> increased LVEDV (preload) -> dilation and eccentric hypertrophy -> LV failure",
+  "question": "MED-C9-10"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Acute severe AR (as in endocarditis): LV cannot compensate rapidly -> pulmonary oedema",
+  "question": "MED-C9-11"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Chronic severe AR: asymptomatic for up to 10-15 years",
+  "question": "MED-C9-12"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Palpitations as an early complaint for years before exertional dyspnoea; angina; then dyspnoea, PND, orthopnoea",
+  "question": "MED-C9-13"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "First sign entry: peripheral signs (from head to toe)",
+  "question": "MED-C9-14"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Heaving apical impulse, displaced down and out (annotated '????' in the note)",
+  "question": "MED-C9-15"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Pulsus bisferiens; diastolic thrill over aortic area; systolic thrill over carotids/SSN need not mean AS; A2 usually absent in severe AR",
+  "question": "MED-C9-16"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Murmur detail: high pitched blowing decrescendo diastolic; early diastolic at Erb's point (neo aortic area); sitting, breath held in expiration; aortic-orientation reason",
+  "question": "MED-C9-17"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "AR murmur better heard in the aortic area suggests an aortic aneurysm causing AR",
+  "question": "MED-C9-18"
+ },
+ {
+  "chapter": 9,
+  "page": 63,
+  "point": "Odd-one-out: an AS sign among AR signs",
+  "question": "MED-C9-19"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Sign i: murmur best heard over the right sternal border suggests regurgitation due to aneurysmal dilation",
+  "question": "MED-C10-01"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Sign j: a mid systolic ejection murmur can also be heard best in the aortic area and transmitted to the carotids",
+  "question": "MED-C10-02"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Signs k and l: the two eponymous murmurs named (without elaboration) under the AR signs",
+  "question": "MED-C10-03"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Doppler Echo sub-item: color doppler most sensitive for mild cases",
+  "question": "MED-C10-04"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "The three CXR findings of AR: cardiomegaly -> cor bovinum; aortic root dilation -> prominent aortic knuckle; aortic valve calcification -> sus concomitant AS",
+  "question": "MED-C10-05"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Odd-one-out against the p64 AR investigation list (ECG-LVH, Doppler Echo, CXR, cardiac cath)",
+  "question": "MED-C10-06"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Management: as in MS (IE or syphilitic aortitis needs Rx); chronic + significant vol overload -> vasodilator (hydralazine, nifedipine, ACE inh); Sx AVR, ideal time after LVD evidence but before significant symptoms",
+  "question": "MED-C10-07"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "IE or syphilitic aortitis needs Rx (parenthetical in the 'as in MS' line)",
+  "question": "MED-C10-08"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Vasodilator trio for chronic AR with significant volume overload: hydralazine, nifedipine, or ACE inhibitor",
+  "question": "MED-C10-09"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Ostium secundum ASD 90%; ostium primum ASD 5%",
+  "question": "MED-C10-10"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Ostium primum ASD commonly associated with Down syndrome or endocardial cushion defects",
+  "question": "MED-C10-11"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "The five syndromic ASD associations matched to their listed detail",
+  "question": "MED-C10-12"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Patau syndrome: trisomy 13; polydactyly, flexion deformity of fingers, simian crease, cleft lip and palate, microcephaly; ASD, VSD, PDA",
+  "question": "MED-C10-13"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Edward syndrome: trisomy 18; prominent occiput, low set malformed ears, rocker bottom feet, micrognathia, clenched fists; ASD, VSD, PDA",
+  "question": "MED-C10-14"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Odd-one-out against the Edward syndrome phenotype list",
+  "question": "MED-C10-15"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Odd-one-out against the five syndromic ASD associations",
+  "question": "MED-C10-16"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Holt-Oram: triphalangeal (fingerised) thumb, sometimes abrachia or phocomelia",
+  "question": "MED-C10-17"
+ },
+ {
+  "chapter": 10,
+  "page": 64,
+  "point": "Final ASD point: atrial fibrillation is common in ASD",
+  "question": "MED-C10-18"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "ASD '4. Symptoms and signs': small defects usually asymptomatic; large defects present with tachycardia, right heart failure, left heart failure, exertional dyspnoea",
+  "question": "MED-C11-01"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "The five ASD sign entries: associated PS; wide fixed split of S2; narrowed split with pulmonary HTN; flow ESM across pulmonary valve; flow MDM across mitral valve",
+  "question": "MED-C11-02"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "The three ASD differential diagnoses: MS with pulmonary HTN; partial anomalous pulmonary venous connections; TAPVC with a large interatrial communication without pulmonary HTN",
+  "question": "MED-C11-03"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "The two pointer stubs closing the CHD section: 'TOF and VSD from peds' and 'Facies in congenital heart disease- Nice to know'",
+  "question": "MED-C11-04"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "ARF most common 5-14 years, rare >30 years; RHD peaks 25-40 years",
+  "question": "MED-C11-05"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "Pathogenesis: molecular mimicry — immune response targeted at M protein and NAG also recognises human tissues",
+  "question": "MED-C11-06"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "Cause: Group A Streptococci",
+  "question": "MED-C11-07"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "Statistics: MS in 99% of RHD; 40% MS with MR; isolated MS 25%; 38% multi valve; 35% aortic; 6% tricuspid; pulmonary very rare",
+  "question": "MED-C11-08"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "Aortic 35%, tricuspid 6%, pulmonary valve very rarely involved",
+  "question": "MED-C11-09"
+ },
+ {
+  "chapter": 11,
+  "page": 65,
+  "point": "Odd-one-out against the RHD statistic figures",
+  "question": "MED-C11-10"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "Latent period 1-5 weeks; preceding infection commonly subclinical, confirmable by antibody testing",
+  "question": "MED-C11-11"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "m/c c/f: polyarthritis (60-75%), carditis (50-60%)",
+  "question": "MED-C11-12"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "Odd-one-out against the m/c c/f statement",
+  "question": "MED-C11-13"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "Up to 60% of ARF patients progress to RHD",
+  "question": "MED-C11-14"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "Mitral valve almost always affected (sometimes with aortic); isolated aortic involvement rare",
+  "question": "MED-C11-15"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "Early valvular damage -> regurgitation; over ensuing years (recurrent episodes) thickening, scarring, calcification -> stenosis",
+  "question": "MED-C11-16"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "Characteristic manifestation of carditis in previously unaffected individuals: MR, sometimes with AR",
+  "question": "MED-C11-17"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "Myocarditis may lead to first degree AV block and softening of S1",
+  "question": "MED-C11-18"
+ },
+ {
+  "chapter": 11,
+  "page": 66,
+  "point": "True/False: 60% progression, pericardial involvement, rare isolated aortic, early regurgitation",
+  "question": "MED-C11-19"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "The five joint entries: hot swollen red tender polyarthritis; migrates over hours; large joints asymmetric; severe disabling until anti-inflammatory therapy; sensitive to NSAIDs/Salicylates",
+  "question": "MED-C11-20"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Migratory large-joint arthritis, asymmetric, NSAID-responsive — the ARF arthritis pattern",
+  "question": "MED-C11-21"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "The six chorea entries: presentation pattern, carditis association, head/tongue, distribution, emotional/OC traits, duration",
+  "question": "MED-C11-22"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Sydenham's chorea: females, always with carditis, head/tongue, 6 weeks to 6 months",
+  "question": "MED-C11-23"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Odd-one-out among the chorea features",
+  "question": "MED-C11-24"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Erythema marginatum: pink macules clearing centrally, serpiginous spreading edge; evanescent",
+  "question": "MED-C11-25"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Rash site: trunk, sometimes limbs, almost never the face",
+  "question": "MED-C11-26"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Subcutaneous nodules: 3 P's — painless, pea sized, on bony prominences; days to weeks",
+  "question": "MED-C11-27"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "The two conditional investigations (blood culture if febrile; throat swab before antibiotics) vs the unconditional ESR/CRP and WBC",
+  "question": "MED-C11-28"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Throat swab must be taken before giving antibiotics",
+  "question": "MED-C11-29"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Antibiotics: Phenoxymethylpenicillin 500mg PO bd / Amox 50 mg/kg daily for 10 days",
+  "question": "MED-C11-30"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "The seven treatment entries: antibiotics; salicylate/NSAID indications; no value in carditis/chorea; aspirin dosing; naproxen; severe carditis steroids; severe chorea carbamazepine",
+  "question": "MED-C11-31"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Salicylates: indications, no value in carditis/chorea, toxicity monitoring, dosing",
+  "question": "MED-C11-32"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Severe chorea: carbamazepine (response 1-2 weeks, continue 1-2 weeks after remission); IVIg only for severe refractory chorea",
+  "question": "MED-C11-33"
+ },
+ {
+  "chapter": 11,
+  "page": 67,
+  "point": "Odd-one-out against the salicylate/NSAID statements",
+  "question": "MED-C11-34"
+ },
+ {
+  "chapter": 11,
+  "page": 68,
+  "point": "Primary prevention: penicillin within 9 days of sore throat onset prevents almost all ARF",
+  "question": "MED-C11-35"
+ },
+ {
+  "chapter": 11,
+  "page": 68,
+  "point": "The three secondary-prophylaxis durations: no carditis 5y/21; carditis no residual 10y/21; persistent valve disease 20y/40",
+  "question": "MED-C11-36"
+ },
+ {
+  "chapter": 11,
+  "page": 68,
+  "point": "Secondary prevention: Benzathine penicillin G 1.2 million units every 4 weeks",
+  "question": "MED-C11-37"
+ },
+ {
+  "chapter": 11,
+  "page": 68,
+  "point": "Applying the 'carditis but no residual valve disease' rule (10 years or until 21, whichever is longer) to a 26-year-old",
+  "question": "MED-C11-38"
+ },
+ {
+  "chapter": 11,
+  "page": 68,
+  "point": "Primary vs secondary prevention statements",
+  "question": "MED-C11-39"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Definite IE: pathological criteria, 2 major + 1 minor, 1 major + 2 minor, 5 minor",
+  "question": "MED-C12-01"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Possible IE: 1 major + 1 minor or 3 minor",
+  "question": "MED-C12-02"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Odd-one-out against the definitive-IE combinations",
+  "question": "MED-C12-03"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "The four blood-culture major entries: typical organisms (two cultures), community-acquired S. aureus/enterococci, other organisms persistently positive, single Coxiella culture/serology",
+  "question": "MED-C12-04"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "The five HACEK organisms",
+  "question": "MED-C12-05"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Definition of 'persistently positive' cultures for other microorganisms",
+  "question": "MED-C12-06"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "The four echocardiographic entries under 'Echo positive for IE'",
+  "question": "MED-C12-07"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Why a worsening/changing preexisting murmur is not sufficient",
+  "question": "MED-C12-08"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "The four echo entries, with the middle two blanked",
+  "question": "MED-C12-09"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "The four minor-criteria bullets: predisposition, fever, vascular phenomena, immunologic phenomena",
+  "question": "MED-C12-10"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Janeway lesions (vascular) vs Osler's nodes, Roth's spots, glomerulonephritis (immunologic)",
+  "question": "MED-C12-11"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Microbiological minor: positive culture not meeting major, or serological evidence",
+  "question": "MED-C12-12"
+ },
+ {
+  "chapter": 12,
+  "page": 69,
+  "point": "Pathological criteria: positive microbiology or histology of pathologic tissue at surgery or autopsy",
+  "question": "MED-C12-13"
+ },
+ {
+  "chapter": 12,
+  "page": 70,
+  "point": "Oral-procedures table: amoxicillin (oral) vs ampicillin + ceftriaxone (IV); allergy row clindamycin + azithro (oral) vs clindamycin + ceftriaxone (IV)",
+  "question": "MED-C12-14"
+ },
+ {
+  "chapter": 12,
+  "page": 70,
+  "point": "RESP prophylaxis: same as oral; abscess/empyema drainage include below; strep viridans; staph : Vanco",
+  "question": "MED-C12-15"
+ },
+ {
+  "chapter": 12,
+  "page": 70,
+  "point": "GU/GIT: not recommended (except established infx/abx cover — enterococci: penicillin); SSTI: not for routine sx; infected tissue — penicillin, allergic/MRSA — Vance",
+  "question": "MED-C12-16"
+ },
+ {
+  "chapter": 12,
+  "page": 70,
+  "point": "The supersession note: 2023 ESC guideline and 2023 Duke-ISCVID criteria supersede the above (including prophylaxis)",
+  "question": "MED-C12-17"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Definite IE structure unchanged (2 major / 1 major + 3 minor / 5 minor); possible IE 1 major + 1 minor or 3 minor",
+  "question": "MED-C12-18"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "The six Duke-ISCVID changes: blood-culture rules, organism tiers, new microbiology, imaging majors, intraoperative inspection, new minors",
+  "question": "MED-C12-19"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Second-tier typical organisms (require intracardiac prosthetic material): coagulase-negative staphylococci, Cutibacterium acnes, corynebacteria",
+  "question": "MED-C12-20"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "New microbiological methods: PCR, amplicon and metagenomic sequencing, in-situ hybridisation, enzyme immunoassay for Bartonella",
+  "question": "MED-C12-21"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "The six rows of the 'five buckets' table: native valve community-acquired; prosthetic EARLY; prosthetic LATE; right-sided/PWID; CIED-related; culture-negative",
+  "question": "MED-C12-22"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Streptococcal fully sensitive: penicillin or ceftriaxone 4 weeks (2 weeks with gentamicin)",
+  "question": "MED-C12-23"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "EARLY prosthetic-valve IE: vancomycin + gentamicin + rifampicin, rifampicin timing",
+  "question": "MED-C12-24"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Right-sided / PWID notes: 2 weeks may suffice for uncomplicated tricuspid MSSA; look for septic pulmonary emboli",
+  "question": "MED-C12-25"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Culture-negative row: prior antibiotics = commonest cause of culture negativity",
+  "question": "MED-C12-26"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Culture-negative coverage list: HACEK, Coxiella, Bartonella, Brucella, Tropheryma",
+  "question": "MED-C12-27"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "The three H's of surgery indications: Heart failure, uncontrolled Infection, prevention of Embolism",
+  "question": "MED-C12-28"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Stroke is no longer an automatic bar; ischaemic without haemorrhage — no delay; intracranial haemorrhage — defer about a month",
+  "question": "MED-C12-29"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "POET trial: stabilised left-sided IE, oral switch non-inferior; OPAT not in first 10 days, not with complications",
+  "question": "MED-C12-30"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "Endocarditis Team and Heart Valve Centre: every case discussed by cardiology, cardiac surgery, microbiology and imaging",
+  "question": "MED-C12-31"
+ },
+ {
+  "chapter": 12,
+  "page": 71,
+  "point": "The principle since 2007: high-risk patients undergoing high-risk procedures only; moderate-risk no longer qualify",
+  "question": "MED-C12-32"
+ },
+ {
+  "chapter": 12,
+  "page": 72,
+  "point": "The four high-risk patient categories 1-4 (including the NEW 2023 category)",
+  "question": "MED-C12-33"
+ },
+ {
+  "chapter": 12,
+  "page": 72,
+  "point": "Procedures (dental only) vs not-recommended procedures; regimen single dose 30-60 min before; penicillin-allergy regimen",
+  "question": "MED-C12-34"
+ },
+ {
+  "chapter": 12,
+  "page": 72,
+  "point": "Cephalosporins must not be used with penicillin anaphylaxis; doxycycline/clindamycin/azithro-regimens",
+  "question": "MED-C12-35"
+ },
+ {
+  "chapter": 12,
+  "page": 72,
+  "point": "'ALWAYS, FOR EVERYONE': oral hygiene and dental review outweigh prophylaxis; aseptic technique; discourage piercing/tattooing",
+  "question": "MED-C12-36"
+ },
+ {
+  "chapter": 12,
+  "page": 72,
+  "point": "Single dose given 30-60 minutes before the procedure",
+  "question": "MED-C12-37"
+ },
+ {
+  "chapter": 12,
+  "page": 72,
+  "point": "Odd-one-out against the four high-risk categories",
+  "question": "MED-C12-38"
+ },
+ {
+  "chapter": 12,
+  "page": 72,
+  "point": "CHD repaired with prosthetic material: 6 months after the procedure, or lifelong if a residual shunt/regurgitation persists",
+  "question": "MED-C12-39"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "The nine bullet points of the respiratory history proforma",
+  "question": "MED-C13-01"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "Pleuritic chest pain characteristically increases on inspiration (coughing)",
+  "question": "MED-C13-02"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "Minimal pleural effusion: layers of pleura more in contact -> more irritation -> more pain",
+  "question": "MED-C13-03"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "MRC grading preferred in RS; advantages: distance checked, peer comparison, slope vs level ground",
+  "question": "MED-C13-04"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "Acute onset dyspnoea: pulmonary oedema, PE, acute COPD exacerbation, acute severe asthma, status asthmaticus, one more asthma",
+  "question": "MED-C13-05"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "The seven cough/expectoration history points with their cause lists",
+  "question": "MED-C13-06"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "Bronchorrhoea >100 ml/day; 1 tumbler approx 150-200 ml",
+  "question": "MED-C13-07"
+ },
+ {
+  "chapter": 13,
+  "page": 75,
+  "point": "Odd-one-out against the four bronchorrhoea causes",
+  "question": "MED-C13-08"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Frank / spurious / pseudo / endemic haemoptysis with their definitions",
+  "question": "MED-C13-09"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Severity: Mild <100 ml/day; Moderate 100-150 ml; Severe up to 200 ml",
+  "question": "MED-C13-10"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Massive: >500 ml/day OR rate >150 ml/hr OR 100 ml/day for >3 days",
+  "question": "MED-C13-11"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Airway causes: Bronchitis (Ac & Chr), Bronchogenic Ca, Bronchiectasis, Body (Foreign body)",
+  "question": "MED-C13-12"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Bronchial bleed more dangerous than pulmonary artery bleed: bronchial arteries = systemic circulation at higher pressure",
+  "question": "MED-C13-13"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "h/o repeated small haemoptysis / blood-streaked sputum highly suggestive of carcinoma",
+  "question": "MED-C13-14"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Alveolar: TB — fibrocavitary TB (rupture of Rasmussen aneurysms); acute pulmonary oedema — pink frothy sputum",
+  "question": "MED-C13-15"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Interstitial, Vascular, CVS and Collagen vascular cause groups",
+  "question": "MED-C13-16"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Odd-one-out against the infective causes list",
+  "question": "MED-C13-17"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Causes: Bronchiectasis, Fibrocavitary TB, Aspergillosis, Paragonimiasis",
+  "question": "MED-C13-18"
+ },
+ {
+  "chapter": 13,
+  "page": 76,
+  "point": "Management steps: Intubate, Volume resuscitation, Blood transfusion, Bronchoscopy with balloon tamponade/topical epinephrine or vasopressin",
+  "question": "MED-C13-19"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "Recurrent haemoptysis causes: bronchiectasis, chronic bronchitis, bronchogenic carcinoma",
+  "question": "MED-C13-20"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "Pseudohemoptysis: bleeding from upper respiratory tract or oral cavity",
+  "question": "MED-C13-21"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "Haemoptysis vs haematemesis: cough/frothing, alkaline pH, food particles/melaena",
+  "question": "MED-C13-22"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "Cause of death in haemoptysis: asphyxia due to blood in bronchial tree",
+  "question": "MED-C13-23"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "Cor pulmonale history: puffiness/swelling d/t PA hypertension causing RV failure, or protein loss from expectoration; also amyloidosis",
+  "question": "MED-C13-24"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "The eight dry-cough causes in book order (first three, next three, last two)",
+  "question": "MED-C13-25"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "Brassy cough (metallic sound, tracheal compression); Bovine cough (without explosive nature) — RLN palsy",
+  "question": "MED-C13-26"
+ },
+ {
+  "chapter": 13,
+  "page": 77,
+  "point": "Post-tussive syncope: high intrathoracic pressure -> decreased venous return -> decreased cardiac output",
+  "question": "MED-C13-27"
+ },
+ {
+  "chapter": 13,
+  "page": 78,
+  "point": "TB past history: Category; treatment taken? treatment completed? compliance?; side effects experienced?",
+  "question": "MED-C13-28"
+ },
+ {
+  "chapter": 13,
+  "page": 78,
+  "point": "The five Modified MRC grades 0-4 verbatim",
+  "question": "MED-C13-29"
+ },
+ {
+  "chapter": 13,
+  "page": 78,
+  "point": "Note: No 'Breathlessness at rest' on the MRC scale",
+  "question": "MED-C13-30"
+ },
+ {
+  "chapter": 13,
+  "page": 78,
+  "point": "MRC advantages vs NYHA: slope vs level ground, peer comparison, distance checked; other classification Sherwood Jones",
+  "question": "MED-C13-31"
+ },
+ {
+  "chapter": 13,
+  "page": 78,
+  "point": "Other classification: Sherwood Jones classification",
+  "question": "MED-C13-32"
+ },
+ {
+  "chapter": 13,
+  "page": 78,
+  "point": "The four JSCR receptor groups and their locations",
+  "question": "MED-C13-33"
+ },
+ {
+  "chapter": 13,
+  "page": 78,
+  "point": "CVS vs RS breathlessness: CVS cardinal symptoms, orthopnoea/PND vs PND specific to CVS",
+  "question": "MED-C13-34"
+ },
+ {
+  "chapter": 13,
+  "page": 79,
+  "point": "The seven conditions and their history-column entries",
+  "question": "MED-C13-35"
+ },
+ {
+  "chapter": 13,
+  "page": 79,
+  "point": "ABG patterns of the five most distinguishable rows",
+  "question": "MED-C13-36"
+ },
+ {
+  "chapter": 13,
+  "page": 79,
+  "point": "ECG rows: sinus tachy + ischaemia/arrhythmia; PE pattern S1Q3T3/RBBB/T(V1-V4); bradycardia in extremis; RV strain; tachycardia; two blank rows",
+  "question": "MED-C13-37"
+ },
+ {
+  "chapter": 13,
+  "page": 79,
+  "point": "Massive PE signs: central cyanosis, up-JVP, absence of signs in the lung, shock (tachycardia, hypotension) -> ECG S1Q3T3/RBBB/T(V1-V4) inversion",
+  "question": "MED-C13-38"
+ },
+ {
+  "chapter": 13,
+  "page": 79,
+  "point": "Pneumonia row: fever, confusion, pleural rub, consolidation, cyanosis if severe; pneumonic consolidation; tachycardia",
+  "question": "MED-C13-39"
+ },
+ {
+  "chapter": 13,
+  "page": 79,
+  "point": "COPD row: signs of CO2 retention — flapping tremor, bounding pulses",
+  "question": "MED-C13-40"
+ },
+ {
+  "chapter": 13,
+  "page": 79,
+  "point": "Asthma CXR hyperinflation only (unless pneumothorax), up-PaCO2 in extremis; PE CXR often normal; metabolic acidosis without heart/lung signs; psychogenic ABG",
+  "question": "MED-C13-41"
+ },
+ {
+  "chapter": 14,
+  "page": 80,
+  "point": "Chest pain origins: parietal pleura, chest wall, mediastinal structures — NOT lung (autonomic innervation only)",
+  "question": "MED-C14-01"
+ },
+ {
+  "chapter": 14,
+  "page": 80,
+  "point": "The three-column chest pain table: parietal pleura / chest wall / mediastinal structures (character + causes)",
+  "question": "MED-C14-02"
+ },
+ {
+  "chapter": 14,
+  "page": 80,
+  "point": "Parietal pleura radiation rules: upper 6 ribs localised; lower ribs -> upper abdomen; diaphragmatic -> shoulder tip/neck",
+  "question": "MED-C14-03"
+ },
+ {
+  "chapter": 14,
+  "page": 80,
+  "point": "The three specific history points in a suspected case of TB: husband's occupation (HIV risk), evening temperature rise (TNF alpha), contact history",
+  "question": "MED-C14-04"
+ },
+ {
+  "chapter": 14,
+  "page": 81,
+  "point": "Pulsus paradoxus: >10 mmHg significant; reduces on treatment",
+  "question": "MED-C14-05"
+ },
+ {
+  "chapter": 14,
+  "page": 81,
+  "point": "The three RS pallor causes in book order",
+  "question": "MED-C14-06"
+ },
+ {
+  "chapter": 14,
+  "page": 81,
+  "point": "Cyanosis threshold: SpO2 <85%",
+  "question": "MED-C14-07"
+ },
+ {
+  "chapter": 14,
+  "page": 81,
+  "point": "Clubbing in TB: post TB bronchiectasis, scar carcinoma (adenocarcinoma), empyema, endobronchial TB",
+  "question": "MED-C14-08"
+ },
+ {
+  "chapter": 14,
+  "page": 81,
+  "point": "Epitrochlear nodes always pathologic: NHL, secondary syphilis, sarcoidosis, forearm/hand infections, tularaemia — but not in TB (Dr. Hamide)",
+  "question": "MED-C14-09"
+ },
+ {
+  "chapter": 14,
+  "page": 81,
+  "point": "Odd-one-out against the epitrochlear node causes",
+  "question": "MED-C14-10"
+ },
+ {
+  "chapter": 14,
+  "page": 81,
+  "point": "Scalene node technique: index finger between SCM and clavicle; head tilted same side; press down towards first rib",
+  "question": "MED-C14-11"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "Generalised lymphadenopathy: HIV, IM, sarcoidosis",
+  "question": "MED-C14-12"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "d'Espine sign: dull percussion on manubrium sterni, bronchial breathing below T4 spine — subcarinal lymphadenopathy",
+  "question": "MED-C14-13"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "The three RS oedema causes in book order",
+  "question": "MED-C14-14"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "Normal rate 12-18/min; Women thoraco-abdominal, Men abdomino thoracic",
+  "question": "MED-C14-15"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "The five respiratory distress signs: alar nasii, pursed lip (PEEP), tracheal indrawing, accessory muscles, intercostal retraction",
+  "question": "MED-C14-16"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "Muscles of respiration: inspiration principal/accessory; expiration quiet/active",
+  "question": "MED-C14-17"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "Mnemonic: 'I always with E' — inspiration -> external; vice versa",
+  "question": "MED-C14-18"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "TB external markers 1-4: phlycten, choroid tubercles, scars/sinuses, scrofula",
+  "question": "MED-C14-19"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "TB skin forms 5a-d: lupus vulgaris (apple jelly), erythema nodosum, verrucous cutis, scrofuloderma",
+  "question": "MED-C14-20"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "TB markers 6 and 7: cold abscess/collar stud abscess; epididymo-orchitis",
+  "question": "MED-C14-21"
+ },
+ {
+  "chapter": 14,
+  "page": 82,
+  "point": "Other G/E items: Horner's syndrome in lung malignancies; wasting of small muscles of hands (neurovascular compression)",
+  "question": "MED-C14-22"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "Dahl's sign = Thinker's sign = Target sign",
+  "question": "MED-C14-23"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "Dahl's sign appearance: darkened (hyperpigmented) and thickened (hyperkeratotic) skin on lower thighs and elbows",
+  "question": "MED-C14-24"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "Dahl's sign mechanism: flattened diaphragm, sitting forwards improves it, hemosiderin -> brown discoloration",
+  "question": "MED-C14-25"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "URT inspection: oral cavity (thrush, tonsils, halitosis -> lung abscess), nose (DNS, polyps), pharynx (post nasal drip)",
+  "question": "MED-C14-26"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "Tracheal position affected mainly by upper lobes",
+  "question": "MED-C14-27"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "Trail's sign: pretracheal fascia encloses clavicular head of SCM; tracheal shift -> fascia relaxes -> prominence",
+  "question": "MED-C14-28"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "Signs of lung volume loss: shoulder droop, prominence of medial scapular border (don't call it winging), crowding of ribs",
+  "question": "MED-C14-29"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "AP:transverse ratios: normal 5:7; flat chest 1:2; barrel chest 1:1",
+  "question": "MED-C14-30"
+ },
+ {
+  "chapter": 14,
+  "page": 83,
+  "point": "The four chest shape abnormalities: flat, barrel, pectus carinatum, pectus excavatum",
+  "question": "MED-C14-31"
+ },
+ {
+  "chapter": 14,
+  "page": 84,
+  "point": "Harrison's sulcus (chronic respi disease in child, rickets) vs rachitic rosary (bead-like costochondral junction)",
+  "question": "MED-C14-32"
+ },
+ {
+  "chapter": 14,
+  "page": 84,
+  "point": "Harrison's sulcus mechanism: lung hyperinflation + repeated strong diaphragmatic contraction in chronic childhood respiratory disease",
+  "question": "MED-C14-33"
+ },
+ {
+  "chapter": 14,
+  "page": 85,
+  "point": "Flail chest: multiple rib fractures; paradoxical thoracic movement",
+  "question": "MED-C14-34"
+ },
+ {
+  "chapter": 14,
+  "page": 85,
+  "point": "Kyphosis = forward curvature; scoliosis = lateral curvature",
+  "question": "MED-C14-35"
+ },
+ {
+  "chapter": 14,
+  "page": 85,
+  "point": "Scoliosis in fibrosis: convexity towards the OPPOSITE side (fibrosed lung pulls both ends towards the fibrosed side)",
+  "question": "MED-C14-36"
+ },
+ {
+  "chapter": 14,
+  "page": 85,
+  "point": "Chest expansion: normal 5-8 cm; emphysema, ILD, ankylosing spondylitis <1 cm",
+  "question": "MED-C14-37"
+ },
+ {
+  "chapter": 14,
+  "page": 85,
+  "point": "Expansion techniques: apical (supraclavicular fossae), anterior (thumbs in front), posterior lower (same as anterior), posterior upper (TRAPS)",
+  "question": "MED-C14-38"
+ },
+ {
+  "chapter": 14,
+  "page": 85,
+  "point": "Tape notes: metal end in front (circumference), on the spines (hemithoracic, fixed point), measure in full expiration first",
+  "question": "MED-C14-39"
+ },
+ {
+  "chapter": 14,
+  "page": 86,
+  "point": "The five URT syndromes: Kartagener's, Wegener's, Samter's triad, Young's, Churg-Strauss",
+  "question": "MED-C14-40"
+ },
+ {
+  "chapter": 14,
+  "page": 86,
+  "point": "First two significant URT findings: turbinate hypertrophy/polyps obstructing airway; sinus tenderness = sinusitis",
+  "question": "MED-C14-41"
+ },
+ {
+  "chapter": 14,
+  "page": 86,
+  "point": "Right 3 lobes; left 2 lobes",
+  "question": "MED-C14-42"
+ },
+ {
+  "chapter": 14,
+  "page": 86,
+  "point": "The four points of the major (oblique) interlobar fissure: T2/T3 spinous process, medial scapular border, 5th rib MAL, 6th rib MCL",
+  "question": "MED-C14-43"
+ },
+ {
+  "chapter": 14,
+  "page": 86,
+  "point": "RML marking: horizontal fissure from 4th rib at right sternal border to midaxillary line, cutting the oblique fissure at 5th rib; triangular area = RML",
+  "question": "MED-C14-44"
+ },
+ {
+  "chapter": 14,
+  "page": 87,
+  "point": "Boloor p142 reference: anterior, posterior and right lateral views of lung surface marking",
+  "question": "MED-C14-45"
+ },
+ {
+  "chapter": 14,
+  "page": 88,
+  "point": "Fig 3D.5: left lateral view showing left major interlobar fissure",
+  "question": "MED-C14-46"
+ },
+ {
+  "chapter": 14,
+  "page": 88,
+  "point": "Lower border: lung 6/8/10 vs pleura 8/10/12 (midclavicular/midaxillary/scapular)",
+  "question": "MED-C14-47"
+ },
+ {
+  "chapter": 14,
+  "page": 88,
+  "point": "Front vs back vs axillary examination: which lobes are predominantly assessed",
+  "question": "MED-C14-48"
+ },
+ {
+  "chapter": 14,
+  "page": 89,
+  "point": "Slight right deviation normal; pushed opposite (effusion, pneumothorax, apical tumour); pulled same (fibrosis, collapse); same-side in effusion = fibrosis/collapse or mesothelioma",
+  "question": "MED-C14-49"
+ },
+ {
+  "chapter": 14,
+  "page": 89,
+  "point": "The three tracheal deviation categories with their causes",
+  "question": "MED-C14-50"
+ },
+ {
+  "chapter": 14,
+  "page": 89,
+  "point": "CricoSternal distance: number of fingers insinuated; reduced in COPD (mediastinum pulled down, cricoid downward)",
+  "question": "MED-C14-51"
+ },
+ {
+  "chapter": 14,
+  "page": 90,
+  "point": "Inspiratory tracheal descent in COPD = Campbell's sign",
+  "question": "MED-C14-52"
+ },
+ {
+  "chapter": 14,
+  "page": 90,
+  "point": "Oliver's sign entries: chin raised, cricoid held up on deglutition, positive = downward tug (aortic arch aneurysm), false positives/negatives",
+  "question": "MED-C14-53"
+ },
+ {
+  "chapter": 14,
+  "page": 91,
+  "point": "Trachea normally central or slightly deviated to right",
+  "question": "MED-C14-54"
+ },
+ {
+  "chapter": 14,
+  "page": 91,
+  "point": "Trail's sign mechanism: investing fascia splits to enclose SCM, continues as pretracheal fascia; ipsilateral fascia relaxes; SCM contracts",
+  "question": "MED-C14-55"
+ },
+ {
+  "chapter": 14,
+  "page": 91,
+  "point": "Clinical implication of tracheal shift: upper mediastinal shift; indicates upper lobe fibrosis or collapse",
+  "question": "MED-C14-56"
+ },
+ {
+  "chapter": 14,
+  "page": 92,
+  "point": "Oliver's sign technique (p92): stand behind patient, hold cricoid, slight upward thrust",
+  "question": "MED-C14-57"
+ },
+ {
+  "chapter": 14,
+  "page": 92,
+  "point": "Oliver's sign entries (p92): positive (downward pull each heartbeat, aortic aneurysm), negative, false positive (abdominal aorta), false negative (thrombosed)",
+  "question": "MED-C14-58"
+ },
+ {
+  "chapter": 14,
+  "page": 92,
+  "point": "p90 vs p92 false-positive nuance: attached to the arch (p90) vs attached to the abdominal aorta (p92)",
+  "question": "MED-C14-59"
+ },
+ {
+  "chapter": 14,
+  "page": 92,
+  "point": "Campbell sign (p92): downward pull of the depressed diaphragm in long standing hyperinflation of lung",
+  "question": "MED-C14-60"
+ },
+ {
+  "chapter": 14,
+  "page": 92,
+  "point": "Figs 3D.14/3D.15: tracing the trachea with the middle finger; insinuating the finger between trachea and sternal head of SCM to feel resistance",
+  "question": "MED-C14-61"
+ },
+ {
+  "chapter": 15,
+  "page": 93,
+  "point": "Chest wall tenderness: empyema, pleuritis, infiltration of chest wall",
+  "question": "MED-C15-01"
+ },
+ {
+  "chapter": 15,
+  "page": 93,
+  "point": "Subcutaneous emphysema listed right after chest wall tenderness",
+  "question": "MED-C15-02"
+ },
+ {
+  "chapter": 15,
+  "page": 93,
+  "point": "The three fremitus types: vocal (consolidation up, effusion down), tactile (crackles, rhonchi), friction (pleural rub)",
+  "question": "MED-C15-03"
+ },
+ {
+  "chapter": 15,
+  "page": 93,
+  "point": "Transmission speed (solid > liquid > air) vs ability to vibrate (air > liquid > solid); VR/VF = transmission, percussion = vibration",
+  "question": "MED-C15-04"
+ },
+ {
+  "chapter": 15,
+  "page": 93,
+  "point": "Lung-to-skin distance altered: more attenuation of VF/VR/breath sound; nature of vibration remains the same",
+  "question": "MED-C15-05"
+ },
+ {
+  "chapter": 15,
+  "page": 94,
+  "point": "The five-row pathology table: consolidation, hyperinflation, pleural effusion, pneumothorax, collapse",
+  "question": "MED-C15-06"
+ },
+ {
+  "chapter": 15,
+  "page": 94,
+  "point": "Consolidation = fluid in parenchyma; hyperinflation = more air replaced in parenchyma",
+  "question": "MED-C15-07"
+ },
+ {
+  "chapter": 15,
+  "page": 94,
+  "point": "Stony dull percussion + reduced fremitus = pleural effusion",
+  "question": "MED-C15-08"
+ },
+ {
+  "chapter": 15,
+  "page": 94,
+  "point": "Pneumothorax: reduced VR/VF but resonant percussion (air vibrates more); hyperinflation reduced; collapse dull",
+  "question": "MED-C15-09"
+ },
+ {
+  "chapter": 15,
+  "page": 94,
+  "point": "All four non-consolidation pathologies in the table reduce VR/VF; consolidation increases it",
+  "question": "MED-C15-10"
+ },
+ {
+  "chapter": 15,
+  "page": 95,
+  "point": "The three percussion techniques: anterior (hand by side), posterior (head bent forward, hands on opposite shoulder), lateral (hands over head)",
+  "question": "MED-C15-11"
+ },
+ {
+  "chapter": 15,
+  "page": 95,
+  "point": "The nine percussion areas: anterior (supraclavicular, clavicular, infraclavicular up to 2nd ICS, mammary 2nd-6th ICS, axillary up to 4th ICS, infra-axillary 4th-7th ICS) and posterior (suprascapular, interscapular, infrascapular)",
+  "question": "MED-C15-12"
+ },
+ {
+  "chapter": 15,
+  "page": 95,
+  "point": "Liver dullness: normal upper level 5th ICS; pushed down suggests emphysema (primary or compensatory)",
+  "question": "MED-C15-13"
+ },
+ {
+  "chapter": 15,
+  "page": 95,
+  "point": "In left sided pathologies, percuss over Traube's space also",
+  "question": "MED-C15-14"
+ },
+ {
+  "chapter": 15,
+  "page": 95,
+  "point": "Grocco's triangle: area of dullness against the spine on the base of the opposite lung; posterior mediastinal pleura bulges into contralateral hemithorax; pathognomonic of pleural effusion",
+  "question": "MED-C15-15"
+ },
+ {
+  "chapter": 15,
+  "page": 95,
+  "point": "p95 figure labels: Garland's triangle of hyperresonance; compression atelectasis above massive effusion; massive effusion with stony dullness",
+  "question": "MED-C15-16"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Red box: triangular dullness at back of chest on healthy side; base 12th rib; apex at upper margin of fluid on diseased side; internally vertebral line; externally apex-to-lateral-base line",
+  "question": "MED-C15-17"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Kronig's isthmus: band of resonance 5-7 cm over the supraclavicular fossa",
+  "question": "MED-C15-18"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Kronig's isthmus borders: scalenus medius, acromion process laterally, anteriorly clavicle, posteriorly trapezius",
+  "question": "MED-C15-19"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Kronig's technique: standing behind, lateral to medial, clavicle not touched; increase = emphysema, decrease = TB/apical lung tumour",
+  "question": "MED-C15-20"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Tidal percussion: infradiaphragmatic vs supradiaphragmatic pathologies",
+  "question": "MED-C15-21"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Traube's space borders: 6th rib superiorly, left midaxillary line laterally, left costal margin inferiorly; content — fundus of stomach",
+  "question": "MED-C15-22"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Traube's relations: right side — left lobe of liver; left side — spleen; superiorly — left lung resonance; inferiorly — left costal margin",
+  "question": "MED-C15-23"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Obliterated in: left pleural effusion, massive splenomegaly, enlarged left lobe of liver, full stomach, massive pericardial effusion",
+  "question": "MED-C15-24"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "Shifted upwards in: left diaphragmatic paralysis, left lower lobe collapse, fibrosis of left lung",
+  "question": "MED-C15-25"
+ },
+ {
+  "chapter": 15,
+  "page": 96,
+  "point": "p96 figure label: area to percuss for Castell's sign",
+  "question": "MED-C15-26"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "Clavicular percussion: stretch the skin below; medial 1/3 with middle finger (less muscle attachments); dull note = secondary TB",
+  "question": "MED-C15-27"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "Shifting dullness: find upper border of posterior dullness, lean forward; immediate = hydropneumothorax; effusion also shifts but takes time",
+  "question": "MED-C15-28"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "The four hydropneumothorax signs: straight line dullness, succussion splash, silver coin sounds, shifting dullness",
+  "question": "MED-C15-29"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "S shaped curve of Ellis: moderate pleural effusion; highest dullness in axilla, lowest near spine/sternum; reason — capillary suction between two pleura layers",
+  "question": "MED-C15-30"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "Ellis curve also seen radiologically, believed due to scattering of X rays by the fluid",
+  "question": "MED-C15-31"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "No 20-second wait in hydropneumothorax shifting dullness (same compartment) vs ascites (different compartments, bowel loops need time)",
+  "question": "MED-C15-32"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "VBS: low pitched rustling; I:E = 3:1; no pause; diminished in asthma (silent chest), tumour, small effusion, pleural thickening",
+  "question": "MED-C15-33"
+ },
+ {
+  "chapter": 15,
+  "page": 97,
+  "point": "Box: reduced conduction — obesity/thick chest wall, pleural effusion or thickening, pneumothorax; reduced airflow — generalised (COPD), localised (collapsed lung from occluding lung cancer)",
+  "question": "MED-C15-34"
  }
 ]
